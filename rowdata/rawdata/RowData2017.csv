@@ -1,0 +1,872 @@
+RaceID,Date,CrewType,Distance,Team1,Time1,Team2,Time2,Team3,Time3,Team4,Time4,Team5,Time5,Team6,Time6,Team7,Time7,Team8,Time8,RaceType,RaceName
+1,2/25/2017,MHV,2000,FLA,06:24.0,SFLA,06:41.0,CFLA,06:44.0,EMBR,06:46.5,,,,,,,,,Final,Duel In The Swamp
+2,2/25/2017,MHV,2000,GATC,06:15.8,UGA,06:41.9,CLEM,06:50.3,,,,,,,,,,,Final,Clemson Crew Scrimmage
+3,2/25/2017,WHV,1000,ALAB,03:25.8,EMIC,03:33.3,,,,,,,,,,,,,Final,University of Alabama vs. Eastern Michig
+4,2/25/2017,WHV,1000,ALAB,03:29.6,EMIC,03:37.4,,,,,,,,,,,,,Final,University of Alabama vs. Eastern Michig
+5,2/25/2017,WHV,1000,ALAB,03:30.8,EMIC,03:37.1,,,,,,,,,,,,,Final,University of Alabama vs. Eastern Michig
+6,2/25/2017,WHV,1000,ALAB,03:39.0,EMIC,03:41.8,,,,,,,,,,,,,Final,University of Alabama vs. Eastern Michig
+7,2/25/2017,WHV,2000,FLA,07:19.0,EMBR,07:57.0,FLST,08:12.0,,,,,,,,,,,Final,Duel In The Swamp
+8,2/25/2017,WHV,2000,UGA,07:13.1,CLEC,07:17.1,GATC,07:24.8,,,,,,,,,,,Final,Clemson Crew Scrimmage
+9,2/26/2017,MHV,1700,SDSU,05:14.0,CSLB,05:22.5,,,,,,,,,,,,,Final,Gruenberg Cup
+10,2/28/2017,WHV,1000,WASH,03:43.1,SEAT,03:52.3,,,,,,,,,,,,,Scrim,University of Washington vs. Seattle Uni
+11,3/2/2017,WHV,1000,WASH,03:55.3,SEAT,04:18.5,,,,,,,,,,,,,Scrim,University of Washington vs. Seattle Uni
+12,3/4/2017,MHV,1000,TEX,02:43.5,LSU,02:56.3,TXAG,03:04.5,TXAM,03:08.4,,,,,,,,,Final,Heart of Texas (Saturday)
+13,3/4/2017,MHV,1000,TEX,03:10.1,LSU,03:16.8,TXAG,03:24.1,OKLA,03:29.5,TCU,03:37.2,,,,,,,Heat,Heart of Texas (Saturday)
+14,3/4/2017,MHV,1000,TXAM,03:24.0,BAYL,03:36.6,,,,,,,,,,,,,Heat,Heart of Texas (Saturday)
+15,3/4/2017,MHV,2000,ORST,05:53.2,UCSB,05:58.6,,,,,,,,,,,,,Final,Lake Las Vegas Collegiate Invitational
+16,3/4/2017,MHV,2000,UCSD,05:56.9,UCDV,05:59.0,UCLA,06:00.6,UCIR,06:07.4,UCSB,06:30.2,,,,,,,Final,Henry Nicholas III - UC Challenge Cup
+17,3/4/2017,MLV,2000,CAL,06:16.7,CALM,06:20.8,,,,,,,,,,,,,Final,Cal Maritime vs. Cal Berkeley Lightweigh
+18,3/4/2017,WHV,1000,TEXC,03:35.5,TXAM,03:36.4,,,,,,,,,,,,,Final,Heart of Texas (Saturday)
+19,3/4/2017,WHV,1000,TXAM,03:43.7,TEXC,03:47.6,LSU,03:54.8,TCU,04:20.4,,,,,,,,,Heat,Heart of Texas (Saturday)
+20,3/4/2017,WHV,1000,USC,03:26.6,WASH,03:33.0,,,,,,,,,,,,,Scrim,Southern California vs. Washington
+21,3/4/2017,WHV,2000,CFLA,06:34.0,ROLL,07:17.8,JOWA,08:01.8,,,,,,,,,,,Final,Metro Cup Regatta
+22,3/4/2017,WHV,2000,UCLA,06:18.5,UCSB,06:34.5,UCDV,06:43.6,,,,,,,,,,,Final,Henry Nicholas III - UC Challenge Cup
+23,3/4/2017,WHV,2000,WASH,06:13.1,USC,06:17.1,,,,,,,,,,,,,Final,Lake Las Vegas Collegiate Invitational s
+24,3/5/2017,MHV,2000,ORST,06:31.8,UCSB,06:33.0,SDSU,06:58.3,,,,,,,,,,,Final,Lake Las Vegas Collegiate Invitational
+25,3/5/2017,WHV,2000,SCLA,07:30.4,MILL,07:59.0,,,,,,,,,,,,,Final,Santa Clara University vs. Mills College
+26,3/7/2017,WHV,1000,VILN,00:00.0,STET,00:06.0,,,,,,,,,,,,,Final,"Stetson, Villanova"
+27,3/7/2017,WHV,2000,DUQN,07:28.4,STET,07:42.4,,,,,,,,,,,,,Final,"Duquesne, Stetson"
+28,3/11/2017,MHV,0,WWAS,06:30.6,PUGS,06:38.1,,,,,,,,,,,,,Final,PLU Invite
+29,3/11/2017,MHV,2000,SCLA,05:58.4,UCDV,06:11.6,,,,,,,,,,,,,Final,Santa Clara University vs. UC Davis
+30,3/11/2017,MHV,2000,SONO,06:52.1,CAL#,07:00.9,,,,,,,,,,,,,Final,Cal Lightweights vs. Sonoma State Heavyw
+31,3/11/2017,MHV,2000,TEX,05:55.8,LSU,06:38.0,,,,,,,,,,,,,Final,Texas Crew vs. LSU
+32,3/11/2017,MHV,2000,VAND,06:18.3,TULN,06:30.1,NWST,07:20.0,,,,,,,,,,,Final,"Tulane vs. Vanderbilt, Northwestern St,"
+33,3/11/2017,MLV,2000,CAL,07:21.4,SONO,07:22.2,,,,,,,,,,,,,Final,Cal Lightweights vs. Sonoma State Heavyw
+34,3/11/2017,WHV,0,PACL,07:22.5,SEAT,07:39.9,,,,,,,,,,,,,Final,PLU Invite
+35,3/11/2017,WHV,0,PUGS,07:14.1,SEAT,07:23.3,,,,,,,,,,,,,Final,PLU Invite
+36,3/11/2017,WHV,0,WWAS,07:03.9,PACL,07:24.2,,,,,,,,,,,,,Final,PLU Invite
+37,3/11/2017,WHV,0,WWAS,07:11.1,PUGS,07:29.1,,,,,,,,,,,,,Final,PLU Invite
+38,3/11/2017,WHV,1950,VILN,06:35.4,DUQN,06:38.5,ROLL,06:53.9,ASSP,06:59.2,,,,,,,,,Final,"Rollins Invitational: Rollins, Assumptio"
+39,3/11/2017,WHV,2000,ALAB,04:00.0,BUCK,04:02.0,,,,,,,,,,,,,Final,Alabama and Bucknell
+40,3/11/2017,WHV,2000,ALAB,06:00.0,BUCK,06:05.0,,,,,,,,,,,,,Final,Alabama and Bucknell
+41,3/11/2017,WHV,2000,ALAB,06:00.0,BUCK,06:06.0,,,,,,,,,,,,,Final,Alabama and Bucknell
+42,3/11/2017,WHV,2000,CAL#,08:08.0,SONO,08:31.2,,,,,,,,,,,,,Final,Cal Lightweights vs. Sonoma State Heavyw
+43,3/11/2017,WHV,2000,MICH,06:24.3,LOUV,06:38.3,CLEM,06:43.2,KANS,06:47.0,,,,,,,,,Final,"Cardinal Invite: Tulsa vs. Tennessee, Mi"
+44,3/11/2017,WHV,2000,MICH,06:29.0,ND,06:43.3,TENN,06:44.4,KANS,06:54.4,,,,,,,,,Final,"Cardinal Invite: Michigan, Notre Dame, T"
+45,3/11/2017,WHV,2000,MIST,06:38.4,MINN,06:49.9,CLEM,06:53.0,WV,07:04.6,,,,,,,,,Final,"Cardinal Invite: Michigan State, Minneso"
+46,3/11/2017,WHV,2000,SACS,06:33.2,UPOR,06:36.4,STMY,06:47.7,HUMS,06:48.2,UCSD,06:49.1,OC,07:15.8,MILL,07:35.9,,,Final,Sac State Invite
+47,3/11/2017,WHV,2000,SMU,07:02.9,CREI,07:23.3,,,,,,,,,,,,,Final,"SMU, Creighton University"
+48,3/11/2017,WHV,2000,STAN,06:27.2,UCLA,06:43.2,SDSU,06:51.9,,,,,,,,,,,Final,"UCLA vs Stanford, SDSU"
+49,3/11/2017,WHV,2000,TEXC,07:27.2,LSU,07:33.0,,,,,,,,,,,,,Final,Texas Crew vs. LSU
+50,3/11/2017,WHV,2000,TULN,07:56.8,NWST,08:23.3,,,,,,,,,,,,,Final,"Tulane vs. Vanderbilt, Northwestern St,"
+51,3/11/2017,WHV,2000,UMIA,06:36.9,MINN,06:37.7,TULS,06:37.9,TENN,06:40.3,,,,,,,,,Final,"Cardinal Invite: Tulsa vs. Tennessee, Mi"
+52,3/11/2017,WHV,2000,UVA,06:30.9,UMIA,06:43.3,LOUV,06:47.5,TULS,06:59.0,,,,,,,,,Final,"Cardinal Invite: Virginia, Miami, Louisv"
+53,3/11/2017,WHV,2000,UVA,06:32.6,MIST,06:38.8,ND,06:46.6,WV,07:03.4,,,,,,,,,Final,"Cardinal Invite: Virginia, Michigan Stat"
+54,3/12/2017,MHV,2000,USD,05:55.4,OC,05:56.4,UCIR,05:59.5,UCSB,05:59.8,SDSU,06:13.5,UCLA,06:15.4,CSLB,06:31.4,,,Final,Newport Regatta
+55,3/12/2017,WHV,2,HUMS,07:06.0,UCDV,07:17.0,SCLA,07:29.0,OC,07:33.0,,,,,,,,,Final,DOSH Scrimmage
+56,3/12/2017,WHV,2000,LOUV,06:25.1,TULS,06:27.1,ND,06:29.3,WV,06:40.2,,,,,,,,,Final,"Cardinal Invite: Louisville, Tulsa, Notr"
+57,3/12/2017,WHV,2000,MICH,06:23.2,UVA,06:28.8,MIST,06:35.1,TENN,06:51.6,,,,,,,,,Final,"Cardinal Invite: Michigan, Virginia, Mic"
+58,3/12/2017,WHV,2000,MINN,06:40.4,UMIA,06:42.3,CLEM,06:45.5,KANS,06:45.9,,,,,,,,,Final,"Cardinal Invite: Minnesota, Miami, Clems"
+59,3/17/2017,MHV,2000,CONN,06:47.1,BOWD,06:50.4,,,,,,,,,,,,,Final,UConn Men vs. Bowdoin College
+60,3/17/2017,MHV,2000,MINN,06:14.0,MARI,06:15.7,GENS,06:19.7,UNH,06:21.7,ITHA,06:27.1,MALW,06:45.0,,,,,Final,Lake Lanier Spring Training Scrimmage
+61,3/17/2017,MHV,2000,SCLA,06:00.0,USD,06:06.5,UCSD,06:12.4,GONZ,06:16.3,,,,,,,,,Final,"UC San Diego vs. Gonzaga University, San"
+62,3/17/2017,WHV,2000,BOWD,07:49.0,MANH,08:12.5,,,,,,,,,,,,,Final,Wyboo Sprints
+63,3/17/2017,WHV,2000,CFLA,06:31.1,CONN,06:48.2,JAX,06:57.5,NOVS,07:01.3,STET,07:24.2,,,,,,,Final,"UCF, UConn, Jacksonville, Stetson, Nova"
+64,3/17/2017,WHV,2000,FRMA,06:50.5,STMD,07:09.5,,,,,,,,,,,,,Final,St. Mary's College of Maryland vs. Frank
+65,3/17/2017,WHV,2000,JAX,07:01.8,STET,07:32.9,,,,,,,,,,,,,Final,Jacksonville vs. Stetson
+66,3/18/2017,MHV,2000,DELA,06:00.9,LEHI,06:11.7,LOYO,06:33.3,,,,,,,,,,,Final,Lehigh vs. Delaware & Loyola
+67,3/18/2017,MHV,2000,DREX,06:05.8,LASL,06:40.9,,,,,,,,,,,,,Final,Drexel vs. LaSalle
+68,3/18/2017,MHV,2000,LECL,06:34.4,ORGN,06:40.7,,,,,,,,,,,,,Final,Hagg Lake Invitational Regatta
+69,3/18/2017,MHV,2000,STET,06:24.2,WASU,06:34.6,,,,,,,,,,,,,Final,2017 Stetson Sprints #2
+70,3/18/2017,MHV,2000,TEMP,05:27.6,JAX,05:33.4,,,,,,,,,,,,,Final,Temple University vs. Jacksonville Unive
+71,3/18/2017,MHV,2000,TEMP#,06:04.0,LEHI,06:06.2,,,,,,,,,,,,,Final,Temple University vs. Lehigh University
+72,3/18/2017,MHV,2000,UCDV,06:14.2,CALM,06:22.3,SONO,06:35.2,,,,,,,,,,,Final,"UC Davis vs Sonoma St, Cal Maritime"
+73,3/18/2017,MLV,2000,UCDV,06:46.0,CALM,06:51.5,SONO,06:59.9,,,,,,,,,,,Final,"UC Davis vs Sonoma St, Cal Maritime"
+74,3/18/2017,WHV,1950,ROLL,06:55.3,FLA,06:57.7,BRYA,07:48.8,,,,,,,,,,,Final,"Rollins Spring Break Race (Rollins, U of"
+75,3/18/2017,WHV,2000,GMAS,07:09.3,LASL,07:24.8,,,,,,,,,,,,,Final,Drexel vs George Mason vs La Salle
+76,3/18/2017,WHV,2000,LECL,07:13.6,ORGN,07:23.9,,,,,,,,,,,,,Final,Hagg Lake Invitational Regatta
+77,3/18/2017,WHV,2000,LEHI,07:01.1,LOYO,07:23.4,,,,,,,,,,,,,Final,Lehigh vs Loyola
+78,3/18/2017,WHV,2000,LOMY,06:43.6,DREX,06:47.7,STMY,06:58.9,,,,,,,,,,,Final,Hornet Invite: Drexel vs St Marys vs LMU
+79,3/18/2017,WHV,2000,PACL,06:44.3,LECL,06:53.3,,,,,,,,,,,,,Final,Hagg Lake Invitational Regatta
+80,3/18/2017,WHV,2000,PACL,07:09.1,PACI,08:15.0,,,,,,,,,,,,,Final,Hagg Lake Invitational Regatta
+81,3/18/2017,WHV,2000,PENN,06:38.3,DELA,06:48.4,STJO,06:57.4,,,,,,,,,,,Final,"St. Joseph's v Pennsylvania, Delaware"
+82,3/18/2017,WHV,2000,SACS,06:42.2,DREX,06:43.8,LOMY,06:44.4,,,,,,,,,,,Final,Hornet Invite: Sac State vs Drexel vs LM
+83,3/18/2017,WHV,2000,SDSU,06:45.9,STMY,07:04.5,,,,,,,,,,,,,Final,Hornet Invite: SDSU vs St Marys
+84,3/18/2017,WHV,2000,SDSU,06:46.6,SACS,06:51.9,,,,,,,,,,,,,Final,Hornet Invite: Sac State vs SDSU
+85,3/18/2017,WHV,2000,TEMP,06:47.9,LEHI,07:02.8,,,,,,,,,,,,,Final,Temple/Lehigh
+86,3/18/2017,WHV,2000,TULS,06:41.3,KAST,06:45.1,,,,,,,,,,,,,Final,Tulsa vs. Kansas State
+87,3/18/2017,WHV,2000,UCDV,07:14.1,SONO,08:08.6,,,,,,,,,,,,,Final,"UC Davis vs Sonoma St, Cal Maritime"
+88,3/19/2017,WHV,2000,COLU,06:47.4,BARR,07:13.7,,,,,,,,,,,,,Final,Governor's Cup: Barry vs Columbia Univer
+89,3/19/2017,WHV,2000,DREX,06:43.1,LOMY,06:43.7,SDSU,06:46.9,,,,,,,,,,,Final,Hornet Invite: LMU vs Drexel vs SDSU
+90,3/19/2017,WHV,2000,DUKE,06:41.3,CLEM,06:54.5,UNC,06:55.5,,,,,,,,,,,Final,Carolinas Cup
+91,3/19/2017,WHV,2000,FLTC,06:54.4,BARR,07:05.8,,,,,,,,,,,,,Final,Governors Cup: FIT vs Barry
+92,3/19/2017,WHV,2000,UCSD,06:47.1,HUMS,06:56.9,OC,07:14.5,UCIR,07:29.1,CSLB,07:51.8,,,,,,,Final,"Berg Cup OCC v. UCSD, Humboldt, UCI, Cha"
+93,3/19/2017,WHV,2000,UMIA,06:45.9,COLU,06:47.3,,,,,,,,,,,,,Final,Governor's Cup 2017 Miami vs Columbia Un
+94,3/19/2017,WHV,2000,UMIA,06:50.5,FLTC,07:01.7,,,,,,,,,,,,,Final,Governor's Cup: Miami vs FIT
+95,3/24/2017,MHV,2000,FLA,06:25.7,ALAB,06:30.4,DEPA,06:35.0,ILLI,06:39.8,NORW,06:44.2,CFLA,07:07.8,,,,,Final,John Hunter Regatta
+96,3/24/2017,MHV,2000,MICH,06:05.5,GATC,06:16.6,VAND,06:23.6,COLB,06:26.3,UGA,06:46.3,EMOR,06:58.2,,,,,Final,John Hunter Regatta
+97,3/24/2017,MHV,2000,COLB,06:16.9,UGA,06:20.1,DEPA,06:20.8,CFLA,06:39.0,LSU,06:40.8,TENN,07:12.3,,,,,Heat,John Hunter Regatta
+98,3/24/2017,MHV,2000,GATC,06:17.4,EMOR,06:27.3,ILLI,06:29.1,NORW,06:29.4,TULN,06:36.7,CCHR,07:40.1,,,,,Heat,John Hunter Regatta
+99,3/24/2017,MHV,2000,MICH,05:58.5,VAND,06:07.6,FLA,06:13.0,ALAB,06:13.1,CLEM,06:40.8,NCST,06:47.1,NWST,07:12.2,,,Heat,John Hunter Regatta
+100,3/24/2017,MHV,500,OKC,01:23.3,TEX,01:27.1,KANS,01:29.2,WICH,01:37.8,,,,,,,,,Final,Oklahoma City University Night Sprints
+101,3/24/2017,WHV,2000,COLB,07:15.6,UGA,07:23.1,GATC,07:26.9,CLEC,07:30.9,ROLL,07:31.2,FLA,07:34.9,,,,,Final,John Hunter Regatta
+102,3/24/2017,WHV,2000,MIST,06:53.6,RUTG,07:16.2,,,,,,,,,,,,,Final,Michigan St at Rutgers
+103,3/24/2017,WHV,2000,TULN,07:46.7,EMOR,07:49.2,DEPA,07:51.1,WHEA,07:56.8,NORW,07:56.9,TENC,08:22.0,,,,,Final,John Hunter Regatta
+104,3/24/2017,WHV,2000,COLB,06:59.2,GATC,07:11.4,EMOR,07:26.7,TULN,07:29.9,CCHR,07:56.3,NWST,08:30.2,AUBN,09:03.6,,,Heat,John Hunter Regatta
+105,3/24/2017,WHV,2000,ROLL,07:09.2,CLEC,07:17.2,DEPA,07:37.4,WHEA,07:38.7,LSU,08:02.8,DAVS,08:16.6,,,,,Heat,John Hunter Regatta
+106,3/24/2017,WHV,2000,UGA,07:05.3,FLA,07:10.2,NORW,07:29.9,TENC,07:39.9,LBTY,07:40.1,UTCH,08:28.8,,,,,Heat,John Hunter Regatta
+107,3/25/2017,HV,2000,OKC,06:40.6,TEX,06:47.0,KANS,07:15.1,WICH,07:25.0,,,,,,,,,Final,Oklahoma City University vs. Wichita Sta
+108,3/25/2017,MHV,1800,FAIR,06:13.0,CONN,06:24.0,AMHR,06:37.0,,,,,,,,,,,Final,Fairfield University vs. Amherst College
+109,3/25/2017,MHV,2,MIT,06:07.6,CSTG,06:18.8,,,,,,,,,,,,,Final,MIT vs. Coast Guard
+110,3/25/2017,MHV,2000,CALM,06:07.2,HUMS,06:18.1,CHCO,06:27.9,,,,,,,,,,,Final,Blue Heron Regatta
+111,3/25/2017,MHV,2000,COLU,05:55.0,RUTG,06:03.0,,,,,,,,,,,,,Final,Collins Cup
+112,3/25/2017,MHV,2000,DELA,05:50.8,BUCK,05:53.1,URI,05:54.8,UNC,05:55.1,WESL,05:58.4,LEHI,06:10.5,,,,,Final,35th Murphy Cup
+113,3/25/2017,MHV,2000,FLTC,06:21.6,JAX,06:58.5,,,,,,,,,,,,,Final,FIT vs. Jacksonville University
+114,3/25/2017,MHV,2000,MARI,07:16.3,PURD,07:21.3,,,,,,,,,,,,,Final,Purdue / Marietta Challenge Cup
+115,3/25/2017,MHV,2000,ND,07:03.2,MARI,07:07.6,PURD,07:24.3,CINC,08:07.0,,,,,,,,,Final,Purdue Invitational
+116,3/25/2017,MHV,2000,PRIN,05:49.7,GEOR,06:04.3,,,,,,,,,,,,,Final,Annual Scrimmage
+117,3/25/2017,MHV,2000,STJO,05:42.5,UVA,05:49.0,HC,05:51.4,DREX,05:51.5,TEMP,05:54.9,BATE,06:01.8,,,,,Final,35th Murphy Cup
+118,3/25/2017,MHV,2000,TUFT,06:06.0,STET*,06:15.6,EMBR,06:53.0,,,,,,,,,,,Final,Stetson Sprints #3
+119,3/25/2017,MHV,2000,YALE,05:33.9,BRWN,05:40.5,,,,,,,,,,,,,Final,Albert Cup
+120,3/25/2017,MHV,2000,BATE,05:55.0,TEMP,05:55.0,UNC,06:01.8,LEHI,06:11.7,PSU,06:27.0,FRMA,06:29.5,,,,,Heat,35th Murphy Cup
+121,3/25/2017,MHV,2000,DREX,05:56.4,BUCK,05:57.8,WESL,06:00.2,LASL,06:29.6,PITT,06:31.8,,,,,,,Heat,35th Murphy Cup
+122,3/25/2017,MHV,2000,STJO,05:52.4,DELA,06:00.4,UMAS,06:15.2,HAML,06:16.6,LOYO,06:26.5,STMD,07:20.9,,,,,Heat,35th Murphy Cup
+123,3/25/2017,MHV,2000,UVA,05:51.6,HC,05:54.5,URI,05:55.8,VILN,06:17.9,LAFA,06:24.4,,,,,,,Heat,35th Murphy Cup
+124,3/25/2017,MLV,2000,DELA,05:57.9,GEOR,06:01.7,,,,,,,,,,,,,Final,Georgetown University vs. University of
+125,3/25/2017,MLV,2000,NAVY,05:57.5,PRIN,06:01.1,,,,,,,,,,,,,Final,Murtaugh Cup
+126,3/25/2017,MLV,2000,PRIN,06:20.5,GEOR,06:23.0,,,,,,,,,,,,,Final,Fosburgh Cup
+127,3/25/2017,WHV,1800,FAIR,07:52.9,SMIT,07:54.8,,,,,,,,,,,,,Final,"Smith v Fairfield, UMass, Mount Holyoke"
+128,3/25/2017,WHV,2,MICH,06:29.5,YALE,06:33.6,,,,,,,,,,,,,Final,"Big Ten Double Dual: Michigan, Yale (Mic"
+129,3/25/2017,WHV,2,MICH,06:36.9,RADC,06:42.2,,,,,,,,,,,,,Final,"Big Ten Double Dual: Michigan, Harvard-R"
+130,3/25/2017,WHV,2,OHST,06:34.2,RADC,06:37.1,,,,,,,,,,,,,Final,"Big Ten Double Dual: Ohio State, Harvard"
+131,3/25/2017,WHV,2,OHST,06:38.6,YALE,06:42.5,,,,,,,,,,,,,Final,"Big Ten Double Dual: Ohio State, Yale (M"
+132,3/25/2017,WHV,2000,ALAB,06:55.3,DAYT,07:20.2,,,,,,,,,,,,,Final,University of Alabama vs. University of
+133,3/25/2017,WHV,2000,COLU,07:02.7,RUTG,07:23.5,,,,,,,,,,,,,Final,"Columbia, Rutgers"
+134,3/25/2017,WHV,2000,DREX,06:35.9,GW,06:36.8,BATE,06:39.0,WESL,06:42.7,DELA,06:44.2,FORD,06:44.8,,,,,Final,35th Murphy Cup
+135,3/25/2017,WHV,2000,GEOR,06:10.7,WV,06:17.4,,,,,,,,,,,,,Final,Georgetown vs. West Virginia
+136,3/25/2017,WHV,2000,HUMS,07:05.0,MILL,07:18.0,CHCO,07:35.6,,,,,,,,,,,Final,Blue Heron Regatta
+137,3/25/2017,WHV,2000,NORT,06:19.0,PENN,06:22.9,NAVY,06:30.0,BC,06:35.6,TEMP,06:36.0,UMAS,06:36.6,,,,,Final,35th Murphy Cup
+138,3/25/2017,WHV,2000,OKLA,06:15.4,USD,06:18.3,ND,06:19.7,ORST,06:28.4,,,,,,,,,Final,Longhorn Invite
+139,3/25/2017,WHV,2000,OLDD,07:07.0,GMAS*,07:28.8,,,,,,,,,,,,,Final,Old Dominion vs. George Mason
+140,3/25/2017,WHV,2000,PRIN,06:28.5,BRWN,06:30.9,MIST,06:31.5,,,,,,,,,,,Final,"Class of 1987 Trophy: Princeton, Brown,"
+141,3/25/2017,WHV,2000,PURD,08:05.9,CINC,08:39.6,,,,,,,,,,,,,Final,Purdue Invitational
+142,3/25/2017,WHV,2000,PURD,08:22.6,CINC,08:54.8,,,,,,,,,,,,,Final,Purdue Invitational (AM)
+143,3/25/2017,WHV,2000,STMY,07:17.1,HAML,07:17.5,CABR,08:01.5,,,,,,,,,,,Final,35th Murphy Cup
+144,3/25/2017,WHV,2000,TEX,06:09.2,IOWA,06:20.5,CFLA,06:24.8,DUKE,06:24.9,,,,,,,,,Final,Longhorn Invite
+145,3/25/2017,WHV,2000,TUFT,07:09.0,STET,07:39.6,,,,,,,,,,,,,Final,"Stetson Sprints #3 - Stetson, Tufts, Emb"
+146,3/25/2017,WHV,2000,URI,06:47.7,MIT,06:48.6,CSTG,07:33.7,,,,,,,,,,,Final,"Coast Guard, Rhode Island, MIT"
+147,3/25/2017,WHV,2000,WASC,06:49.4,PHIL,06:53.7,BRYN,06:59.1,FRMA,07:02.1,,,,,,,,,Final,35th Murphy Cup
+148,3/25/2017,WHV,2000,WAST,07:03.4,GONZ,07:16.2,,,,,,,,,,,,,Final,Gonzaga at Washington State (Fawley Cup)
+149,3/25/2017,WHV,2000,BC,06:43.1,BATE,06:44.0,HC,07:03.4,LASL,07:25.0,,,,,,,,,Heat,35th Murphy Cup
+150,3/25/2017,WHV,2000,IOWA,06:11.5,USD,06:14.2,DUKE,06:19.4,OKLA,06:19.6,,,,,,,,,Heat,Longhorn Invite
+151,3/25/2017,WHV,2000,NAVY,06:39.6,FORD,06:45.1,HAML,06:55.9,COLG,07:06.5,,,,,,,,,Heat,35th Murphy Cup
+152,3/25/2017,WHV,2000,NORT,06:37.9,DELA,06:49.3,STJO,06:51.9,ROMO,07:14.2,,,,,,,,,Heat,35th Murphy Cup
+153,3/25/2017,WHV,2000,PENN,06:35.3,GW,06:44.7,CONN,06:46.0,LOYO,07:26.1,PSU,07:27.5,,,,,,,Heat,35th Murphy Cup
+154,3/25/2017,WHV,2000,PHIL,07:04.3,BRYN,07:04.5,HAML,07:28.3,CABR,08:03.8,,,,,,,,,Heat,35th Murphy Cup
+155,3/25/2017,WHV,2000,TEMP,06:40.5,DREX,06:42.8,VILN,06:52.6,PITT,07:13.5,,,,,,,,,Heat,35th Murphy Cup
+156,3/25/2017,WHV,2000,TEX,06:03.3,CFLA,06:13.5,ND,06:19.9,ORST,06:32.1,,,,,,,,,Heat,Longhorn Invite
+157,3/25/2017,WHV,2000,UMAS,06:39.1,WESL,06:43.8,LEHI,07:00.7,CANI,07:03.7,,,,,,,,,Heat,35th Murphy Cup
+158,3/25/2017,WHV,2000,WASC,07:06.9,STMD,07:29.4,,,,,,,,,,,,,Heat,35th Murphy Cup
+159,3/25/2017,WHV,25,KANS,06:33.5,CREI,06:55.5,,,,,,,,,,,,,Final,"Kansas, Creighton"
+160,3/25/2017,WHV,25,SMU,07:19.3,COK,07:21.4,,,,,,,,,,,,,Final,"SMU, University of Central Oklahoma"
+161,3/25/2017,WLV,2000,GEOR,06:09.7,RADC,06:17.6,,,,,,,,,,,,,Final,Class of 2004 Cup
+162,3/26/2017,MHV,2000,OC,05:56.3,UCLA,06:10.4,,,,,,,,,,,,,Final,Orange Coast College vs. UCLA
+163,3/26/2017,MHV,2000,ORST,06:07.2,GONZ,06:29.4,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+164,3/28/2017,MHV,2000,UCLA,06:29.0,COLO,06:36.0,,,,,,,,,,,,,Final,Spring Break Scrimmage
+165,3/31/2017,WHV,2000,CFLA,06:31.7,TULS,06:32.7,ALAB,06:38.6,UMIA,06:41.2,KAST,06:48.0,JAX,06:51.7,UNC,06:55.9,STET,07:36.5,Final,FIRA Championships (DI invitational heat
+166,3/31/2017,WHV,2000,CFLA,06:31.7,TULS,06:32.7,ALAB,06:38.6,UMIA,06:41.2,KAST,06:48.0,JAX,06:51.7,UNC,06:55.9,STET,07:36.5,Final,Sunshine State Invitational
+167,3/31/2017,WHV,2000,MIT#,07:00.9,SIMM,07:35.7,,,,,,,,,,,,,Final,MIT Lighweight Women vs SImmons College
+168,4/1/2017,MHV,1,BC,06:38.0,ALAB,06:45.0,COLO,06:52.2,HUMS,06:57.8,CSLB,06:58.9,CHAP,07:50.6,,,,,Final,San Diego Crew Classic
+169,4/1/2017,MHV,1,CAL,05:42.1,MICH,06:00.6,UCSB,06:04.1,,,,,,,,,,,Heat,San Diego Crew Classic
+170,4/1/2017,MHV,1,OC,06:21.3,UCDV,06:28.2,UCLA,06:32.2,PURD,06:36.3,ALAB,06:41.1,,,,,,,Heat,San Diego Crew Classic
+171,4/1/2017,MHV,1,SCLA,06:10.3,USD,06:17.4,UCIR,06:20.4,VAND,06:29.4,BC,06:29.6,COLO,06:52.9,,,,,Heat,San Diego Crew Classic
+172,4/1/2017,MHV,1,UBC,06:10.6,ND,06:16.7,MIT,06:21.4,SDSU,06:39.3,HUMS,07:00.7,CHAP,07:34.1,,,,,Heat,San Diego Crew Classic
+173,4/1/2017,MHV,1,UCSD,06:13.9,GV,06:17.4,GONZ,06:28.0,CALM,06:31.5,CSLB,06:59.3,,,,,,,Heat,San Diego Crew Classic
+174,4/1/2017,MHV,1,YALE,05:42.8,STAN,05:46.5,UVIC,05:53.9,,,,,,,,,,,Heat,San Diego Crew Classic
+175,4/1/2017,MHV,1500,FAIR,07:05.3,IONA,07:45.1,,,,,,,,,,,,,Final,Fairfield vs. Iona
+176,4/1/2017,MHV,2000,BUCK,06:28.0,MERC,06:41.8,,,,,,,,,,,,,Final,Cayuga Duals: PM pairings
+177,4/1/2017,MHV,2000,CINC,06:42.2,DAYT,06:43.6,MIOH,07:26.7,JCAR,07:50.8,XAV,07:51.9,,,,,,,Final,Cincinnati Regatta
+178,4/1/2017,MHV,2000,COLU,07:12.5,MIT,07:29.9,,,,,,,,,,,,,Final,Alumni Cup
+179,4/1/2017,MHV,2000,CORN#,06:09.0,BUCK,06:24.5,,,,,,,,,,,,,Final,Cayuga Duals: AM Pairings
+180,4/1/2017,MHV,2000,CORN#,06:17.0,HOBR,06:25.2,,,,,,,,,,,,,Final,Cayuga Duals: PM pairings
+181,4/1/2017,MHV,2000,DART,06:51.5,COLU,06:58.3,,,,,,,,,,,,,Final,Columbia vs. Dartmouth
+182,4/1/2017,MHV,2000,DART,06:58.1,HC,07:30.8,,,,,,,,,,,,,Final,Dartmouth vs. Holy Cross
+183,4/1/2017,MHV,2000,GATC,05:55.3,JAX,05:56.4,,,,,,,,,,,,,Final,Georgia Tech vs. Jacksonville University
+184,4/1/2017,MHV,2000,GENS,06:20.0,CWES,06:23.2,STJF,06:43.2,BUFF,06:50.2,OSWE,07:47.2,,,,,,,Final,SUNY Invitational Regatta
+185,4/1/2017,MHV,2000,HC,07:04.4,MIT,07:13.4,,,,,,,,,,,,,Final,Holy Cross vs. MIT
+186,4/1/2017,MHV,2000,HOBR,06:19.1,ITHA,06:41.1,,,,,,,,,,,,,Final,Cayuga Duals: AM Pairings
+187,4/1/2017,MHV,2000,ITHA,06:44.8,FRMA,07:16.9,,,,,,,,,,,,,Final,Cayuga Duals: PM pairings
+188,4/1/2017,MHV,2000,LASL,07:48.6,WASC,07:58.4,STMD,08:04.1,,,,,,,,,,,Final,Washington College vs. St. Mary's Colleg
+189,4/1/2017,MHV,2000,LEHI,06:55.5,LAFA,07:17.6,,,,,,,,,,,,,Final,The River Cup
+190,4/1/2017,MHV,2000,MERC,06:35.1,FRMA,07:04.1,,,,,,,,,,,,,Final,Cayuga Duals: AM Pairings
+191,4/1/2017,MHV,2000,PENN,06:04.8,DREX,06:15.8,,,,,,,,,,,,,Final,Drexel University vs. University of Penn
+192,4/1/2017,MHV,2000,PRIN,06:09.7,NAVY,06:27.7,,,,,,,,,,,,,Final,Navy-Princeton Cup
+193,4/1/2017,MHV,2000,PUGS,06:27.7,LECL,06:29.8,,,,,,,,,,,,,Final,Husky Open
+194,4/1/2017,MHV,2000,STET,06:17.4,FLA,06:17.5,TULN,06:39.5,EMBR,06:44.4,SFLA,06:47.2,FLST,06:47.9,CFLA,06:50.5,EMOR,07:12.2,Final,FIRA Championships
+195,4/1/2017,MHV,2000,UGA,06:23.5,HIPT,06:24.5,CLEM,06:42.2,NCST,06:45.7,BAYL,06:55.9,,,,,,,Final,Clemson Sprints Regatta
+196,4/1/2017,MHV,2000,WWAS,06:25.2,WAST,06:32.0,,,,,,,,,,,,,Final,Husky Open
+197,4/1/2017,MHV,2000,HIPT,06:37.9,UGA,06:42.6,CLEM,06:55.9,CCHR,07:30.2,,,,,,,,,Heat,Clemson Sprints Regatta
+198,4/1/2017,MHV,2000,NCST,06:59.2,BAYL,07:04.5,MURS,07:29.8,,,,,,,,,,,Heat,Clemson Sprints Regatta
+199,4/1/2017,MLV,1,MIT,06:25.6,UVIC,06:25.9,PURD,06:27.5,CALM,06:51.5,,,,,,,,,Final,San Diego Crew Classic
+200,4/1/2017,MLV,2000,PENN,06:05.2,DELA,06:09.3,,,,,,,,,,,,,Final,University of Pennsylvania vs. Universit
+201,4/1/2017,MLV,2000,PRIN,06:30.2,COLU,06:35.2,,,,,,,,,,,,,Final,Campbell Cup
+202,4/1/2017,MLV,2000,YALE,06:05.3,NAVY,06:17.0,,,,,,,,,,,,,Final,Eads Johnson Cup
+203,4/1/2017,WHV,1,STAN#,06:47.6,SDSU,06:55.2,SACS,06:57.4,SMU,07:03.5,VILN,07:18.6,,,,,,,Heat,San Diego Crew Classic
+204,4/1/2017,WHV,1,TENN,06:50.7,LOMY,06:53.4,GW,06:56.4,STJO,07:05.7,STMY,07:08.1,SCLA,07:28.4,,,,,Heat,San Diego Crew Classic
+205,4/1/2017,WHV,1,TEX,06:23.1,WISC,06:27.7,UCLA,06:38.2,UVIC,06:41.7,UCSB,06:58.1,,,,,,,Heat,San Diego Crew Classic
+206,4/1/2017,WHV,1,UCSD,07:01.0,GV,07:04.6,OC,07:16.7,UCDV,07:20.5,CHAP,07:51.7,CSLB,08:18.9,,,,,Heat,San Diego Crew Classic
+207,4/1/2017,WHV,1,USC,06:28.8,WAST,06:34.5,UBC,06:37.3,USD,06:38.4,,,,,,,,,Heat,San Diego Crew Classic
+208,4/1/2017,WHV,1,WWAS,06:54.3,HUMS,07:01.5,PURD,07:11.1,COLO,07:18.9,SPAC,07:26.9,AZST,07:46.7,,,,,Heat,San Diego Crew Classic
+209,4/1/2017,WHV,1500,SACH,07:47.4,FAIR,08:10.0,IONA,08:59.2,MANH,09:46.1,,,,,,,,,Final,Sacred Heart vs. Fairfield vs. Iona vs.
+210,4/1/2017,WHV,2000,CAL,06:15.2,OHST,06:19.0,,,,,,,,,,,,,Final,Pac-12 Challenge Saturday
+211,4/1/2017,WHV,2000,CAL,06:17.9,UVA,06:29.9,,,,,,,,,,,,,Final,Pac-12 Challenge Saturday
+212,4/1/2017,WHV,2000,CFLA,06:31.7,TULS,06:32.7,ALAB,06:38.6,UMIA,06:41.2,KAST,06:48.0,JAX,06:51.7,UNC,06:55.9,STET,07:36.5,Final,FIRA Championships
+213,4/1/2017,WHV,2000,CFLA,06:34.3,UMIA,06:37.1,ALAB,06:39.1,TULS,06:40.9,KAST,06:41.6,UNC,06:59.9,JAX,07:01.8,STET,07:25.4,Final,FIRA Championships
+214,4/1/2017,WHV,2000,CLEC,07:09.0,UGA,07:12.8,TENC,07:43.5,LBTY,07:46.8,DAVS,08:39.0,,,,,,,Final,Clemson Sprints Regatta
+215,4/1/2017,WHV,2000,CWES*,07:30.0,GENS,07:35.7,STJF,08:08.1,OSWE,08:36.4,,,,,,,,,Final,SUNY Invitational Regatta
+216,4/1/2017,WHV,2000,FLTC,06:48.3,COK,06:50.1,BARR,07:00.1,NOVS,07:02.0,GATC,07:16.8,ROLL,07:19.1,FLA,07:24.1,TULN,07:51.3,Final,FIRA Championships
+217,4/1/2017,WHV,2000,GONZ,06:33.1,ORST,06:43.0,,,,,,,,,,,,,Final,"Gonzaga, Oregon State"
+218,4/1/2017,WHV,2000,INDI,06:41.4,LOUV,06:42.0,KANS,07:01.4,,,,,,,,,,,Final,Indiana vs. Louisville vs. Kansas
+219,4/1/2017,WHV,2000,IOWA,06:30.1,MIST,06:31.5,,,,,,,,,,,,,Final,Michigan State vs. Iowa
+220,4/1/2017,WHV,2000,IOWA,06:32.3,LOUV,06:47.7,,,,,,,,,,,,,Final,Louisville vs. Iowa
+221,4/1/2017,WHV,2000,ITHA,07:06.6,WLSM,07:17.9,,,,,,,,,,,,,Final,Cayuga Duals: Ithaca vs William Smith
+222,4/1/2017,WHV,2000,ITHA,07:19.7,MERC,07:35.8,,,,,,,,,,,,,Final,"Cayuga Duals: Ithaca, Mercyhurst"
+223,4/1/2017,WHV,2000,JCAR,08:01.2,OHUN,08:17.3,MIOH,08:36.2,XAV,09:50.1,,,,,,,,,Final,Cincinnati Regatta
+224,4/1/2017,WHV,2000,LECL,06:52.5,PUGS,07:01.7,,,,,,,,,,,,,Final,Husky Open
+225,4/1/2017,WHV,2000,LEHI,08:13.0,PHIL,08:26.0,LAFA,08:34.0,,,,,,,,,,,Final,"The River Cup: Lehigh, Lafayette and Phi"
+226,4/1/2017,WHV,2000,MERC,07:21.8,FRMA,07:45.9,,,,,,,,,,,,,Final,"Mercyhurst, Franklin and Marshall"
+227,4/1/2017,WHV,2000,MICH,06:19.0,STAN,06:22.6,,,,,,,,,,,,,Final,Pac-12 Challenge Saturday
+228,4/1/2017,WHV,2000,MIST,06:28.8,INDI,06:33.4,KANS,06:41.8,,,,,,,,,,,Final,Michigan State vs. Indiana vs. Kansas
+229,4/1/2017,WHV,2000,PRIN,07:19.2,COLU,07:58.6,CLEM,08:11.5,,,,,,,,,,,Final,"Columbia, Princeton, Clemson"
+230,4/1/2017,WHV,2000,PRIN#,07:20.1,DREX,07:21.9,DUQN,07:29.4,TEMP,07:31.2,,,,,,,,,Final,Temple/Drexel/Duquesne/Princeton Lightwe
+231,4/1/2017,WHV,2000,RIT,06:59.5,CANI,07:10.7,,,,,,,,,,,,,Final,Canisius vs. RIT
+232,4/1/2017,WHV,2000,STAN,06:20.3,UVA,06:27.4,,,,,,,,,,,,,Final,Pac-12 Challenge Saturday
+233,4/1/2017,WHV,2000,STAN,06:20.3,UVA,06:27.4,,,,,,,,,,,,,Final,"Pac-12 Challenge: Stanford, Virginia"
+234,4/1/2017,WHV,2000,UPOR,06:45.4,SEAT,07:09.6,,,,,,,,,,,,,Final,Husky Open
+235,4/1/2017,WHV,2000,WASC,08:43.5,LASL,09:00.3,STMD,09:17.5,,,,,,,,,,,Final,"Washington College, St. Mary's (MD), La"
+236,4/1/2017,WHV,2000,WASH,06:12.4,MICH,06:15.0,,,,,,,,,,,,,Final,Pac-12 Challenge Saturday
+237,4/1/2017,WHV,2000,WASH,06:21.6,OHST,06:31.4,,,,,,,,,,,,,Final,Pac-12 Challenge Saturday
+238,4/1/2017,WHV,2000,WLSM,07:33.5,FRMA,08:01.0,,,,,,,,,,,,,Final,"Cayuga Duals: William Smith, Franklin &"
+239,4/1/2017,WHV,2000,YALE,06:41.4,CORN,07:10.4,,,,,,,,,,,,,Final,Cayuga Cup: Cornell vs. Yale
+240,4/1/2017,WHV,2000,COK,06:44.8,BARR,06:57.0,TULN,07:33.5,FLST,07:34.9,EMOR,08:01.3,,,,,,,Heat,FIRA Championships
+241,4/1/2017,WHV,2000,FLTC,06:51.3,NOVS,06:58.4,GATC,07:07.3,FLA,07:09.9,ROLL,07:18.5,,,,,,,Heat,FIRA Championships
+242,4/2/2017,MHV,2000,ARMY,06:26.3,DELA,06:28.0,GMAS,06:53.2,LOYO,07:03.0,VCOM,07:08.9,MAWA,07:24.1,,,,,Final,Occoquan Sprints
+243,4/2/2017,MHV,2000,BU,06:02.7,BRWN,06:03.1,,,,,,,,,,,,,Final,Michalson Cup
+244,4/2/2017,MHV,2000,CAL,05:35.5,YALE,05:39.0,STAN,05:50.0,UVIC,05:50.3,UCSB,05:58.5,MICH,06:02.4,,,,,Final,San Diego Crew Classic
+245,4/2/2017,MHV,2000,HAML,07:08.7,FRMA,07:34.1,SKID,07:43.6,,,,,,,,,,,Final,Hamilton College vs. Franklin & Marshall
+246,4/2/2017,MHV,2000,HAML,07:08.7,FRMA,07:34.1,SKID,07:43.6,,,,,,,,,,,Final,Hamilton College vs. Franklin & Marshall
+247,4/2/2017,MHV,2000,RIT,06:23.2,MERC,06:24.0,,,,,,,,,,,,,Final,Mercyhurst University vs. RIT
+248,4/2/2017,MHV,2000,RIT,06:23.2,MERC,06:24.0,,,,,,,,,,,,,Final,Mercyhurst University vs. RIT
+249,4/2/2017,MHV,2000,SCLA,05:53.6,UBC,05:55.4,UCSD,06:02.3,ND,06:02.5,USD,06:07.8,GV,06:09.2,OC,06:10.9,UCDV,06:14.8,Final,San Diego Crew Classic
+250,4/2/2017,MHV,2000,UCIR,06:08.6,MIT,06:13.1,GONZ,06:20.0,PURD,06:23.0,VAND,06:23.1,CALM,06:24.8,UCLA,06:26.4,SDSU,06:27.4,Final,San Diego Crew Classic
+251,4/2/2017,MHV,2000,UMAS,05:41.6,URI,05:42.9,CONN,05:44.7,UVM,05:54.4,UNH,05:55.4,MALW,05:58.6,,,,,Final,Patriot Cup
+252,4/2/2017,MHV,2000,UMD,07:11.6,VT,07:21.4,WLMY,07:28.3,CNEW,07:53.3,,,,,,,,,Final,Occoquan Sprints
+253,4/2/2017,MHV,2000,ARMY,06:54.6,GMAS,07:11.3,MAWA,07:33.1,WLMY,07:54.3,CNEW,08:27.7,,,,,,,Heat,Occoquan Sprints
+254,4/2/2017,MHV,2000,DELA,06:50.1,LOYO,07:04.5,VCOM,07:05.8,VT,07:11.7,UMD,07:23.9,,,,,,,Heat,Occoquan Sprints
+255,4/2/2017,MLV,2000,MIT,06:13.9,UVIC,06:15.8,PURD,06:18.7,CALM,06:36.5,,,,,,,,,Final,San Diego Crew Classic
+256,4/2/2017,WHV,2000,BOWD,07:10.0,CONC,07:21.3,ASSP,07:23.9,CLRK,07:25.8,JOWA,07:40.7,,,,,,,Final,"Clark University vs Assumption, Bowdoin,"
+257,4/2/2017,WHV,2000,BRWN,06:06.7,RADC,06:14.3,,,,,,,,,,,,,Final,Varsity Eight Trophy
+258,4/2/2017,WHV,2000,BU#,07:08.0,MIT,07:13.9,BC,07:22.7,,,,,,,,,,,Final,"Boston College, MIT, Boston University L"
+259,4/2/2017,WHV,2000,CAL,06:20.5,MICH,06:28.6,,,,,,,,,,,,,Final,Pac-12 Challenge
+260,4/2/2017,WHV,2000,GMAS,07:24.0,ARMY,07:29.9,LOYO,07:41.1,ROMO,07:41.5,WLMY,07:51.2,VCOM,08:21.3,,,,,Final,Occoquan Sprints
+261,4/2/2017,WHV,2000,HAML,08:06.7,FRMA,08:22.0,SKID,08:41.6,,,,,,,,,,,Final,"Franklin & Marshall, Hamilton, Skidmore"
+262,4/2/2017,WHV,2000,HC,06:59.0,COLG,07:07.4,,,,,,,,,,,,,Final,"Colgate, Holy Cross"
+263,4/2/2017,WHV,2000,MINN,06:49.4,BU,06:52.5,UMAS,06:54.6,RUTG,07:07.3,,,,,,,,,Final,First Doc Hosea Invitational - Finals
+264,4/2/2017,WHV,2000,RADC#,07:14.1,BATE,07:22.1,SIMM,08:00.4,,,,,,,,,,,Final,Harvard-Radcliffe Lightweight Women vs.
+265,4/2/2017,WHV,2000,RIT,07:14.0,MERC,07:14.7,,,,,,,,,,,,,Final,"Mercyhurst, RIT Rochester Institute Tech"
+266,4/2/2017,WHV,2000,SMU,06:53.6,STJO,07:00.6,VILN,07:01.4,STMY,07:02.5,SCLA,07:18.0,,,,,,,Final,San Diego Crew Classic
+267,4/2/2017,WHV,2000,STAN,06:26.4,OHST,06:34.6,,,,,,,,,,,,,Final,Pac-12 Challenge
+268,4/2/2017,WHV,2000,STAN#,06:35.8,TENN,06:40.2,SDSU,06:45.5,GW,06:47.8,LOMY,06:49.7,SACS,06:50.1,,,,,Final,San Diego Crew Classic
+269,4/2/2017,WHV,2000,SYRA,06:30.4,PENN,06:34.5,NORT,06:35.2,DART,06:42.9,NAVY,06:48.0,URI,06:54.5,,,,,Final,First Doc Hosea Invitational - Finals
+270,4/2/2017,WHV,2000,TEX,06:16.7,USC,06:20.6,WISC,06:27.0,WAST,06:29.4,UBC,06:33.4,UCLA,06:37.0,,,,,Final,San Diego Crew Classic
+271,4/2/2017,WHV,2000,UCDV,07:14.9,COLO,07:23.7,SPAC,07:29.1,AZST,07:47.0,CHAP,08:04.4,CSLB,08:29.8,,,,,Final,San Diego Crew Classic
+272,4/2/2017,WHV,2000,UNH,06:25.9,UVM,06:29.5,,,,,,,,,,,,,Final,Patriot Cup
+273,4/2/2017,WHV,2000,UVIC,06:37.0,USD,06:38.7,UCSB,06:55.7,,,,,,,,,,,Final,San Diego Crew Classic
+274,4/2/2017,WHV,2000,VT,09:01.0,MAWA,09:27.5,UMD,09:42.1,,,,,,,,,,,Final,Occoquan Sprints
+275,4/2/2017,WHV,2000,WASH,06:22.2,UVA,06:33.5,,,,,,,,,,,,,Final,Pac-12 Challenge
+276,4/2/2017,WHV,2000,WILL,08:12.1,WELL,08:17.4,WLSM*,08:30.8,,,,,,,,,,,Final,William Smith v. Wellesley and Williams
+277,4/2/2017,WHV,2000,WWAS,06:53.3,HUMS,07:00.9,GV,07:07.5,UCSD,07:09.4,PURD,07:13.0,OC,07:20.2,,,,,Final,San Diego Crew Classic
+278,4/2/2017,WHV,2000,DART,06:46.8,NAVY,06:49.8,URI,06:51.2,MINN,06:54.9,UMAS,06:57.9,,,,,,,Heat,First Doc Hosea Invitational - Heats
+279,4/2/2017,WHV,2000,GMAS,08:03.4,LOYO,08:15.8,WLMY,08:16.6,VT,08:47.4,UMD,09:59.9,,,,,,,Heat,Occoquan Sprints
+280,4/2/2017,WHV,2000,ROMO,07:59.0,ARMY,08:01.9,VCOM,08:30.9,MAWA,09:14.9,CATH,09:27.3,,,,,,,Heat,Occoquan Sprints
+281,4/2/2017,WHV,2000,SYRA,06:32.9,PENN,06:35.7,NORT,06:42.3,BU,06:53.6,RUTG,07:08.8,,,,,,,Heat,First Doc Hosea Invitational - Heats
+282,4/2/2017,WLV,2000,UVIC,06:56.2,CAL,07:30.7,UCIR,08:05.3,,,,,,,,,,,Final,San Diego Crew Classic
+283,4/5/2017,WHV,1700,AMHR,08:36.1,SMIT,08:44.7,,,,,,,,,,,,,Final,Smith College v Amherst College
+284,4/8/2017,MHV,2000,CSTG,06:23.0,TUFT,06:31.0,,,,,,,,,,,,,Final,Tufts University vs. US Coast Guard Acad
+285,4/8/2017,MHV,2000,CWES,06:21.2,ILLI,06:22.5,,,,,,,,,,,,,Final,Lubbers Cup Regatta
+286,4/8/2017,MHV,2000,GEOR,05:14.7,FLTC,05:16.1,NAVY,05:17.5,,,,,,,,,,,Final,George Washington Invitational
+287,4/8/2017,MHV,2000,GEOR,05:15.8,HOBR,05:20.2,,,,,,,,,,,,,Final,George Washington Invitational
+288,4/8/2017,MHV,2000,GV,05:57.6,MINN,06:04.9,CWES,06:23.8,,,,,,,,,,,Final,Lubbers Cup Regatta
+289,4/8/2017,MHV,2000,GW,05:12.3,FLTC,05:18.3,MIT,05:20.6,,,,,,,,,,,Final,George Washington Invitational
+290,4/8/2017,MHV,2000,GW,05:18.3,HC,05:27.8,,,,,,,,,,,,,Final,George Washington Invitational
+291,4/8/2017,MHV,2000,HARV,06:32.0,BRWN,06:41.0,,,,,,,,,,,,,Final,Stein Cup
+292,4/8/2017,MHV,2000,HOBR,05:18.5,MIT,05:20.2,DREX,05:25.1,,,,,,,,,,,Final,George Washington Invitational
+293,4/8/2017,MHV,2000,LASL,06:26.6,IONA,06:36.7,,,,,,,,,,,,,Final,La Salle University vs. Iona College
+294,4/8/2017,MHV,2000,MICH,05:49.0,GV,05:54.6,MIST,06:04.9,,,,,,,,,,,Final,Lubbers Cup Regatta
+295,4/8/2017,MHV,2000,MICH,05:52.3,PURD,06:01.1,OHST,06:19.8,,,,,,,,,,,Final,Lubbers Cup Regatta
+296,4/8/2017,MHV,2000,MIST,06:04.5,ILLI,06:21.8,,,,,,,,,,,,,Final,Lubbers Cup Regatta
+297,4/8/2017,MHV,2000,NAVY,05:12.8,HC,05:19.2,DREX,05:26.7,,,,,,,,,,,Final,George Washington Invitational
+298,4/8/2017,MHV,2000,PRIN,06:18.9,PENN,06:21.4,COLU,06:35.2,,,,,,,,,,,Final,Childs Cup
+299,4/8/2017,MHV,2000,PURD,06:00.1,MINN,06:06.0,OHST,06:19.7,,,,,,,,,,,Final,Lubbers Cup Regatta
+300,4/8/2017,MHV,2000,RIT,06:55.0,ITHA,06:57.1,ROCH,07:19.3,,,,,,,,,,,Final,Ithaca College vs. Rochester and RIT
+301,4/8/2017,MHV,2000,TEX,06:39.0,TXAM,07:33.0,,,,,,,,,,,,,Final,Golden Oar 2017
+302,4/8/2017,MHV,2000,UCIR,05:53.3,OC,05:57.9,,,,,,,,,,,,,Final,Collins Cup
+303,4/8/2017,MHV,2000,VAND,06:32.3,DAYT,06:45.3,MURS,07:31.8,,,,,,,,,,,Final,Percy Priest Sprints
+304,4/8/2017,MHV,2000,WASH,05:53.1,ORST,06:09.2,,,,,,,,,,,,,Final,Oregon State University vs. University o
+305,4/8/2017,MHV,2000,WPI,06:02.5,WESL,06:05.4,COLB,06:13.4,UMAS,06:14.6,HAML,06:14.9,,,,,,,Final,Class of 2003 cup
+306,4/8/2017,MHV,2000,YALE,05:19.1,DART,05:27.6,,,,,,,,,,,,,Final,Olympic Axe
+307,4/8/2017,MHV,2000,ARMY,06:17.3,TRIN,06:19.0,URI,06:20.5,RUTG,06:21.0,BC,06:33.0,GMAS,06:52.1,,,,,Heat,The Knecht Cup - Heats
+308,4/8/2017,MHV,2000,STJO,06:00.7,TEMP#,06:06.9,DELA,06:09.7,BUCK,06:10.5,JAX,06:26.5,FAIR,06:32.2,,,,,Heat,The Knecht Cup - Heats
+309,4/8/2017,MHV,2000,UVA,06:08.6,MRST,06:10.9,MERC,06:13.1,UNC,06:13.8,MARI,06:29.0,,,,,,,Heat,The Knecht Cup - Heats
+310,4/8/2017,MHV,8,VCOM,06:11.2,MAWA,06:16.4,VT,06:34.8,XAV,07:07.9,,,,,,,,,Final,Waterfield Cup
+311,4/8/2017,MLV,2000,CORN,06:16.9,HARV,06:19.2,PENN,06:22.8,,,,,,,,,,,Final,Matthews-Leonard Cups
+312,4/8/2017,MLV,2000,HARV,06:19.0,COLU,06:26.0,GEOR,06:29.0,,,,,,,,,,,Final,Wales-Kirrane Cup
+313,4/8/2017,MLV,2000,NAVY,05:54.6,COLU,05:56.0,,,,,,,,,,,,,Final,WIT Cup
+314,4/8/2017,MLV,2000,PRIN,06:22.5,DART*,06:31.6,DELA,06:36.4,,,,,,,,,,,Final,Princeton University vs. Dartmouth and D
+315,4/8/2017,MLV,2000,YALE,05:25.3,GEOR,05:32.5,MIT,05:40.8,,,,,,,,,,,Final,James C. Joy Cup
+316,4/8/2017,WHV,2,YALE,05:59.9,PENN,06:11.4,DART,06:14.6,,,,,,,,,,,Final,"Yale, Pennsylvania, Dartmouth"
+317,4/8/2017,WHV,2000,ALAB,06:47.0,OLDD,06:47.2,,,,,,,,,,,,,Final,"Big 12 Double Dual: Alabama, Old Dominio"
+318,4/8/2017,WHV,2000,ALAB,06:54.9,WV,07:00.9,,,,,,,,,,,,,Final,"Big 12 Double dual: Alabama, West Virgin"
+319,4/8/2017,WHV,2000,ASSP,07:23.9,JOWA,07:35.0,BRYA,08:11.5,,,,,,,,,,,Final,"Assumption, Bryant, Johnson & Wales, Mas"
+320,4/8/2017,WHV,2000,BRWN,06:20.8,GONZ,06:25.6,BU,06:42.8,,,,,,,,,,,Final,"Lake Natoma Invitational: Brown, Gonzaga"
+321,4/8/2017,WHV,2000,BRWN,06:23.8,CFLA,06:33.9,SACS,06:44.4,,,,,,,,,,,Final,"Lake Natoma Invitational: Brown, UCF, Sa"
+322,4/8/2017,WHV,2000,CAL,06:11.1,CFLA,06:27.7,CLEM,06:34.7,,,,,,,,,,,Final,"Lake Natoma Invitational: Cal, UCF, Clem"
+323,4/8/2017,WHV,2000,CAL,06:15.8,ND,06:26.3,BU,06:39.8,,,,,,,,,,,Final,"Lake Natoma Invitational: Cal, Notre Dam"
+324,4/8/2017,WHV,2000,DRAK,06:42.3,GV,06:50.0,MARQ,07:30.5,,,,,,,,,,,Final,Lubbers Cup Regatta
+325,4/8/2017,WHV,2000,DRAK,06:47.4,PURD,06:51.4,OHSC,07:13.6,,,,,,,,,,,Final,Lubbers Cup Regatta
+326,4/8/2017,WHV,2000,DREX,00:00.0,GEOR,00:02.0,NAVY,00:02.8,,,,,,,,,,,Final,George Washington Invitational
+327,4/8/2017,WHV,2000,EMIC,06:41.0,PURD,06:53.8,OHSC,07:07.7,,,,,,,,,,,Final,Lubbers Cup Regatta
+328,4/8/2017,WHV,2000,EMIC,06:42.1,GV,06:48.4,MARQ,07:56.5,,,,,,,,,,,Final,Lubbers Cup Regatta
+329,4/8/2017,WHV,2000,GW,06:04.6,DAYT,06:08.0,DUQN,06:14.6,,,,,,,,,,,Final,George Washington Invitational
+330,4/8/2017,WHV,2000,INDI,06:52.3,RUTG,07:20.1,,,,,,,,,,,,,Final,Big Ten Double Dual: Indiana vs. Rutgers
+331,4/8/2017,WHV,2000,IOWA,07:02.2,RUTG,07:35.6,,,,,,,,,,,,,Final,Big Ten Double Dual: Iowa vs. Rutgers
+332,4/8/2017,WHV,2000,ITHA,07:37.6,RIT,07:48.4,ROCH,08:30.3,,,,,,,,,,,Final,Ithaca vs Rochester and RIT
+333,4/8/2017,WHV,2000,LASL,06:52.2,IONA,07:00.5,MANH,07:15.7,,,,,,,,,,,Final,La Salle vs Iona College and Manhattan C
+334,4/8/2017,WHV,2000,MICH,06:21.6,WISC,06:26.7,,,,,,,,,,,,,Final,Big Ten Double Dual: Wisconsin vs. Michi
+335,4/8/2017,WHV,2000,MICH,06:28.0,MINN,06:44.4,,,,,,,,,,,,,Final,Big Ten Double Dual: Michigan vs. Minnes
+336,4/8/2017,WHV,2000,MIST,06:34.0,MINN,06:47.6,,,,,,,,,,,,,Final,Big Ten Double Dual: Michigan State vs.
+337,4/8/2017,WHV,2000,MIT,05:56.5,URI,05:57.5,STJO,06:02.7,,,,,,,,,,,Final,George Washington Invitational
+338,4/8/2017,WHV,2000,MIT,05:59.6,DREX,06:03.0,DAYT,06:24.1,,,,,,,,,,,Final,George Washington Invitational
+339,4/8/2017,WHV,2000,NAVY,05:56.3,GW,05:59.6,URI,06:00.6,,,,,,,,,,,Final,George Washington Invitational
+340,4/8/2017,WHV,2000,NORT,06:50.1,COLU,06:56.7,,,,,,,,,,,,,Final,"Woodbury Cup: Columbia, Northeastern"
+341,4/8/2017,WHV,2000,OC,06:57.2,UCIR,07:05.6,,,,,,,,,,,,,Final,Collins Cup
+342,4/8/2017,WHV,2000,OHST,06:36.5,IOWA,06:38.0,,,,,,,,,,,,,Final,Big Ten Double Dual: Iowa vs. Ohio State
+343,4/8/2017,WHV,2000,OHST,06:49.5,INDI,06:56.7,,,,,,,,,,,,,Final,Big Ten Double Dual: Indiana vs. Ohio St
+344,4/8/2017,WHV,2000,OKLA,07:19.3,KANS,07:33.5,,,,,,,,,,,,,Final,"Big 12 Double Dual: Oklahoma, Kansas"
+345,4/8/2017,WHV,2000,OKLA,07:29.2,KAST,07:38.6,,,,,,,,,,,,,Final,"Big 12 Double Dual, Oklahoma vs. Kansas"
+346,4/8/2017,WHV,2000,PACL,06:52.3,LECL,07:01.7,,,,,,,,,,,,,Final,"Logger Invitational: Pacific Lutheran, L"
+347,4/8/2017,WHV,2000,PACL,06:53.7,MILL,07:36.3,,,,,,,,,,,,,Final,"Logger Invitational: Pacific Lutheran, M"
+348,4/8/2017,WHV,2000,PRIN,07:35.2,RADC,07:56.9,CORN,08:16.8,,,,,,,,,,,Final,"Harvard-Radcliffe, Princeton, Cornell"
+349,4/8/2017,WHV,2000,PUGS,07:03.7,LECL,07:04.2,,,,,,,,,,,,,Final,"Logger Invitational: Puget Sound, Lewis"
+350,4/8/2017,WHV,2000,PUGS,07:17.4,MILL,07:35.0,PACI,08:05.9,,,,,,,,,,,Final,"Logger Invitational: Puget Sound, Mills,"
+351,4/8/2017,WHV,2000,STAN,06:17.7,ND,06:27.3,SACS,06:41.4,,,,,,,,,,,Final,"Lake Natoma Invitational: Stanford, Notr"
+352,4/8/2017,WHV,2000,STAN,06:19.6,GONZ,06:29.3,CLEM,06:41.0,,,,,,,,,,,Final,"Lake Natoma Invitational: Stanford, Gonz"
+353,4/8/2017,WHV,2000,STJO,06:06.2,GEOR,06:07.4,DUQN,06:13.9,,,,,,,,,,,Final,George Washington Invitational
+354,4/8/2017,WHV,2000,STMY,07:52.1,SCLA,08:15.8,,,,,,,,,,,,,Final,Saint Mary's College (CA) vs. University
+355,4/8/2017,WHV,2000,TENN,06:39.2,WV,07:03.4,,,,,,,,,,,,,Final,"Big 12 Double Dual: Tennessee, West Virg"
+356,4/8/2017,WHV,2000,TENN,06:44.4,OLDD,06:54.9,,,,,,,,,,,,,Final,"Big 12 Double Dual: Tennessee, Old Domin"
+357,4/8/2017,WHV,2000,TEX,07:05.2,KAST,07:45.7,,,,,,,,,,,,,Final,"Big 12 Double Dual, Texas vs. Kansas Sta"
+358,4/8/2017,WHV,2000,TEX,07:11.6,KANS,08:02.9,,,,,,,,,,,,,Final,"Big 12 Double Dual, Texas vs Kansas"
+359,4/8/2017,WHV,2000,TEXC,08:20.0,TXAM,08:57.0,,,,,,,,,,,,,Final,Golden Oar 2017
+360,4/8/2017,WHV,2000,TUFT,07:28.0,CSTG,07:57.0,,,,,,,,,,,,,Final,"Coast Guard, Simmons, Trinity, Tufts, We"
+361,4/8/2017,WHV,2000,WASH,06:27.4,UCLA,06:47.9,,,,,,,,,,,,,Final,Oregon State Classic AM: UCLA vs. Washin
+362,4/8/2017,WHV,2000,WASH,06:38.1,WAST,06:43.4,UCLA,06:50.4,ORST,07:01.8,,,,,,,,,Final,"Oregon State Classic PM: Oregon St., UCL"
+363,4/8/2017,WHV,2000,WAST,06:43.8,ORST,06:51.6,,,,,,,,,,,,,Final,Oregon State Classic AM: Oregon St. vs W
+364,4/8/2017,WHV,2000,WESL,06:54.8,HAML,07:03.2,WPI,07:04.1,COLB,07:05.7,SMIT,07:11.6,,,,,,,Final,"Colby, Hamilton, Smith, Wesleyan, WPI"
+365,4/8/2017,WHV,2000,WISC,06:28.4,MIST,06:29.7,,,,,,,,,,,,,Final,Big Ten Double Dual: Michigan State v Wi
+366,4/8/2017,WHV,2000,BU#,06:47.5,MRST,06:56.4,SMU,06:57.8,DELA,07:05.0,WASC,07:15.0,SACH,07:52.5,,,,,Heat,The Knecht Cup - Heats
+367,4/8/2017,WHV,2000,RADC#,06:46.7,BC,06:47.1,FORD,07:00.8,COLG,07:18.4,HC,07:27.0,,,,,,,Heat,The Knecht Cup - Heats
+368,4/8/2017,WHV,2000,STAN#,06:44.4,WISC#,06:50.1,CONN,07:02.6,CANI,07:09.1,UNH,07:17.6,,,,,,,Heat,The Knecht Cup - Heats
+369,4/8/2017,WHV,2000,TEMP,06:52.3,BUCK,06:54.2,UNC,06:59.9,VILN,07:01.2,FAIR,07:28.9,LOYO,07:36.6,,,,,Heat,The Knecht Cup - Heats
+370,4/8/2017,WHV,2000,UMIA,06:50.2,UMAS,06:51.3,GMAS,07:05.7,BUFF,07:09.3,PHIL,07:16.5,ARMY,07:36.8,,,,,Heat,The Knecht Cup - Heats
+371,4/8/2017,WHV,8,UCDV,07:23.6,CAL#,07:30.0,,,,,,,,,,,,,Final,UC Davis vs Cal LW
+372,4/8/2017,WHV,8,VCOM,07:14.2,LBTY,07:29.9,VT,07:30.2,MAWA,08:18.5,,,,,,,,,Final,Waterfield Cup
+373,4/9/2017,MHV,2000,BU,06:13.5,NORT,06:18.3,,,,,,,,,,,,,Final,Arlett Cup
+374,4/9/2017,MHV,2000,CONN,06:22.1,VILN,06:25.8,PITT,06:31.1,PSU,06:37.4,HIPT,06:46.0,,,,,,,Final,The Knecht Cup
+375,4/9/2017,MHV,2000,ITHA,06:07.3,GENS,06:28.5,STJF,06:45.5,,,,,,,,,,,Final,Ithaca College vs. St. John Fisher and G
+376,4/9/2017,MHV,2000,MERC,06:18.1,WASC,06:35.9,MARI,06:38.6,STMD,06:58.8,FRMA,07:00.6,CARN,07:06.8,USMM,07:45.7,,,Final,The Knecht Cup
+377,4/9/2017,MHV,2000,MIDD,06:22.3,TUFT,06:26.4,,,,,,,,,,,,,Final,Tufts University Men's Rowing Team vs. A
+378,4/9/2017,MHV,2000,MIDD,06:23.5,AMHR,06:46.4,,,,,,,,,,,,,Final,Tufts University Men's Rowing Team vs. A
+379,4/9/2017,MHV,2000,STJO,05:54.5,UVA,05:57.0,ARMY,05:58.4,MRST,06:04.3,DELA,06:08.4,URI,06:11.0,,,,,Final,The Knecht Cup
+380,4/9/2017,MHV,2000,TEMP#,06:11.3,MERC,06:12.9,BUCK,06:13.9,UNC,06:15.4,RUTG,06:16.3,TRIN,06:16.4,,,,,Final,The Knecht Cup
+381,4/9/2017,MHV,2000,TUFT,06:11.8,UMAS,06:14.5,,,,,,,,,,,,,Final,Tufts University Men's Rowing Team vs. A
+382,4/9/2017,MHV,2000,UMAS,06:24.2,AMHR,06:50.3,,,,,,,,,,,,,Final,Tufts University Men's Rowing Team vs. A
+383,4/9/2017,MHV,2000,UNIO,07:14.0,VASS,07:41.0,,,,,,,,,,,,,Final,Union College vs. Vassar College
+384,4/9/2017,MHV,2000,WPI,05:57.8,BATE,05:58.3,,,,,,,,,,,,,Final,WPI vs. Bates
+385,4/9/2017,MHV,2000,ARMY,06:03.9,UVA,06:05.5,DELA,06:06.6,BUCK,06:08.8,TEMP#,06:10.3,UNC,06:11.1,MARI,06:13.9,,,Heat,The Knecht Cup
+386,4/9/2017,MHV,2000,PITT,06:22.9,STEV,07:48.0,,,,,,,,,,,,,Heat,The Knecht Cup
+387,4/9/2017,MHV,2000,STJO,06:00.7,MRST,06:05.0,URI,06:09.3,RUTG,06:11.8,MERC,06:12.7,TRIN,06:17.6,JAX,06:18.2,,,Heat,The Knecht Cup
+388,4/9/2017,MHV,2000,VILN,06:18.1,CONN,06:21.8,PSU,06:27.4,HIPT,06:33.9,,,,,,,,,Heat,The Knecht Cup
+389,4/9/2017,WHV,1000,EMIC,03:42.6,DRAK,03:51.6,MARQ,04:31.3,,,,,,,,,,,Final,Lubbers Cup Regatta
+390,4/9/2017,WHV,1000,GV,03:37.9,PURD,03:43.6,OHSC,04:01.8,,,,,,,,,,,Final,Lubbers Cup Regatta
+391,4/9/2017,WHV,2,YALE,06:00.4,COLU,06:15.7,,,,,,,,,,,,,Final,Yale & Columbia
+392,4/9/2017,WHV,2000,AMHR,07:03.0,MIDD,07:34.0,,,,,,,,,,,,,Final,"Middlebury, Amherst College"
+393,4/9/2017,WHV,2000,BATE,06:43.8,WELL,06:49.6,WPI,06:57.6,TRIN,07:20.6,,,,,,,,,Final,"Bates, Trinity, Wellesley, WPI"
+394,4/9/2017,WHV,2000,CAL,06:18.3,STAN,06:23.6,BRWN,06:28.6,,,,,,,,,,,Final,"Lake Natoma Invitational: Cal, Brown, St"
+395,4/9/2017,WHV,2000,CLEM,06:52.4,BU,06:53.8,SACS,06:55.0,,,,,,,,,,,Final,"Lake Natoma Invitational: Clemson, Sac S"
+396,4/9/2017,WHV,2000,CONN,06:55.3,DELA,06:56.8,MRST,06:58.0,VILN,07:00.4,GMAS,07:04.1,BUFF,07:12.0,,,,,Final,The Knecht Cup
+397,4/9/2017,WHV,2000,FLTC,06:51.0,BARR,06:56.6,MERC,06:57.7,PITT,07:04.5,PHIL,07:09.4,NOVS,07:09.7,ROLL,07:20.1,,,Final,The Knecht Cup
+398,4/9/2017,WHV,2000,GENS,07:24.9,STJF,08:46.2,,,,,,,,,,,,,Final,"Ithaca, St. John Fisher, Geneseo, Nazare"
+399,4/9/2017,WHV,2000,GONZ,06:35.4,ND,06:36.8,CFLA,06:43.6,,,,,,,,,,,Final,"Lake Natoma Invitational: UCF, Gonzaga,"
+400,4/9/2017,WHV,2000,PACL,06:59.7,PUGS,07:11.5,,,,,,,,,,,,,Final,Lamberth Cup: Puget Sound vs. Pacific Lu
+401,4/9/2017,WHV,2000,TEMP,06:47.0,SMU,06:47.8,UNC,06:49.1,BUCK,06:49.4,WISC#,06:52.1,FORD,06:53.2,,,,,Final,The Knecht Cup
+402,4/9/2017,WHV,2000,TUFT,06:44.7,AMHR,06:49.0,,,,,,,,,,,,,Final,"Tufts, Amherst"
+403,4/9/2017,WHV,2000,TUFT,07:21.0,MIDD,07:40.0,,,,,,,,,,,,,Final,"Tufts, Middlebury"
+404,4/9/2017,WHV,2000,UMIA,06:43.8,BU#,06:45.8,STAN#,06:47.4,UMAS,06:49.9,RADC#,06:52.6,BC,06:53.2,,,,,Final,The Knecht Cup
+405,4/9/2017,WHV,2000,UVM,07:08.7,MTHO,07:09.0,SIMM,07:24.8,CLRK,07:33.0,ENDI,08:14.9,,,,,,,Final,"Clark, Endicott, Mt. Holyoke, Simmons, U"
+406,4/9/2017,WHV,2000,VASS,08:42.0,UNIO,08:50.0,,,,,,,,,,,,,Final,"Union College, Vassar College"
+407,4/9/2017,WHV,2000,WASC,07:04.4,FRMA,07:13.1,BOWD,07:14.5,BRYN,07:19.8,STMD,07:35.7,,,,,,,Final,The Knecht Cup
+408,4/9/2017,WHV,2000,WLSM,07:57.3,ROCH,08:17.3,,,,,,,,,,,,,Final,William Smith and Rochester
+409,4/9/2017,WHV,2000,BARR,06:55.4,MERC,06:59.4,ROLL,07:16.8,UNH,07:24.4,,,,,,,,,Heat,The Knecht Cup
+410,4/9/2017,WHV,2000,BRYN,07:18.5,FRMA,07:20.3,STMD,07:31.3,CABR,08:21.9,,,,,,,,,Heat,The Knecht Cup
+411,4/9/2017,WHV,2000,BU#,06:45.3,BC,06:46.5,WISC#,06:46.7,TEMP,06:47.6,VILN,06:55.8,GMAS,07:06.1,PHIL,07:28.2,,,Heat,The Knecht Cup
+412,4/9/2017,WHV,2000,FLTC,06:58.4,NOVS,07:04.1,PITT,07:05.3,PHIL,07:13.1,PSU,07:21.3,,,,,,,Heat,The Knecht Cup
+413,4/9/2017,WHV,2000,STAN#,06:46.4,UMAS,06:48.1,FORD,06:49.5,UNC,06:51.4,MRST,06:54.8,BUFF,07:05.6,CANI,07:11.3,,,Heat,The Knecht Cup
+414,4/9/2017,WHV,2000,UMIA,06:44.9,RADC#,06:49.9,BUCK,06:50.3,SMU,06:52.0,DELA,06:53.6,CONN,06:54.6,WASC,06:55.4,,,Heat,The Knecht Cup
+415,4/9/2017,WHV,2000,WASC,07:10.4,BOWD,07:15.6,CARN,08:17.3,,,,,,,,,,,Heat,The Knecht Cup
+416,4/9/2017,WLV,2000,STAN,06:44.3,BU,06:46.8,PRIN,06:47.9,TULS,06:53.9,WISC,06:54.0,RADC,06:55.3,MIT,06:55.7,,,Final,The Knecht Cup
+417,4/9/2017,WLV,2000,BU,06:53.7,RADC,06:55.1,WISC,06:55.1,MIT,06:57.1,,,,,,,,,Heat,The Knecht Cup
+418,4/9/2017,WLV,2000,STAN,06:52.3,PRIN,06:55.7,TULS,06:59.7,GEOR,07:04.0,,,,,,,,,Heat,The Knecht Cup
+419,4/14/2017,MHV,2000,CAL,05:56.3,HOBR,06:13.1,,,,,,,,,,,,,Final,Stanford Invitational: Cal vs. Hobart
+420,4/14/2017,MHV,2000,SCLA,06:11.3,USD,06:14.3,,,,,,,,,,,,,Final,Stanford Invitational: Santa Clara vs. S
+421,4/14/2017,MHV,2000,STAN,06:01.2,ORST,06:04.4,,,,,,,,,,,,,Final,Stanford Invitational: Oregon State vs.
+422,4/14/2017,MHV,2000,WASH,05:51.9,WISC,06:01.0,,,,,,,,,,,,,Final,Stanford Invitational: Wisconsin vs. Was
+423,4/14/2017,MLV,2000,PURD,05:34.0,TEMP,05:44.4,UGA,05:56.7,,,,,,,,,,,Heat,SIRA Championship (Friday)
+424,4/14/2017,WHV,2000,GW,06:34.8,GEOR,06:36.5,GMAS,06:45.8,,,,,,,,,,,Final,"George Cup and 1998 Cup: George Mason, G"
+425,4/15/2017,MHV,1900,CSTG,05:23.1,UMAS,05:25.6,MALW,05:49.0,,,,,,,,,,,Final,"UMass Lowell vs. Colby, Coast Guard, UMa"
+426,4/15/2017,MHV,1900,URI,05:21.9,COLB,05:27.2,,,,,,,,,,,,,Final,"UMass Lowell vs. Colby, Coast Guard, UMa"
+427,4/15/2017,MHV,1900,COLB,05:26.1,CSTG,05:26.7,,,,,,,,,,,,,Heat,"UMass Lowell vs. Colby, Coast Guard, UMa"
+428,4/15/2017,MHV,1900,URI,05:10.2,UMAS,05:23.6,MALW,05:36.8,,,,,,,,,,,Heat,"UMass Lowell vs. Colby, Coast Guard, UMa"
+429,4/15/2017,MHV,2,UNIO,06:12.0,AMHR,06:34.0,RPI,06:40.0,,,,,,,,,,,Final,"Union College vs. RPI, Amherst"
+430,4/15/2017,MHV,2000,BATE,05:50.0,WESL,05:59.0,,,,,,,,,,,,,Final,"Tufts, Bates, Wesleyan, UNH (2nd round)"
+431,4/15/2017,MHV,2000,BATE,05:52.0,TUFT,06:02.0,,,,,,,,,,,,,Final,"Tufts, Bates, Wesleyan, UNH (1st round)"
+432,4/15/2017,MHV,2000,BRWN,06:12.6,NORT,06:12.6,,,,,,,,,,,,,Final,Dreissigacker Cup
+433,4/15/2017,MHV,2000,BUCK,06:14.0,COLG,06:19.8,LEHI,06:21.3,VILN,06:25.7,GONZ,06:30.2,LOYO,06:55.9,,,,,Final,The Kerr Cup
+434,4/15/2017,MHV,2000,CAL,05:36.0,WISC,05:51.7,,,,,,,,,,,,,Final,Stanford Invitational
+435,4/15/2017,MHV,2000,DART,05:57.2,BU,05:57.7,RUTG,06:28.4,,,,,,,,,,,Final,Bill Cup
+436,4/15/2017,MHV,2000,DREX,05:55.9,STJO,05:59.5,MICH,06:02.6,DELA#,06:02.8,ARMY,06:06.1,UCSD,06:13.7,,,,,Final,The Kerr Cup
+437,4/15/2017,MHV,2000,FLTC,06:03.4,TEMP,06:09.7,UVA,06:12.5,UNC,06:15.9,GATC,06:18.6,DELA,06:23.1,,,,,Final,SIRA Championship (Saturday)
+438,4/15/2017,MHV,2000,GEOR,05:48.0,HC,05:50.0,MRST,05:57.7,,,,,,,,,,,Final,Father Patrick Healy Cup
+439,4/15/2017,MHV,2000,HARV,05:30.1,PRIN,05:34.1,,,,,,,,,,,,,Final,Compton Cup
+440,4/15/2017,MHV,2000,HOBR,05:59.5,USD,06:04.2,,,,,,,,,,,,,Final,Stanford Invitational
+441,4/15/2017,MHV,2000,ITHA,06:09.1,STLA,06:33.9,,,,,,,,,,,,,Final,Ithaca College vs. Skidmore and St. Lawr
+442,4/15/2017,MHV,2000,MINN,06:23.5,MSOE,06:35.6,,,,,,,,,,,,,Final,University of Wisconsin vs. University o
+443,4/15/2017,MHV,2000,MIT,06:29.8,WPI,06:33.2,WILL,06:37.7,ROCH,06:59.5,,,,,,,,,Final,Donahue Cup
+444,4/15/2017,MHV,2000,NAVY,05:36.0,SYRA,05:37.1,CORN,05:40.7,,,,,,,,,,,Final,Goes Trophy and Stagg Cup
+445,4/15/2017,MHV,2000,NWST,07:06.3,OHUN,07:09.8,AUBN,07:35.5,,,,,,,,,,,Final,SIRA Championship (Saturday)
+446,4/15/2017,MHV,2000,OC,06:01.6,UCDV,06:07.0,,,,,,,,,,,,,Final,Stanford Invitational
+447,4/15/2017,MHV,2000,OKC,06:15.1,MARI,06:16.7,ND,06:20.1,PURD,06:21.8,JAX,06:25.9,STET,06:31.4,,,,,Final,SIRA Championship (Saturday)
+448,4/15/2017,MHV,2000,ORGN,06:42.4,WWAS,06:50.9,SONO,07:00.0,PUGS,07:00.3,,,,,,,,,Final,Collegiate Covered Bridge Regatta
+449,4/15/2017,MHV,2000,ORST,05:55.4,SCLA,05:59.2,,,,,,,,,,,,,Final,Stanford Invitational
+450,4/15/2017,MHV,2000,RIT,06:11.6,HAML,06:19.7,,,,,,,,,,,,,Final,Hamilton College vs. RIT
+451,4/15/2017,MHV,2000,SACS,07:04.2,LECL,07:04.8,AZST,07:19.6,HUMS,07:20.9,,,,,,,,,Final,Collegiate Covered Bridge Regatta
+452,4/15/2017,MHV,2000,STAN,05:43.4,HOBR,05:54.2,,,,,,,,,,,,,Final,Stanford Invitational
+453,4/15/2017,MHV,2000,TUFT,05:57.0,UNH,06:16.0,,,,,,,,,,,,,Final,"Tufts, Bates, Wesleyan, UNH (2nd round)"
+454,4/15/2017,MHV,2000,UGA,06:25.5,WICH,06:27.9,TULN,06:33.1,HIPT,06:38.6,COLO,06:39.7,CLEM,06:46.5,,,,,Final,SIRA Championship (Saturday)
+455,4/15/2017,MHV,2000,VASS,06:31.0,ALBY,07:06.0,,,,,,,,,,,,,Final,"Vassar College vs. Sarah Lawrence Women,"
+456,4/15/2017,MHV,2000,WASH,05:35.8,STAN,05:53.6,,,,,,,,,,,,,Final,Stanford Invitational
+457,4/15/2017,MHV,2000,WASU,06:25.8,VAND,06:26.0,TEX,06:27.9,ALAB,06:28.4,DEPA,06:28.4,FLA,06:28.4,,,,,Final,SIRA Championship (Saturday)
+458,4/15/2017,MHV,2000,WESL,06:06.0,UNH,06:11.0,,,,,,,,,,,,,Final,"Tufts, Bates, Wesleyan, UNH (1st round)"
+459,4/15/2017,MHV,2000,WISC,05:44.8,ORST,05:51.7,,,,,,,,,,,,,Final,Stanford Invitational
+460,4/15/2017,MHV,2000,YALE,05:35.3,PENN,05:45.2,COLU,05:51.1,,,,,,,,,,,Final,Blackwell Cup
+461,4/15/2017,MHV,2000,DREX,06:16.2,UCSD,06:26.3,LEHI,06:31.1,GONZ,06:42.3,STMD,07:05.9,,,,,,,Heat,The Kerr Cup
+462,4/15/2017,MHV,2000,FLTC,05:59.0,UNC,06:00.7,ND,06:01.8,OKC,06:08.7,TEX,06:17.1,ALAB,06:24.3,,,,,Heat,SIRA Championship (Saturday)
+463,4/15/2017,MHV,2000,MICH,06:18.8,ARMY,06:25.9,BUCK,06:31.9,VILN,06:49.6,FRMA,07:00.8,,,,,,,Heat,The Kerr Cup
+464,4/15/2017,MHV,2000,ORGN,06:35.9,PUGS,06:54.0,HUMS,07:09.3,,,,,,,,,,,Heat,Collegiate Covered Bridge Regatta
+465,4/15/2017,MHV,2000,STJO,06:14.3,DELA#,06:22.3,COLG,06:33.3,LOYO,07:15.4,WV,07:50.7,,,,,,,Heat,The Kerr Cup
+466,4/15/2017,MHV,2000,TEMP,06:01.6,DELA,06:09.8,JAX,06:12.3,STET,06:18.3,DEPA,06:22.9,WASU,06:31.5,,,,,Heat,SIRA Championship (Saturday)
+467,4/15/2017,MHV,2000,UVA,05:59.9,GATC,06:02.1,MARI,06:02.6,PURD,06:14.4,FLA,06:18.8,VAND,06:30.9,,,,,Heat,SIRA Championship (Saturday)
+468,4/15/2017,MHV,2000,WWAS,06:34.1,SONO,06:38.8,LECL,06:39.2,SACS,06:41.0,AZST,06:52.7,,,,,,,Heat,Collegiate Covered Bridge Regatta
+469,4/15/2017,MLV,2000,CORN,05:40.1,PRIN,05:42.0,,,,,,,,,,,,,Final,Platt Cup
+470,4/15/2017,MLV,2000,HARV,06:29.9,DART,06:39.9,MIT,06:45.2,,,,,,,,,,,Final,Biglin Bowl
+471,4/15/2017,MLV,2000,NAVY,06:01.1,GEOR,06:10.8,,,,,,,,,,,,,Final,John J Forster Cup
+472,4/15/2017,MLV,2000,TEMP,06:13.3,PURD,06:19.9,UGA,06:43.6,,,,,,,,,,,Final,SIRA Championship (Saturday)
+473,4/15/2017,MLV,2000,YALE,05:44.1,PENN,05:46.1,COLU,05:50.0,,,,,,,,,,,Final,Marcellus Hartley Dodge Cup
+474,4/15/2017,WHV,1900,COLB,05:53.2,MALW,06:09.1,CSTG,06:16.7,,,,,,,,,,,Final,"UMass Lowell, Colby, Coast Guard"
+475,4/15/2017,WHV,2000,BATE,06:37.3,WESL,06:41.4,,,,,,,,,,,,,Final,Bates vs Wesleyan
+476,4/15/2017,WHV,2000,BATE,06:42.0,TUFT,06:46.0,,,,,,,,,,,,,Final,"Tufts, Bates"
+477,4/15/2017,WHV,2000,BRWN,07:08.4,CORN,07:36.6,,,,,,,,,,,,,Final,Dunn Bowl
+478,4/15/2017,WHV,2000,BRYN,07:21.4,FRMA,07:29.6,NYU,07:46.0,JOWA,07:46.7,STMD,07:56.7,,,,,,,Final,The Kerr Cup
+479,4/15/2017,WHV,2000,COLO,07:22.3,CLEC,07:26.0,WLMY,07:27.0,UGA,07:28.8,FLA,07:39.5,GATC,07:43.2,,,,,Final,SIRA Championship (Saturday)
+480,4/15/2017,WHV,2000,CONN,07:38.1,HC,07:55.7,,,,,,,,,,,,,Final,Holy Cross vs. UConn
+481,4/15/2017,WHV,2000,DREX,06:58.4,TEMP,06:59.9,FORD,07:03.3,MRST,07:05.4,DUQN,07:12.3,LEHI,07:20.0,,,,,Final,The Kerr Cup
+482,4/15/2017,WHV,2000,HAML,07:09.8,TRIN,07:28.7,,,,,,,,,,,,,Final,Trinity v Hamilton
+483,4/15/2017,WHV,2000,ITHA,06:38.6,SMIT,07:03.6,,,,,,,,,,,,,Final,"Ithaca, Skidmore, Smith, St. Lawrence"
+484,4/15/2017,WHV,2000,ITHA,06:40.4,SKID,07:31.1,,,,,,,,,,,,,Final,"Ithaca, Skidmore, Smith, St. Lawrence"
+485,4/15/2017,WHV,2000,KAST,06:44.9,OLDD,06:47.2,FLTC,06:50.0,JAX,06:51.0,PURD,07:09.8,WICH,07:23.2,,,,,Final,SIRA Championship (Saturday)
+486,4/15/2017,WHV,2000,OHST,06:20.0,MICH,06:24.8,DUKE,06:29.8,ND,06:32.1,,,,,,,,,Final,"Ohio State vs. Michigan, Duke, and Notre"
+487,4/15/2017,WHV,2000,PRIN,06:12.4,YALE,06:13.6,,,,,,,,,,,,,Final,Carola B. Eisenberg Cup
+488,4/15/2017,WHV,2000,PURD,07:40.4,DEPA,07:45.0,TULN,07:52.6,TXAM,07:58.1,LBTY,07:59.3,,,,,,,Final,SIRA Championship (Saturday)
+489,4/15/2017,WHV,2000,RIT,06:57.3,WLSM,07:00.1,,,,,,,,,,,,,Final,RIT v William Smith
+490,4/15/2017,WHV,2000,RIT,07:01.7,TRIN,07:18.0,,,,,,,,,,,,,Final,RIT v Trinity
+491,4/15/2017,WHV,2000,SMIT,06:58.3,STLA,06:58.8,,,,,,,,,,,,,Final,"Ithaca, Skidmore, Smith, St. Lawrence"
+492,4/15/2017,WHV,2000,SPAC,08:03.6,AZST,08:30.9,SONO,08:45.5,,,,,,,,,,,Final,Collegiate Covered Bridge Regatta
+493,4/15/2017,WHV,2000,STET,07:28.4,ROLL,07:34.3,,,,,,,,,,,,,Final,SIRA Championship (Saturday)
+494,4/15/2017,WHV,2000,STLA,07:09.8,SKID,07:39.0,,,,,,,,,,,,,Final,"Ithaca, Skidmore, Smith, St. Lawrence"
+495,4/15/2017,WHV,2000,SYRA,06:23.9,RADC,06:28.9,DART,06:41.7,,,,,,,,,,,Final,Syracuse vs. Radcliffe and Dartmouth
+496,4/15/2017,WHV,2000,TUFT,06:36.5,WELL,06:41.4,,,,,,,,,,,,,Final,Tufts vs Wellesley
+497,4/15/2017,WHV,2000,UNIO,07:50.0,RPI,08:07.0,,,,,,,,,,,,,Final,"Union, RPI Dual Meet"
+498,4/15/2017,WHV,2000,UPOR,07:24.3,WWAS,07:29.8,UCSD,07:38.6,HUMS,07:39.8,SEAT,07:55.2,,,,,,,Final,Collegiate Covered Bridge Regatta
+499,4/15/2017,WHV,2000,URI,07:05.2,BU,07:07.1,BC,07:25.5,,,,,,,,,,,Final,"Boston College, Boston University, Rhode"
+500,4/15/2017,WHV,2000,VASS,07:34.0,ALBY,09:01.0,,,,,,,,,,,,,Final,"Vassar College vs. Sarah Lawrence Women,"
+501,4/15/2017,WHV,2000,VILN,07:06.1,WASC,07:07.9,COLG,07:15.7,ARMY,07:23.2,PHIL,07:23.2,LOYO,07:48.6,,,,,Final,The Kerr Cup
+502,4/15/2017,WHV,2000,WESL,06:38.0,WELL,06:47.0,,,,,,,,,,,,,Final,"Wellesley, Wesleyan"
+503,4/15/2017,WHV,2000,WILL,07:25.2,WPI,07:39.0,ROCH,07:55.3,SIMM,08:00.6,CONC,08:01.6,,,,,,,Final,"Conn College, URochester, Simmons, Willi"
+504,4/15/2017,WHV,2000,WLSM,06:59.7,HAML*,07:03.2,,,,,,,,,,,,,Final,Wm Smith v Hamilton
+505,4/15/2017,WHV,2000,BRYN,07:44.9,JOWA,07:50.5,CABR,09:01.3,,,,,,,,,,,Heat,The Kerr Cup
+506,4/15/2017,WHV,2000,COLO,07:11.2,WLMY,07:15.4,FLA,07:20.8,PURD,07:32.1,TULN,07:44.6,,,,,,,Heat,SIRA Championship (Saturday)
+507,4/15/2017,WHV,2000,DREX,07:11.8,LEHI,07:16.8,VILN,07:20.0,LOYO,07:46.4,LASL,07:57.6,,,,,,,Heat,The Kerr Cup
+508,4/15/2017,WHV,2000,FORD,07:19.5,DUQN,07:22.8,WASC,07:22.9,PHIL,07:53.6,,,,,,,,,Heat,The Kerr Cup
+509,4/15/2017,WHV,2000,FRMA,07:56.5,STMD,08:05.2,,,,,,,,,,,,,Heat,The Kerr Cup
+510,4/15/2017,WHV,2000,KAST,06:53.6,JAX,07:01.3,WICH,07:12.8,ROLL,07:15.9,,,,,,,,,Heat,SIRA Championship (Saturday)
+511,4/15/2017,WHV,2000,OLDD,06:54.4,FLTC,07:01.1,PURD,07:07.1,STET,07:17.9,,,,,,,,,Heat,SIRA Championship (Saturday)
+512,4/15/2017,WHV,2000,TEMP,07:17.5,MRST,07:28.5,COLG,07:38.8,ARMY,07:39.6,ROMO,07:57.4,,,,,,,Heat,The Kerr Cup
+513,4/15/2017,WHV,2000,UCSD,07:00.6,WWAS,07:02.1,HUMS,07:14.9,SPAC,07:33.4,SONO,08:13.0,,,,,,,Heat,Collegiate Covered Bridge Regatta
+514,4/15/2017,WHV,2000,UGA,07:11.2,CLEC,07:16.8,GATC,07:23.6,DEPA,07:42.8,TXAM,07:46.2,LBTY,07:56.8,,,,,Heat,SIRA Championship (Saturday)
+515,4/15/2017,WHV,2000,UPOR,07:03.5,SEAT,07:14.8,ORGN,07:32.5,AZST,07:46.6,,,,,,,,,Heat,Collegiate Covered Bridge Regatta
+516,4/15/2017,WLV,2000,BU,07:03.2,RADC,07:06.1,MIT,07:16.4,,,,,,,,,,,Final,Muri Cup/Beanpot
+517,4/15/2017,WLV,2000,PRIN,06:32.2,GEOR,06:38.2,,,,,,,,,,,,,Final,Class of 2006 Cup
+518,4/21/2017,WHV,1700,SDSU,06:24.3,UCSD,06:37.3,,,,,,,,,,,,,Final,Patty Wyatt Perpetual Trophy: San Diego
+519,4/21/2017,WHV,2000,ALAB,06:43.4,SMU,06:47.7,,,,,,,,,,,,,Final,SMU vs. Alabama
+520,4/22/2017,MHV,2,MIT,06:02.0,BATE,06:04.0,,,,,,,,,,,,,Final,MIT vs. Bates
+521,4/22/2017,MHV,2000,BUCK,06:05.2,ARMY,06:06.1,UMAS,06:24.2,PSU,06:32.5,,,,,,,,,Final,Faunce Cup (Penn State vs ARMY)
+522,4/22/2017,MHV,2000,CAL,05:40.8,ORST,05:45.9,,,,,,,,,,,,,Final,Oregon State vs. California
+523,4/22/2017,MHV,2000,CAL,06:10.7,WASH,06:12.6,,,,,,,,,,,,,Final,Cal Dual
+524,4/22/2017,MHV,2000,DART,05:14.8,BRWN,05:15.7,,,,,,,,,,,,,Final,Atalanta Cup
+525,4/22/2017,MHV,2000,GMAS,06:37.5,VCOM,06:44.4,MAWA,06:48.6,WLMY,07:23.6,,,,,,,,,Final,Rocketts Landing Collegiate Regatta
+526,4/22/2017,MHV,2000,GONZ,06:29.9,WAST,06:36.8,,,,,,,,,,,,,Final,Fawley Cup
+527,4/22/2017,MHV,2000,GW,05:51.9,GEOR,05:56.5,RUTG,06:17.0,,,,,,,,,,,Final,George's Cup between GW and Georgetown
+528,4/22/2017,MHV,2000,HAML,06:10.8,ROCH,06:19.9,STLA,06:31.5,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence Univ.
+529,4/22/2017,MHV,2000,HARV,05:27.0,PENN,05:35.3,NAVY,05:36.6,,,,,,,,,,,Final,Adams Cup
+530,4/22/2017,MHV,2000,HARV,05:42.9,CORN,05:58.9,,,,,,,,,,,,,Final,Harvard vs. Cornell
+531,4/22/2017,MHV,2000,LBTY,07:04.7,CNEW,07:49.2,RICH,08:02.8,,,,,,,,,,,Final,Rocketts Landing Collegiate Regatta
+532,4/22/2017,MHV,2000,MERC,05:57.1,LEHI,05:57.4,,,,,,,,,,,,,Final,Lehigh University vs. Mercyhurst
+533,4/22/2017,MHV,2000,MIDD,05:49.6,AMHR,06:06.7,MALW,06:10.4,,,,,,,,,,,Final,River Hawk Challenge
+534,4/22/2017,MHV,2000,MIST,06:20.8,OHST,06:26.4,MIST#,06:52.0,,,,,,,,,,,Final,States Cup
+535,4/22/2017,MHV,2000,SKID,06:30.0,RPI,06:31.0,VASS,06:36.0,ALBY,06:55.0,,,,,,,,,Final,"Albany vs. Skidmore, Vassar, and RPI"
+536,4/22/2017,MHV,2000,STJO,05:39.9,DREX,05:40.1,TEMP,05:45.3,VILN,06:13.0,LASL,06:23.3,,,,,,,Final,Bergen Cup
+537,4/22/2017,MHV,2000,SYRA,05:57.1,BU,05:59.9,COLU,06:03.7,,,,,,,,,,,Final,Conlan Cup/Lusins Tophy
+538,4/22/2017,MHV,2000,UCSB,06:13.0,UCLA,06:19.0,,,,,,,,,,,,,Final,UCLA and UCSB Duel
+539,4/22/2017,MHV,2000,URI,06:58.1,BC,07:10.0,,,,,,,,,,,,,Final,University of Rhode Island vs. Boston Co
+540,4/22/2017,MHV,2000,WESL,06:12.3,WILL,06:12.9,,,,,,,,,,,,,Final,Little Three Regatta
+541,4/22/2017,MHV,2000,WPI,05:58.8,TRIN,06:05.1,COLB,06:07.1,ITHA,06:08.4,UNH,06:23.1,,,,,,,Final,"WPI vs. Trinity, Ithaca, Conn College, U"
+542,4/22/2017,MHV,2000,YALE,05:49.2,PRIN,05:56.0,CORN,06:05.7,,,,,,,,,,,Final,Carnegie Cup
+543,4/22/2017,MLV,2000,CORN,06:06.1,COLU,06:08.7,MIT,06:35.1,,,,,,,,,,,Final,Geiger Cup
+544,4/22/2017,MLV,2000,HARV,05:51.6,NAVY,05:57.5,DELA,05:57.8,,,,,,,,,,,Final,Haines Cup
+545,4/22/2017,MLV,2000,PRIN,05:37.1,PENN,05:38.5,GEOR,05:42.2,,,,,,,,,,,Final,Wood-Hammond Cup
+546,4/22/2017,MLV,2000,YALE,05:42.1,DART,05:54.0,,,,,,,,,,,,,Final,Durand Cup
+547,4/22/2017,WHV,2000,AMHR,06:42.9,MIDD,07:04.3,,,,,,,,,,,,,Final,River Hawk Challenge
+548,4/22/2017,WHV,2000,ARMY,07:11.4,PSU,07:21.4,,,,,,,,,,,,,Final,Faunce Cup (Penn State vs ARMY)
+549,4/22/2017,WHV,2000,CAL,06:30.7,WASH,06:38.3,,,,,,,,,,,,,Final,Cal Dual
+550,4/22/2017,WHV,2000,DAYT,05:24.4,WV,05:24.8,DUQN,05:25.1,,,,,,,,,,,Final,"West Virginia University, University of"
+551,4/22/2017,WHV,2000,DRAK,07:15.1,CREI,07:17.9,,,,,,,,,,,,,Final,"Creighton, Drake"
+552,4/22/2017,WHV,2000,DREX,06:34.0,TEMP,06:40.0,VILN,06:41.1,STJO,06:45.6,PHIL,06:59.9,LASL,07:19.3,,,,,Final,Bergen Cup
+553,4/22/2017,WHV,2000,ITHA,06:40.3,WPI,06:50.4,UNH,06:56.1,COLB,06:57.1,WLSM,06:57.6,TRIN,07:21.2,,,,,Final,"Colby, Conn College, Ithaca, Trinity, UN"
+554,4/22/2017,WHV,2000,JOWA,08:18.0,BRYA,09:03.6,,,,,,,,,,,,,Final,"Bryant University vs. Johnson & Whales,"
+555,4/22/2017,WHV,2000,LEHI,06:45.2,MERC,06:55.5,,,,,,,,,,,,,Final,Lehigh vs Mercyhurst
+556,4/22/2017,WHV,2000,MIST,06:25.6,NORT,06:25.9,UMAS,06:41.0,BU,06:48.9,,,,,,,,,Final,"Northeastern, Michigan State, Boston Uni"
+557,4/22/2017,WHV,2000,MTHO,05:53.3,CSTG,06:16.0,,,,,,,,,,,,,Final,Coast Guard vs. Mount Holyoke
+558,4/22/2017,WHV,2000,PRIN,05:50.1,DART,06:01.9,,,,,,,,,,,,,Final,"Dartmouth, Princeton, Class of 1984 Plaq"
+559,4/22/2017,WHV,2000,URI,06:33.8,MIT,06:37.7,HC,06:51.5,,,,,,,,,,,Final,"MIT, URI, Holy Cross"
+560,4/22/2017,WHV,2000,VASS,06:53.7,SKID,07:09.3,RPI,07:32.8,,,,,,,,,,,Final,"Albany vs. Skidmore, Vassar, and RPI"
+561,4/22/2017,WHV,2000,WESL,06:58.4,WILL,07:04.2,,,,,,,,,,,,,Final,Little Three Regatta: Williams vs.Wesley
+562,4/22/2017,WHV,2000,WLMY,08:11.3,VCOM,08:33.3,MAWA,09:19.7,CNEW,09:56.4,,,,,,,,,Final,Rocketts Landing Collegiate Regatta
+563,4/22/2017,WHV,2000,YALE,06:19.0,USC,06:21.6,RADC,06:33.9,,,,,,,,,,,Final,"Harvard-Radcliffe, Yale, USC"
+564,4/22/2017,WHV,2000,INDI,06:25.9,WAST,06:26.5,UVA,06:28.2,OKLA,06:29.8,UCLA,06:32.6,COLU,06:38.1,CORN,06:48.4,,,Heat,Clemson Invitational (Saturday pm)
+565,4/22/2017,WHV,2000,ITHA,06:47.3,COLB,06:57.9,UNH,07:01.0,CONC,07:33.7,,,,,,,,,Heat,"Colby, Conn College, Ithaca, Trinity, UN"
+566,4/22/2017,WHV,2000,OHST,06:19.4,SYRA,06:26.7,TENN,06:33.4,PENN,06:37.1,LOUV,06:37.8,CLEM,06:42.4,MINN,06:42.6,,,Heat,Clemson Invitational (Saturday pm)
+567,4/22/2017,WHV,2000,OHST,06:20.6,WAST,06:26.2,DUKE,06:30.4,OKLA,06:31.7,ORST,06:39.7,PENN,06:40.1,CORN,06:46.2,,,Heat,Clemson Invitational (Saturday am)
+568,4/22/2017,WHV,2000,TEX,06:17.5,INDI,06:24.1,SYRA,06:28.0,COLU,06:36.5,TENN,06:37.5,GONZ,06:38.4,CLEM,06:39.8,,,Heat,Clemson Invitational (Saturday am)
+569,4/22/2017,WHV,2000,TEX,06:19.3,WISC,06:25.9,CFLA,06:31.4,DUKE,06:33.5,GONZ,06:34.8,ORST,06:36.4,NAVY,06:46.7,,,Heat,Clemson Invitational (Saturday pm)
+570,4/22/2017,WHV,2000,WISC,06:20.4,UVA,06:23.0,CFLA,06:26.7,UCLA,06:29.7,LOUV,06:34.6,NAVY,06:35.6,MINN,06:43.6,,,Heat,Clemson Invitational (Saturday am)
+571,4/22/2017,WHV,2000,WPI,06:52.2,WLSM,06:54.0,TRIN,07:09.4,,,,,,,,,,,Heat,"Colby, Conn College, Ithaca, Trinity, UN"
+572,4/22/2017,WLV,2000,RADC,06:39.1,PRIN,06:40.9,,,,,,,,,,,,,Final,Class of '99 Cup
+573,4/23/2017,MHV,2000,ARMY,06:08.1,RIT,06:12.4,MRST,06:18.9,FAIR,06:36.2,VASS,07:05.1,,,,,,,Final,President's Cup (Between USMA and Marist
+574,4/23/2017,MHV,2000,BATE,06:35.0,COLB,06:50.3,BOWD,07:01.1,,,,,,,,,,,Final,21st Presidents Cup
+575,4/23/2017,MHV,2000,HC,05:53.5,TRIN,05:58.3,WESL,06:02.5,,,,,,,,,,,Final,"College of the Holy Cross vs. Trinity, W"
+576,4/23/2017,MHV,2000,MIDD,06:05.6,UVM,06:14.9,,,,,,,,,,,,,Final,Vermont Cup
+577,4/23/2017,MHV,2000,WPI,05:57.8,TUFT,06:14.1,,,,,,,,,,,,,Final,Baker Cup
+578,4/23/2017,MLV,2000,COLU,06:22.0,DART,06:29.0,MERC,06:40.6,,,,,,,,,,,Final,Subin Cup
+579,4/23/2017,WHV,2000,BATE,07:35.1,COLB,07:58.2,BOWD,08:10.5,,,,,,,,,,,Final,"Bates, Bowdoin, Colby - 21st Presidents"
+580,4/23/2017,WHV,2000,BRWN,05:53.8,USC,05:58.5,,,,,,,,,,,,,Final,Brown vs. USC
+581,4/23/2017,WHV,2000,BU,06:35.8,BUCK,06:44.4,HC,06:57.3,,,,,,,,,,,Final,"Holy Cross vs. Boston Univ., Bucknell"
+582,4/23/2017,WHV,2000,GONZ,06:40.4,NAVY,06:44.0,ORST,06:46.0,MINN,06:47.3,CLEM,06:48.5,CORN,06:49.4,,,,,Final,Clemson Invitational (Sunday A.M.)
+583,4/23/2017,WHV,2000,HAML,06:56.1,STLA,07:02.6,ROCH,07:11.3,,,,,,,,,,,Final,"St. Lawrence Univ, Univ. of Rochester, H"
+584,4/23/2017,WHV,2000,HAML,06:59.1,UNIO,07:48.7,,,,,,,,,,,,,Final,"Union, D'Youville and Hamilton"
+585,4/23/2017,WHV,2000,KANS,06:32.2,GW,06:36.5,DELA,06:47.5,,,,,,,,,,,Final,"Mason Invite: Eastern Michigan, George M"
+586,4/23/2017,WHV,2000,MIST,06:34.2,RADC,06:39.1,BC,06:53.3,,,,,,,,,,,Final,"Boston College, Harvard-Radcliffe, Michi"
+587,4/23/2017,WHV,2000,OLDD,06:45.1,DAYT,06:51.6,EMIC,06:56.7,,,,,,,,,,,Final,"Mason Invite: Eastern Michigan, George M"
+588,4/23/2017,WHV,2000,RIT,06:38.5,ARMY,07:00.2,VASS,07:20.0,,,,,,,,,,,Final,"RIT vs. Army, Vassar"
+589,4/23/2017,WHV,2000,SACH,08:01.3,IONA,08:30.3,MANH,08:32.8,,,,,,,,,,,Final,SHU Invitational: Sacred Heart; Iona; Ma
+590,4/23/2017,WHV,2000,TEX,06:15.1,OHST,06:21.3,WAST,06:22.4,SYRA,06:23.8,WISC,06:25.4,INDI,06:25.6,UVA,06:28.4,,,Final,Clemson Invitational (Sunday A.M.)
+591,4/23/2017,WHV,2000,TUFT,06:44.7,WPI,06:46.8,WLSM,06:55.8,CLRK,07:09.1,SKID,07:30.3,,,,,,,Final,"Clark, Skidmore, Tufts, William Smith, W"
+592,4/23/2017,WHV,2000,UCLA,06:33.4,CFLA,06:34.4,DUKE,06:34.5,OKLA,06:34.5,TENN,06:38.4,LOUV,06:39.9,COLU,06:41.7,,,Final,Clemson Invitational (Sunday A.M.)
+593,4/23/2017,WHV,2000,UVM,07:02.0,MIDD,07:09.6,,,,,,,,,,,,,Final,Vermont Cup
+594,4/23/2017,WHV,2000,WV,06:41.1,GMAS,06:47.4,BUFF,06:47.6,,,,,,,,,,,Final,"Mason Invite: Eastern Michigan, George M"
+595,4/23/2017,WHV,2000,DELA,06:47.3,EMIC,06:48.6,BUFF,07:09.3,,,,,,,,,,,Heat,"Mason Invite: Eastern Michigan, George M"
+596,4/23/2017,WHV,2000,GW,06:52.7,DAYT,06:56.0,GMAS,06:59.2,,,,,,,,,,,Heat,"Mason Invite: Eastern Michigan, George M"
+597,4/23/2017,WHV,2000,KANS,06:39.6,OLDD,06:48.0,WV,06:52.9,,,,,,,,,,,Heat,"Mason Invite: Eastern Michigan, George M"
+598,4/23/2017,WHV,2020,PACL,07:05.1,LECL,07:13.9,PUGS,07:26.7,PACI,08:07.9,,,,,,,,,Final,Northwest Conference Championships: L &
+599,4/28/2017,MHV,2000,HOBR,06:39.7,RIT,06:47.3,UNIO,06:58.4,ROCH,07:00.1,STLA,07:11.3,,,,,,,Final,Liberty League Championships
+600,4/28/2017,WHV,1950,KANS,06:00.0,KAST,06:00.9,,,,,,,,,,,,,Final,"Sunflower Showdown: Kansas, Kansas State"
+601,4/28/2017,WHV,2000,FLTC,06:40.6,BARR,06:47.7,NOVS,06:54.0,ROLL,07:42.8,TAMP,08:02.6,,,,,,,Final,"Barry, Florida Tech, Nova Southeastern,"
+602,4/28/2017,WHV,2000,RIT,07:14.1,WLSM,07:26.8,STLA,07:40.0,ROCH,07:48.5,SKID,07:54.4,UNIO,08:29.6,STJF,08:44.5,,,Final,Liberty League Championships
+603,4/29/2017,MHV,2000,BU,05:54.2,WISC,05:55.5,MIT,06:13.2,,,,,,,,,,,Final,Jablonic Cup (Boston/Wisconsin) Cochrane
+604,4/29/2017,MHV,2000,CAL,05:41.6,STAN,05:48.9,,,,,,,,,,,,,Final,Big Row: Cal vs Stanford
+605,4/29/2017,MHV,2000,COLB,06:12.1,UNH,06:21.5,UVM,06:23.9,,,,,,,,,,,Final,"Colby College vs. UNH, UVM"
+606,4/29/2017,MHV,2000,COLG,05:52.8,HAML,06:03.1,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+607,4/29/2017,MHV,2000,COLU#,05:40.1,DREX,05:44.8,,,,,,,,,,,,,Final,Columbia University vs. Drexel Universit
+608,4/29/2017,MHV,2000,CONN,06:53.9,FAIR,06:58.6,GENS,07:12.8,IONA,07:21.4,RPI,07:32.0,,,,,,,Final,Spring Metropolitan Championship Regatta
+609,4/29/2017,MHV,2000,CORN,05:48.8,PENN,05:52.7,,,,,,,,,,,,,Final,Madeira Cup
+610,4/29/2017,MHV,2000,DART,05:58.6,SYRA,06:01.2,,,,,,,,,,,,,Final,Packard Cup
+611,4/29/2017,MHV,2000,FRMA,06:39.7,MAWA,06:45.1,WASC,06:55.9,STMD,06:59.7,,,,,,,,,Final,Mid-Atlantic Rowing Conference Champions
+612,4/29/2017,MHV,2000,HARV,05:44.3,NORT,05:51.4,,,,,,,,,,,,,Final,Smith Cup
+613,4/29/2017,MHV,2000,HC,06:16.4,BATE,06:17.1,WILL,06:29.7,,,,,,,,,,,Final,"Holy Cross vs. Williams College, Bates"
+614,4/29/2017,MHV,2000,ITHA,05:59.7,HAML,06:01.3,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+615,4/29/2017,MHV,2000,MARI,06:09.4,BUCK,06:12.6,GMAS,06:32.0,LAFA,06:40.4,PSU,06:40.9,LOYO,07:07.8,,,,,Final,Mid-Atlantic Rowing Conference Champions
+616,4/29/2017,MHV,2000,MRST,05:51.1,COLG,05:52.2,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+617,4/29/2017,MHV,2000,MRST,05:52.4,ITHA,06:06.7,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+618,4/29/2017,MHV,2000,PRIN,05:37.0,BRWN,05:40.0,,,,,,,,,,,,,Final,Content Cup
+619,4/29/2017,MHV,2000,STJO,05:44.9,RUTG,05:56.8,,,,,,,,,,,,,Final,Rutgers University vs. St. Joseph's Univ
+620,4/29/2017,MHV,2000,WPI,06:23.0,CSTG,06:34.3,UMAS,06:36.3,BC,06:45.5,,,,,,,,,Final,"WPI vs. Boston College, USCGA, UMass Amh"
+621,4/29/2017,MHV,2000,BUCK,06:33.7,LOYO,06:41.1,PSU,06:43.8,MAWA,06:46.5,STMD,07:00.5,,,,,,,Heat,Mid-Atlantic Rowing Conference Champions
+622,4/29/2017,MHV,2000,CONN,06:47.5,IONA,06:49.1,RPI,06:56.8,,,,,,,,,,,Heat,Spring Metropolitan Championship Regatta
+623,4/29/2017,MHV,2000,FAIR,06:34.0,GENS,06:42.5,BING,06:55.9,STEV,07:40.3,,,,,,,,,Heat,Spring Metropolitan Championship Regatta
+624,4/29/2017,MHV,2000,GV,06:09.3,ND,06:16.1,VAND,06:18.8,DEPA,06:23.8,UCHI,06:33.1,MARQ,07:01.1,,,,,Heat,MACRA Championship Heats
+625,4/29/2017,MHV,2000,MARI,06:36.6,GMAS,06:49.1,LAFA,06:52.6,FRMA,06:53.5,WASC,07:30.5,,,,,,,Heat,Mid-Atlantic Rowing Conference Champions
+626,4/29/2017,MHV,2000,MICH,06:07.2,MERC,06:16.0,MIST,06:22.0,OHST,06:23.0,CWES,06:33.4,MIOH,07:03.5,,,,,Heat,MACRA Championship Heats
+627,4/29/2017,MHV,2000,SCLA,05:45.2,UCIR,05:49.2,OC,05:53.5,ORGN,05:55.1,SDSU,06:07.8,LECL,06:13.2,HUMS,06:17.9,,,Heat,WIRA Championships (Saturday)
+628,4/29/2017,MHV,2000,UCSB,05:42.4,UCSD,05:42.9,UCDV,05:51.1,UCLA,05:53.4,WWAS,06:01.3,WAST,06:09.1,CSLB,06:16.7,,,Heat,WIRA Championships (Saturday)
+629,4/29/2017,MLV,2000,CORN,05:52.9,DART,06:10.4,,,,,,,,,,,,,Final,Baggaley Bowl
+630,4/29/2017,MLV,2000,DELA,06:05.2,TEMP,06:09.3,MIT,06:11.5,,,,,,,,,,,Final,University of Delaware vs. MIT & Temple
+631,4/29/2017,MLV,2000,HARV,05:55.6,YALE,05:57.5,PRIN,05:59.9,,,,,,,,,,,Final,Goldthwait and Vogel Cups
+632,4/29/2017,MLV,2000,PENN,06:01.7,NAVY*,06:13.5,,,,,,,,,,,,,Final,Callow Cup and 1919 Points Trophy
+633,4/29/2017,MLV,2000,PENN,06:06.2,MIT,06:26.0,,,,,,,,,,,,,Final,University of Pennsylvania vs. Massachus
+634,4/29/2017,MLV,2000,MERC,06:31.3,MIST,06:39.3,,,,,,,,,,,,,Heat,MACRA Championship Heats
+635,4/29/2017,WHV,2000,BRWN,06:14.9,YALE,06:17.6,,,,,,,,,,,,,Final,Case and Boucher Women's Crew Cup
+636,4/29/2017,WHV,2000,CAL,06:16.9,STAN,06:20.0,,,,,,,,,,,,,Final,Big Row: Cal vs Stanford
+637,4/29/2017,WHV,2000,CFLA,06:50.5,UMIA,07:01.2,,,,,,,,,,,,,Final,"Central Florida, Miami"
+638,4/29/2017,WHV,2000,COLG,06:40.4,HAML,06:40.6,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+639,4/29/2017,WHV,2000,DART,06:50.6,CORN,06:58.8,,,,,,,,,,,,,Final,Parents Cup
+640,4/29/2017,WHV,2000,DELA,07:07.7,WV,07:17.8,,,,,,,,,,,,,Final,Delaware vs. West Virginia
+641,4/29/2017,WHV,2000,GEOR,06:27.2,UNC,06:33.6,,,,,,,,,,,,,Final,"Georgetown University Vs UNC, Class of 2"
+642,4/29/2017,WHV,2000,INDI,06:35.6,ND,06:39.2,USD,06:43.6,DUKE,06:44.6,,,,,,,,,Final,Dale England Cup
+643,4/29/2017,WHV,2000,ITHA,06:30.4,MRST,06:49.6,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+644,4/29/2017,WHV,2000,ITHA,06:32.0,HAML,06:47.3,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+645,4/29/2017,WHV,2000,LEHI,07:24.3,HC,07:32.4,,,,,,,,,,,,,Final,Holy Cross vs. Lehigh
+646,4/29/2017,WHV,2000,LOYO,07:21.4,LAFA,07:25.7,NYU,07:33.2,PSU,07:37.8,MAWA,08:32.8,UMD,09:03.6,,,,,Final,Mid-Atlantic Rowing Conference Champions
+647,4/29/2017,WHV,2000,MRMK,07:50.3,ASSP,08:03.3,,,,,,,,,,,,,Final,"Assumption, Merrimack"
+648,4/29/2017,WHV,2000,MRST,06:43.1,COLG,06:44.4,,,,,,,,,,,,,Final,"Colgate, Ithaca, Hamilton, Marist"
+649,4/29/2017,WHV,2000,NAVY,06:50.9,TEMP,07:01.7,,,,,,,,,,,,,Final,Temple vs. Navy
+650,4/29/2017,WHV,2000,NAVY,07:06.1,DELA,07:18.4,,,,,,,,,,,,,Final,Navy vs. Delaware
+651,4/29/2017,WHV,2000,PRIN,06:15.1,SYRA,06:17.6,IOWA,06:20.1,PENN,06:35.5,,,,,,,,,Final,"University of Pennsylvania, Syracuse Uni"
+652,4/29/2017,WHV,2000,SACH,08:03.6,FAIR,08:06.2,GENS,08:19.9,IONA,08:20.6,MANH,08:45.6,BING,09:13.7,,,,,Final,Spring Metropolitan Championship Regatta
+653,4/29/2017,WHV,2000,TEMP,07:12.6,WV,07:20.9,,,,,,,,,,,,,Final,Temple vs. West Virginia
+654,4/29/2017,WHV,2000,TEX,06:25.1,UVA,06:36.4,,,,,,,,,,,,,Final,Virginia and Texas
+655,4/29/2017,WHV,2000,TUFT,07:02.8,MIT#,07:08.2,,,,,,,,,,,,,Final,MIT LW v. Tufts
+656,4/29/2017,WHV,2000,UNH,07:03.5,COLB,07:08.7,UVM,07:23.1,,,,,,,,,,,Final,"Colby College, UNH, UVM"
+657,4/29/2017,WHV,2000,WASC,07:08.9,BRYN,07:20.0,JOWA,07:28.1,FRMA,07:30.6,STMD,07:51.5,NPRK,08:31.5,,,,,Final,Mid-Atlantic Rowing Conference Champions
+658,4/29/2017,WHV,2000,WASH,06:45.8,WAST,06:57.0,,,,,,,,,,,,,Final,Washington at Washington State
+659,4/29/2017,WHV,2000,WELL,07:00.9,WPI,07:13.3,SMIT,07:20.0,MTHO,07:20.4,CSTG,07:34.6,CLRK,07:36.4,SIMM,07:46.0,,,Final,NEWMAC Championships
+660,4/29/2017,WHV,2000,BRYN,07:52.9,FRMA,07:55.8,STMD,08:09.4,NPRK,08:31.4,,,,,,,,,Heat,Mid-Atlantic Rowing Conference Champions
+661,4/29/2017,WHV,2000,EMIC,06:55.2,MERC,07:09.5,CINC,07:33.1,DEPA,07:40.3,UCHI,07:56.2,MIOH,07:59.2,,,,,Heat,MACRA Championship Heats
+662,4/29/2017,WHV,2000,FAIR,07:12.9,GENS,07:23.9,IONA,07:26.6,VASS,07:38.3,,,,,,,,,Heat,Spring Metropolitan Championship Regatta
+663,4/29/2017,WHV,2000,GV,07:08.9,DRAK,07:20.2,ROMO,07:34.3,MARQ,08:03.8,OHSC,08:22.4,,,,,,,Heat,MACRA Championship Heats
+664,4/29/2017,WHV,2000,PACL,06:45.0,HUMS,06:52.4,SPAC,07:02.5,PUGS,07:05.4,SONO,07:38.4,,,,,,,Heat,WIRA Championships (Saturday)
+665,4/29/2017,WHV,2000,SACH,07:25.6,BING,07:53.0,MANH,08:03.0,ALBY,09:59.9,,,,,,,,,Heat,Spring Metropolitan Championship Regatta
+666,4/29/2017,WHV,2000,STAN#,06:33.2,LOMY,06:42.6,SDSU,06:42.8,SACS,06:46.3,STMY,06:58.0,SEAT,06:58.7,SCLA,07:37.4,,,Heat,WIRA Championships (Saturday)
+667,4/29/2017,WHV,2000,UCSD,06:43.2,UCSB,06:44.1,OC,07:00.2,MILL,07:12.9,PACI,07:45.7,,,,,,,Heat,WIRA Championships (Saturday)
+668,4/29/2017,WHV,2000,WASC,07:26.1,JOWA,07:56.1,CABR,08:38.6,,,,,,,,,,,Heat,Mid-Atlantic Rowing Conference Champions
+669,4/29/2017,WHV,2000,WWAS,06:41.4,LECL,06:44.6,UCDV,06:49.6,UCIR,07:03.7,AZST,07:19.0,,,,,,,Heat,WIRA Championships (Saturday)
+670,4/30/2017,MHV,2000,BATE,06:29.8,MIDD,06:36.5,UNH,06:58.8,,,,,,,,,,,Final,Bates Invite
+671,4/30/2017,MHV,2000,COLU,06:17.4,NAVY,06:20.3,GW,06:21.6,HOBR,06:32.5,,,,,,,,,Final,Stevenson Trophy
+672,4/30/2017,MHV,2000,DELA,06:13.5,RUTG,06:21.8,,,,,,,,,,,,,Final,Rutgers University vs. University of Del
+673,4/30/2017,MHV,2000,HUMS,06:12.3,CSLB,06:13.5,,,,,,,,,,,,,Final,WIRA Championships (Sunday)
+674,4/30/2017,MHV,2000,MERC,06:01.8,MICH,06:03.5,GV,06:04.5,ND,06:05.8,VAND,06:19.8,MIST,06:20.1,,,,,Final,MACRA Championship Finals
+675,4/30/2017,MHV,2000,NORT,05:39.3,WISC,05:41.6,,,,,,,,,,,,,Final,Congram Cup and Sword of 1000 Truths
+676,4/30/2017,MHV,2000,OHST,06:20.6,DEPA,06:21.7,CWES,06:30.4,UCHI,06:31.4,MARQ,07:09.3,,,,,,,Final,MACRA Championship Finals
+677,4/30/2017,MHV,2000,ORGN,05:55.1,WWAS,06:03.2,SDSU,06:03.7,WAST,06:07.8,LECL,06:16.1,,,,,,,Final,WIRA Championships (Sunday)
+678,4/30/2017,MHV,2000,UCSB,05:42.3,UCSD,05:42.8,SCLA,05:44.8,OC,05:48.2,UCIR,05:52.1,UCDV,05:52.6,UCLA,06:01.5,,,Final,WIRA Championships (Sunday)
+679,4/30/2017,MLV,2000,MERC,06:12.2,MIST,06:53.9,,,,,,,,,,,,,Final,MACRA Championship Finals
+680,4/30/2017,MLV,2000,SONO,06:11.6,SACS,06:15.3,CAL,06:24.9,,,,,,,,,,,Final,WIRA Championships (Sunday)
+681,4/30/2017,WHV,1000,MANH,03:43.0,STEV,03:56.0,,,,,,,,,,,,,Final,Manhattan and Stevens Institute of Techn
+682,4/30/2017,WHV,2000,AMHR,06:54.3,BOWD,07:07.7,CLRK,07:22.0,CONC,07:34.2,,,,,,,,,Final,"Clark University vs Conn College, Mass M"
+683,4/30/2017,WHV,2000,AZST,07:18.3,PACI,07:30.6,SONO,07:36.9,,,,,,,,,,,Final,WIRA Championships (Sunday)
+684,4/30/2017,WHV,2000,BATE,07:14.8,UNH,07:44.6,MIDD,07:54.1,,,,,,,,,,,Final,"Bates Invite: Bates, Middlebury, UNH"
+685,4/30/2017,WHV,2000,BC,07:02.6,DREX,07:06.7,CONN,07:07.0,RUTG,07:07.0,BUCK,07:17.8,HC,07:24.1,BUFF,07:37.5,,,Final,Women's Eastern Sprints Finals
+686,4/30/2017,WHV,2000,DEPA,07:35.4,MARQ,07:41.0,MIOH,07:58.4,OHSC,08:13.3,UCHI,08:19.4,,,,,,,Final,MACRA Championship Finals
+687,4/30/2017,WHV,2000,EMIC,06:53.6,MERC,06:57.8,GV,06:59.9,DRAK,07:07.5,ROMO,07:33.9,CINC,07:43.1,,,,,Final,MACRA Championship Finals
+688,4/30/2017,WHV,2000,MICH,06:28.5,LOUV,06:42.7,,,,,,,,,,,,,Final,Michigan vs. Louisville
+689,4/30/2017,WHV,2000,RADC,06:48.5,NORT,06:52.9,COLU,06:57.4,DART,06:59.1,BU,07:07.8,MIT,07:13.5,,,,,Final,Women's Eastern Sprints Finals
+690,4/30/2017,WHV,2000,STAN#,06:18.4,SDSU,06:29.3,LOMY,06:31.1,SACS,06:32.8,SEAT,06:45.4,STMY,06:47.0,SCLA,07:12.1,,,Final,WIRA Championships (Sunday)
+691,4/30/2017,WHV,2000,UCDV,06:45.8,SPAC,06:50.4,PUGS,06:52.9,OC,06:55.7,UCIR,07:03.3,MILL,07:03.8,,,,,Final,WIRA Championships (Sunday)
+692,4/30/2017,WHV,2000,USC,06:53.1,UCLA,06:54.5,,,,,,,,,,,,,Final,UCLA vs USC Dual
+693,4/30/2017,WHV,2000,WWAS,06:23.8,UCSB,06:30.0,HUMS,06:31.9,PACL,06:33.2,UCSD,06:37.8,LECL,06:40.0,,,,,Final,WIRA Championships (Sunday)
+694,4/30/2017,WHV,2000,COLU,06:30.0,DART,06:31.1,RUTG,06:37.9,BUCK,06:44.5,,,,,,,,,Heat,Women's Eastern Sprints Heats
+695,4/30/2017,WHV,2000,NORT,06:30.8,MIT,06:34.0,DREX,06:35.5,CONN,06:43.7,,,,,,,,,Heat,Women's Eastern Sprints Heats
+696,4/30/2017,WHV,2000,RADC,06:27.4,BU,06:31.6,BC,06:33.1,HC,06:51.6,BUFF,06:54.5,,,,,,,Heat,Women's Eastern Sprints Heats
+697,4/30/2017,WLV,2000,RADC,06:43.4,WISC,06:46.7,PRIN,06:46.8,BU,06:47.6,GEOR,06:59.9,,,,,,,Final,Women's Sprints Lightweight Finals
+698,5/6/2017,MHV,2000,ARMY,06:40.6,RIT,06:45.0,HAML,06:47.6,ITHA,06:51.8,ROCH,06:56.0,STLA,07:02.6,,,,,Final,NY State Collegiate Championships 2017
+699,5/6/2017,MHV,2000,GENS,06:38.5,RPI,06:53.7,BING,07:20.0,,,,,,,,,,,Final,NY State Collegiate Championships 2017
+700,5/6/2017,MHV,2000,MIDD,06:41.4,CSTG,06:43.7,COLB,06:47.1,TRIN,06:48.6,UMAS,06:55.8,CONN,07:03.5,,,,,Final,New England Rowing Championship
+701,5/6/2017,MHV,2000,WPI,06:23.8,BATE,06:27.6,URI,06:29.4,WESL,06:33.8,WILL,06:34.8,TUFT,06:45.8,,,,,Final,New England Rowing Championship
+702,5/6/2017,MHV,2000,ARMY,06:05.3,ITHA,06:08.0,ROCH,06:14.1,GENS,06:20.4,RPI,06:33.6,,,,,,,Heat,NY State Collegiate Championships 2017
+703,5/6/2017,MHV,2000,BATE,06:39.5,WESL,06:45.1,UMAS,06:47.8,CSTG,06:48.0,UNH,06:54.5,AMHR,07:01.1,,,,,Heat,New England Rowing Championship
+704,5/6/2017,MHV,2000,RIT,06:06.8,HAML,06:09.1,STLA,06:31.7,BING,07:10.3,,,,,,,,,Heat,NY State Collegiate Championships 2017
+705,5/6/2017,MHV,2000,TUFT,06:47.6,URI,06:49.6,TRIN,06:56.9,MIDD,06:59.1,UVM,07:08.4,MALW,07:32.5,,,,,Heat,New England Rowing Championship
+706,5/6/2017,MHV,2000,WILL,06:38.4,WPI,06:41.3,COLB,06:51.2,CONN,06:52.6,BC,06:56.3,,,,,,,Heat,New England Rowing Championship
+707,5/6/2017,WHV,2000,BATE,07:16.8,WESL,07:27.3,WILL,07:28.3,WELL,07:30.8,TUFT,07:30.9,UNH,07:45.0,,,,,Final,New England Rowing Championship
+708,5/6/2017,WHV,2000,DUQN,07:06.9,STJO,07:10.6,LASL,07:52.5,,,,,,,,,,,Final,Atlantic 10 Conference Championship Fina
+709,5/6/2017,WHV,2000,GENS,09:12.4,VASS,09:28.5,,,,,,,,,,,,,Final,NY State Collegiate Championships 2017
+710,5/6/2017,WHV,2000,ITHA,07:16.7,HAML,07:28.7,RIT,07:28.7,STLA,07:56.2,ARMY,08:23.9,SKID,08:37.2,,,,,Final,NY State Collegiate Championships 2017
+711,5/6/2017,WHV,2000,PACL,06:53.8,SEAT,07:04.4,,,,,,,,,,,,,Final,Windermere Cup
+712,5/6/2017,WHV,2000,UMAS,06:45.1,URI,06:51.8,GW,06:55.3,FORD,06:59.1,DAYT,07:01.9,GMAS,07:10.9,,,,,Final,Atlantic 10 Conference Championship Fina
+713,5/6/2017,WHV,2000,WPI,07:38.2,AMHR,07:42.5,SMIT,07:46.6,COLB,07:50.1,MTHO,08:00.4,CSTG,08:04.6,,,,,Final,New England Rowing Championship
+714,5/6/2017,WHV,2000,BATE,07:34.8,UNH,07:51.1,MTHO,07:59.8,WPI,08:03.4,TRIN,08:05.2,ASSP,08:21.2,CONC,08:30.6,,,Heat,New England Rowing Championship
+715,5/6/2017,WHV,2000,GW,06:56.5,FORD,07:01.3,GMAS,07:04.9,STJO,07:07.4,LASL,07:52.4,,,,,,,Heat,Atlantic 10 Conference Championship Heat
+716,5/6/2017,WHV,2000,ITHA,06:45.7,HAML,06:59.2,STLA,07:11.6,VASS,07:27.6,,,,,,,,,Heat,NY State Collegiate Championships 2017
+717,5/6/2017,WHV,2000,RIT,06:58.5,ARMY,07:15.4,SKID,07:20.5,GENS,09:25.7,,,,,,,,,Heat,NY State Collegiate Championships 2017
+718,5/6/2017,WHV,2000,UMAS,06:50.0,URI,06:54.7,DAYT,07:02.5,DUQN,07:10.3,,,,,,,,,Heat,Atlantic 10 Conference Championship Heat
+719,5/6/2017,WHV,2000,WELL,07:32.0,WESL,07:35.0,COLB,07:51.6,SMIT,07:55.0,SIMM,08:04.8,JOWA,08:05.4,MIDD,08:06.9,,,Heat,New England Rowing Championship
+720,5/6/2017,WHV,2000,WILL,07:26.8,TUFT,07:31.9,AMHR,07:36.1,CSTG,07:53.1,UVM,07:55.8,CLRK,08:25.0,,,,,Heat,New England Rowing Championship
+721,5/6/2017,WLV,2000,STAN,06:13.8,PRIN,06:22.6,,,,,,,,,,,,,Final,Class of 2015 Cup
+722,5/12/2017,MHV,2000,BUCK,06:09.5,WESL,06:13.1,RIT,06:13.5,COLB,06:15.3,CSTG,06:21.9,ITHA,06:21.9,,,,,Final,National Invitational Rowing Championshi
+723,5/12/2017,MHV,2000,HOBR,05:59.1,BATE,06:01.4,WPI,06:06.4,WILL,06:07.5,MRST,06:08.4,TUFT,06:11.7,,,,,Final,National Invitational Rowing Championshi
+724,5/12/2017,MHV,2000,TRIN,06:12.9,HAML,06:18.9,BC,06:21.4,UMAS,06:22.6,UNH,06:33.9,,,,,,,Final,National Invitational Rowing Championshi
+725,5/12/2017,MHV,2000,BATE,05:54.7,TUFT,05:57.3,WESL,06:00.1,CSTG,06:10.0,UMAS,06:14.0,UNH,06:28.4,,,,,Heat,National Invitational Rowing Championshi
+726,5/12/2017,MHV,2000,DREX,05:52.7,DELA,05:54.7,MARI,05:55.2,GV,06:05.2,PURD,06:15.6,LASL,06:37.0,,,,,Heat,Dad Vail Regatta - Heats
+727,5/12/2017,MHV,2000,HOBR,05:55.0,WILL,05:57.8,RIT,05:59.5,COLB,06:08.1,TRIN,06:08.8,,,,,,,Heat,National Invitational Rowing Championshi
+728,5/12/2017,MHV,2000,MRST,05:56.0,WPI,05:56.3,BUCK,05:56.6,ITHA,06:09.2,HAML,06:10.7,BC,06:14.5,,,,,Heat,National Invitational Rowing Championshi
+729,5/12/2017,MHV,2000,STJO,05:49.2,UNC,05:50.8,TEMP,05:51.6,MIDD,06:07.7,MINN,06:07.8,PITT,06:22.3,,,,,Heat,Dad Vail Regatta - Heats
+730,5/12/2017,MHV,2000,UVA,05:49.5,ARMY,05:49.9,MICH,05:50.2,LEHI,06:01.1,JAX,06:07.5,VILN,06:17.0,,,,,Heat,Dad Vail Regatta - Heats
+731,5/12/2017,WHV,2000,BATE,06:45.4,WILL,06:45.8,ITHA,06:46.2,WELL,06:54.1,TUFT,06:55.3,WESL,06:57.6,,,,,Final,National Invitational Rowing Championshi
+732,5/12/2017,WHV,2000,BU,07:12.0,NAVY,07:14.6,MIT,07:14.8,GEOR,07:25.0,LEHI,07:31.6,BUCK,07:37.7,,,,,Final,Patriot League Championship Finals
+733,5/12/2017,WHV,2000,HC,07:37.3,COLG,07:41.3,LOYO,08:08.3,,,,,,,,,,,Final,Patriot League Championship Finals
+734,5/12/2017,WHV,2000,JAX,07:21.2,MRST,07:26.9,CANI,07:32.9,DRAK,07:38.1,FAIR,07:48.5,SACH,07:55.4,,,,,Final,MAAC Rowing Championship Finals
+735,5/12/2017,WHV,2000,RIT,06:57.1,WPI,07:05.0,UNH,07:05.2,HAML,07:06.2,COLB,07:11.3,WLSM,07:12.8,,,,,Final,National Invitational Rowing Championshi
+736,5/12/2017,WHV,2000,ROMO,07:55.1,STET,08:03.9,MANH,08:26.0,IONA,09:05.2,,,,,,,,,Final,MAAC Rowing Championship Finals
+737,5/12/2017,WHV,2000,SMIT,07:05.2,STLA,07:09.0,MTHO,07:09.3,TRIN,07:17.7,SKID,07:22.6,SIMM,07:25.6,CLRK,07:32.6,,,Final,National Invitational Rowing Championshi
+738,5/12/2017,WHV,2000,BATE,06:36.5,TUFT,06:39.7,RIT,06:40.2,COLB,06:54.2,SMIT,06:56.6,CLRK,07:33.7,,,,,Heat,National Invitational Rowing Championshi
+739,5/12/2017,WHV,2000,BU,07:03.0,GEOR,07:11.8,LEHI,07:20.3,HC,07:31.4,,,,,,,,,Heat,Patriot League Championship Heats
+740,5/12/2017,WHV,2000,COK,06:46.9,UCSD,06:53.9,HUMS,06:56.4,PHIL,07:11.8,,,,,,,,,Heat,Dad Vail Regatta - Heats
+741,5/12/2017,WHV,2000,DREX,06:45.0,GV,06:51.7,GMAS,06:57.7,ARMY,07:08.0,PSU,07:24.1,NYU,07:34.1,,,,,Heat,Dad Vail Regatta - Heats
+742,5/12/2017,WHV,2000,FLTC,06:45.4,BARR,06:48.2,MERC,06:53.6,NOVS,07:08.6,ASSP,07:18.6,,,,,,,Heat,Dad Vail Regatta - Heats
+743,5/12/2017,WHV,2000,FORD,06:47.1,STJO,06:52.0,PURD,07:02.3,PITT,07:04.1,GENS,07:21.1,DEPA,07:37.3,,,,,Heat,Dad Vail Regatta - Heats
+744,5/12/2017,WHV,2000,ITHA,06:39.9,WILL,06:39.9,HAML,06:59.1,WPI,07:00.3,MTHO,07:06.9,TRIN,07:15.0,,,,,Heat,National Invitational Rowing Championshi
+745,5/12/2017,WHV,2000,JAX,07:35.7,CANI,07:49.1,SACH,07:57.0,STET,08:03.4,IONA,09:07.4,,,,,,,Heat,MAAC Rowing Championship Heats
+746,5/12/2017,WHV,2000,MRST,07:35.0,DRAK,07:43.2,FAIR,07:45.1,ROMO,07:48.0,MANH,08:24.8,,,,,,,Heat,MAAC Rowing Championship Heats
+747,5/12/2017,WHV,2000,NAVY,07:03.9,MIT,07:11.4,BUCK,07:23.1,COLG,07:27.0,LOYO,07:57.5,,,,,,,Heat,Patriot League Championship Heats
+748,5/12/2017,WHV,2000,UMAS,06:42.7,DELA,06:51.0,DUQN,06:59.3,LASL,07:16.3,GATC,07:16.5,SUSQ,08:16.5,,,,,Heat,Dad Vail Regatta - Heats
+749,5/12/2017,WHV,2000,WELL,06:45.4,WESL,06:47.6,UNH,06:54.8,WLSM,06:58.0,STLA,07:00.5,SIMM,07:14.4,SKID,07:17.3,,,Heat,National Invitational Rowing Championshi
+750,5/13/2017,MHV,2000,DREX,05:39.6,STJO,05:45.4,DELA,05:45.5,ARMY,05:48.3,UVA,05:48.3,UNC,05:51.8,,,,,Final,Dad Vail Regatta - Finals
+751,5/13/2017,MHV,2000,MICH,05:46.9,TEMP,05:49.8,MARI,05:52.8,GV,05:55.6,LEHI,05:55.9,MIDD,06:13.6,,,,,Final,Dad Vail Regatta - Finals
+752,5/13/2017,MHV,2000,SCLA,05:54.5,UCSD,05:59.1,USD,06:03.2,OKC,06:13.7,GONZ,06:26.6,,,,,,,Final,Western Sprints
+753,5/13/2017,MHV,2000,UCDV,06:11.6,COLO,06:55.2,,,,,,,,,,,,,Final,"UC Davis Invite - Colorado, Oregon, Wash"
+754,5/13/2017,MLV,2000,DELA,05:46.5,MERC,05:48.4,TEMP,05:48.4,PURD,06:08.0,MIST,06:31.0,IONA,06:32.9,,,,,Final,Dad Vail Regatta - Finals
+755,5/13/2017,WHV,2000,CFLA,06:24.8,TULS,06:27.2,SACS,06:30.8,SMU,06:31.9,SDSU,06:33.1,CONN,06:36.9,TEMP,06:44.0,,,Final,American Athletic Conference Women's Row
+756,5/13/2017,WHV,2000,COK,06:32.9,FLTC,06:34.8,MERC,06:39.0,UCSD,06:39.9,BARR,06:47.6,HUMS,06:53.3,,,,,Final,Dad Vail Regatta - Finals
+757,5/13/2017,WHV,2000,DREX,06:30.1,UMAS,06:35.9,STJO,06:40.7,FORD,06:40.8,GV,06:42.0,DELA,06:44.0,,,,,Final,Dad Vail Regatta - Finals
+758,5/13/2017,WHV,2000,GMAS,06:44.2,ARMY,06:51.2,DUQN,06:52.6,PURD,06:56.3,PITT,07:03.6,LASL,07:19.4,,,,,Final,Dad Vail Regatta - Finals
+759,5/13/2017,WHV,2000,GONZ,06:25.8,USD,06:30.8,LOMY,06:44.8,UPOR,06:44.8,STMY,07:00.4,CREI,07:08.6,SCLA,07:18.5,,,Final,West Coast Conference Championship
+760,5/13/2017,WHV,2000,ORGN,07:10.6,UCDV,07:13.3,COLO*,07:44.9,,,,,,,,,,,Final,Pacific Coast Rowing Championships
+761,5/13/2017,WHV,2000,PHIL,06:56.2,NOVS,07:01.3,ASSP,07:22.4,,,,,,,,,,,Final,Dad Vail Regatta - Finals
+762,5/13/2017,WHV,2000,OKLA,06:27.9,TENN,06:33.1,KAST,06:38.9,OLDD,06:46.9,,,,,,,,,Heat,Big 12 Championship Heats
+763,5/13/2017,WHV,2000,TEX,06:10.7,ALAB,06:32.2,KANS,06:34.1,WV,06:41.5,,,,,,,,,Heat,Big 12 Championship Heats
+764,5/13/2017,WLV,2000,BU,06:30.3,WISC,06:31.1,MIT,06:39.5,,,,,,,,,,,Final,Dad Vail Regatta - Finals
+765,5/14/2017,MHV,2000,ALAB,06:45.9,WICH,06:48.4,,,,,,,,,,,,,Final,ACRA Henley Regatta
+766,5/14/2017,MHV,2000,CORN,05:39.7,SYRA,05:41.0,WISC,05:41.0,PENN,05:41.6,GW,05:42.2,COLU,05:44.0,,,,,Final,EARC Sprints
+767,5/14/2017,MHV,2000,UGA,06:36.1,ILLI,06:49.4,,,,,,,,,,,,,Final,ACRA Henley Regatta
+768,5/14/2017,MHV,2000,VAND,06:29.3,UGA,06:33.5,,,,,,,,,,,,,Final,ACRA Henley Regatta
+769,5/14/2017,MHV,2000,VAND,06:30.5,ILLI,06:36.4,,,,,,,,,,,,,Final,ACRA Henley Regatta
+770,5/14/2017,MHV,2000,WASH,05:36.3,CAL,05:40.6,STAN,05:52.0,ORST,05:55.7,ORGN,06:14.6,UCLA,06:18.1,COLO,06:30.1,,,Final,Pac-12 Rowing Championship Results
+771,5/14/2017,MHV,2000,WASU,06:40.8,ALAB,06:50.6,,,,,,,,,,,,,Final,ACRA Henley Regatta
+772,5/14/2017,MHV,2000,WASU,06:42.9,WICH,06:45.6,,,,,,,,,,,,,Final,ACRA Henley Regatta
+773,5/14/2017,MHV,2000,YALE,05:30.7,HARV,05:31.1,PRIN,05:36.4,BU,05:36.5,DART,05:38.8,BRWN,05:40.6,,,,,Final,EARC Sprints
+774,5/14/2017,MHV,2000,HARV,05:32.8,BRWN,05:37.0,COLU,05:40.0,GW,05:41.3,NORT,05:43.4,MIT,06:02.5,,,,,Heat,EARC Sprints
+775,5/14/2017,MHV,2000,NORT,05:37.6,NAVY,05:43.9,GEOR,05:44.2,HC,05:52.3,MIT,05:54.7,RUTG,06:00.2,,,,,Heat,EARC Sprints
+776,5/14/2017,MHV,2000,ORGN,06:11.0,UCLA,06:15.8,COLO,06:19.9,WAST,06:23.4,,,,,,,,,Heat,Pac-12 Rowing Championship Results
+777,5/14/2017,MHV,2000,PRIN,05:35.9,DART,05:36.4,WISC,05:37.9,CORN,05:38.8,GEOR,05:41.2,HC,06:02.7,,,,,Heat,EARC Sprints
+778,5/14/2017,MHV,2000,YALE,05:33.9,BU,05:36.5,SYRA,05:38.3,PENN,05:39.0,NAVY,05:43.8,RUTG,06:07.6,,,,,Heat,EARC Sprints
+779,5/14/2017,MLV,2000,CORN,05:40.8,HARV,05:41.6,PENN,05:43.1,COLU,05:45.1,PRIN,05:45.2,YALE,05:47.1,,,,,Final,EARC Sprints
+780,5/14/2017,MLV,2000,NAVY,05:48.9,GEOR,05:49.6,DART,05:56.0,MIT,06:02.0,,,,,,,,,Final,EARC Sprints
+781,5/14/2017,MLV,2000,CORN,05:41.6,PRIN,05:42.8,PENN,05:43.1,DART,05:54.6,GEOR,06:33.0,,,,,,,Heat,EARC Sprints
+782,5/14/2017,MLV,2000,HARV,05:41.0,COLU,05:43.8,YALE,05:46.6,NAVY,05:49.0,MIT,06:04.0,,,,,,,Heat,EARC Sprints
+783,5/14/2017,WHV,2000,DART,06:30.3,CORN,06:43.3,,,,,,,,,,,,,Final,Ivy League Women's Rowing Championship F
+784,5/14/2017,WHV,2000,NORT,06:33.6,DREX,06:46.3,VILN,06:48.4,DELA,06:50.8,EMIC,06:53.5,BUFF,07:19.0,,,,,Final,CAA Women's Rowing Championship
+785,5/14/2017,WHV,2000,OHST,06:08.8,MICH,06:11.2,INDI,06:15.4,IOWA,06:16.5,WISC,06:22.7,MIST,06:23.9,MINN,06:33.4,RUTG,06:44.6,Final,Big Ten Rowing Championships
+786,5/14/2017,WHV,2000,OLDD,06:42.0,WV,06:47.4,,,,,,,,,,,,,Final,Big 12 Championship Finals
+787,5/14/2017,WHV,2000,PRIN,06:07.4,BRWN,06:11.4,YALE,06:14.5,PENN,06:22.8,RADC,06:23.6,COLU,06:28.9,,,,,Final,Ivy League Women's Rowing Championship F
+788,5/14/2017,WHV,2000,TEX,06:14.5,OKLA,06:27.0,TENN,06:32.0,ALAB,06:42.1,KAST,06:42.9,KANS,06:45.2,,,,,Final,Big 12 Championship Finals
+789,5/14/2017,WHV,2000,UCDV,06:59.7,COLO,07:13.8,,,,,,,,,,,,,Final,"UC Davis vs. Colorado, Oregon, Washingto"
+790,5/14/2017,WHV,2000,UGA,07:11.4,LBTY,07:36.3,,,,,,,,,,,,,Final,ACRA Henley Regatta
+791,5/14/2017,WHV,2000,UGA,07:40.5,WLMY,07:49.0,,,,,,,,,,,,,Final,ACRA Henley Regatta
+792,5/14/2017,WHV,2000,UMIA,06:37.1,BC,06:42.0,UNC,06:44.1,,,,,,,,,,,Final,ACC Rowing Championship Finals
+793,5/14/2017,WHV,2000,UVA,06:19.7,ND,06:23.2,SYRA,06:23.6,DUKE,06:27.0,LOUV,06:31.6,CLEM,06:35.3,,,,,Final,ACC Rowing Championship Finals
+794,5/14/2017,WHV,2000,WASH,06:11.6,CAL,06:15.4,STAN,06:19.6,WAST,06:21.9,USC,06:22.0,ORST,06:35.1,UCLA,06:38.8,,,Final,Pac-12 Rowing Championship Results
+795,5/14/2017,WHV,2000,WLMY,07:53.1,LBTY,08:18.6,,,,,,,,,,,,,Final,ACRA Henley Regatta
+796,5/14/2017,WHV,2000,BRWN,06:21.4,YALE,06:24.8,PENN,06:33.6,DART,06:37.1,,,,,,,,,Heat,Ivy League Women's Rowing Championship H
+797,5/14/2017,WHV,2000,PRIN,06:32.0,RADC,06:37.7,COLU,06:41.6,CORN,06:42.9,,,,,,,,,Heat,Ivy League Women's Rowing Championship H
+798,5/14/2017,WHV,2000,SYRA,06:43.8,DUKE,06:44.7,LOUV,06:57.4,BC,07:06.6,UNC,07:11.5,,,,,,,Heat,ACC Rowing Championship Heats
+799,5/14/2017,WHV,2000,UVA,06:40.0,ND,06:49.6,CLEM,06:52.4,UMIA,06:53.5,,,,,,,,,Heat,ACC Rowing Championship Heats
+800,5/15/2017,MHV,2000,ILLI,06:37.3,WICH,06:49.1,,,,,,,,,,,,,Final,ACRA Henley - Monday
+801,5/15/2017,MHV,2000,UGA,06:27.8,WASU,06:34.8,,,,,,,,,,,,,Final,ACRA Henley - Monday
+802,5/15/2017,MHV,2000,VAND,06:31.1,UGA,06:35.6,,,,,,,,,,,,,Final,ACRA Henley - Monday
+803,5/15/2017,MHV,2000,VAND,06:33.2,ALAB,06:40.3,,,,,,,,,,,,,Final,ACRA Henley - Monday
+804,5/15/2017,MHV,2000,WASU,06:47.5,ALAB,07:09.9,,,,,,,,,,,,,Final,ACRA Henley - Monday
+805,5/26/2017,WHV,2000,BATE,06:35.5,WELL,06:37.7,WASC,06:47.8,PACL,06:50.4,,,,,,,,,Heat,NCAA Championships - Friday
+806,5/26/2017,WHV,2000,COK,06:40.8,FLTC,06:42.3,UCSD,07:00.2,,,,,,,,,,,Heat,NCAA Championships - Friday
+807,5/26/2017,WHV,2000,MICH,06:11.9,CAL,06:14.0,IOWA,06:15.9,WAST,06:20.6,GONZ,06:22.3,,,,,,,Heat,NCAA Championships - Friday
+808,5/26/2017,WHV,2000,OHST,06:11.1,PRIN,06:14.2,UVA,06:16.7,ND,06:30.6,UMAS,06:31.8,NAVY,06:35.7,,,,,Heat,NCAA Championships - Friday
+809,5/26/2017,WHV,2000,STAN,06:07.4,TEX,06:10.5,INDI,06:18.9,SYRA,06:21.0,NORT,06:22.9,JAX,06:51.7,,,,,Heat,NCAA Championships - Friday
+810,5/26/2017,WHV,2000,UVA,06:15.6,BRWN,06:17.7,IOWA,06:19.0,NORT,06:19.8,SYRA,06:22.5,GONZ,06:24.6,NAVY,06:38.5,,,Heat,NCAA Championships - Friday
+811,5/26/2017,WHV,2000,WASH,06:08.8,YALE,06:11.3,WISC,06:12.4,BRWN,06:21.7,CFLA,06:40.5,,,,,,,Heat,NCAA Championships - Friday
+812,5/26/2017,WHV,2000,WESL,06:42.2,RIT,06:43.2,PACL,06:44.7,WASC,06:53.9,,,,,,,,,Heat,NCAA Championships - Friday
+813,5/26/2017,WHV,2000,WILL,06:30.9,ITHA,06:33.0,WESL,06:33.8,RIT,06:53.7,,,,,,,,,Heat,NCAA Championships - Friday
+814,5/26/2017,WHV,2000,WISC,06:15.5,INDI,06:17.9,WAST,06:20.0,ND,06:24.5,CFLA,06:29.9,UMAS,06:35.9,JAX,06:50.0,,,Heat,NCAA Championships - Friday
+815,5/26/2017,WHV,2000,WWAS,06:43.0,MERC,06:45.2,BARR,06:50.2,,,,,,,,,,,Heat,NCAA Championships - Friday
+816,5/27/2017,WHV,2000,WASC,06:48.6,PACL,06:50.1,,,,,,,,,,,,,Final,NCAA - Saturday
+817,5/27/2017,WHV,2000,WILL,06:35.4,BATE,06:37.6,WELL,06:38.8,ITHA,06:39.1,RIT,06:40.1,WESL,06:47.3,,,,,Final,NCAA - Saturday
+818,5/27/2017,WHV,2000,FLTC,06:49.0,MERC,06:50.3,BARR,06:50.6,UCSD,06:54.1,,,,,,,,,Heat,NCAA - Saturday
+819,5/27/2017,WHV,2000,IOWA,06:24.5,ND,06:27.1,CFLA,06:29.2,GONZ,06:30.9,JAX,06:58.6,,,,,,,Heat,NCAA - Saturday
+820,5/27/2017,WHV,2000,STAN,06:15.4,MICH,06:18.1,YALE,06:18.4,PRIN,06:19.6,UVA,06:25.4,INDI,06:32.4,,,,,Heat,NCAA - Saturday
+821,5/27/2017,WHV,2000,WASH,06:09.9,CAL,06:11.8,TEX,06:12.1,OHST,06:12.4,BRWN,06:21.4,WISC,06:23.3,,,,,Heat,NCAA - Saturday
+822,5/27/2017,WHV,2000,WAST,06:22.7,SYRA,06:24.9,NORT,06:27.0,NAVY,06:29.4,UMAS,06:35.7,,,,,,,Heat,NCAA - Saturday
+823,5/28/2017,MHV,2000,BC,06:47.1,KANS,06:51.1,UCLA,06:51.6,CONN,06:54.4,SDSU,06:56.2,UGA,06:56.9,OHST,06:57.7,VAND,06:58.3,Final,ACRA - Sunday
+824,5/28/2017,MHV,2000,DEPA,07:03.8,WICH,07:09.8,ILLI,07:16.5,DENV,07:19.3,COST,07:35.0,,,,,,,Final,ACRA - Sunday
+825,5/28/2017,MHV,2000,OC,06:36.1,GV,06:40.1,MINN,06:40.6,TEX,06:42.3,UCDV,06:45.2,ND,06:45.4,UMAS,06:51.4,ORGN,06:53.3,Final,ACRA - Sunday
+826,5/28/2017,MHV,2000,UCSB,06:23.5,BUCK,06:25.5,UVA,06:25.6,MICH,06:26.7,UNC,06:28.8,UCIR,06:33.9,DELA,06:39.0,ARMY,06:44.2,Final,ACRA - Sunday
+827,5/28/2017,MHV,2000,WWAS,06:50.8,COLO,06:52.2,UNH,06:55.3,PITT,06:58.9,ALAB,07:00.9,WAST,07:18.9,,,,,Final,ACRA - Sunday
+828,5/28/2017,MHV,2000,ND,06:48.2,MINN,06:52.0,CONN,06:58.8,OHST,07:02.2,MIST,07:03.9,WAST,07:05.2,ILLI,07:09.7,WICH,07:34.2,Heat,ACRA - Saturday
+829,5/28/2017,MHV,2000,OC,06:45.5,ARMY,06:47.0,BC,06:49.4,SDSU,06:59.3,WWAS,07:00.4,ROCH,07:09.1,DEPA,07:11.6,,,Heat,ACRA - Saturday
+830,5/28/2017,MHV,2000,ORGN,06:42.6,UMAS,06:45.6,KANS,06:46.2,UCLA,06:52.4,PITT,06:55.8,UNH,07:00.6,WASU,07:04.0,,,Heat,ACRA - Saturday
+831,5/28/2017,MHV,2000,TEX,06:51.1,UCDV,06:54.5,UGA,07:03.7,VAND,07:05.9,ALAB,07:13.9,COLO,07:19.8,COST,07:32.3,DENV,07:37.6,Heat,ACRA - Saturday
+832,5/28/2017,MHV,2000,UCSB,06:15.0,MICH,06:17.3,ARMY,06:18.3,UNC,06:18.3,GV,06:20.5,TEX,06:24.7,ORGN,06:30.4,MINN,06:31.2,Heat,ACRA - Sunday
+833,5/28/2017,MHV,2000,UVA,06:11.5,UCIR,06:13.9,BUCK,06:14.4,DELA,06:15.4,ND,06:16.3,UCDV,06:24.1,OC,06:24.4,UMAS,06:35.9,Heat,ACRA - Sunday
+834,5/28/2017,WHV,2000,ARMY,07:58.9,UGA,08:03.2,DEPA,08:08.3,UVM,08:11.7,NORW,08:34.3,COST,08:38.9,,,,,Final,ACRA - Sunday
+835,5/28/2017,WHV,2000,BARR,07:06.7,UCSD,07:08.1,,,,,,,,,,,,,Final,NCAA - Sunday
+836,5/28/2017,WHV,2000,COK,06:58.5,WWAS,07:00.6,FLTC,07:04.9,MERC,07:16.3,,,,,,,,,Final,NCAA - Sunday
+837,5/28/2017,WHV,2000,GONZ,06:43.4,UMAS,06:49.1,NAVY,06:50.8,JAX,07:08.1,,,,,,,,,Final,NCAA - Sunday
+838,5/28/2017,WHV,2000,OHST,06:45.6,BRWN,06:47.4,PRIN,06:47.8,UVA,06:49.5,WISC,06:50.6,INDI,06:55.1,,,,,Final,NCAA - Sunday
+839,5/28/2017,WHV,2000,UCSB,07:31.5,UNH,07:37.7,GV,07:37.9,COLO,07:44.2,UCDV,07:50.3,PURD,07:52.3,WICH,08:11.6,,,Final,ACRA - Sunday
+840,5/28/2017,WHV,2000,WASH,06:36.9,STAN,06:38.5,CAL,06:40.1,TEX,06:44.7,MICH,06:44.8,YALE,06:48.6,,,,,Final,NCAA - Sunday
+841,5/28/2017,WHV,2000,WAST,06:36.9,IOWA,06:38.0,SYRA,06:39.8,ND,06:40.0,NORT,06:42.6,CFLA,06:48.4,,,,,Final,NCAA - Sunday
+842,5/28/2017,WHV,2000,ARMY,07:33.9,UGA,07:45.4,NORW,08:37.0,,,,,,,,,,,Heat,ACRA - Saturday
+843,5/28/2017,WHV,2000,GV,07:51.3,COLO,07:52.2,UNH,07:54.4,PURD,08:06.7,UGA,08:51.8,COST,09:36.2,,,,,Heat,ACRA - Saturday
+844,5/28/2017,WHV,2000,PURD,07:39.9,UVM,07:57.6,DEPA,08:05.1,COST,08:16.4,,,,,,,,,Heat,ACRA - Saturday
+845,5/28/2017,WHV,2000,UCSB,07:47.5,UCDV,08:01.8,WICH,08:09.8,ARMY,08:17.4,UVM,08:36.4,NORW,09:05.6,DEPA,09:16.0,,,Heat,ACRA - Saturday
+846,6/4/2017,MHV,2000,GW,05:41.6,STAN,05:44.3,NAVY,05:46.0,COLU,05:46.5,FLTC,05:46.8,DREX,05:48.9,,,,,Final,IRA National Championship Regatta
+847,6/4/2017,MHV,2000,NORT,05:36.6,SYRA,05:38.6,DART,05:39.2,BU,05:39.9,WISC,05:41.5,CORN,05:41.9,PENN,05:42.6,,,Final,IRA National Championship Regatta
+848,6/4/2017,MHV,2000,ORST,05:48.7,HOBR,05:50.1,STJO,05:51.7,SCLA,05:51.9,UCSD,06:01.4,,,,,,,Final,IRA National Championship Regatta
+849,6/4/2017,MHV,2000,YALE,05:29.9,WASH,05:30.0,HARV,05:33.4,PRIN,05:33.8,CAL,05:36.3,BRWN,05:36.9,,,,,Final,IRA National Championship Regatta
+850,6/4/2017,MHV,2000,BU,05:50.3,COLU,05:50.7,GW,05:58.2,STJO,06:07.1,,,,,,,,,Heat,IRA National Championship Regatta
+851,6/4/2017,MHV,2000,CAL,05:40.4,CORN,05:42.8,DART,05:44.3,GW,05:49.7,ORST,05:57.9,SCLA,06:01.8,,,,,Heat,IRA National Championship Regatta
+852,6/4/2017,MHV,2000,COLU,05:50.3,FLTC,05:50.8,DREX,05:52.3,ORST,05:53.2,STJO,06:01.6,,,,,,,Heat,IRA National Championship Regatta
+853,6/4/2017,MHV,2000,DART,05:48.3,NAVY,05:48.8,DREX,05:57.3,HOBR,05:58.0,,,,,,,,,Heat,IRA National Championship Regatta
+854,6/4/2017,MHV,2000,HARV,05:38.1,PRIN,05:41.2,STAN,05:45.2,WISC,05:45.6,DREX,05:57.4,STJO,05:58.2,,,,,Heat,IRA National Championship Regatta
+855,6/4/2017,MHV,2000,HARV,05:38.4,CAL,05:39.6,BRWN,05:40.2,SYRA,05:44.1,NORT,05:45.9,WISC,05:48.0,BU,05:49.1,,,Heat,IRA National Championship Regatta
+856,6/4/2017,MHV,2000,NAVY,05:50.4,GW,05:51.4,STAN,05:51.8,HOBR,05:57.9,SCLA,05:58.9,UCSD,06:07.9,,,,,Heat,IRA National Championship Regatta
+857,6/4/2017,MHV,2000,PENN,05:53.2,STAN,05:58.1,ORST,06:02.3,UCSD,06:18.1,,,,,,,,,Heat,IRA National Championship Regatta
+858,6/4/2017,MHV,2000,WASH,05:34.9,YALE,05:35.5,PRIN,05:43.3,DART,05:45.8,CORN,05:46.0,PENN,05:48.2,,,,,Heat,IRA National Championship Regatta
+859,6/4/2017,MHV,2000,WASH,05:36.9,BRWN,05:38.1,NORT,05:43.7,NAVY,05:50.1,COLU,05:59.3,UCSD,06:07.1,,,,,Heat,IRA National Championship Regatta
+860,6/4/2017,MHV,2000,WISC,05:54.6,FLTC,05:58.6,SCLA,06:02.8,,,,,,,,,,,Heat,IRA National Championship Regatta
+861,6/4/2017,MHV,2000,YALE,05:42.3,SYRA,05:45.3,BU,05:48.7,PENN,05:49.8,FLTC,06:01.1,HOBR,06:01.2,,,,,Heat,IRA National Championship Regatta
+862,6/4/2017,MLV,2000,CORN,05:40.2,PENN,05:41.1,YALE,05:43.1,HARV,05:43.3,PRIN,05:45.8,COLU,05:46.0,,,,,Final,IRA National Championship Regatta
+863,6/4/2017,MLV,2000,NAVY,05:54.3,GEOR,05:56.1,,,,,,,,,,,,,Final,IRA National Championship Regatta
+864,6/4/2017,MLV,2000,CORN,05:51.9,COLU,05:54.4,PRIN,05:56.3,GEOR,05:59.6,,,,,,,,,Heat,IRA National Championship Regatta
+865,6/4/2017,MLV,2000,PENN,05:49.0,YALE,05:50.5,HARV,05:51.0,NAVY,05:57.2,,,,,,,,,Heat,IRA National Championship Regatta
+866,6/4/2017,WLV,2000,MIT,06:49.8,TULS,06:56.6,,,,,,,,,,,,,Final,IRA National Championship Regatta
+867,6/4/2017,WLV,2000,STAN,06:25.4,BU,06:30.6,PRIN,06:32.9,WISC,06:36.4,RADC,06:36.7,GEOR,06:42.2,,,,,Final,IRA National Championship Regatta
+868,6/4/2017,WLV,2000,BU,06:34.8,RADC,06:40.1,MIT,06:47.3,TULS,06:49.2,,,,,,,,,Heat,IRA National Championship Regatta
+869,6/4/2017,WLV,2000,STAN,06:30.8,PRIN,06:35.6,WISC,06:38.6,GEOR,06:55.4,,,,,,,,,Heat,IRA National Championship Regatta
+870,6/4/2017,WLV,2000,WISC,06:35.7,GEOR,06:38.4,MIT,06:41.3,TULS,06:48.6,,,,,,,,,Heat,IRA National Championship Regatta
+871,6/10/2017,MHV,6437,YALE,18:56.0,HARV,19:01.0,,,,,,,,,,,,,Final,152nd Harvard Yale Regatta

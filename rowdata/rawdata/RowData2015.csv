@@ -1,0 +1,1445 @@
+RaceId,Date,CrewType,Distance,Team1,Time1,Team2,Time2,Team3,Time3,Team4,Time4,Team5,Time5,Team6,Time6,Team7,Time7,Team8,Time8,RaceType,RaceName
+1,2015-03-01,MHJ,,SCLA,06:32.1,UCDV,06:44.8,,,,,,,,,,,,,Final,Davis Invitational
+2,2015-03-01,MHJ,2000,SDSU,06:54.0,USC,07:00.0,,,,,,,,,,,,,Final,Gruenberg Cup Regatta
+3,2015-03-01,MHV,,SCLA,06:17.0,UCDV,06:23.3,SONO,06:33.7,,,,,,,,,,,Final,Davis Invitational
+4,2015-03-01,MHV,2000,SDSU,06:26.7,USC,06:34.0,CSLB,06:59.8,,,,,,,,,,,Final,Gruenberg Cup Regatta
+5,2015-03-01,MHV,2000,UCLA,05:57.6,LOMY,06:08.1,,,,,,,,,,,,,Final,UCLA vs. LMU
+6,2015-03-01,MLV,2000,USC,07:07.2,SDSU,07:28.0,CSLB,07:52.1,,,,,,,,,,,Final,Gruenberg Cup Regatta
+7,2015-03-01,WHJ,,UCDV,07:48.9,MILL,08:11.3,,,,,,,,,,,,,Final,Davis Invitational
+8,2015-03-01,WHV,,SCLA,07:09.3,UCDV,07:12.4,MILL,07:39.7,,,,,,,,,,,Final,Davis Invitational
+9,2015-03-07,MHJ,1950,ROLL,06:28.5,VILN,06:40.5,,,,,,,,,,,,,Final,Metro Cup Regatta
+10,2015-03-07,MHV,,TEX,03:08.3,TXAM,03:15.1,LSU,03:19.3,TXAG,03:53.6,,,,,,,,,Final,Heart of Texas Regatta
+11,2015-03-07,MHV,,TEX,02:58.5,LSU,03:26.0,BAYL,03:26.7,,,,,,,,,,,Heat,Heart of Texas Regatta
+12,2015-03-07,MHV,,TXAM,03:20.2,TXAG,03:39.2,STED,03:51.3,,,,,,,,,,,Heat,Heart of Texas Regatta
+13,2015-03-07,MHV,1950,VILN,05:59.0,ROLL,06:11.5,CFLA,06:27.7,,,,,,,,,,,Final,Metro Cup Regatta
+14,2015-03-07,MHV,2000,CALM,06:46.5,CAL#,06:52.6,,,,,,,,,,,,,Final,Dual
+15,2015-03-07,MHV,2000,TULN,06:27.7,VAND,06:28.7,NWST,07:33.7,,,,,,,,,,,Final,Tulane/Vanderbilt/Rice/Northwestern St
+16,2015-03-07,WHJ,1950,CFLA,06:49.7,DUQN,07:04.0,VILN,07:26.8,ROLL,07:35.0,,,,,,,,,Final,Metro Cup Regatta
+17,2015-03-07,WHV,,TXAM,03:53.1,COK,03:53.8,STED,03:56.8,TXAG,04:01.1,,,,,,,,,Final,Heart of Texas Regatta
+18,2015-03-07,WHV,1950,CFLA,06:24.8,DUQN,06:36.9,VILN#,06:46.6,ROLL,07:06.1,,,,,,,,,Final,Metro Cup Regatta
+19,2015-03-07,WHV,2000,TULN,07:26.7,VAND,07:27.7,NWST,08:09.9,,,,,,,,,,,Final,Tulane/Vanderbilt/Rice/Northwestern St
+20,2015-03-08,MHJ,,UCLA,06:33.5,UCIR,06:41.5,USC,06:45.5,SDSU,06:48.3,,,,,,,,,Final,SoCal Opening Day Regatta
+21,2015-03-08,MHJ,,UCSB,06:22.9,SDSU,06:40.9,OC,06:46.3,,,,,,,,,,,Final,SoCal Opening Day Regatta
+22,2015-03-08,MHJ,2000,SCLA,06:34.6,SACS,07:10.5,,,,,,,,,,,,,Final,Santa Clara University vs. Sacramento State
+23,2015-03-08,MHV,,SDSU,06:20.8,USC,06:27.0,LOMY,06:29.2,CSLB,06:43.7,,,,,,,,,Final,SoCal Opening Day Regatta
+24,2015-03-08,MHV,,UCSB,06:12.8,OC,06:16.8,UCIR,06:22.1,UCLA,06:27.7,,,,,,,,,Final,SoCal Opening Day Regatta
+25,2015-03-08,MHV,2000,SCLA,06:04.4,SACS,06:38.8,,,,,,,,,,,,,Final,Santa Clara University vs. Sacramento State
+26,2015-03-08,WHJ,2000,LOMY,07:03.7,SDSU,07:12.4,,,,,,,,,,,,,Final,LMU vs SDSU
+27,2015-03-08,WHV,,UCSB,07:15.1,OC,07:23.2,UCSD,07:23.5,CSLB,07:29.0,,,,,,,,,Final,SoCal Opening Day Regatta
+28,2015-03-08,WHV,2000,SDSU,06:58.6,LOMY,06:59.6,,,,,,,,,,,,,Final,LMU vs SDSU
+29,2015-03-13,MHJ,1950,ROLL,07:30.3,WASU,08:10.4,,,,,,,,,,,,,Final,TARS Regatta
+30,2015-03-13,MHV,1950,ROLL,07:01.0,WASU,07:28.2,EMOR,07:41.2,,,,,,,,,,,Final,TARS Regatta
+31,2015-03-13,WHJ,2000,UNC,07:09.5,GMAS,07:29.9,,,,,,,,,,,,,Final,North Carolina vs. George Mason
+32,2015-03-13,WHV,1950,ROLL,08:28.5,EMOR,09:47.2,,,,,,,,,,,,,Final,TARS Regatta
+33,2015-03-13,WHV,2000,UNC,07:05.6,GMAS,07:09.0,,,,,,,,,,,,,Final,North Carolina vs. George Mason
+34,2015-03-14,MHJ,1950,ROLL,06:22.5,WASU,06:41.9,EMBR,06:51.8,,,,,,,,,,,Final,Spring Break Race
+35,2015-03-14,MHJ,2000,DREX,05:29.0,VILN,06:00.4,LASL,06:10.9,,,,,,,,,,,Final,La Salle University vs. Drexel/Villanova
+36,2015-03-14,MHJ,2000,OC,06:19.0,UCIR,06:22.0,SDSU,06:23.0,,,,,,,,,,,Final,Parker Cup
+37,2015-03-14,MHJ,2000,UCSB,06:07.9,SCLA,06:13.5,UCLA,06:23.2,,,,,,,,,,,Final,UCSB vs. UCLA/Santa Clara
+38,2015-03-14,MHV,1950,ROLL,06:05.4,FLA,06:15.2,WASU,06:19.0,EMBR#,06:33.6,,,,,,,,,Final,Spring Break Race
+39,2015-03-14,MHV,2000,CAL#,06:22.2,CHCO,07:01.5,,,,,,,,,,,,,Final,Cal Lightweights vs. Chico State University
+40,2015-03-14,MHV,2000,DREX,05:39.5,VILN,05:41.0,LASL,05:57.2,,,,,,,,,,,Final,La Salle University vs. Drexel/Villanova
+41,2015-03-14,MHV,2000,LECL,06:34.9,ORGN,06:47.0,,,,,,,,,,,,,Final,Hagg Lake Invitational
+42,2015-03-14,MHV,2000,OC,06:02.0,UCIR,06:06.0,SDSU,06:10.0,,,,,,,,,,,Final,Parker Cup
+43,2015-03-14,MHV,2000,SCLA,05:47.8,UCSB,05:50.0,UCLA,06:03.7,,,,,,,,,,,Final,UCSB vs. UCLA/Santa Clara
+44,2015-03-14,WHJ,,LOUV,06:07.8,ND,06:09.4,CFLA,06:18.6,KANS,06:29.5,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+45,2015-03-14,WHJ,,MINN,06:07.1,OKLA,06:10.5,CFLA,06:10.8,MIST,06:13.3,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+46,2015-03-14,WHJ,,MINN,06:08.5,OKLA,06:13.1,TENN,06:18.9,ALAB,06:29.3,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+47,2015-03-14,WHJ,,UVA,05:56.4,YALE,06:03.0,MIST,06:16.6,,,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+48,2015-03-14,WHJ,,UVA,06:00.2,ND,06:13.7,ALAB,06:24.1,KANS,06:28.4,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+49,2015-03-14,WHJ,,YALE,06:06.5,LOUV,06:11.0,TENN,06:25.4,,,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+50,2015-03-14,WHJ,2000,BC,06:24.1,DREX,06:27.5,STJO,06:28.1,VILN,06:36.5,,,,,,,,,Final,St Joseph's University v etal
+51,2015-03-14,WHJ,2000,CLEM,06:54.3,DUKE,06:56.8,,,,,,,,,,,,,Final,Clemson University vs. Duke/BU Lights
+52,2015-03-14,WHJ,2000,CLEM,07:00.2,DUKE,07:01.7,,,,,,,,,,,,,Final,Clemson University vs. Duke/BU Lights
+53,2015-03-14,WHJ,2000,ORGN,07:57.4,LECL,08:05.2,WLMT,08:53.3,,,,,,,,,,,Final,Hagg Lake Invitational
+54,2015-03-14,WHJ,2000,SACS,06:57.9,UCSD,07:11.5,STMY,07:13.2,HUMS,07:36.0,MILL,07:55.2,,,,,,,Final,Sacramento State Invite
+55,2015-03-14,WHJ,2000,SMU,08:29.4,COK,08:33.2,CREI,08:39.8,,,,,,,,,,,Final,SMU Invitational
+56,2015-03-14,WHV,,MINN,05:59.8,OKLA,06:01.0,TENN,06:11.9,ALAB,06:18.8,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+57,2015-03-14,WHV,,MINN,06:00.1,CFLA,06:04.0,OKLA,06:05.0,MIST,06:06.4,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+58,2015-03-14,WHV,,ND,05:56.8,CFLA,06:00.8,LOUV,06:01.3,KANS,06:21.5,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+59,2015-03-14,WHV,,UVA,05:53.1,YALE,06:01.8,MIST,06:10.9,,,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+60,2015-03-14,WHV,,UVA,05:53.6,ND,06:03.5,KANS,06:21.0,ALAB,06:21.8,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+61,2015-03-14,WHV,,YALE,06:03.5,LOUV,06:06.3,TENN,06:16.0,,,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+62,2015-03-14,WHV,1950,ROLL,06:59.1,FLA,07:10.8,BRYA,07:34.3,,,,,,,,,,,Final,Spring Break Race
+63,2015-03-14,WHV,2000,CAL#,07:38.7,CHCO,07:55.9,,,,,,,,,,,,,Final,Cal Lightweights vs. Chico State University
+64,2015-03-14,WHV,2000,CLEM,06:40.9,DUKE,06:47.5,BU#,07:02.1,,,,,,,,,,,Final,Clemson University vs. Duke/BU Lights
+65,2015-03-14,WHV,2000,CLEM,06:48.9,DUKE,06:54.4,BU#,07:11.7,,,,,,,,,,,Final,Clemson University vs. Duke/BU Lights
+66,2015-03-14,WHV,2000,LECL,07:21.9,WLMT,07:33.9,PACI,08:36.2,,,,,,,,,,,Final,Hagg Lake Invitational
+67,2015-03-14,WHV,2000,ORGN,07:27.1,LECL,07:29.9,WLMT,07:44.6,,,,,,,,,,,Final,Hagg Lake Invitational
+68,2015-03-14,WHV,2000,SACS,06:47.7,STMY,06:53.9,HUMS,06:56.6,OC,07:00.2,UCSD,07:01.5,MILL,07:34.6,,,,,Final,Sacramento State Invite
+69,2015-03-14,WHV,2000,SMU,07:53.1,COK,08:19.7,CREI,08:27.0,,,,,,,,,,,Final,SMU Invitational
+70,2015-03-14,WHV,2000,STJO,06:15.4,BC,06:16.7,DREX,06:18.3,VILN,06:27.1,LASL,07:10.0,,,,,,,Final,St Joseph's University v etal
+71,2015-03-14,WHV,2000,UCLA,06:07.9,LOMY,06:29.1,,,,,,,,,,,,,Final,UCLA vs. LMU
+72,2015-03-15,MHJ,2000,TEX,06:36.5,NWST,07:34.1,,,,,,,,,,,,,Final,Northwestern State vs. Texas/Tulane/Alabama
+73,2015-03-15,MHV,2000,OKC,06:05.2,JAX,06:25.3,WICH,07:30.8,,,,,,,,,,,Final,OCU Opening Day
+74,2015-03-15,MHV,2000,OKC,06:11.6,JAX,06:30.4,WICH,07:11.3,,,,,,,,,,,Final,OCU Opening Day
+75,2015-03-15,MHV,2000,TEX,06:28.0,ALAB,06:32.7,TULN,06:37.0,,,,,,,,,,,Final,Northwestern State vs. Texas/Tulane/Alabama
+76,2015-03-15,WHJ,,MIST,06:10.1,TENN,06:15.3,ALAB,06:19.4,KANS,06:30.8,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+77,2015-03-15,WHJ,,UVA,06:02.6,LOUV,06:14.6,OKLA,06:17.3,,,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+78,2015-03-15,WHJ,,YALE,06:02.9,MINN,06:09.1,ND,06:09.1,CFLA,06:18.2,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+79,2015-03-15,WHV,,MIST,06:01.2,KANS,06:05.1,TENN,06:05.3,ALAB,06:11.1,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+80,2015-03-15,WHV,,UVA,05:54.3,LOUV,06:04.5,OKLA,06:05.8,,,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+81,2015-03-15,WHV,,YALE,05:55.4,ND,05:57.8,MINN,06:02.6,CFLA,06:03.1,,,,,,,,,Final,Oak Ridge Cardinal Invite - Saturday
+82,2015-03-15,WHV,2000,OC,07:12.1,UCDV,07:16.0,,,,,,,,,,,,,Final,UC Davis vs. OCC 
+83,2015-03-15,WHV,2000,OKC,07:32.0,WICH,07:56.0,,,,,,,,,,,,,Final,OCU Opening Day
+84,2015-03-15,WHV,2000,OKC,07:39.0,WICH,08:10.0,,,,,,,,,,,,,Final,OCU Opening Day
+85,2015-03-15,WHV,2000,TULN,07:51.2,TEX,08:05.4,NWST,08:14.9,,,,,,,,,,,Final,Northwestern State vs. Texas/Tulane/Alabama
+86,2015-03-19,WHJ,2000,JAX,06:14.3,DRAK,06:40.5,,,,,,,,,,,,,Final,Jacksonville vs. Drake & Stetson
+87,2015-03-19,WHV,2000,JAX,05:50.8,DRAK,06:09.3,STET,06:23.0,,,,,,,,,,,Final,Jacksonville vs. Drake & Stetson
+88,2015-03-19,WHV,2000,JAX,05:56.4,DRAK,06:17.9,STET,06:25.2,,,,,,,,,,,Final,Jacksonville vs. Drake & Stetson
+89,2015-03-20,MHJ,2000,HAML,06:11.0,SKID,06:31.0,,,,,,,,,,,,,Final,Hamilton College vs. Skidmore College
+90,2015-03-20,MHV,2000,HAML,05:48.0,SKID,05:57.0,,,,,,,,,,,,,Final,Hamilton College vs. Skidmore College
+91,2015-03-20,WHJ,2000,HAML,06:49.4,SKID,07:15.6,,,,,,,,,,,,,Final,Hamilton College vs. Skidmore College
+92,2015-03-20,WHV,2000,HAML,06:20.5,SKID,06:53.2,,,,,,,,,,,,,Final,Hamilton College vs. Skidmore College
+93,2015-03-21,MHJ,,CINC,06:40.8,WASU,06:41.4,,,,,,,,,,,,,Final,Vanderbilt Invitational
+94,2015-03-21,MHJ,2000,COLU,05:58.0,FLTC,06:04.5,,,,,,,,,,,,,Final,Governor's Cup 2015 (Men)
+95,2015-03-21,MHJ,2000,DELA,06:20.2,LEHI,06:51.4,,,,,,,,,,,,,Final,Lehigh University vs. University of Delaware
+96,2015-03-21,MHJ,2000,OC,06:16.6,UCLA,06:45.1,,,,,,,,,,,,,Final,Orange Coast College vs. UCLA
+97,2015-03-21,MHJ,2000,PENN,05:54.7,GW,06:01.7,DREX,06:05.4,,,,,,,,,,,Final,McCausland Cup
+98,2015-03-21,MHJ,2000,UCSB,06:37.6,USC,07:03.8,LOMY,07:24.9,,,,,,,,,,,Final,Gordon Cup
+99,2015-03-21,MHV,,CINC,06:24.9,WASU,06:37.6,EMOR,06:53.2,,,,,,,,,,,Final,Vanderbilt Invitational
+100,2015-03-21,MHV,,CINC,06:34.9,DAYT,06:49.2,VAND,06:58.8,,,,,,,,,,,Final,Vanderbilt Invitational
+101,2015-03-21,MHV,,WASU,06:38.8,DAYT,06:55.8,EMOR,07:03.3,,,,,,,,,,,Final,Vanderbilt Invitational
+102,2015-03-21,MHV,1500,ND,04:58.6,MARI,05:02.2,,,,,,,,,,,,,Final,Marietta College vs. Notre Dame
+103,2015-03-21,MHV,1850,TULN,06:11.0,WICH,06:23.0,,,,,,,,,,,,,Final,Tulane vs. Wichita State
+104,2015-03-21,MHV,1950,ROLL,05:54.1,FLA,06:06.7,EMBR#,06:30.6,,,,,,,,,,,Final,Rollins Invitational
+105,2015-03-21,MHV,2000,DELA,06:05.2,LEHI,06:21.1,,,,,,,,,,,,,Final,Lehigh University vs. University of Delaware
+106,2015-03-21,MHV,2000,FLTC,05:39.4,COLU,05:43.4,,,,,,,,,,,,,Final,Governor's Cup 2015 (Men)
+107,2015-03-21,MHV,2000,FLTC,05:59.5,JAX,06:24.1,,,,,,,,,,,,,Final,Governor's Cup 2015 (Men)
+108,2015-03-21,MHV,2000,OC,05:56.1,UCLA,06:03.6,,,,,,,,,,,,,Final,Orange Coast College vs. UCLA
+109,2015-03-21,MHV,2000,PENN,05:46.7,DREX,05:50.2,GW,05:55.1,,,,,,,,,,,Final,McCausland Cup
+110,2015-03-21,MHV,2000,UCSB,05:55.7,USC,06:11.0,LOMY,06:17.5,,,,,,,,,,,Final,Gordon Cup
+111,2015-03-21,WHJ,1500,DUQN,05:36.5,DAYT,05:50.1,,,,,,,,,,,,,Final,Marietta vs. North Park
+112,2015-03-21,WHJ,1500,DUQN,05:51.7,DAYT,06:11.7,,,,,,,,,,,,,Final,Marietta vs. North Park
+113,2015-03-21,WHJ,1950,ROLL,07:10.7,FLA,07:21.4,,,,,,,,,,,,,Final,Rollins Invitiational
+114,2015-03-21,WHJ,2000,ALAB,07:31.1,DRAK,08:08.5,,,,,,,,,,,,,Final,University of Alabama vs. Drake University
+115,2015-03-21,WHJ,2000,CFLA,06:45.8,COLU,06:53.8,UMIA,07:07.9,,,,,,,,,,,Final,Governor's Cup 2015 (Women)
+116,2015-03-21,WHJ,2000,COLU,07:00.4,BARR,07:13.9,,,,,,,,,,,,,Final,Governor's Cup 2015 (Women)
+117,2015-03-21,WHJ,2000,DELA,07:15.2,LEHI,07:25.5,,,,,,,,,,,,,Final,Lehigh University vs. University of Delaware
+118,2015-03-21,WHJ,2000,KAST,06:58.2,TULS,07:06.0,,,,,,,,,,,,,Final,University of Tulsa vs. Kansas State University
+119,2015-03-21,WHJ,2000,LOMY,06:44.9,UCSB,07:00.4,,,,,,,,,,,,,Final,Berg Cup
+120,2015-03-21,WHJ,2000,OLDD,06:35.7,UNC,06:41.7,,,,,,,,,,,,,Final,Old Dominion vs. UNC
+121,2015-03-21,WHJ,2000,PENN,06:38.9,STJO,06:50.2,GW,06:50.7,,,,,,,,,,,Final,UPenn vs. St. Joes & GW
+122,2015-03-21,WHJ,2000,TEMP,07:04.3,LEHI,07:12.0,,,,,,,,,,,,,Final,Temple vs. Lehigh & Delaware
+123,2015-03-21,WHJ,2000,TEMP,07:11.0,GW,07:12.8,,,,,,,,,,,,,Final,Temple vs. George Washington
+124,2015-03-21,WHV,,VAND,07:45.3,CINC,08:01.3,EMOR,08:04.6,,,,,,,,,,,Final,Vanderbilt Invitational
+125,2015-03-21,WHV,1500,DUQN,05:34.0,DAYT,05:41.9,MARI,05:48.4,NPRK,06:31.4,,,,,,,,,Final,Marietta vs. North Park
+126,2015-03-21,WHV,1500,DUQN,05:35.0,DAYT,05:45.5,,,,,,,,,,,,,Final,Marietta vs. North Park
+127,2015-03-21,WHV,1850,WICH,06:26.0,TULN,06:32.0,,,,,,,,,,,,,Final,Tulane vs. Wichita State
+128,2015-03-21,WHV,1950,ROLL,06:50.6,FLA,07:11.7,,,,,,,,,,,,,Final,Rollins Invitiational
+129,2015-03-21,WHV,2000,ALAB,07:21.4,DRAK,07:43.6,,,,,,,,,,,,,Final,University of Alabama vs. Drake University
+130,2015-03-21,WHV,2000,BARR,06:33.0,FLTC,06:52.6,,,,,,,,,,,,,Final,Governor's Cup 2015 (Women)
+131,2015-03-21,WHV,2000,CFLA,06:31.8,COLU,06:34.1,UMIA,06:39.2,,,,,,,,,,,Final,Governor's Cup 2015 (Women)
+132,2015-03-21,WHV,2000,CFLA,06:45.2,FLTC,07:32.5,,,,,,,,,,,,,Final,Governor's Cup 2015 (Women)
+133,2015-03-21,WHV,2000,COLU,06:47.1,BARR,06:55.9,,,,,,,,,,,,,Final,Governor's Cup 2015 (Women)
+134,2015-03-21,WHV,2000,KAST,06:46.6,TULS,06:49.2,,,,,,,,,,,,,Final,University of Tulsa vs. Kansas State University
+135,2015-03-21,WHV,2000,LEHI,06:57.5,DELA,07:06.9,,,,,,,,,,,,,Final,Lehigh University vs. University of Delaware
+136,2015-03-21,WHV,2000,OLDD,06:29.1,UNC,06:35.7,,,,,,,,,,,,,Final,Old Dominion vs. UNC
+137,2015-03-21,WHV,2000,PENN,06:37.1,STJO,06:44.4,GW,06:54.7,,,,,,,,,,,Final,UPenn vs. St. Joes & GW
+138,2015-03-21,WHV,2000,TEMP,06:40.6,LEHI,06:41.5,,,,,,,,,,,,,Final,Temple vs. Lehigh & Delaware
+139,2015-03-21,WHV,2000,TEMP,06:58.0,GW,07:03.8,,,,,,,,,,,,,Final,Temple vs. George Washington
+140,2015-03-21,WHV,2000,UCSB,06:34.5,LOMY,06:35.1,OC,06:45.6,UCIR,06:49.9,CSLB,07:01.1,,,,,,,Final,Berg Cup
+141,2015-03-22,MHJ,2000,ORST,06:25.1,GONZ,06:37.1,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+142,2015-03-22,MHV,2000,ORST,06:22.5,GONZ,06:36.1,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+143,2015-03-22,WHJ,2000,ORST,07:17.6,GONZ,07:21.2,,,,,,,,,,,,,Final,Gonzaga University vs. Oregon State University
+144,2015-03-22,WHV,2000,GONZ,07:01.2,ORST,07:01.7,,,,,,,,,,,,,Final,Gonzaga University vs. Oregon State University
+145,2015-03-26,WHV,2000,WLMT,07:42.3,CHCO,07:57.0,,,,,,,,,,,,,Final,Chico State vs. Willamette
+146,2015-03-28,MHJ,,DREX,06:03.4,TEMP,06:04.7,HC,06:12.3,MICH,06:12.6,UVA,06:13.3,STJO,06:27.9,,,,,Final,Murphy Cup
+147,2015-03-28,MHJ,,OKC,06:33.9,ROLL,06:57.0,,,,,,,,,,,,,Final,John Hunter Regatta
+148,2015-03-28,MHJ,,CAL,06:01.6,UCSD,06:24.4,USD,06:27.1,UCLA,06:58.0,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+149,2015-03-28,MHJ,,DREX,06:05.1,MICH,06:07.3,HC,06:08.7,BC,06:18.8,UNC,06:30.0,WASC,06:37.0,,,,,Heat,Murphy Cup
+150,2015-03-28,MHJ,,MICH,06:20.3,STJO,06:32.5,,,,,,,,,,,,,Heat,Murphy Cup
+151,2015-03-28,MHJ,,NAVY,06:14.5,UBC,06:20.9,UCSB,06:26.9,SDSU,06:37.0,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+152,2015-03-28,MHJ,,PENN,06:12.3,STAN,06:19.0,UCIR,06:48.1,SCLA,06:50.1,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+153,2015-03-28,MHJ,,TEMP,06:06.2,UVA,06:10.2,BUCK,06:24.9,DELA,06:31.4,,,,,,,,,Heat,Murphy Cup
+154,2015-03-28,MHJ,1960,TEX,06:47.0,COLO,07:13.0,,,,,,,,,,,,,Final,2015 Red Bud Roundup
+155,2015-03-28,MHJ,2000,BRWN,05:46.4,YALE,05:50.1,,,,,,,,,,,,,Final,Albert Cup
+156,2015-03-28,MHJ,2000,COLU,05:38.7,RUTG,06:00.5,,,,,,,,,,,,,Final,Collins Cup
+157,2015-03-28,MHJ,2000,PRIN,06:38.5,GEOR,07:00.7,,,,,,,,,,,,,Final,Annual Scrimmage
+158,2015-03-28,MHV,,ARMY,06:05.4,BC,06:07.4,STJO,06:08.2,UNC,06:11.7,BUCK,06:22.5,WASC,06:24.0,,,,,Final,Murphy Cup
+159,2015-03-28,MHV,,DELA#,05:56.4,UVA,05:58.0,TEMP,06:00.4,MICH,06:02.0,HC,06:05.1,DELA,06:07.5,,,,,Final,Murphy Cup
+160,2015-03-28,MHV,,LOMY,06:47.2,SONO,06:50.3,CALM,06:55.8,PUGS,06:58.0,LECL,07:02.2,ILLI,07:10.4,,,,,Final,San Diego Crew Classic - Saturday
+161,2015-03-28,MHV,,OKC,06:07.9,ROLL,06:17.2,GATC,06:17.4,KANS,06:36.5,FLA,06:40.0,VAND,06:41.2,ALAB,06:51.2,,,Final,John Hunter Regatta
+162,2015-03-28,MHV,,OKC,06:24.5,COLB,06:36.2,UGA,06:52.1,EMOR,07:03.5,LSU,07:09.9,WICH,07:11.9,UTCH,07:19.8,,,Final,John Hunter Regatta
+163,2015-03-28,MHV,,ROLL,06:31.1,KANS,06:35.3,FLA,06:37.2,CLEM,06:50.2,TULN,07:01.4,,,,,,,Final,John Hunter Regatta
+164,2015-03-28,MHV,,CAL,05:49.7,PENN,06:01.3,DREX,06:11.7,,,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+165,2015-03-28,MHV,,HC,06:06.3,BUCK,06:11.8,UNC,06:12.2,LAFA,06:25.0,LEHI,06:29.1,,,,,,,Heat,Murphy Cup
+166,2015-03-28,MHV,,MICH,06:07.6,BC,06:10.6,BATE,06:26.8,HAML,06:36.2,LASL,06:47.5,,,,,,,Heat,Murphy Cup
+167,2015-03-28,MHV,,NAVY,05:58.9,STAN,06:04.0,GV,06:07.0,UBC,06:10.4,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+168,2015-03-28,MHV,,SCLA,06:23.8,OC,06:24.0,SDSU,06:33.5,UCDV,06:37.8,SONO,06:42.8,ILLI,07:16.0,,,,,Heat,San Diego Crew Classic - Saturday
+169,2015-03-28,MHV,,TEMP,05:59.9,DELA#,06:03.6,ARMY,06:11.1,STJO,06:18.4,,,,,,,,,Heat,Murphy Cup
+170,2015-03-28,MHV,,UCSB,06:16.8,UCSD,06:20.6,ND,06:22.3,UCLA,06:34.8,LECL,06:53.6,PUGS,07:00.0,,,,,Heat,San Diego Crew Classic - Saturday
+171,2015-03-28,MHV,,USD,06:23.4,UCIR,06:25.4,PURD,06:25.6,USC,06:41.6,LOMY,06:45.1,CALM,06:46.1,CSLB,07:01.1,,,Heat,San Diego Crew Classic - Saturday
+172,2015-03-28,MHV,,UVA,06:05.2,DELA,06:09.4,WASC,06:16.3,VILN,06:19.6,PITT,06:35.6,,,,,,,Heat,Murphy Cup
+173,2015-03-28,MHV,1960,TEX,06:23.0,COLO,06:23.2,BAYL,07:48.0,,,,,,,,,,,Final,2015 Red Bud Roundup
+174,2015-03-28,MHV,2000,COLU,05:35.5,RUTG,05:47.6,,,,,,,,,,,,,Final,Collins Cup
+175,2015-03-28,MHV,2000,MRST,06:05.1,FAIR,06:21.5,IONA,07:00.2,,,,,,,,,,,Final,Iona vs. Fairfield
+176,2015-03-28,MHV,2000,MRST,06:08.6,FAIR,06:25.2,IONA,07:19.1,,,,,,,,,,,Final,Iona vs. Fairfield
+177,2015-03-28,MHV,2000,PRIN,06:15.4,GEOR,06:34.2,,,,,,,,,,,,,Final,Annual Scrimmage
+178,2015-03-28,MHV,2000,WWAS,07:03.3,WAST,07:08.5,,,,,,,,,,,,,Final,Daffodil Sprints - Men
+179,2015-03-28,MHV,2000,YALE,05:35.1,BRWN,05:42.4,,,,,,,,,,,,,Final,Albert Cup
+180,2015-03-28,MLJ,2000,PRIN,06:32.2,GEOR,07:08.3,,,,,,,,,,,,,Final,Fosburgh Cup
+181,2015-03-28,MLJ,2000,YALE,06:39.6,NAVY,06:42.5,,,,,,,,,,,,,Final,Navy vs Yale: Eads Johnson Cup
+182,2015-03-28,MLV,,DELA,06:20.7,MICH,06:39.1,PITT,06:41.5,PSU,06:50.4,,,,,,,,,Final,Murphy Cup
+183,2015-03-28,MLV,,PURD,06:36.8,GATC,06:39.9,UCSB,06:48.1,CAL,06:59.9,SACS,07:05.2,,,,,,,Heat,San Diego Crew Classic - Saturday
+184,2015-03-28,MLV,2000,PENN,05:49.3,MERC,05:57.9,,,,,,,,,,,,,Final,Penn v Mercyhurst
+185,2015-03-28,MLV,2000,PRIN,06:34.9,GEOR,06:54.9,,,,,,,,,,,,,Final,Fosburgh Cup
+186,2015-03-28,MLV,2000,YALE,06:26.5,NAVY,06:27.9,,,,,,,,,,,,,Final,Navy vs Yale: Eads Johnson Cup
+187,2015-03-28,WHJ,,LOUV,06:29.7,MIST,06:38.6,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+188,2015-03-28,WHJ,,NAVY,06:59.4,BUFF,07:04.6,GW,07:08.7,HC,07:09.4,DREX,07:19.8,RUTG,07:39.8,,,,,Final,Murphy Cup
+189,2015-03-28,WHJ,,ND,06:36.3,MIST,06:42.8,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+190,2015-03-28,WHJ,,OHST,06:23.9,ND,06:38.5,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+191,2015-03-28,WHJ,,OHST,06:25.0,LOUV,06:37.8,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+192,2015-03-28,WHJ,,ROLL,07:45.0,OKC,07:52.7,CLEC,07:57.0,FLA,08:11.6,,,,,,,,,Final,John Hunter Regatta
+193,2015-03-28,WHJ,,SDSU,07:26.6,UPOR,07:27.9,UCSD,07:31.7,SMU,07:45.3,SCLA,08:03.5,,,,,,,Final,San Diego Crew Classic - Saturday
+194,2015-03-28,WHJ,,GW,07:09.3,HC,07:13.4,TEMP,07:22.7,FORD,07:33.4,,,,,,,,,Heat,Murphy Cup
+195,2015-03-28,WHJ,,NAVY,07:01.0,BUFF,07:04.9,STJO,07:09.6,DELA,07:30.4,,,,,,,,,Heat,Murphy Cup
+196,2015-03-28,WHJ,,RUTG,07:23.7,DREX,07:25.8,CONN,07:28.2,LEHI,07:43.1,MERC,08:06.4,PITT,08:42.0,,,,,Heat,Murphy Cup
+197,2015-03-28,WHJ,,TEX,07:03.4,USD,07:12.0,UBC,07:23.5,LOMY,07:32.8,UPOR,07:37.7,SMU,07:54.0,,,,,Heat,San Diego Crew Classic - Saturday
+198,2015-03-28,WHJ,,UCLA,07:00.8,DUKE,07:11.9,TENN,07:17.5,OLDD,07:23.0,UCSD,07:32.2,SCLA,08:02.9,,,,,Heat,San Diego Crew Classic - Saturday
+199,2015-03-28,WHJ,,USC,06:51.3,KAST,07:01.9,SACS,07:03.9,STMY,07:17.7,SDSU,07:26.2,,,,,,,Heat,San Diego Crew Classic - Saturday
+200,2015-03-28,WHJ,2000,ALAB,07:17.4,JAX,07:33.3,,,,,,,,,,,,,Final,Alabama vs. Jacksonville
+201,2015-03-28,WHJ,2000,BRWN,07:10.4,PRIN,07:18.2,MICH,07:29.6,,,,,,,,,,,Final,Class of 1987 Trophy
+202,2015-03-28,WHJ,2000,CAL,06:31.4,WAST,06:44.3,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+203,2015-03-28,WHJ,2000,CAL,06:36.8,OKLA,07:02.5,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+204,2015-03-28,WHJ,2000,GEOR,07:08.8,UNC,07:13.6,WV,07:47.4,,,,,,,,,,,Final,Class of 2006 Cup
+205,2015-03-28,WHJ,2000,MRST,07:09.1,FAIR,07:26.8,ROMO,07:35.9,IONA,08:22.3,,,,,,,,,Final,Iona/Fairfield/Marist/Robert Morris
+206,2015-03-28,WHJ,2000,MRST,07:17.6,FAIR,07:25.8,IONA,08:53.1,,,,,,,,,,,Final,Iona/Fairfield/Marist/Robert Morris
+207,2015-03-28,WHJ,2000,ORST,06:39.0,OKLA,06:55.3,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+208,2015-03-28,WHJ,2000,UVA,06:32.5,STAN,06:36.5,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+209,2015-03-28,WHJ,2000,UVA,06:37.6,ORST,06:41.6,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+210,2015-03-28,WHJ,2000,WAST,06:34.6,STAN,06:39.2,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+211,2015-03-28,WHJ,2000,WELL,07:08.3,WASC,07:48.2,,,,,,,,,,,,,Final,Washington College vs. Wellesley
+212,2015-03-28,WHJ,2000,WWAS,08:40.0,PUGS,08:43.0,HUMS,08:46.3,PACL,09:01.2,PORT,09:38.3,,,,,,,Final,Daffodil Sprints - Women
+213,2015-03-28,WHJ,2000,YALE,06:13.7,PENN,06:29.4,COLU,06:32.5,,,,,,,,,,,Final,Connell Cup - Columbia
+214,2015-03-28,WHV,,HAML,06:52.9,CONN,06:54.4,BATE,06:59.9,RUTG,07:02.2,LEHI,07:03.0,DELA,07:13.1,,,,,Final,Murphy Cup
+215,2015-03-28,WHV,,LOUV,06:23.5,MIST,06:31.9,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+216,2015-03-28,WHV,,MERC,06:54.0,PHIL,07:11.2,FRMA,07:40.2,,,,,,,,,,,Final,Murphy Cup
+217,2015-03-28,WHV,,NAVY,06:47.3,HC,06:50.7,DREX,06:56.4,GW,06:56.9,FORD,07:02.9,BUFF,07:13.4,,,,,Final,Murphy Cup
+218,2015-03-28,WHV,,ND,06:27.4,MIST,06:35.7,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+219,2015-03-28,WHV,,OHST,06:10.6,ND,06:29.5,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+220,2015-03-28,WHV,,OHST,06:13.4,LOUV,06:28.7,,,,,,,,,,,,,Final,Big Ten/ACC Double Dual
+221,2015-03-28,WHV,,OKC,07:34.4,WICH,07:46.4,CLEC,07:49.9,ROLL,07:54.9,FLA,08:14.8,VAND,08:18.8,UGA,08:24.4,,,Final,John Hunter Regatta
+222,2015-03-28,WHV,,STJO,07:13.6,SCLA,07:18.6,PURD,07:21.6,UCSD,07:34.3,,,,,,,,,Final,San Diego Crew Classic - Saturday
+223,2015-03-28,WHV,,COLB,07:20.2,ROLL,07:35.7,UGA,07:52.4,CCHR,08:22.1,SAMF,08:24.4,,,,,,,Heat,John Hunter Regatta
+224,2015-03-28,WHV,,DREX,06:57.8,HC,07:00.5,BATE,07:02.6,HAML,07:05.0,TEMP,07:20.8,PITT,07:39.3,,,,,Heat,Murphy Cup
+225,2015-03-28,WHV,,DUKE,06:54.5,STMY,06:57.6,DUQN,07:02.3,OLDD,07:02.7,PURD,07:03.4,,,,,,,Heat,San Diego Crew Classic - Saturday
+226,2015-03-28,WHV,,FORD,06:57.1,BUFF,07:00.1,LEHI,07:06.7,RUTG,07:08.5,LASL,08:02.6,,,,,,,Heat,Murphy Cup
+227,2015-03-28,WHV,,MERC,07:08.1,FRMA,07:51.3,RSTC,08:52.8,,,,,,,,,,,Heat,Murphy Cup
+228,2015-03-28,WHV,,NAVY,06:49.6,GW,06:57.0,CONN,06:57.3,DELA,07:18.0,EMIC,07:33.6,,,,,,,Heat,Murphy Cup
+229,2015-03-28,WHV,,OC,07:17.4,UCDV,07:24.9,UCIR,07:29.6,ILLI,07:47.1,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+230,2015-03-28,WHV,,OKC,07:19.8,CLEC,07:38.3,GATC,07:59.6,DAVS,08:26.8,FLST,08:36.4,,,,,,,Heat,John Hunter Regatta
+231,2015-03-28,WHV,,PHIL,07:32.1,BRYN,07:57.3,,,,,,,,,,,,,Heat,Murphy Cup
+232,2015-03-28,WHV,,SACS,06:57.9,KAST,07:00.2,LOMY,07:01.8,SMU,07:05.4,STJO,07:11.4,,,,,,,Heat,San Diego Crew Classic - Saturday
+233,2015-03-28,WHV,,TENN,06:56.6,UMIA,06:58.6,UPOR,07:03.5,SDSU,07:08.4,SCLA,07:12.5,UCSD,07:13.6,,,,,Heat,San Diego Crew Classic - Saturday
+234,2015-03-28,WHV,,TEX,06:35.8,USC,06:37.6,UBC,06:46.5,,,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+235,2015-03-28,WHV,,UCSB,07:09.4,CSLB,07:19.4,LECL,07:23.0,MILL,07:39.7,CHAP,09:00.6,,,,,,,Heat,San Diego Crew Classic - Saturday
+236,2015-03-28,WHV,,USD,06:46.7,UCLA,06:47.5,UVIC,06:53.6,GV,07:12.8,,,,,,,,,Heat,San Diego Crew Classic - Saturday
+237,2015-03-28,WHV,,WICH,07:32.6,VAND,07:39.6,FLA,07:49.2,TULN,07:53.0,EMOR,08:04.3,UCHR,08:06.6,,,,,Heat,John Hunter Regatta
+238,2015-03-28,WHV,2000,BARR,07:29.1,NOVS,07:41.5,,,,,,,,,,,,,Final,Barry vs. Nova Southeastern
+239,2015-03-28,WHV,2000,BRWN,07:14.4,PRIN,07:22.3,MICH,07:28.9,,,,,,,,,,,Final,Class of 1987 Trophy
+240,2015-03-28,WHV,2000,CAL,06:16.3,WAST,06:31.0,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+241,2015-03-28,WHV,2000,CAL,06:22.9,OKLA,06:49.7,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+242,2015-03-28,WHV,2000,FAIR,06:55.7,MRST,07:02.2,ROMO,07:08.4,IONA,07:41.5,,,,,,,,,Final,Iona/Fairfield/Marist/Robert Morris
+243,2015-03-28,WHV,2000,FAIR,06:59.5,MRST,07:01.5,ROMO,07:16.5,IONA,07:28.1,,,,,,,,,Final,Iona/Fairfield/Marist/Robert Morris
+244,2015-03-28,WHV,2000,GEOR,06:17.8,WV,06:20.5,UNC,06:26.3,GEOR#,06:39.9,,,,,,,,,Final,Class of 2006 Cup
+245,2015-03-28,WHV,2000,HUMS,07:52.9,WWAS,08:04.8,PUGS,08:06.4,SEAT,08:07.6,PACL,08:30.4,ORGN,08:43.7,WAST#,08:51.3,,,Final,Daffodil Sprints - Women
+246,2015-03-28,WHV,2000,JAX,07:19.2,ALAB,07:22.5,,,,,,,,,,,,,Final,Alabama vs. Jacksonville
+247,2015-03-28,WHV,2000,ORST,06:36.3,OKLA,06:45.2,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+248,2015-03-28,WHV,2000,STAN,06:20.9,UVA,06:25.1,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+249,2015-03-28,WHV,2000,STAN,06:27.8,WAST,06:33.9,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+250,2015-03-28,WHV,2000,UVA,06:30.0,ORST,06:43.5,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Saturday
+251,2015-03-28,WHV,2000,WASC,06:37.0,WELL,06:41.2,,,,,,,,,,,,,Final,Washington College vs. Wellesley
+252,2015-03-28,WHV,2000,YALE,06:12.3,COLU,06:28.5,PENN,06:34.9,,,,,,,,,,,Final,Connell Cup - Columbia
+253,2015-03-28,WLV,,STAN,07:06.0,BU,07:08.5,PRIN,07:08.8,VILN,07:26.1,MIT,07:50.8,,,,,,,Heat,San Diego Crew Classic - Saturday
+254,2015-03-29,MHJ,,CAL,05:58.1,PENN,06:08.2,NAVY,06:15.2,STAN,06:19.9,UBC,06:21.8,,,,,,,Final,San Diego Crew Classic - Sunday
+255,2015-03-29,MHJ,,UNC,07:03.7,GMAS,07:13.5,,,,,,,,,,,,,Final,Occoquan Sprints
+256,2015-03-29,MHJ,,USD,06:24.2,UCSB,06:26.2,UCSD,06:30.4,SDSU,06:44.3,UCIR,06:50.6,SCLA,07:01.0,,,,,Final,San Diego Crew Classic - Sunday
+257,2015-03-29,MHJ,1700,STLA,07:28.8,ROCH,07:29.3,,,,,,,,,,,,,Final,Rochester vs. St. Lawrence & St. John Fisher
+258,2015-03-29,MHV,,CAL,05:53.1,PENN,06:03.7,STAN,06:04.4,NAVY,06:05.6,GV,06:11.4,DREX,06:13.7,UBC,06:15.3,,,Final,San Diego Crew Classic - Sunday
+259,2015-03-29,MHV,,GMAS,06:35.4,UNC,06:43.1,MAWA,06:59.0,VCOM,07:02.8,VT,07:12.8,,,,,,,Final,Occoquan Sprints
+260,2015-03-29,MHV,,ND,06:29.2,PURD,06:30.6,SDSU,06:33.1,UCDV,06:39.1,USC,06:40.6,UCLA,06:41.1,,,,,Final,San Diego Crew Classic - Sunday
+261,2015-03-29,MHV,,NYM,07:22.9,RICH,08:04.5,CARN,08:22.5,LBTY,08:32.4,,,,,,,,,Final,Occoquan Sprints
+262,2015-03-29,MHV,,UCSB,06:09.2,USD,06:09.8,SCLA,06:16.5,UCIR,06:17.8,OC,06:20.2,UCSD,06:26.5,,,,,Final,San Diego Crew Classic - Sunday
+263,2015-03-29,MHV,,GMAS,06:54.5,VCOM,07:11.4,VT,07:16.9,CARN,08:16.4,LBTY,08:44.7,,,,,,,Heat,Occoquan Sprints
+264,2015-03-29,MHV,,UNC,06:54.0,MAWA,07:06.8,NYM,07:22.3,SUSQ,07:50.5,RICH,08:04.1,,,,,,,Heat,Occoquan Sprints
+265,2015-03-29,MHV,1700,ROCH,06:53.5,STLA,07:11.0,,,,,,,,,,,,,Final,Rochester vs. St. Lawrence & St. John Fisher
+266,2015-03-29,MLV,,PURD,06:29.9,GATC,06:32.6,UCSB,06:36.3,CAL,06:51.3,SACS,07:04.1,,,,,,,Final,San Diego Crew Classic - Sunday
+267,2015-03-29,WHJ,,SACS,07:09.2,UBC,07:13.0,TENN,07:13.1,LOMY,07:20.9,STMY,07:23.7,OLDD,07:24.9,,,,,Final,San Diego Crew Classic - Sunday
+268,2015-03-29,WHJ,,TEX,06:45.2,UCLA,06:48.0,USC,06:48.4,USD,07:00.4,KAST,07:04.9,DUKE,07:05.1,,,,,Final,San Diego Crew Classic - Sunday
+269,2015-03-29,WHJ,,UNC,07:19.2,CLEC,07:30.2,GMAS,07:40.1,,,,,,,,,,,Final,Occoquan Sprints
+270,2015-03-29,WHJ,1700,WLSM,08:22.2,ROCH,08:36.6,,,,,,,,,,,,,Final,Rochester vs. William Smith/St. Lawrence/St. John Fisher 
+271,2015-03-29,WHJ,2000,UVA,06:26.2,CAL,06:30.2,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Sunday
+272,2015-03-29,WHJ,2000,WAST,06:40.1,OKLA,06:53.7,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Sunday
+273,2015-03-29,WHV,,CLEC,06:57.9,GMAS,07:09.7,BUCK,07:11.4,UNC,07:25.6,,,,,,,,,Final,Occoquan Sprints
+274,2015-03-29,WHV,,DUKE,06:51.5,KAST,06:56.2,SACS,06:56.2,TENN,06:56.4,STMY,07:00.1,UMIA,07:01.0,,,,,Final,San Diego Crew Classic - Sunday
+275,2015-03-29,WHV,,ILLI,07:48.6,CHAP,09:13.3,,,,,,,,,,,,,Final,San Diego Crew Classic - Sunday
+276,2015-03-29,WHV,,LOMY,07:13.3,DUQN,07:16.9,UPOR,07:17.0,OLDD,07:17.9,SMU,07:21.1,SDSU,07:28.8,,,,,Final,San Diego Crew Classic - Sunday
+277,2015-03-29,WHV,,MAWA,08:32.9,VCOM,08:38.7,RICH,09:03.3,LBTY,09:09.3,CARN,09:25.9,,,,,,,Final,Occoquan Sprints
+278,2015-03-29,WHV,,UCSB,07:07.3,OC,07:15.5,CSLB,07:22.6,LECL,07:23.3,UCDV,07:25.6,UCIR,07:32.9,MILL,07:38.4,,,Final,San Diego Crew Classic - Sunday
+279,2015-03-29,WHV,,USC,06:38.1,TEX,06:39.7,UBC,06:46.2,USD,06:46.2,UVIC,06:47.5,UCLA,06:47.8,GV,07:08.2,,,Final,San Diego Crew Classic - Sunday
+280,2015-03-29,WHV,,CLEC,07:29.4,BUCK,07:42.1,MAWA,08:41.5,RICH,08:47.3,JMAD,09:02.1,,,,,,,Heat,Occoquan Sprints
+281,2015-03-29,WHV,,GMAS,07:29.1,UNC,07:38.3,CARN,09:05.9,,,,,,,,,,,Heat,Occoquan Sprints
+282,2015-03-29,WHV,,VCOM,08:39.4,LBTY,09:02.1,SUSQ,09:04.9,,,,,,,,,,,Heat,Occoquan Sprints
+283,2015-03-29,WHV,1700,ROCH,07:51.1,STLA,08:01.8,STJF,08:36.4,,,,,,,,,,,Final,Rochester vs. William Smith/St. Lawrence/St. John Fisher 
+284,2015-03-29,WHV,1700,WLSM,07:44.0,ROCH,08:04.7,STLA,08:11.7,,,,,,,,,,,Final,Rochester vs. William Smith/St. Lawrence/St. John Fisher 
+285,2015-03-29,WHV,2000,CAL,06:16.7,UVA,06:23.7,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Sunday
+286,2015-03-29,WHV,2000,WAST,06:28.3,OKLA,06:51.2,,,,,,,,,,,,,Final,Pac12 Women's Challenge - Sunday
+287,2015-03-29,WLV,,STAN,07:05.4,BU,07:09.2,PRIN,07:12.6,VILN,07:21.8,MIT,07:40.3,,,,,,,Final,San Diego Crew Classic - Sunday
+288,2015-03-31,MHV,2000,WESL,06:32.0,CSTG,06:47.0,,,,,,,,,,,,,Final,Wesleyan University vs. Coast Guard Academy
+289,2015-03-31,WHV,2000,WESL,07:10.0,CSTG,07:29.3,,,,,,,,,,,,,Final,Wesleyan University vs. Coast Guard Academy
+290,2015-04-02,MHV,2000,IONA,08:36.2,FORD,08:52.8,,,,,,,,,,,,,Final,Iona vs. Fordham
+291,2015-04-02,WHV,2000,FORD,08:04.7,IONA,08:57.2,,,,,,,,,,,,,Final,Iona vs. Fordham
+292,2015-04-03,MHJ,2000,BU,06:15.7,STAN,06:23.8,,,,,,,,,,,,,Final,Stanford University vs. Boston University
+293,2015-04-03,MHV,,JAX,06:10.1,GATC,06:12.0,ROLL,06:17.7,FLA,06:36.5,FLST,06:43.8,CFLA,06:45.3,,,,,Final,FIRA Championships Finals
+294,2015-04-03,MHV,,MICH,05:48.8,GV,05:55.0,CINC,06:14.2,,,,,,,,,,,Final,Cincinnati Regatta
+295,2015-04-03,MHV,,MICH,06:09.9,GV,06:10.2,CINC,06:19.5,MIOH,06:42.0,,,,,,,,,Heat,Cincinnati Regatta
+296,2015-04-03,MHV,,VAND,06:44.1,OHUN,06:54.9,,,,,,,,,,,,,Heat,Cincinnati Regatta
+297,2015-04-03,MHV,2000,BU,06:01.7,STAN,06:09.4,,,,,,,,,,,,,Final,Stanford University vs. Boston University
+298,2015-04-03,MLV,,GATC,06:31.1,EMBR,06:53.3,,,,,,,,,,,,,Final,FIRA Championships Finals
+299,2015-04-03,WHJ,,GV,07:13.5,DAYT,07:31.8,CINC,07:58.1,,,,,,,,,,,Final,Cincinnati Regatta
+300,2015-04-03,WHJ,,JAX,07:22.2,COK,07:31.5,ROLL,07:40.5,NOVS,07:46.8,FLTC,08:00.3,,,,,,,Final,FIRA Championships Finals
+301,2015-04-03,WHJ,2000,BRWN,06:47.8,RADC,07:05.7,,,,,,,,,,,,,Final,Varsity Eight Trophy
+302,2015-04-03,WHJ,2000,SYRA,06:25.6,NORT,06:32.5,PENN,06:34.0,,,,,,,,,,,Final,Nordic 9: Cayuga Inlet
+303,2015-04-03,WHJ,2000,URI,06:39.6,BU,06:41.8,BUFF,06:51.3,,,,,,,,,,,Final,Nordic 9: Cayuga Inlet
+304,2015-04-03,WHJ,2000,YALE,06:13.9,IOWA,06:16.4,CORN,06:30.2,,,,,,,,,,,Final,Nordic 9: Cayuga Inlet
+305,2015-04-03,WHV,,BARR,06:55.9,JAX,06:59.5,NOVS,07:04.7,COK,07:12.1,FLTC,07:23.6,ROLL,07:32.4,STET,08:01.4,,,Final,FIRA Championships Finals
+306,2015-04-03,WHV,,FLA,07:33.3,GATC,07:37.2,FLST,08:19.8,,,,,,,,,,,Final,FIRA Championships Finals
+307,2015-04-03,WHV,,GV,06:39.7,DAYT,06:42.8,VAND,07:10.6,CINC,07:14.7,UMIA,07:27.2,MURS,07:28.0,,,,,Final,Cincinnati Regatta
+308,2015-04-03,WHV,2000,BRWN,06:34.7,RADC,06:41.9,,,,,,,,,,,,,Final,Varsity Eight Trophy
+309,2015-04-04,MHJ,,DART,06:34.7,COLU,06:36.8,HC,07:06.9,,,,,,,,,,,Final,Charles River Basin Rowing Series #2
+310,2015-04-04,MHJ,,HARV,06:10.6,CORN,06:12.7,GW,06:27.8,,,,,,,,,,,Final,Charles River Basin Rowing Series #2
+311,2015-04-04,MHJ,,UCSB,06:13.8,WWAS,06:41.5,,,,,,,,,,,,,Final,Husky Open
+312,2015-04-04,MHJ,1500,RIT,04:30.4,ITHA,04:32.5,ROCH,05:00.7,,,,,,,,,,,Final,Ithaca College vs. Rochester and RIT
+313,2015-04-04,MHJ,2000,BUCK,06:14.0,STJO,06:17.0,,,,,,,,,,,,,Final,Schuylkill River Racing
+314,2015-04-04,MHJ,2000,CAL,05:44.2,BU,05:56.9,,,,,,,,,,,,,Final,California vs. Boston University
+315,2015-04-04,MHJ,2000,DELA,06:06.6,RUTG,06:07.7,,,,,,,,,,,,,Final,Rutgers vs. Delaware
+316,2015-04-04,MHJ,2000,DREX,00:00.0,GEOR,00:03.1,,,,,,,,,,,,,Final,Schuylkill River Racing
+317,2015-04-04,MHJ,2000,DREX,06:24.0,WILL,06:36.7,,,,,,,,,,,,,Final,Schuylkill River Racing
+318,2015-04-04,MHJ,2000,GEOR,06:12.3,TEMP,06:14.5,,,,,,,,,,,,,Final,Schuylkill River Racing
+319,2015-04-04,MHJ,2000,PENN,06:07.7,NORT,06:09.5,,,,,,,,,,,,,Final,Burk Cup
+320,2015-04-04,MHJ,2000,PRIN,06:17.4,NAVY,06:37.3,,,,,,,,,,,,,Final,Navy - Princeton Cup
+321,2015-04-04,MHJ,2000,TEMP,06:10.0,BUCK,06:12.9,,,,,,,,,,,,,Final,Schuylkill River Racing
+322,2015-04-04,MHJ,2000,TUFT,06:26.8,HAML,07:00.0,,,,,,,,,,,,,Final,Tufts vs. Hamilton
+323,2015-04-04,MHJ,2000,UCLA,00:00.0,UCIR,00:04.0,,,,,,,,,,,,,Final,UCLA vs. UCI
+324,2015-04-04,MHJ,2000,WASH,05:40.7,BRWN,05:47.6,,,,,,,,,,,,,Final,Brown vs. Washington
+325,2015-04-04,MHJ,2000,WILL,06:05.0,STJO,06:07.3,,,,,,,,,,,,,Final,Schuylkill River Racing
+326,2015-04-04,MHV,,BATE,07:28.5,BC,07:48.8,CSTG,08:25.1,,,,,,,,,,,Final,Charles River Basin Rowing Series #2
+327,2015-04-04,MHV,,DART,06:13.0,COLU,06:14.5,HC,06:24.6,MIT,06:25.3,,,,,,,,,Final,Charles River Basin Rowing Series #2
+328,2015-04-04,MHV,,HARV,06:06.3,CORN,06:11.9,GW,06:21.0,,,,,,,,,,,Final,Charles River Basin Rowing Series #2
+329,2015-04-04,MHV,,UCSB,06:12.1,WWAS,06:17.9,PUGS,06:43.5,,,,,,,,,,,Final,Husky Open
+330,2015-04-04,MHV,1000,LAFA,03:19.0,LEHI,03:27.8,,,,,,,,,,,,,Final,River Cup
+331,2015-04-04,MHV,1000,LAFA,03:34.0,LEHI,03:44.0,,,,,,,,,,,,,Final,River Cup
+332,2015-04-04,MHV,1500,ITHA,04:21.7,RIT,04:22.4,ROCH,04:38.7,,,,,,,,,,,Final,Ithaca College vs. Rochester and RIT
+333,2015-04-04,MHV,1960,TEX,06:21.0,TXAM,07:18.0,,,,,,,,,,,,,Final,2015 Golden Oar Duel
+334,2015-04-04,MHV,2000,CAL,05:34.9,BU,05:49.8,,,,,,,,,,,,,Final,California vs. Boston University
+335,2015-04-04,MHV,2000,DREX,05:47.0,GEOR,05:49.5,,,,,,,,,,,,,Final,Schuylkill River Racing
+336,2015-04-04,MHV,2000,DREX,06:00.0,WILL,06:09.0,,,,,,,,,,,,,Final,Schuylkill River Racing
+337,2015-04-04,MHV,2000,GEOR,06:02.7,TEMP,06:04.9,,,,,,,,,,,,,Final,Schuylkill River Racing
+338,2015-04-04,MHV,2000,PENN,05:53.2,NORT,05:55.3,,,,,,,,,,,,,Final,Burk Cup
+339,2015-04-04,MHV,2000,PRIN,06:13.4,NAVY,06:24.2,,,,,,,,,,,,,Final,Navy - Princeton Cup
+340,2015-04-04,MHV,2000,RUTG,05:58.9,DELA,06:00.2,,,,,,,,,,,,,Final,Rutgers vs. Delaware
+341,2015-04-04,MHV,2000,STJO,06:08.1,BUCK,06:15.0,,,,,,,,,,,,,Final,Schuylkill River Racing
+342,2015-04-04,MHV,2000,TEMP,06:04.9,BUCK,06:07.5,,,,,,,,,,,,,Final,Schuylkill River Racing
+343,2015-04-04,MHV,2000,TUFT,06:14.5,HAML,06:20.3,,,,,,,,,,,,,Final,Tufts vs. Hamilton
+344,2015-04-04,MHV,2000,UCIR,06:19.5,UCLA,06:30.7,,,,,,,,,,,,,Final,UCLA vs. UCI
+345,2015-04-04,MHV,2000,VILN,06:52.0,FRMA,07:16.8,,,,,,,,,,,,,Final,Philadelphia vs. Univ of Charleston
+346,2015-04-04,MHV,2000,WASH,05:32.5,BRWN,05:36.7,,,,,,,,,,,,,Final,Brown vs. Washington
+347,2015-04-04,MHV,2000,WILL,00:00.0,STJO,00:05.3,,,,,,,,,,,,,Final,Schuylkill River Racing
+348,2015-04-04,MLJ,2000,CORN,06:05.3,PENN,06:12.9,HARV,06:24.6,,,,,,,,,,,Final,Matthews-Leonard Cups
+349,2015-04-04,MLJ,2000,DART,05:39.8,DELA,05:40.7,,,,,,,,,,,,,Final,Dartmouth vs. Delaware
+350,2015-04-04,MLJ,2000,PRIN,06:40.3,COLU,06:43.2,NAVY,06:47.2,,,,,,,,,,,Final,Murtaugh Cup & WIT Cup
+351,2015-04-04,MLJ,2000,YALE,05:37.8,MIT,05:48.8,GEOR,05:55.8,,,,,,,,,,,Final,Joy Cup
+352,2015-04-04,MLV,2000,COLU,06:35.2,PRIN,06:44.6,NAVY,06:59.9,,,,,,,,,,,Final,Murtaugh Cup & WIT Cup
+353,2015-04-04,MLV,2000,CORN,05:59.8,HARV,06:05.9,PENN,06:08.4,,,,,,,,,,,Final,Matthews-Leonard Cups
+354,2015-04-04,MLV,2000,DELA,05:36.4,DART,05:38.1,,,,,,,,,,,,,Final,Dartmouth vs. Delaware
+355,2015-04-04,MLV,2000,YALE,05:33.7,MIT,05:34.1,GEOR,05:47.1,,,,,,,,,,,Final,Joy Cup
+356,2015-04-04,WHJ,,BATE,07:57.5,SIMM,08:41.5,MIT#,08:42.2,,,,,,,,,,,Final,Charles River Basin Rowing Series #2
+357,2015-04-04,WHJ,,DART,08:07.1,UMAS,08:10.9,BC,08:15.0,MIT,08:48.8,,,,,,,,,Final,Charles River Basin Rowing Series #2
+358,2015-04-04,WHJ,,PACI,06:33.7,OSWE,06:44.9,,,,,,,,,,,,,Final,Husky Open
+359,2015-04-04,WHJ,,UPOR,07:06.9,WWAS,07:19.5,PUGS,07:25.1,,,,,,,,,,,Final,Husky Open
+360,2015-04-04,WHJ,1500,ITHA,04:59.6,RIT,05:11.0,ROCH,05:18.2,,,,,,,,,,,Final,Ithaca vs. Rochester & RIT
+361,2015-04-04,WHJ,2000,BUCK,06:50.6,TEMP,07:07.3,,,,,,,,,,,,,Final,Schuylkill River Racing
+362,2015-04-04,WHJ,2000,BUCK,07:33.1,TEMP,07:50.5,,,,,,,,,,,,,Final,Schuylkill River Racing
+363,2015-04-04,WHJ,2000,CORN,06:45.8,PENN,06:50.6,URI,07:03.7,,,,,,,,,,,Final,Nordic 9 Cayuga Inlet - Saturday
+364,2015-04-04,WHJ,2000,DREX,07:11.0,WILL,07:15.4,WASC,07:57.9,,,,,,,,,,,Final,Schuylkill River Racing
+365,2015-04-04,WHJ,2000,KANS,08:09.6,SMU,08:17.4,,,,,,,,,,,,,Final,SMU vs. Kansas
+366,2015-04-04,WHJ,2000,MICH,06:34.4,CLEM,06:40.6,NAVY,06:58.4,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+367,2015-04-04,WHJ,2000,OHST,06:25.9,UVA,06:31.5,,,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+368,2015-04-04,WHJ,2000,OHST,06:29.5,CLEM,06:42.4,,,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+369,2015-04-04,WHJ,2000,ORST,06:34.8,LOUV,06:35.4,MINN,06:38.8,,,,,,,,,,,Final,Oregon State Classic
+370,2015-04-04,WHJ,2000,PHIL,06:15.5,VILN,06:16.0,,,,,,,,,,,,,Final,Philadelphia vs. Univ of Charleston
+371,2015-04-04,WHJ,2000,PRIN,07:14.4,COLU,07:39.7,,,,,,,,,,,,,Final,Princeton vs. Columbia
+372,2015-04-04,WHJ,2000,TEMP,06:54.0,WILL,06:55.0,,,,,,,,,,,,,Final,Schuylkill River Racing
+373,2015-04-04,WHJ,2000,TRIN,07:48.8,HAML,08:45.7,,,,,,,,,,,,,Final,Malden River Racing
+374,2015-04-04,WHJ,2000,TUFT,07:24.1,HAML,07:39.2,,,,,,,,,,,,,Final,Malden River Racing
+375,2015-04-04,WHJ,2000,TUFT,07:32.0,TRIN,07:38.4,,,,,,,,,,,,,Final,Malden River Racing
+376,2015-04-04,WHJ,2000,TUFT,07:44.2,TRIN,07:50.5,,,,,,,,,,,,,Final,Malden River Racing
+377,2015-04-04,WHJ,2000,TULS,06:50.9,CREI,07:17.2,,,,,,,,,,,,,Final,Tulsa vs. Creighton
+378,2015-04-04,WHJ,2000,UVA,06:28.7,MICH,06:29.7,NAVY,07:12.8,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+379,2015-04-04,WHJ,2000,WASH,06:27.9,STAN,06:32.0,,,,,,,,,,,,,Final,Oregon State Classic
+380,2015-04-04,WHJ,2000,WASH,06:46.7,STAN,06:48.5,MINN,06:55.3,ORST,06:57.0,LOUV,07:04.9,,,,,,,Final,Oregon State Classic
+381,2015-04-04,WHJ,2000,WAST,06:33.4,GONZ,06:53.6,,,,,,,,,,,,,Final,Washington State vs. Gonzaga 
+382,2015-04-04,WHJ,2000,WELL,07:26.2,WLSM,07:37.2,,,,,,,,,,,,,Final,William Smith vs. Wellesley
+383,2015-04-04,WHV,,BATE,07:58.8,MIT#,08:30.6,SIMM,08:36.7,UVM,08:43.1,,,,,,,,,Final,Charles River Basin Rowing Series #2
+384,2015-04-04,WHV,,DART,07:30.1,BC,07:32.9,UMAS,07:36.2,MIT,08:00.9,,,,,,,,,Final,Charles River Basin Rowing Series #2
+385,2015-04-04,WHV,,UPOR,06:58.7,SEAT,07:03.7,,,,,,,,,,,,,Final,Husky Open
+386,2015-04-04,WHV,,WWAS,06:57.7,PUGS,07:09.3,PACI,08:03.2,,,,,,,,,,,Final,Husky Open
+387,2015-04-04,WHV,1500,ITHA,05:02.8,ROCH,05:06.9,RIT,05:09.0,,,,,,,,,,,Final,Ithaca vs. Rochester & RIT
+388,2015-04-04,WHV,1960,TEXC,07:52.0,TXAM,08:02.0,,,,,,,,,,,,,Final,2015 Golden Oar Duel
+389,2015-04-04,WHV,2000,BU,06:15.3,URI,06:27.5,BUFF,06:33.2,,,,,,,,,,,Final,Nordic 9 Cayuga Inlet - Saturday
+390,2015-04-04,WHV,2000,BUCK,07:09.5,TEMP,07:23.7,,,,,,,,,,,,,Final,Schuylkill River Racing
+391,2015-04-04,WHV,2000,DREX,00:00.0,WILL,00:10.1,WASC,00:33.7,,,,,,,,,,,Final,Schuylkill River Racing
+392,2015-04-04,WHV,2000,DREX,06:37.0,BUCK,06:43.1,,,,,,,,,,,,,Final,Schuylkill River Racing
+393,2015-04-04,WHV,2000,HAML,07:28.9,MTHO,08:09.2,,,,,,,,,,,,,Final,Malden River Racing
+394,2015-04-04,WHV,2000,MICH,06:20.9,CLEM,06:25.7,NAVY,06:38.3,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+395,2015-04-04,WHV,2000,MICH,06:22.4,UVA,06:22.5,NAVY,06:50.0,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+396,2015-04-04,WHV,2000,NORT,06:12.7,PENN,06:25.5,,,,,,,,,,,,,Final,Nordic 9 Cayuga Inlet - Saturday
+397,2015-04-04,WHV,2000,OHST,06:06.7,UVA,06:10.1,,,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+398,2015-04-04,WHV,2000,OHST,06:25.0,CLEM,06:40.2,,,,,,,,,,,,,Final,ACC/Big Ten Double Dual
+399,2015-04-04,WHV,2000,ORST,06:29.3,LOUV,06:35.0,MINN,06:39.6,,,,,,,,,,,Final,Oregon State Classic
+400,2015-04-04,WHV,2000,PHIL,06:51.1,VILN,06:54.7,FRMA,06:56.4,UCHR,07:27.2,,,,,,,,,Final,Philadelphia vs. Univ of Charleston
+401,2015-04-04,WHV,2000,PRIN,07:12.4,COLU,07:25.9,,,,,,,,,,,,,Final,Princeton vs. Columbia
+402,2015-04-04,WHV,2000,SMU,07:37.5,KANS,07:44.4,,,,,,,,,,,,,Final,SMU vs. Kansas
+403,2015-04-04,WHV,2000,STAN,06:36.7,WASH,06:37.8,ORST,06:49.6,MINN,06:51.7,LOUV,07:01.8,,,,,,,Final,Oregon State Classic
+404,2015-04-04,WHV,2000,TRIN,07:01.9,HAML,07:06.2,,,,,,,,,,,,,Final,Malden River Racing
+405,2015-04-04,WHV,2000,TRIN,07:06.1,TUFT,07:06.1,,,,,,,,,,,,,Final,Malden River Racing
+406,2015-04-04,WHV,2000,TUFT,07:18.0,MTHO,07:48.7,,,,,,,,,,,,,Final,Malden River Racing
+407,2015-04-04,WHV,2000,TULS,06:36.3,CREI,06:56.7,,,,,,,,,,,,,Final,Tulsa vs. Creighton
+408,2015-04-04,WHV,2000,VILN#,07:01.4,BUCK#,07:13.9,LASL,07:37.1,,,,,,,,,,,Final,La Salle vs. Bucknell & Villanova
+409,2015-04-04,WHV,2000,WASH,06:18.6,STAN,06:20.4,,,,,,,,,,,,,Final,Oregon State Classic
+410,2015-04-04,WHV,2000,WAST,06:22.4,GONZ,06:29.1,,,,,,,,,,,,,Final,Washington State vs. Gonzaga 
+411,2015-04-04,WHV,2000,WELL,07:03.0,WLSM,07:17.9,,,,,,,,,,,,,Final,William Smith vs. Wellesley
+412,2015-04-04,WHV,2000,WILL,06:59.3,TEMP,07:02.7,,,,,,,,,,,,,Final,Schuylkill River Racing
+413,2015-04-04,WHV,2000,YALE,05:55.6,CORN,06:03.2,IOWA,06:11.4,,,,,,,,,,,Final,Nordic 9 Cayuga Inlet - Saturday
+414,2015-04-04,WLV,2000,RADC,06:53.3,GEOR,07:03.6,,,,,,,,,,,,,Final,Class of 2004
+415,2015-04-05,MLJ,2000,DELA,06:10.2,HARV,06:15.4,GEOR,06:27.4,,,,,,,,,,,Final,Delaware vs. Harvard & Georgetown
+416,2015-04-05,MLV,2000,DELA,05:56.2,HARV,05:58.9,GEOR,06:05.8,,,,,,,,,,,Final,Delaware vs. Harvard & Georgetown
+417,2015-04-10,MHJ,2000,GONZ,06:10.2,HC,06:15.7,,,,,,,,,,,,,Final,GW Invitational (Men) - Friday
+418,2015-04-10,MHJ,2000,GW,05:58.4,UVA,06:06.5,,,,,,,,,,,,,Final,GW Invitational (Men) - Friday
+419,2015-04-10,MHJ,2000,NAVY,05:58.4,GEOR,06:04.3,,,,,,,,,,,,,Final,GW Invitational (Men) - Friday
+420,2015-04-10,MHV,2000,HC,05:53.4,GONZ,06:03.9,,,,,,,,,,,,,Final,GW Invitational (Men) - Friday
+421,2015-04-10,MHV,2000,NAVY,05:47.3,GEOR,05:49.2,,,,,,,,,,,,,Final,GW Invitational (Men) - Friday
+422,2015-04-10,MHV,2000,UVA,05:51.6,GW,05:53.7,,,,,,,,,,,,,Final,GW Invitational (Men) - Friday
+423,2015-04-10,WHJ,2000,GW,07:08.8,MIT,07:21.5,,,,,,,,,,,,,Final,GW Invitational (Women) - Friday
+424,2015-04-10,WHJ,2000,NAVY,06:52.9,GEOR,07:05.5,,,,,,,,,,,,,Final,GW Invitational (Women) - Friday
+425,2015-04-10,WHJ,2000,STJO,06:52.1,DAYT,07:13.7,,,,,,,,,,,,,Final,GW Invitational (Women) - Friday
+426,2015-04-10,WHJ,2000,WASH,06:34.8,WAST,06:38.9,,,,,,,,,,,,,Final,Washington State vs. Washington
+427,2015-04-10,WHV,2000,GW,06:54.4,MIT,06:55.9,,,,,,,,,,,,,Final,GW Invitational (Women) - Friday
+428,2015-04-10,WHV,2000,NAVY,06:47.5,GEOR,06:52.6,,,,,,,,,,,,,Final,GW Invitational (Women) - Friday
+429,2015-04-10,WHV,2000,STJO,06:32.8,DAYT,06:39.3,,,,,,,,,,,,,Final,GW Invitational (Women) - Friday
+430,2015-04-10,WHV,2000,WASH,06:21.1,WAST,06:23.6,,,,,,,,,,,,,Final,Washington State vs. Washington
+431,2015-04-11,MHJ,,CWES,07:10.0,BUFF,07:17.0,,,,,,,,,,,,,Final,Aurora Lake Sprints
+432,2015-04-11,MHJ,,OC,06:27.9,USD,06:28.3,,,,,,,,,,,,,Final,Stanford Invitational
+433,2015-04-11,MHJ,,ORST,06:04.3,USD,06:14.3,,,,,,,,,,,,,Final,Stanford Invitational
+434,2015-04-11,MHJ,,STAN,06:25.6,UCDV,07:13.3,,,,,,,,,,,,,Final,Stanford Invitational
+435,2015-04-11,MHJ,,TUFT,06:22.1,BATE,06:43.0,,,,,,,,,,,,,Final,Malden River Racing
+436,2015-04-11,MHJ,,UCIR,06:31.2,UCDV,06:46.7,,,,,,,,,,,,,Final,Stanford Invitational
+437,2015-04-11,MHJ,,USD,06:13.3,OC,06:29.2,,,,,,,,,,,,,Final,Stanford Invitational
+438,2015-04-11,MHJ,,USD,06:28.9,UCIR,06:57.8,,,,,,,,,,,,,Final,Stanford Invitational
+439,2015-04-11,MHJ,,WASH,05:44.4,STAN,06:07.4,,,,,,,,,,,,,Final,Stanford Invitational
+440,2015-04-11,MHJ,,WASH,05:48.5,ORST,06:15.9,,,,,,,,,,,,,Final,Stanford Invitational
+441,2015-04-11,MHJ,,WESL,06:19.1,TUFT,06:34.8,,,,,,,,,,,,,Final,Malden River Racing
+442,2015-04-11,MHJ,,WESL,06:24.3,BATE,06:37.2,,,,,,,,,,,,,Final,Malden River Racing
+443,2015-04-11,MHJ,,DREX,06:07.4,DELA,06:15.3,BC,06:18.0,TRIN,06:20.7,MRST,06:25.0,WASC,06:26.1,,,,,Heat,The Knecht Cup - Saturday
+444,2015-04-11,MHJ,,HOBR,06:02.7,STJO,06:09.1,BUCK,06:20.3,RUTG,06:30.6,GMAS,06:32.7,FAIR,06:35.6,PITT,06:42.7,,,Heat,The Knecht Cup - Saturday
+445,2015-04-11,MHJ,1960,GV,05:55.3,PURD,05:56.8,CINC,06:24.3,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+446,2015-04-11,MHJ,1960,MICH,05:49.6,GV,05:52.7,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+447,2015-04-11,MHJ,1960,MICH,05:57.8,ND,06:10.6,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+448,2015-04-11,MHJ,1960,PURD,05:58.7,ND,06:11.1,CINC,06:20.6,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+449,2015-04-11,MHJ,2000,GEOR,05:43.5,UVA,05:45.2,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+450,2015-04-11,MHJ,2000,GEOR,06:03.0,GONZ,06:08.2,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+451,2015-04-11,MHJ,2000,GW,05:45.0,GONZ,05:48.0,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+452,2015-04-11,MHJ,2000,GW,05:52.4,HC,06:01.0,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+453,2015-04-11,MHJ,2000,HARV,06:26.4,BRWN,06:34.4,,,,,,,,,,,,,Final,Stein Cup
+454,2015-04-11,MHJ,2000,ITHA,06:37.6,STLA,07:34.5,,,,,,,,,,,,,Final,Ithaca College/Skidmore/St. Lawrence
+455,2015-04-11,MHJ,2000,NAVY,05:46.2,HC,06:00.9,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+456,2015-04-11,MHJ,2000,NAVY,05:48.9,UVA,06:08.2,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+457,2015-04-11,MHJ,2000,PRIN,06:08.2,PENN,06:22.3,COLU,06:26.4,,,,,,,,,,,Final,Childs Cup
+458,2015-04-11,MHJ,2000,SYRA,06:13.9,WISC,06:17.4,,,,,,,,,,,,,Final,Syracuse vs. Wisconsin
+459,2015-04-11,MHJ,2000,WPI,07:53.2,WILL,08:13.8,,,,,,,,,,,,,Final,Jim Donahue
+460,2015-04-11,MHJ,2000,YALE,05:32.3,DART,05:35.8,,,,,,,,,,,,,Final,The Olympic Axe
+461,2015-04-11,MHV,,BATE,00:00.0,WESL,00:05.3,,,,,,,,,,,,,Final,Malden River Racing
+462,2015-04-11,MHV,,BATE,06:13.3,TUFT,06:23.7,,,,,,,,,,,,,Final,Malden River Racing
+463,2015-04-11,MHV,,BUFF,06:28.3,MIOH,06:35.5,CWES,06:41.1,OHUN,07:31.4,,,,,,,,,Final,Aurora Lake Sprints
+464,2015-04-11,MHV,,ORST,05:58.8,USD,06:05.6,,,,,,,,,,,,,Final,Stanford Invitational
+465,2015-04-11,MHV,,STAN,06:05.6,SCLA,06:18.8,,,,,,,,,,,,,Final,Stanford Invitational
+466,2015-04-11,MHV,,TUFT,06:13.3,UNH,06:18.1,,,,,,,,,,,,,Final,Malden River Racing
+467,2015-04-11,MHV,,UCIR,06:07.9,UCDV,06:22.9,,,,,,,,,,,,,Final,Stanford Invitational
+468,2015-04-11,MHV,,UCIR,06:19.2,USD,06:24.1,,,,,,,,,,,,,Final,Stanford Invitational
+469,2015-04-11,MHV,,USD,06:02.3,OC,06:04.6,,,,,,,,,,,,,Final,Stanford Invitational
+470,2015-04-11,MHV,,USD,06:16.8,OC,06:30.7,,,,,,,,,,,,,Final,Stanford Invitational
+471,2015-04-11,MHV,,WASH,05:39.0,STAN,05:59.3,,,,,,,,,,,,,Final,Stanford Invitational
+472,2015-04-11,MHV,,WASH,05:43.4,ORST,06:04.7,,,,,,,,,,,,,Final,Stanford Invitational
+473,2015-04-11,MHV,,WESL,06:31.4,UNH,06:52.6,,,,,,,,,,,,,Final,Malden River Racing
+474,2015-04-11,MHV,,WWAS,06:13.8,SONO,06:36.3,,,,,,,,,,,,,Final,Covered Bridge Regatta
+475,2015-04-11,MHV,,WWAS,06:24.7,SONO,06:45.2,,,,,,,,,,,,,Final,Covered Bridge Regatta
+476,2015-04-11,MHV,,BC,05:58.6,DELA,06:02.9,BUCK,06:07.5,RUTG,06:11.6,FAIR,06:27.1,,,,,,,Heat,The Knecht Cup - Saturday
+477,2015-04-11,MHV,,CLEM,06:24.8,UGA,06:25.2,CCHR,06:30.3,ALAB,06:33.3,UTCH,06:47.1,LBTY,06:54.3,TENN,07:06.8,,,Heat,Clemson Sprints
+478,2015-04-11,MHV,,CLEM,06:52.8,ALAB,06:59.0,UTCH,07:09.0,CCHR,08:21.1,,,,,,,,,Heat,Clemson Sprints
+479,2015-04-11,MHV,,DREX,05:59.2,ARMY,06:02.3,GMAS,06:05.5,WASC,06:08.9,MRST,06:11.6,,,,,,,Heat,The Knecht Cup - Saturday
+480,2015-04-11,MHV,,HOBR,06:02.3,VILN,06:06.2,MARI,06:08.9,STJO,06:10.5,TRIN,06:13.0,CANI,06:19.6,,,,,Heat,The Knecht Cup - Saturday
+481,2015-04-11,MHV,,LAFA,06:17.5,PITT,06:28.2,DELA,06:38.4,URI,06:51.0,,,,,,,,,Heat,The Knecht Cup - Saturday
+482,2015-04-11,MHV,,UGA,06:51.0,LBTY,07:02.0,TENN,07:04.9,WAKE,07:15.6,,,,,,,,,Heat,Clemson Sprints
+483,2015-04-11,MHV,,VCOM,06:26.0,RUTG,06:31.8,BC,06:32.0,PSU,06:34.1,NYM,06:42.4,,,,,,,Heat,The Knecht Cup - Saturday
+484,2015-04-11,MHV,1960,CINC,05:52.4,PURD,05:53.0,ND,05:57.5,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+485,2015-04-11,MHV,1960,CINC,05:58.3,MIST,06:06.7,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+486,2015-04-11,MHV,1960,GV,05:43.4,PURD,05:55.6,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+487,2015-04-11,MHV,1960,MICH,05:33.3,GV,05:35.1,MIST,06:06.3,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+488,2015-04-11,MHV,1960,MICH,05:42.4,ND,05:53.8,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+489,2015-04-11,MHV,2000,GEOR,05:33.5,UVA,05:38.6,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+490,2015-04-11,MHV,2000,GEOR,05:45.2,GONZ,05:47.2,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+491,2015-04-11,MHV,2000,GW,05:38.7,GONZ,05:43.4,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+492,2015-04-11,MHV,2000,GW,05:45.1,HC,05:46.2,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+493,2015-04-11,MHV,2000,HAML,07:13.2,RIT,07:16.8,,,,,,,,,,,,,Final,Hamilton College vs. RIT
+494,2015-04-11,MHV,2000,HARV,06:34.7,BRWN,06:38.9,,,,,,,,,,,,,Final,Stein Cup
+495,2015-04-11,MHV,2000,ITHA,06:27.1,STLA,06:44.3,SKID,06:45.5,,,,,,,,,,,Final,Ithaca College/Skidmore/St. Lawrence
+496,2015-04-11,MHV,2000,LECL,06:23.9,PUGS,06:24.5,,,,,,,,,,,,,Final,Logger Invitational
+497,2015-04-11,MHV,2000,MIDD,07:20.5,UVM,07:29.9,,,,,,,,,,,,,Final,The Vermont Cup
+498,2015-04-11,MHV,2000,MIT,07:04.9,WILL,07:07.8,WPI,07:22.1,,,,,,,,,,,Final,Jim Donahue
+499,2015-04-11,MHV,2000,NAVY,05:27.2,HC,05:33.5,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+500,2015-04-11,MHV,2000,NAVY,05:40.4,UVA,05:49.9,,,,,,,,,,,,,Final,GW Invitational (Men) - Saturday
+501,2015-04-11,MHV,2000,PRIN,06:03.8,PENN,06:10.5,COLU,06:16.2,,,,,,,,,,,Final,Childs Cup
+502,2015-04-11,MHV,2000,ROCH,05:58.9,COLB,06:00.1,CSTG,06:05.1,MALW,06:16.3,,,,,,,,,Final,UMass-Lowell/Colby/Rochester/Coast Guard/Bryant 
+503,2015-04-11,MHV,2000,UNIO,08:26.0,ALBY,09:23.0,,,,,,,,,,,,,Final,Union vs. SUNY Albany 
+504,2015-04-11,MHV,2000,WISC,05:59.9,SYRA,06:02.1,,,,,,,,,,,,,Final,Syracuse vs. Wisconsin
+505,2015-04-11,MHV,2000,YALE,05:22.9,DART,05:29.1,,,,,,,,,,,,,Final,The Olympic Axe
+506,2015-04-11,MLJ,2000,COLU,06:35.3,YALE,06:37.4,PENN,06:57.4,,,,,,,,,,,Final,Dodge Cup
+507,2015-04-11,MLJ,2000,HARV,07:04.6,DART,07:20.3,MIT,07:27.6,,,,,,,,,,,Final,Biglin Bowl
+508,2015-04-11,MLJ,2000,NAVY,05:53.3,GEOR,06:18.4,,,,,,,,,,,,,Final,Forster Cup
+509,2015-04-11,MLJ,2000,PRIN,05:57.1,CORN,05:58.2,,,,,,,,,,,,,Final,Platt Cup
+510,2015-04-11,MLV,2000,COLU,06:09.6,YALE,06:12.2,PENN,06:18.5,,,,,,,,,,,Final,Dodge Cup
+511,2015-04-11,MLV,2000,CORN,06:00.0,PRIN,06:03.2,,,,,,,,,,,,,Final,Platt Cup
+512,2015-04-11,MLV,2000,HARV,06:47.4,MIT,06:48.4,DART,07:02.1,,,,,,,,,,,Final,Biglin Bowl
+513,2015-04-11,MLV,2000,NAVY,05:46.3,GEOR,06:03.4,,,,,,,,,,,,,Final,Forster Cup
+514,2015-04-11,WHJ,,UCSD,07:27.1,HUMS,07:29.9,PORT,08:17.0,,,,,,,,,,,Final,Covered Bridge Regatta
+515,2015-04-11,WHJ,,UCSD,07:49.4,HUMS,07:50.9,ORGN,08:18.6,PORT,08:53.7,,,,,,,,,Final,Covered Bridge Regatta
+516,2015-04-11,WHJ,,CFLA,06:46.1,UMIA,06:54.5,HC,07:00.4,CONN,07:05.5,DUQN,07:10.2,CANI,07:19.2,FAIR,07:54.6,,,Heat,The Knecht Cup - Saturday
+517,2015-04-11,WHJ,,DREX,06:54.6,BUCK,06:55.7,BUFF,06:56.0,UNC,07:01.2,FORD,07:08.4,DELA,07:10.7,,,,,Heat,The Knecht Cup - Saturday
+518,2015-04-11,WHJ,,TULS,06:46.5,BC,06:48.4,WV,06:56.1,OLDD,06:57.1,KANS,06:58.4,MRST,07:22.7,,,,,Heat,The Knecht Cup - Saturday
+519,2015-04-11,WHJ,,UMAS,06:52.3,ALAB,06:54.0,GMAS,07:01.0,TEMP,07:05.9,LEHI,07:19.4,,,,,,,Heat,The Knecht Cup - Saturday
+520,2015-04-11,WHJ,1960,DAYT,07:02.5,ROMO,07:13.1,CINC,07:37.9,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+521,2015-04-11,WHJ,1960,GV,06:47.3,PURD,07:08.2,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+522,2015-04-11,WHJ,1960,GV,06:57.1,DAYT,07:16.1,CINC,07:49.5,NORW,08:22.1,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+523,2015-04-11,WHJ,1960,PURD,07:10.5,ROMO,07:34.1,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+524,2015-04-11,WHJ,2000,BATE,07:28.0,WELL,07:47.1,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+525,2015-04-11,WHJ,2000,BATE,07:34.5,WESL,07:59.9,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+526,2015-04-11,WHJ,2000,BRWN,06:29.3,GONZ,06:49.1,SACS,06:53.6,,,,,,,,,,,Final,Lake Natoma Invite
+527,2015-04-11,WHJ,2000,BRWN,06:41.6,USD,06:58.9,URI,07:10.5,,,,,,,,,,,Final,Lake Natoma Invite
+528,2015-04-11,WHJ,2000,CAL,06:31.0,ND,06:44.1,URI,06:52.8,,,,,,,,,,,Final,Lake Natoma Invite
+529,2015-04-11,WHJ,2000,CAL,06:42.0,GONZ,07:06.2,LOMY,07:18.3,,,,,,,,,,,Final,Lake Natoma Invite
+530,2015-04-11,WHJ,2000,GEOR,06:39.7,STJO,06:46.6,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+531,2015-04-11,WHJ,2000,GEOR,06:48.8,DAYT,07:25.7,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+532,2015-04-11,WHJ,2000,GW,06:46.2,DAYT,07:05.2,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+533,2015-04-11,WHJ,2000,INDI,06:37.1,MIST,06:42.0,,,,,,,,,,,,,Final,Big Ten Double Dual
+534,2015-04-11,WHJ,2000,INDI,06:40.6,MICH,06:44.4,,,,,,,,,,,,,Final,Big Ten Double Dual
+535,2015-04-11,WHJ,2000,IOWA,06:44.8,MIST,06:49.2,,,,,,,,,,,,,Final,Big Ten Double Dual
+536,2015-04-11,WHJ,2000,ITHA,07:31.1,SMIT,07:33.3,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+537,2015-04-11,WHJ,2000,MICH,06:33.7,IOWA,06:40.2,,,,,,,,,,,,,Final,Big Ten Double Dual
+538,2015-04-11,WHJ,2000,MIDD,06:36.0,UVM,06:48.5,,,,,,,,,,,,,Final,The Vermont Cup
+539,2015-04-11,WHJ,2000,MINN,06:29.4,RUTG,06:45.9,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+540,2015-04-11,WHJ,2000,NAVY,06:39.2,GW,06:43.3,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+541,2015-04-11,WHJ,2000,NAVY,06:39.3,MIT,06:59.2,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+542,2015-04-11,WHJ,2000,NORT,06:48.4,DUKE,06:51.5,COLU,06:59.9,,,,,,,,,,,Final,The Woodbury Cup: Northeastern
+543,2015-04-11,WHJ,2000,OHST,06:04.9,MINN,06:16.8,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+544,2015-04-11,WHJ,2000,OHST,06:09.3,WISC,06:10.7,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+545,2015-04-11,WHJ,2000,PACL,07:28.0,LECL,07:41.0,,,,,,,,,,,,,Final,Logger Invitational
+546,2015-04-11,WHJ,2000,PUGS,07:20.6,LECL,07:49.1,,,,,,,,,,,,,Final,Logger Invitational
+547,2015-04-11,WHJ,2000,STAN,06:33.1,USD,06:42.3,LOMY,07:06.4,,,,,,,,,,,Final,Lake Natoma Invite
+548,2015-04-11,WHJ,2000,STAN,06:54.6,ND,06:56.1,SACS,07:14.3,,,,,,,,,,,Final,Lake Natoma Invite
+549,2015-04-11,WHJ,2000,STJO,06:40.1,MIT,06:42.0,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+550,2015-04-11,WHJ,2000,UCLA,06:23.8,USC,06:31.6,,,,,,,,,,,,,Final,UCLA vs. USC
+551,2015-04-11,WHJ,2000,UVA,07:13.5,PRIN,07:20.0,RADC,07:28.4,CORN,07:40.0,,,,,,,,,Final,Class of 1975 Cup
+552,2015-04-11,WHJ,2000,WELL,07:43.1,TUFT,08:05.3,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+553,2015-04-11,WHJ,2000,WESL,07:33.8,TUFT,07:38.3,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+554,2015-04-11,WHJ,2000,WILL,08:39.8,SIMM,09:09.5,WPI,09:15.5,CONC,09:32.2,,,,,,,,,Final,Donahue Cup
+555,2015-04-11,WHJ,2000,WISC,06:10.4,RUTG,06:38.4,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+556,2015-04-11,WHJ,2000,WLSM,00:02.2,HAML,00:22.0,RIT,00:26.2,,,,,,,,,,,Final,Hamilton College vs. RIT and William Smith
+557,2015-04-11,WHJ,2000,YALE,07:32.6,DART,07:53.6,BU,07:56.4,,,,,,,,,,,Final,Class of 1985 Cup    April 11
+558,2015-04-11,WHV,,CLEC,07:27.9,UGA,07:39.2,EMOR,07:40.8,LBTY,07:45.7,CCHR,07:46.5,,,,,,,Final,Clemson Sprints
+559,2015-04-11,WHV,,HUMS,07:08.5,WWAS,07:12.1,SEAT,07:14.5,UCSD,07:16.4,ORGN,07:28.7,AZST,08:01.9,SONO,08:21.0,,,Final,Covered Bridge Regatta
+560,2015-04-11,WHV,,MIOH,07:50.4,CWES,08:02.6,,,,,,,,,,,,,Final,Aurora Lake Sprints
+561,2015-04-11,WHV,,SEAT,06:53.9,HUMS,06:54.1,UCSD,06:56.6,WWAS,06:58.4,ORGN,07:13.1,AZST,07:44.0,SONO,08:27.4,,,Final,Covered Bridge Regatta
+562,2015-04-11,WHV,,BARR,06:50.1,PHIL,06:59.0,FLTC,07:02.4,UNH,07:15.5,FRPI,08:07.2,,,,,,,Heat,The Knecht Cup - Saturday
+563,2015-04-11,WHV,,BC,06:44.3,OLDD,06:50.2,GMAS,06:51.3,UNC,06:52.7,DELA,06:58.3,,,,,,,Heat,The Knecht Cup - Saturday
+564,2015-04-11,WHV,,BUCK,06:42.8,UMAS,06:44.4,ALAB,06:44.9,VILN,06:58.0,PHIL,07:07.6,CANI,07:17.9,,,,,Heat,The Knecht Cup - Saturday
+565,2015-04-11,WHV,,CCHR,07:44.3,EMOR,07:46.6,SAMF,07:51.3,,,,,,,,,,,Heat,Clemson Sprints
+566,2015-04-11,WHV,,CFLA,06:37.7,BU#,06:45.7,FORD,06:51.9,NOVS,07:01.4,LEHI,07:02.2,,,,,,,Heat,The Knecht Cup - Saturday
+567,2015-04-11,WHV,,CLEC,07:27.9,UGA,07:43.3,LBTY,07:49.2,MURS,07:51.0,UTCH,08:34.0,,,,,,,Heat,Clemson Sprints
+568,2015-04-11,WHV,,KANS,06:45.6,WV,06:47.7,DUQN,06:48.4,HC,06:49.2,MRST,07:07.3,,,,,,,Heat,The Knecht Cup - Saturday
+569,2015-04-11,WHV,,MERC,06:48.0,NOVS,07:02.4,PITT,07:04.9,ROLL,07:10.3,UCHR,07:34.3,VCOM,07:49.5,,,,,Heat,The Knecht Cup - Saturday
+570,2015-04-11,WHV,,TULS,06:39.2,DREX,06:46.3,BUFF,06:52.1,TEMP,06:53.8,MIT#,07:08.4,,,,,,,Heat,The Knecht Cup - Saturday
+571,2015-04-11,WHV,,UMIA,06:47.8,CONN,06:50.8,WISC#,06:53.4,SDSU,07:01.3,FAIR,07:10.9,,,,,,,Heat,The Knecht Cup - Saturday
+572,2015-04-11,WHV,1960,CINC,07:01.8,ILLI,07:05.8,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+573,2015-04-11,WHV,1960,EMIC,06:42.0,ROMO,06:49.4,DAYT,06:54.7,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+574,2015-04-11,WHV,1960,GV,06:26.1,PURD,06:27.6,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+575,2015-04-11,WHV,1960,GV,06:38.2,DAYT,07:01.4,ILLI,07:07.5,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+576,2015-04-11,WHV,1960,PURD,06:42.9,ROMO,07:01.5,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta - Saturday
+577,2015-04-11,WHV,2000,BATE,07:08.0,WESL,07:12.2,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+578,2015-04-11,WHV,2000,BRWN,06:23.0,GONZ,06:27.2,SACS,06:52.9,,,,,,,,,,,Final,Lake Natoma Invite
+579,2015-04-11,WHV,2000,BRWN,06:39.9,USD,06:51.3,URI,06:59.9,,,,,,,,,,,Final,Lake Natoma Invite
+580,2015-04-11,WHV,2000,CAL,06:18.4,ND,06:33.7,URI,06:49.1,,,,,,,,,,,Final,Lake Natoma Invite
+581,2015-04-11,WHV,2000,CAL,06:30.2,GONZ,06:45.1,LOMY,06:57.7,,,,,,,,,,,Final,Lake Natoma Invite
+582,2015-04-11,WHV,2000,DAYT,06:32.5,GEOR,06:33.6,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+583,2015-04-11,WHV,2000,GW,06:32.8,DAYT,06:39.4,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+584,2015-04-11,WHV,2000,HAML,08:03.7,RIT,08:19.8,WLSM,08:29.4,,,,,,,,,,,Final,Hamilton College vs. RIT and William Smith
+585,2015-04-11,WHV,2000,INDI,06:23.8,MIST,06:42.9,,,,,,,,,,,,,Final,Big Ten Double Dual
+586,2015-04-11,WHV,2000,INDI,06:28.9,MICH,06:31.9,,,,,,,,,,,,,Final,Big Ten Double Dual
+587,2015-04-11,WHV,2000,IOWA,06:47.2,MIST,06:56.0,,,,,,,,,,,,,Final,Big Ten Double Dual
+588,2015-04-11,WHV,2000,ITHA,07:11.5,SKID,07:50.8,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+589,2015-04-11,WHV,2000,ITHA,07:13.8,SMIT,07:26.6,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+590,2015-04-11,WHV,2000,MICH,06:29.5,IOWA,06:35.6,,,,,,,,,,,,,Final,Big Ten Double Dual
+591,2015-04-11,WHV,2000,MIDD,08:29.0,UVM,09:03.4,,,,,,,,,,,,,Final,The Vermont Cup
+592,2015-04-11,WHV,2000,MINN,06:18.9,RUTG,06:30.4,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+593,2015-04-11,WHV,2000,NAVY,06:24.0,MIT,06:26.9,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+594,2015-04-11,WHV,2000,NAVY,06:31.6,GW,06:44.3,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+595,2015-04-11,WHV,2000,NORT,06:40.5,COLU,06:44.1,DUKE,06:49.5,,,,,,,,,,,Final,The Woodbury Cup: Northeastern
+596,2015-04-11,WHV,2000,OC,07:01.5,UCIR,07:04.0,,,,,,,,,,,,,Final,The Collins Cup (CA)
+597,2015-04-11,WHV,2000,OHST,05:54.8,MINN,06:11.3,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+598,2015-04-11,WHV,2000,OHST,05:58.7,WISC,06:03.0,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+599,2015-04-11,WHV,2000,PACL,07:04.8,LECL,07:07.2,,,,,,,,,,,,,Final,Logger Invitational
+600,2015-04-11,WHV,2000,PACL,07:19.6,WLMT,07:44.1,PACI,08:07.1,,,,,,,,,,,Final,Logger Invitational
+601,2015-04-11,WHV,2000,PUGS,06:57.0,LECL,07:09.9,,,,,,,,,,,,,Final,Logger Invitational
+602,2015-04-11,WHV,2000,PUGS,06:58.4,WLMT,07:41.0,,,,,,,,,,,,,Final,Logger Invitational
+603,2015-04-11,WHV,2000,ROCH,06:38.8,COLB,06:42.1,CSTG,06:46.1,MALW,06:59.0,BRYA,07:38.8,,,,,,,Final,UMass-Lowell/Colby/Rochester/Coast Guard/Bryant 
+604,2015-04-11,WHV,2000,SMIT,07:24.6,STLA,07:48.7,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+605,2015-04-11,WHV,2000,STAN,06:22.4,USD,06:34.8,LOMY,06:45.4,,,,,,,,,,,Final,Lake Natoma Invite
+606,2015-04-11,WHV,2000,STAN,06:36.2,ND,06:49.0,SACS,07:05.2,,,,,,,,,,,Final,Lake Natoma Invite
+607,2015-04-11,WHV,2000,STJO,00:00.0,MIT,00:11.4,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+608,2015-04-11,WHV,2000,STJO,06:28.3,GEOR,06:35.6,,,,,,,,,,,,,Final,GW Invitational (Women) - Saturday
+609,2015-04-11,WHV,2000,STLA,07:40.8,SKID,07:56.4,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+610,2015-04-11,WHV,2000,TUFT,06:59.1,WESL,07:03.4,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+611,2015-04-11,WHV,2000,USC,06:16.0,UCLA,06:19.1,,,,,,,,,,,,,Final,UCLA vs. USC
+612,2015-04-11,WHV,2000,UVA,06:54.5,PRIN,06:56.8,RADC,06:57.5,CORN,07:06.4,,,,,,,,,Final,Class of 1975 Cup
+613,2015-04-11,WHV,2000,WELL,06:57.2,BATE,07:02.3,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+614,2015-04-11,WHV,2000,WELL,07:18.1,TUFT,07:28.4,,,,,,,,,,,,,Final,Tufts/Bates/Wellesley/Wesleyan
+615,2015-04-11,WHV,2000,WILL,08:25.9,WPI,08:38.8,SIMM,08:46.9,CONC,09:30.5,,,,,,,,,Final,Donahue Cup
+616,2015-04-11,WHV,2000,WISC,06:00.1,RUTG,06:24.9,,,,,,,,,,,,,Final,Griggs Reservoir Racing
+617,2015-04-11,WHV,2000,YALE,07:12.8,BU,07:37.1,DART,07:40.7,,,,,,,,,,,Final,Class of 1985 Cup    April 11
+618,2015-04-11,WLV,,BU,06:43.3,WISC,06:44.9,VILN,06:46.9,MIT,07:01.7,,,,,,,,,Heat,The Knecht Cup - Saturday
+619,2015-04-11,WLV,,RADC,06:38.5,PRIN,06:40.8,GEOR,06:53.1,,,,,,,,,,,Heat,The Knecht Cup - Saturday
+620,2015-04-12,MHJ,,DREX,06:02.6,HOBR,06:05.9,DELA,06:11.3,BC,06:16.8,BUCK,06:22.2,STJO,06:25.2,,,,,Final,The Knecht Cup - Sunday
+621,2015-04-12,MHJ,,OC,06:14.8,UCDV,06:49.7,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+622,2015-04-12,MHJ,,ORST,06:05.7,UCIR,06:34.1,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+623,2015-04-12,MHJ,,STAN,06:07.7,UCSD,06:15.4,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+624,2015-04-12,MHJ,,TRIN,06:22.5,RUTG,06:25.9,GMAS,06:31.7,MRST,06:33.5,WASC,06:34.8,FAIR,06:40.8,,,,,Final,The Knecht Cup - Sunday
+625,2015-04-12,MHJ,,USD,06:14.4,SCLA,06:23.2,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+626,2015-04-12,MHJ,1800,RIT,06:18.0,STLA,07:05.8,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+627,2015-04-12,MHJ,1960,GV,06:14.8,ND,06:31.2,CINC,06:38.3,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+628,2015-04-12,MHJ,1960,MICH,06:06.8,PURD,06:13.9,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+629,2015-04-12,MHJ,2000,ITHA,06:51.7,GENS,07:23.3,,,,,,,,,,,,,Final,Ithaca College vs. St. John Fisher and Geneseo
+630,2015-04-12,MHJ,2000,NORT,06:13.0,BU,06:13.5,,,,,,,,,,,,,Final,Arlett Cup
+631,2015-04-12,MHJ,2000,TUFT,06:12.7,AMHR,06:48.9,,,,,,,,,,,,,Final,Tufts University vs. Amherst College
+632,2015-04-12,MHJ,2000,UNIO,07:11.0,HAML,07:28.0,,,,,,,,,,,,,Final,Union College vs. Hamilton College
+633,2015-04-12,MHJ,2000,WPI,06:20.5,BATE,06:31.8,ROCH,07:03.0,,,,,,,,,,,Final,WPI vs. Bates & Rochester
+634,2015-04-12,MHV,,DREX,05:55.5,HOBR,05:58.5,BC,06:08.2,DELA,06:11.1,ARMY,06:13.6,BUCK,06:16.9,,,,,Final,The Knecht Cup - Sunday
+635,2015-04-12,MHV,,KANS,02:53.2,STTH,02:54.4,KAST,02:55.1,IOWA,03:10.6,,,,,,,,,Final,Upper Midwest Collegaite Sprints
+636,2015-04-12,MHV,,LAFA,06:24.6,VCOM,06:28.1,RUTG,06:30.4,BC,06:31.8,PITT,06:32.6,PSU,06:41.3,,,,,Final,The Knecht Cup - Sunday
+637,2015-04-12,MHV,,OC,06:08.9,UCDV,06:15.0,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+638,2015-04-12,MHV,,ORST,05:53.5,UCIR,06:04.7,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+639,2015-04-12,MHV,,ROLL,06:37.1,MAWA,06:41.7,NYM,06:49.9,FRMA,06:50.6,SUSQ,07:17.3,,,,,,,Final,The Knecht Cup - Sunday
+640,2015-04-12,MHV,,RUTG,06:19.9,GMAS,06:21.0,VILN,06:21.8,STJO,06:22.4,MARI,06:23.8,WASC,06:26.6,,,,,Final,The Knecht Cup - Sunday
+641,2015-04-12,MHV,,STAN,05:54.2,UCSD,06:11.6,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+642,2015-04-12,MHV,,USD,06:00.5,SCLA,06:05.2,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+643,2015-04-12,MHV,,DREX,06:05.6,DELA,06:07.6,BUCK,06:11.5,WASC,06:13.1,MARI,06:13.8,VILN,06:20.0,,,,,Heat,The Knecht Cup - Sunday
+644,2015-04-12,MHV,,HOBR,06:06.1,BC,06:08.3,ARMY,06:10.3,GMAS,06:11.7,RUTG,06:16.3,STJO,06:18.3,,,,,Heat,The Knecht Cup - Sunday
+645,2015-04-12,MHV,1800,RIT,06:04.0,STLA,06:24.0,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+646,2015-04-12,MHV,1850,COLO,06:14.4,COST,07:13.1,,,,,,,,,,,,,Final,Colorado Collegiate Rowdown
+647,2015-04-12,MHV,1960,GV,05:43.7,ND,06:00.5,CINC,06:03.9,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+648,2015-04-12,MHV,1960,MICH,05:52.0,PURD,06:10.4,MIST,06:18.4,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+649,2015-04-12,MHV,2000,BATE,06:02.8,WPI,06:04.8,ROCH,06:15.2,,,,,,,,,,,Final,WPI vs. Bates & Rochester
+650,2015-04-12,MHV,2000,BU,06:03.4,NORT,06:03.5,,,,,,,,,,,,,Final,Arlett Cup
+651,2015-04-12,MHV,2000,HAML,06:59.0,UNIO,07:09.0,,,,,,,,,,,,,Final,Union College vs. Hamilton College
+652,2015-04-12,MHV,2000,ITHA,06:26.2,STJF,06:40.4,GENS,06:43.3,,,,,,,,,,,Final,Ithaca College vs. St. John Fisher and Geneseo
+653,2015-04-12,MHV,2000,TUFT,06:05.3,AMHR,06:33.1,,,,,,,,,,,,,Final,Tufts University vs. Amherst College
+654,2015-04-12,MHV,2000,UVM,06:32.3,CLRK,06:47.4,MALW,07:12.0,,,,,,,,,,,Final,Worcester Racing 
+655,2015-04-12,MLJ,2000,COLU,06:27.8,DART,06:32.6,,,,,,,,,,,,,Final,Subin Cup
+656,2015-04-12,MLJ,2000,CORN,05:52.6,YALE,05:56.5,,,,,,,,,,,,,Final,Cornell University vs. Yale University
+657,2015-04-12,MLV,2000,COLU,06:21.1,DART,06:34.2,,,,,,,,,,,,,Final,Subin Cup
+658,2015-04-12,MLV,2000,CORN,05:49.8,YALE,05:57.7,,,,,,,,,,,,,Final,Cornell University vs. Yale University
+659,2015-04-12,WHJ,,CFLA,06:47.0,UMAS,06:52.2,TULS,06:52.4,BC,06:59.5,DREX,07:00.5,BUCK,07:00.6,,,,,Final,The Knecht Cup - Sunday
+660,2015-04-12,WHJ,,SCLA,07:48.9,MILL,08:04.8,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+661,2015-04-12,WHJ,,UMIA,07:11.5,GMAS,07:16.7,BUFF,07:17.3,OLDD,07:19.9,FORD,07:21.7,CONN,07:30.6,,,,,Final,The Knecht Cup - Sunday
+662,2015-04-12,WHJ,,WASC,07:45.1,FRMA,08:55.8,,,,,,,,,,,,,Final,The Knecht Cup - Sunday
+663,2015-04-12,WHJ,,WV,07:02.2,ALAB,07:03.0,KANS,07:05.8,UNC,07:08.7,TEMP,07:13.3,HC,07:15.7,,,,,Final,The Knecht Cup - Sunday
+664,2015-04-12,WHJ,,CFLA,06:54.4,BUCK,07:04.3,ALAB,07:05.3,WV,07:06.2,OLDD,07:11.9,FORD,07:16.4,,,,,Heat,The Knecht Cup - Sunday
+665,2015-04-12,WHJ,,TULS,07:01.4,DREX,07:03.3,HC,07:12.1,TEMP,07:12.1,CONN,07:17.2,GMAS,07:17.3,,,,,Heat,The Knecht Cup - Sunday
+666,2015-04-12,WHJ,,UMAS,06:59.7,BC,07:02.1,KANS,07:03.8,UNC,07:06.1,UMIA,07:09.6,BUFF,07:18.0,,,,,Heat,The Knecht Cup - Sunday
+667,2015-04-12,WHJ,1960,GV,07:07.5,ROMO,07:41.3,CINC,08:06.0,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+668,2015-04-12,WHJ,1960,PURD,07:16.5,DAYT,07:26.7,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+669,2015-04-12,WHJ,2000,BATE,06:52.7,TRIN,06:55.9,WELL,07:06.9,WPI,07:11.0,ROCH,07:31.1,,,,,,,Final,Lake Quinsigamond Racing
+670,2015-04-12,WHJ,2000,CAL,06:32.6,BRWN,06:34.2,STAN,06:42.4,,,,,,,,,,,Final,Lake Natoma Invitational - Sunday
+671,2015-04-12,WHJ,2000,HAML,08:10.0,UNIO,08:55.0,,,,,,,,,,,,,Final,Union/Hamitlon & SCCC
+672,2015-04-12,WHJ,2000,ITHA,07:31.3,GENS,08:03.0,,,,,,,,,,,,,Final,Ithaca/St. John Fisher/Geneseo
+673,2015-04-12,WHJ,2000,ND,06:47.0,USD,06:47.0,GONZ,07:06.1,,,,,,,,,,,Final,Lake Natoma Invitational - Sunday
+674,2015-04-12,WHJ,2000,SACS,06:56.7,URI,06:57.4,LOMY,07:16.7,,,,,,,,,,,Final,Lake Natoma Invitational - Sunday
+675,2015-04-12,WHJ,2000,SIMM,08:02.7,CLRK,08:29.1,,,,,,,,,,,,,Final,Worcester Racing 
+676,2015-04-12,WHJ,2000,TUFT,07:03.2,AMHR,07:27.4,,,,,,,,,,,,,Final,Tufts University vs. Amherst College
+677,2015-04-12,WHV,,BARR,06:54.2,MERC,06:56.7,NOVS,07:03.8,PHIL,07:10.2,FLTC,07:16.9,PITT,07:28.4,,,,,Final,The Knecht Cup - Sunday
+678,2015-04-12,WHV,,CFLA,06:41.6,TULS,06:48.0,BC,06:48.5,UMAS,06:53.0,DREX,06:56.9,BUFF,07:03.7,,,,,Final,The Knecht Cup - Sunday
+679,2015-04-12,WHV,,CREI,05:06.2,STTH,05:49.6,NEBR,06:07.2,MIZO,07:28.2,,,,,,,,,Final,Upper Midwest Collegaite Sprints
+680,2015-04-12,WHV,,KANS,06:51.2,BUCK,06:53.2,HC,07:00.1,TEMP,07:00.6,DUQN,07:02.4,,,,,,,Final,The Knecht Cup - Sunday
+681,2015-04-12,WHV,,SCLA,07:08.4,MILL,07:37.5,,,,,,,,,,,,,Final,Stanford Invitational - Sunday
+682,2015-04-12,WHV,,UMIA,06:59.1,BU#,07:01.6,CONN,07:03.3,FORD,07:04.2,WV,07:04.9,UNC,07:11.1,,,,,Final,The Knecht Cup - Sunday
+683,2015-04-12,WHV,,UNH,07:23.7,ROLL,07:28.7,UCHR,07:46.7,FRPI,08:05.1,,,,,,,,,Final,The Knecht Cup - Sunday
+684,2015-04-12,WHV,,WASC,07:14.8,MARI,07:17.4,FRMA,07:29.3,BRYN,07:37.9,MAWA,08:01.7,SUSQ,08:07.8,CARN,08:47.9,,,Final,The Knecht Cup - Sunday
+685,2015-04-12,WHV,,CFLA,06:45.6,DREX,06:52.4,BUCK,06:55.1,HC,06:55.2,WV,06:58.4,FORD,06:58.9,ALAB,07:00.9,,,Heat,The Knecht Cup - Sunday
+686,2015-04-12,WHV,,TULS,06:49.1,BUFF,06:53.4,KANS,06:54.1,DUQN,06:55.5,CONN,06:55.6,UNC,07:00.0,OLDD,07:01.5,,,Heat,The Knecht Cup - Sunday
+687,2015-04-12,WHV,,UMAS,06:50.0,BC,06:50.9,TEMP,06:53.5,WISC#,06:56.5,BU#,06:56.8,UMIA,06:57.3,GMAS,06:57.5,,,Heat,The Knecht Cup - Sunday
+688,2015-04-12,WHV,1800,RIT,07:14.0,STLA,07:27.8,,,,,,,,,,,,,Final,RIT vs. St Lawrence 
+689,2015-04-12,WHV,1850,COLO,07:20.4,DENV,07:42.0,,,,,,,,,,,,,Final,Colorado Collegiate Rowdown
+690,2015-04-12,WHV,1960,DAYT,07:22.0,CINC,07:26.8,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+691,2015-04-12,WHV,1960,GV,06:51.2,EMIC,06:57.8,ROMO,07:22.4,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+692,2015-04-12,WHV,1960,PURD,06:58.1,ILLI,07:32.7,,,,,,,,,,,,,Final,20th Don Lubbers Cup Regatta
+693,2015-04-12,WHV,2000,CAL,06:24.5,STAN,06:29.1,BRWN,06:30.0,,,,,,,,,,,Final,Lake Natoma Invitational - Sunday
+694,2015-04-12,WHV,2000,GONZ,06:37.8,ND,06:44.0,USD,06:46.2,,,,,,,,,,,Final,Lake Natoma Invitational - Sunday
+695,2015-04-12,WHV,2000,HAML,07:35.0,UNIO,08:17.0,,,,,,,,,,,,,Final,Union/Hamitlon & SCCC
+696,2015-04-12,WHV,2000,ITHA,07:09.9,GENS,07:36.6,STJF,07:48.0,,,,,,,,,,,Final,Ithaca/St. John Fisher/Geneseo
+697,2015-04-12,WHV,2000,LOMY,06:50.9,URI,06:53.3,SACS,06:58.3,,,,,,,,,,,Final,Lake Natoma Invitational - Sunday
+698,2015-04-12,WHV,2000,SIMM,07:08.2,UVM,07:18.7,MALW,07:20.0,MTHO,07:20.9,CLRK,07:40.6,,,,,,,Final,Worcester Racing 
+699,2015-04-12,WHV,2000,TRIN,06:38.4,BATE,06:43.6,WELL,06:44.2,WPI,07:03.9,ROCH,07:09.5,,,,,,,Final,Lake Quinsigamond Racing
+700,2015-04-12,WHV,2000,TUFT,06:45.2,AMHR,07:07.6,,,,,,,,,,,,,Final,Tufts University vs. Amherst College
+701,2015-04-12,WHV,2000,UCSB,06:54.7,OC,06:56.3,CSLB,06:56.5,,,,,,,,,,,Final,Chapman Regatta
+702,2015-04-12,WLV,,GEOR,07:04.7,MIT,07:10.8,,,,,,,,,,,,,Final,The Knecht Cup - Sunday
+703,2015-04-12,WLV,,RADC,06:49.1,PRIN,06:50.7,BU,06:51.6,WISC,06:58.0,VILN,07:02.6,,,,,,,Final,The Knecht Cup - Sunday
+704,2015-04-17,WHJ,1900,UCSD,06:44.1,SDSU,06:47.4,,,,,,,,,,,,,Final,San Diego State University vs. UC San Diego
+705,2015-04-17,WHV,1900,SDSU,06:34.6,UCSD,06:35.8,,,,,,,,,,,,,Final,San Diego State University vs. UC San Diego
+706,2015-04-18,MHJ,,CAL,05:41.3,WISC,05:56.1,,,,,,,,,,,,,Final,Pac-12 Challenge
+707,2015-04-18,MHJ,,DREX,06:12.4,STJO,06:25.4,BUCK,06:28.9,GMAS,06:42.9,FAIR,06:43.6,,,,,,,Final,The Kerr Cup
+708,2015-04-18,MHJ,,ORST,05:55.0,STAN,05:59.0,,,,,,,,,,,,,Final,Pac-12 Challenge
+709,2015-04-18,MHJ,,UCHI,07:15.1,KANS,07:35.3,DEPA,07:39.1,MIZO,07:39.1,ILLI,08:16.6,,,,,,,Final,Illinois Collegiate Rowing Invitational
+710,2015-04-18,MHJ,,WISC,05:50.3,ORST,05:56.0,,,,,,,,,,,,,Final,Pac-12 Challenge
+711,2015-04-18,MHJ,,DREX,06:12.2,BUCK,06:17.4,FAIR,06:25.4,MRST,06:34.0,,,,,,,,,Heat,The Kerr Cup
+712,2015-04-18,MHJ,,FLTC,06:00.1,UVA,06:00.2,GATC#,06:06.6,PURD,06:07.6,DELA,06:27.2,CINC,06:40.3,,,,,Heat,SIRA - Saturday
+713,2015-04-18,MHJ,,FLTC,06:11.5,UNC,06:13.3,DELA,06:13.5,PURD#,06:16.4,CLEM,07:08.2,,,,,,,Heat,SIRA - Saturday
+714,2015-04-18,MHJ,,OKC,06:17.2,PURD,06:23.7,CINC,06:36.8,,,,,,,,,,,Heat,SIRA - Saturday
+715,2015-04-18,MHJ,,STJO,06:15.3,GMAS,06:35.0,ROCH,06:46.1,,,,,,,,,,,Heat,The Kerr Cup
+716,2015-04-18,MHJ,,TEMP,05:56.5,DELA,06:04.4,UNC,06:05.2,PURD#,06:06.8,OKC,06:11.2,JAX,06:16.3,,,,,Heat,SIRA - Saturday
+717,2015-04-18,MHJ,,TEMP,06:04.4,UVA,06:04.4,GATC#,06:14.2,JAX,06:16.5,COLO,06:54.6,,,,,,,Heat,SIRA - Saturday
+718,2015-04-18,MHJ,1750,RIT,06:03.5,UNIO,06:40.7,,,,,,,,,,,,,Final,RIT vs. Union
+719,2015-04-18,MHJ,2000,BRWN,05:45.6,NORT,05:49.6,,,,,,,,,,,,,Final,Dreissigacker Cup
+720,2015-04-18,MHJ,2000,BU,05:50.0,DART,05:55.0,RUTG,06:30.0,,,,,,,,,,,Final,The Edwin Lyman Bill Cup
+721,2015-04-18,MHJ,2000,CORN,05:46.3,SYRA,05:51.6,NAVY,05:52.7,,,,,,,,,,,Final,Syracuse University vs. Cornell and Navy
+722,2015-04-18,MHJ,2000,GEOR,06:08.4,HC,06:12.5,,,,,,,,,,,,,Final,Healy Cup
+723,2015-04-18,MHJ,2000,PRIN,05:42.6,HARV,05:46.5,,,,,,,,,,,,,Final,Compton Cup
+724,2015-04-18,MHJ,2000,SKID,06:17.0,ALBY,06:31.0,,,,,,,,,,,,,Final,Albany vs. Skidmore College
+725,2015-04-18,MHJ,2000,STLA,06:59.3,HAML,07:11.2,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence University
+726,2015-04-18,MHJ,2000,TUFT,06:29.9,MIDD,06:39.1,,,,,,,,,,,,,Final,Tufts University vs. Middlebury College
+727,2015-04-18,MHJ,2000,UCLA,06:38.6,USC,06:54.6,,,,,,,,,,,,,Final,Hillen Cup
+728,2015-04-18,MHJ,2000,WILL,06:14.4,WESL,06:15.3,,,,,,,,,,,,,Final,Williams College vs. Wesleyan
+729,2015-04-18,MHJ,2000,WPI,06:22.9,ITHA,06:26.6,TRIN,06:27.6,COLB,06:39.7,WASC,06:43.4,,,,,,,Final,Worcester Racing
+730,2015-04-18,MHJ,2000,YALE,05:48.4,PENN,05:55.8,COLU,06:01.1,,,,,,,,,,,Final,Blackwell Cup
+731,2015-04-18,MHV,,CAL,05:34.1,WISC,05:53.1,,,,,,,,,,,,,Final,Pac-12 Challenge
+732,2015-04-18,MHV,,CAL,05:55.7,SCLA,06:13.1,,,,,,,,,,,,,Final,Pac-12 Challenge
+733,2015-04-18,MHV,,DREX,06:04.5,GMAS,06:16.6,BUCK,06:17.7,VILN,06:25.2,MRST,06:27.5,STJO,06:38.7,,,,,Final,The Kerr Cup
+734,2015-04-18,MHV,,IONA,06:46.2,RPI,06:53.7,GENS,07:00.7,,,,,,,,,,,Final,Metropolitan Intercollegiate Rowing Association Championship
+735,2015-04-18,MHV,,KANS,07:30.2,ILLI,07:34.1,DEPA,07:36.6,NORW,07:41.8,UCHI,07:42.6,WHEA,08:08.0,MARQ,08:22.3,,,Final,Illinois Collegiate Rowing Invitational
+736,2015-04-18,MHV,,ORST,05:42.9,WISC,05:43.1,,,,,,,,,,,,,Final,Pac-12 Challenge
+737,2015-04-18,MHV,,ROCH,06:37.0,FAIR,06:39.8,FRMA,07:01.9,LASL,07:05.6,,,,,,,,,Final,The Kerr Cup
+738,2015-04-18,MHV,,STAN,05:44.6,ORST,05:46.1,,,,,,,,,,,,,Final,Pac-12 Challenge
+739,2015-04-18,MHV,,BUCK,06:02.5,GMAS,06:11.8,VILN,06:16.7,FRMA,06:32.2,LASL,06:32.8,,,,,,,Heat,The Kerr Cup
+740,2015-04-18,MHV,,DELA,05:58.7,ND,06:03.3,COLO,06:11.7,VT,06:29.6,WICH,06:30.8,,,,,,,Heat,SIRA - Saturday
+741,2015-04-18,MHV,,DREX,06:00.8,STJO,06:05.7,MRST,06:08.4,ROCH,06:11.7,FAIR,06:17.9,,,,,,,Heat,The Kerr Cup
+742,2015-04-18,MHV,,FLTC,05:52.3,UNC,06:04.2,JAX,06:08.2,ND,06:14.1,CLEM,06:38.0,VT,06:44.2,,,,,Heat,SIRA - Saturday
+743,2015-04-18,MHV,,FLTC,06:06.6,CINC,06:14.0,WASU,06:24.7,LSU,06:48.5,OHUN,07:23.8,,,,,,,Heat,SIRA - Saturday
+744,2015-04-18,MHV,,OKC,05:55.3,PURD,06:02.6,CLEM,06:22.5,VAND,06:22.8,UTCH,06:50.0,,,,,,,Heat,SIRA - Saturday
+745,2015-04-18,MHV,,OKC,05:56.9,DELA,05:58.7,MARI,06:06.7,CINC,06:08.5,GATC,06:10.1,VCOM,06:31.3,,,,,Heat,SIRA - Saturday
+746,2015-04-18,MHV,,TEMP,05:58.9,UNC,06:03.4,MARI,06:07.8,VCOM,06:21.9,TENN,06:52.0,,,,,,,Heat,SIRA - Saturday
+747,2015-04-18,MHV,,UVA,05:55.7,JAX,06:01.0,GATC,06:10.6,UMIA,06:29.6,WAKE,06:43.9,,,,,,,Heat,SIRA - Saturday
+748,2015-04-18,MHV,,UVA,05:59.5,TEMP,06:00.1,PURD,06:13.0,WASU,06:25.7,COLO,06:29.9,VAND,06:35.4,,,,,Heat,SIRA - Saturday
+749,2015-04-18,MHV,1750,RIT,06:02.0,UNIO,06:13.7,,,,,,,,,,,,,Final,RIT vs. Union
+750,2015-04-18,MHV,2000,BING,06:29.0,OSWE,07:42.0,,,,,,,,,,,,,Final,18th Annual Busfield Memorial Regatta
+751,2015-04-18,MHV,2000,BU,05:55.0,DART,06:05.0,RUTG,06:22.0,,,,,,,,,,,Final,The Edwin Lyman Bill Cup
+752,2015-04-18,MHV,2000,CORN,05:38.6,NAVY,05:39.5,SYRA,05:49.4,,,,,,,,,,,Final,Syracuse University vs. Cornell and Navy
+753,2015-04-18,MHV,2000,HAML,06:40.1,STLA,06:53.2,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence University
+754,2015-04-18,MHV,2000,HC,06:00.6,GEOR,06:04.7,,,,,,,,,,,,,Final,Healy Cup
+755,2015-04-18,MHV,2000,MIDD,05:58.4,TUFT,06:05.1,,,,,,,,,,,,,Final,Tufts University vs. Middlebury College
+756,2015-04-18,MHV,2000,MIST,06:15.9,OHST,06:25.7,,,,,,,,,,,,,Final,States Cup
+757,2015-04-18,MHV,2000,NORT,05:29.7,BRWN,05:30.2,,,,,,,,,,,,,Final,Dreissigacker Cup
+758,2015-04-18,MHV,2000,PRIN,05:43.9,HARV,05:48.4,MIT,06:04.5,,,,,,,,,,,Final,Compton Cup
+759,2015-04-18,MHV,2000,SKID,05:45.0,ALBY,06:11.0,VASS,06:27.0,,,,,,,,,,,Final,Albany vs. Skidmore College
+760,2015-04-18,MHV,2000,TRIN,06:11.3,UNH,06:14.6,WPI,06:15.9,ITHA,06:20.5,,,,,,,,,Final,Worcester Racing
+761,2015-04-18,MHV,2000,UCLA,06:32.0,USC,06:33.3,,,,,,,,,,,,,Final,Hillen Cup
+762,2015-04-18,MHV,2000,WASC,06:21.9,COLB,06:31.3,CSTG,06:34.4,,,,,,,,,,,Final,Worcester Racing
+763,2015-04-18,MHV,2000,WILL,06:07.3,WESL,06:11.7,,,,,,,,,,,,,Final,Williams College vs. Wesleyan
+764,2015-04-18,MHV,2000,YALE,05:41.0,PENN,05:45.4,COLU,05:48.3,,,,,,,,,,,Final,Blackwell Cup
+765,2015-04-18,MHV,2000,TRIN,06:14.5,WPI,06:18.9,WASC,06:23.1,CSTG,06:38.5,,,,,,,,,Heat,Worcester Racing
+766,2015-04-18,MHV,2000,UNH,06:15.5,ITHA,06:16.2,COLB,06:28.6,,,,,,,,,,,Heat,Worcester Racing
+767,2015-04-18,MLJ,2000,DELA,05:59.0,MIT,06:02.9,,,,,,,,,,,,,Final,Penn vs. M.I.T. & Delaware
+768,2015-04-18,MLJ,2000,HARV,06:08.0,NAVY,06:18.0,,,,,,,,,,,,,Final,Haines Cup: Harvard vs. Naval Academy
+769,2015-04-18,MLJ,2000,MIT,06:15.9,PENN,06:16.7,,,,,,,,,,,,,Final,Penn vs. M.I.T. & Delaware
+770,2015-04-18,MLJ,2000,PRIN,05:55.2,PENN,06:04.9,GEOR,06:18.9,,,,,,,,,,,Final,Wood-Hammond Cup
+771,2015-04-18,MLJ,2000,YALE,05:56.6,DART,06:02.6,,,,,,,,,,,,,Final,Durand Cup
+772,2015-04-18,MLV,2000,HARV,06:03.0,NAVY,06:08.0,,,,,,,,,,,,,Final,Haines Cup: Harvard vs. Naval Academy
+773,2015-04-18,MLV,2000,MIT,05:48.1,DELA,05:52.0,,,,,,,,,,,,,Final,Penn vs. M.I.T. & Delaware
+774,2015-04-18,MLV,2000,MIT,06:05.7,PENN,06:12.6,,,,,,,,,,,,,Final,Penn vs. M.I.T. & Delaware
+775,2015-04-18,MLV,2000,PRIN,05:44.8,PENN,05:50.7,GEOR,06:02.3,,,,,,,,,,,Final,Wood-Hammond Cup
+776,2015-04-18,MLV,2000,YALE,05:48.7,DART,05:56.0,,,,,,,,,,,,,Final,Durand Cup
+777,2015-04-18,WHJ,,BUFF,07:08.5,EMIC,07:45.8,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+778,2015-04-18,WHJ,,BUFF,07:35.6,DUQN,07:45.1,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+779,2015-04-18,WHJ,,DREX,07:02.5,LEHI,07:09.7,FORD,07:14.7,TEMP,07:16.1,FAIR,07:26.2,MRST,07:29.2,,,,,Final,The Kerr Cup
+780,2015-04-18,WHJ,,DUQN,07:23.5,MERC,07:54.0,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+781,2015-04-18,WHJ,,ILLI,08:25.3,UCHI,08:34.4,DEPA,08:38.5,MIZO,08:53.2,,,,,,,,,Final,Illinois Collegiate Rowing Invitational
+782,2015-04-18,WHJ,,KAST,06:48.0,JAX,07:06.1,DAYT,07:17.0,ROLL,07:22.4,PURD,07:43.6,,,,,,,Final,SIRA - Saturday
+783,2015-04-18,WHJ,1750,RIT,07:39.9,UNIO,08:26.1,,,,,,,,,,,,,Final,RIT vs. Union
+784,2015-04-18,WHJ,2,PRIN,06:18.9,YALE,06:22.0,,,,,,,,,,,,,Final,Eisenburg Cup
+785,2015-04-18,WHJ,2000,BRWN,06:38.0,NORT,06:52.0,UMAS,06:58.0,BU,07:02.0,,,,,,,,,Final,Arlene Gorton Cup & Council Cup
+786,2015-04-18,WHJ,2000,CANI,08:11.5,STET,09:07.8,,,,,,,,,,,,,Final,Canisius College vs. Stetson University
+787,2015-04-18,WHJ,2000,LOUV,06:50.4,DUKE,06:54.3,MIST,06:54.9,CORN,06:56.0,PENN,06:56.0,GONZ,06:58.1,OKLA,07:05.3,,,Final,Clemson Invite - Saturday
+788,2015-04-18,WHJ,2000,NAVY,06:47.1,STJO,06:53.6,RUTG,06:57.2,,,,,,,,,,,Final,Saint Joseph's/Navy/Rutgers
+789,2015-04-18,WHJ,2000,OHST,06:32.5,WAST,06:32.8,SYRA,06:43.2,LOUV,06:46.0,PENN,06:47.8,TENN,07:03.0,BUCK,07:08.2,,,Final,Clemson Invite - Saturday
+790,2015-04-18,WHJ,2000,RADC,06:37.8,ORST,06:39.1,INDI,06:41.7,CLEM,06:49.5,DUKE,06:49.8,MIST,06:52.9,OKLA,07:01.9,,,Final,Clemson Invite - Saturday
+791,2015-04-18,WHJ,2000,SKID,07:20.8,ALBY,08:11.2,,,,,,,,,,,,,Final,Albany vs. Skidmore College
+792,2015-04-18,WHJ,2000,STMY,07:18.0,UCDV,07:28.3,SCLA,07:55.6,,,,,,,,,,,Final,UC Davis/St. Mary's/Santa Clara
+793,2015-04-18,WHJ,2000,TRIN,07:12.2,ITHA,07:17.6,WLSM,07:29.1,COLB,07:38.6,CONC,07:40.3,,,,,,,Final,Worcester Racing
+794,2015-04-18,WHJ,2000,TUFT,07:09.6,MIDD,07:29.5,,,,,,,,,,,,,Final,Tufts University vs. Middlebury College 
+795,2015-04-18,WHJ,2000,UVA,06:32.0,UCLA,06:32.7,TEX,06:40.9,MINN,06:48.2,CORN,06:50.2,DART,06:51.0,GONZ,06:53.9,,,Final,Clemson Invite - Saturday
+796,2015-04-18,WHJ,2000,UVA,06:35.0,OHST,06:38.2,RADC,06:38.5,UCLA,06:42.8,INDI,06:46.6,SYRA,06:51.1,DART,07:03.1,,,Final,Clemson Invite - Saturday
+797,2015-04-18,WHJ,2000,WAST,06:44.5,TEX,06:45.0,ORST,06:51.4,MINN,06:57.4,CLEM,07:03.0,TENN,07:13.3,BUCK,07:27.4,,,Final,Clemson Invite - Saturday
+798,2015-04-18,WHJ,2000,WELL,07:05.1,SIMM,07:25.6,,,,,,,,,,,,,Final,Simmons College vs. Wellesley College
+799,2015-04-18,WHJ,2000,WILL,07:14.4,WESL,07:18.9,,,,,,,,,,,,,Final,Worcester Racing
+800,2015-04-18,WHJ,2000,WPI,07:18.8,SMIT,07:28.9,,,,,,,,,,,,,Final,Worcester Racing
+801,2015-04-18,WHV,,DREX,07:02.3,TEMP,07:08.1,FORD,07:08.6,WASC,07:15.1,VILN,07:18.0,LEHI,07:25.2,,,,,Final,The Kerr Cup
+802,2015-04-18,WHV,,DUQN,07:14.9,BUFF,07:17.3,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+803,2015-04-18,WHV,,EMIC,06:52.5,BUFF,06:53.1,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+804,2015-04-18,WHV,,ENDI,07:56.0,MALW,08:06.8,,,,,,,,,,,,,Final,UMass Lowell Invitational
+805,2015-04-18,WHV,,FRMA,07:16.1,BRYN,07:18.3,HAVE,07:35.4,WASC,07:44.9,ROCH,07:51.9,,,,,,,Final,The Kerr Cup
+806,2015-04-18,WHV,,MERC,06:56.1,DUQN,06:59.1,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+807,2015-04-18,WHV,,MERC,07:14.8,EMIC,07:20.2,,,,,,,,,,,,,Final,Tonawanda Creek Racing
+808,2015-04-18,WHV,,ROCH,07:23.4,FAIR,07:25.6,PHIL,07:27.9,MRST,07:34.6,LASL,08:33.9,,,,,,,Final,The Kerr Cup
+809,2015-04-18,WHV,,ROMO,07:30.6,IONA,07:43.2,GENS,07:45.5,STON,07:48.0,RPI,08:29.1,,,,,,,Final,Metropolitan Intercollegiate Rowing Association Championship
+810,2015-04-18,WHV,,UCHI,08:31.0,ILLI,08:40.1,MARQ,09:04.7,NORW,09:16.6,WHEA,09:20.0,,,,,,,Final,Illinois Collegiate Rowing Invitational
+811,2015-04-18,WHV,,DAYT,06:54.5,OKC,06:56.2,TULN,07:47.9,DAVS,07:57.3,OHUN,08:21.3,,,,,,,Heat,SIRA - Saturday
+812,2015-04-18,WHV,,DREX,06:44.4,FORD,06:47.8,LEHI,06:54.9,ROCH,06:58.9,FAIR,07:04.3,LASL,07:46.9,,,,,Heat,The Kerr Cup
+813,2015-04-18,WHV,,FRMA,00:00.0,BRYN,00:09.6,RSTC,01:06.5,,,,,,,,,,,Heat,The Kerr Cup
+814,2015-04-18,WHV,,HAVE,07:20.9,WASC,07:28.6,ROCH,07:41.2,,,,,,,,,,,Heat,The Kerr Cup
+815,2015-04-18,WHV,,JAX,07:11.3,CLEC,07:22.3,COLO,07:32.1,VAND,07:38.1,CCHR,07:39.1,JMAD,08:22.1,,,,,Heat,SIRA - Saturday
+816,2015-04-18,WHV,,KAST,06:40.2,DAYT,06:48.8,WICH,06:55.0,CLEC,07:00.2,ROLL,07:07.8,CINC,07:28.4,,,,,Heat,SIRA - Saturday
+817,2015-04-18,WHV,,KAST,07:03.9,MARI,07:11.5,ROLL,07:30.2,EMOR,07:44.7,VCOM,07:46.6,UTCH,08:25.3,,,,,Heat,SIRA - Saturday
+818,2015-04-18,WHV,,PURD,06:42.1,JAX,06:45.3,OKC,06:48.6,MARI,06:54.6,COLO,07:18.9,TULN,07:38.7,,,,,Heat,SIRA - Saturday
+819,2015-04-18,WHV,,PURD,07:00.8,WICH,07:23.5,CINC,07:42.0,UGA,07:46.4,UMIA,07:48.5,,,,,,,Heat,SIRA - Saturday
+820,2015-04-18,WHV,,TEMP,06:39.3,VILN,06:44.4,WASC,06:48.6,MRST,06:53.5,PHIL,06:59.0,,,,,,,Heat,The Kerr Cup
+821,2015-04-18,WHV,1750,RIT,07:07.6,UNIO,07:28.3,,,,,,,,,,,,,Final,RIT vs. Union
+822,2015-04-18,WHV,2,PRIN,06:08.9,YALE,06:10.3,,,,,,,,,,,,,Final,Eisenburg Cup
+823,2015-04-18,WHV,2000,BING,07:03.0,OSWE,08:09.0,,,,,,,,,,,,,Final,18th Annual Busfield Memorial Regatta
+824,2015-04-18,WHV,2000,BRWN,06:42.0,NORT,06:52.0,UMAS,06:58.0,BU,07:12.0,,,,,,,,,Final,Arlene Gorton Cup & Council Cup
+825,2015-04-18,WHV,2000,CANI,07:57.8,STET,08:35.7,,,,,,,,,,,,,Final,Canisius College vs. Stetson University
+826,2015-04-18,WHV,2000,CORN,06:39.9,GONZ,06:42.1,LOUV,06:49.2,OKLA,06:51.4,DUKE,06:53.1,MIST,06:58.0,PENN,07:00.5,,,Final,Clemson Invite - Saturday
+827,2015-04-18,WHV,2000,CSTG,07:36.3,MTHO,07:58.0,,,,,,,,,,,,,Final,Coast Guard vs. Mount Holyoke
+828,2015-04-18,WHV,2000,HAML,07:13.0,STLA,07:43.2,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence University
+829,2015-04-18,WHV,2000,INDI,06:29.0,RADC,06:33.1,ORST,06:37.9,OKLA,06:41.7,CLEM,06:43.0,DUKE,06:45.6,MIST,06:56.5,,,Final,Clemson Invite - Saturday
+830,2015-04-18,WHV,2000,NAVY,06:39.5,STJO,06:44.8,RUTG,06:51.6,,,,,,,,,,,Final,Saint Joseph's/Navy/Rutgers
+831,2015-04-18,WHV,2000,OHST,06:21.8,WAST,06:28.8,SYRA,06:33.6,LOUV,06:42.5,BUCK,06:47.7,TENN,06:52.3,PENN,06:58.7,,,Final,Clemson Invite - Saturday
+832,2015-04-18,WHV,2000,OHST,06:25.7,UVA,06:29.7,INDI,06:31.6,RADC,06:37.5,SYRA,06:40.2,UCLA,06:46.0,DART,07:03.0,,,Final,Clemson Invite - Saturday
+833,2015-04-18,WHV,2000,SKID,06:45.3,ALBY,07:54.5,VASS,08:07.2,,,,,,,,,,,Final,Albany vs. Skidmore College
+834,2015-04-18,WHV,2000,SMIT,07:06.9,WPI,07:07.9,CLRK,07:45.5,,,,,,,,,,,Final,Worcester Racing
+835,2015-04-18,WHV,2000,STMY,06:50.5,UCDV,07:04.8,SCLA,07:09.8,,,,,,,,,,,Final,UC Davis/St. Mary's/Santa Clara
+836,2015-04-18,WHV,2000,TRIN,06:48.4,ITHA,06:54.8,WLSM,07:01.1,COLB,07:09.7,UNH,07:14.4,CONC,07:37.1,,,,,Final,Worcester Racing
+837,2015-04-18,WHV,2000,TUFT,06:39.7,MIDD,06:47.3,,,,,,,,,,,,,Final,Tufts University vs. Middlebury College 
+838,2015-04-18,WHV,2000,UVA,06:21.7,TEX,06:22.8,GONZ,06:30.2,CORN,06:31.8,MINN,06:41.7,DART,06:44.6,,,,,Final,Clemson Invite - Saturday
+839,2015-04-18,WHV,2000,WAST,06:30.0,TEX,06:31.1,ORST,06:43.5,CLEM,06:46.2,BUCK,06:52.6,MINN,06:53.1,TENN,07:00.3,,,Final,Clemson Invite - Saturday
+840,2015-04-18,WHV,2000,WELL,06:49.6,SIMM,07:05.7,,,,,,,,,,,,,Final,Simmons College vs. Wellesley College
+841,2015-04-18,WHV,2000,WILL,06:58.5,WESL,07:06.4,,,,,,,,,,,,,Final,Worcester Racing
+842,2015-04-18,WLJ,2000,RADC,06:41.0,PRIN,06:49.6,,,,,,,,,,,,,Final,Charles River Basin #4
+843,2015-04-18,WLJ,2000,WISC,07:12.0,MIT,07:40.0,,,,,,,,,,,,,Final,Charles River Basin #4
+844,2015-04-18,WLV,2000,PRIN,06:31.2,RADC,06:32.7,,,,,,,,,,,,,Final,Charles River Basin #4
+845,2015-04-18,WLV,2000,STAN,06:54.3,BU,06:59.3,,,,,,,,,,,,,Final,Charles River Basin #4
+846,2015-04-18,WLV,2000,WISC,07:11.0,MIT,07:22.0,,,,,,,,,,,,,Final,Charles River Basin #4
+847,2015-04-19,MHJ,,OKC,05:56.8,PURD#,05:57.2,JAX,06:00.5,PURD,06:08.8,DELA,06:19.8,CINC,06:22.1,,,,,Final,SIRA - Sunday
+848,2015-04-19,MHJ,,TEMP,05:48.7,UVA,05:51.3,GATC#,05:55.3,FLTC,05:55.9,DELA,06:00.9,UNC,06:04.1,,,,,Final,SIRA - Sunday
+849,2015-04-19,MHJ,,WISC,05:59.9,STAN,06:08.0,,,,,,,,,,,,,Final,Pac-12 Challenge - Sunday
+850,2015-04-19,MHJ,2000,BATE,06:42.7,UMAS,06:57.9,,,,,,,,,,,,,Final,Bates Invitational
+851,2015-04-19,MHJ,2000,RPI,06:34.0,ALBY,06:42.0,,,,,,,,,,,,,Final,Albany vs. RPI
+852,2015-04-19,MHJ,2000,UNIO,06:56.2,STLA,07:08.9,,,,,,,,,,,,,Final,St. Lawrence University vs. Union College
+853,2015-04-19,MHJ,2000,WPI,06:11.4,WASC,06:21.6,TUFT,06:22.0,,,,,,,,,,,Final,Worcester Racing
+854,2015-04-19,MHV,,FLTC,05:40.8,UVA,05:48.1,OKC,05:48.6,TEMP,05:49.1,UNC,05:54.7,DELA,05:56.5,,,,,Final,SIRA - Sunday
+855,2015-04-19,MHV,,JAX,05:49.6,PURD,05:51.2,MARI,05:55.5,CINC,05:55.9,ND,05:57.4,WASU,06:10.4,,,,,Final,SIRA - Sunday
+856,2015-04-19,MHV,,STAN,05:51.0,WISC,05:54.8,,,,,,,,,,,,,Final,Pac-12 Challenge - Sunday
+857,2015-04-19,MHV,2000,ARMY,06:03.7,MRST,06:15.0,,,,,,,,,,,,,Final,President's Cup: Army versus Marist
+858,2015-04-19,MHV,2000,BATE,06:26.9,MIDD,06:32.2,UNH,06:33.4,UMAS,06:49.0,,,,,,,,,Final,Bates Invitational
+859,2015-04-19,MHV,2000,CANI,06:26.8,BUFF,06:36.8,STJF,06:44.0,,,,,,,,,,,Final,Canisius College vs. Buffalo & St. John Fisher
+860,2015-04-19,MHV,2000,FAIR,06:33.0,IONA,06:37.9,,,,,,,,,,,,,Final,Iona vs. Fairfield
+861,2015-04-19,MHV,2000,RPI,06:09.0,ALBY,06:39.0,,,,,,,,,,,,,Final,Albany vs. RPI
+862,2015-04-19,MHV,2000,STLA,06:25.1,UNIO,06:25.8,,,,,,,,,,,,,Final,St. Lawrence University vs. Union College
+863,2015-04-19,MHV,2000,WPI,06:03.5,WASC,06:05.5,TUFT,06:07.6,UVM,06:10.8,SKID,06:24.5,AMHR,06:33.4,CLRK,06:53.6,,,Final,Worcester Racing
+864,2015-04-19,MHV,2000,WWAS,06:12.5,PUGS,06:30.0,LECL,06:38.0,,,,,,,,,,,Final,Cascades Cup
+865,2015-04-19,WHJ,,INDI,06:35.1,TEX,06:39.6,SYRA,06:43.7,DUKE,06:48.0,GONZ,06:48.3,DART,06:49.7,BUCK,07:09.5,,,Final,Clemson Invite - Sunday
+866,2015-04-19,WHJ,,KAST,06:39.5,JAX,06:55.0,DAYT,07:03.4,ROLL,07:13.7,PURD,07:30.3,,,,,,,Final,SIRA - Sunday
+867,2015-04-19,WHJ,,OHST,06:36.9,UCLA,06:38.2,LOUV,06:39.3,MIST,06:49.3,CLEM,06:50.6,CORN,06:51.4,TENN,07:02.1,,,Final,Clemson Invite - Sunday
+868,2015-04-19,WHJ,,UVA,06:35.1,WAST,06:40.0,ORST,06:43.0,RADC,06:43.2,MINN,06:53.9,PENN,06:55.9,OKLA,06:57.1,,,Final,Clemson Invite - Sunday
+869,2015-04-19,WHJ,2000,BATE,07:39.0,MIDD,08:25.4,,,,,,,,,,,,,Final,Bates Invitational
+870,2015-04-19,WHJ,2000,BC,07:04.2,HC,07:12.0,CONN,07:14.0,,,,,,,,,,,Final,Irving-Christensen Cup
+871,2015-04-19,WHJ,2000,FAIR,07:33.3,IONA,08:07.0,SACH,08:41.0,,,,,,,,,,,Final,Iona College vs. Fairfield
+872,2015-04-19,WHJ,2000,GMAS,06:39.1,UNC,06:43.5,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+873,2015-04-19,WHJ,2000,GMAS,06:47.9,DELA,06:54.1,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+874,2015-04-19,WHJ,2000,GW,06:41.3,UNC,06:44.6,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+875,2015-04-19,WHJ,2000,GW,06:43.0,DELA,06:59.0,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+876,2015-04-19,WHJ,2000,PUGS,07:24.1,PACL,07:39.9,LECL,08:00.1,,,,,,,,,,,Final,Northwest Conference Championships
+877,2015-04-19,WHJ,2000,TUFT,07:06.9,WLSM,07:11.9,WPI,07:13.1,SKID,07:54.1,,,,,,,,,Final,Worcester Racing
+878,2015-04-19,WHJ,2000,TULS,06:51.5,SMU,07:07.6,,,,,,,,,,,,,Final,Lawless Cup
+879,2015-04-19,WHV,,INDI,06:25.7,TEX,06:28.6,SYRA,06:33.5,GONZ,06:35.3,DUKE,06:46.5,BUCK,06:48.1,DART,06:54.7,,,Final,Clemson Invite - Sunday
+880,2015-04-19,WHV,,KAST,06:31.5,PURD,06:36.8,JAX,06:38.5,DAYT,06:39.7,OKC,06:49.6,WICH,07:02.1,,,,,Final,SIRA - Sunday
+881,2015-04-19,WHV,,MARI,06:50.4,CLEC,06:59.6,COLO,07:06.1,ROLL,07:07.9,TULN,07:24.2,CINC,07:28.8,,,,,Final,SIRA - Sunday
+882,2015-04-19,WHV,,OHST,06:23.5,UCLA,06:33.1,CORN,06:35.6,CLEM,06:40.4,LOUV,06:45.5,TENN,06:51.5,MIST,06:53.9,,,Final,Clemson Invite - Sunday
+883,2015-04-19,WHV,,UVA,06:28.0,WAST,06:29.6,RADC,06:34.3,ORST,06:42.7,MINN,06:45.6,OKLA,06:52.9,PENN,06:59.3,,,Final,Clemson Invite - Sunday
+884,2015-04-19,WHV,2000,BATE,07:17.6,MIDD,07:25.3,UNH,07:41.6,,,,,,,,,,,Final,Bates Invitational
+885,2015-04-19,WHV,2000,BC,06:51.9,HC,06:54.1,CONN,07:02.6,,,,,,,,,,,Final,Irving-Christensen Cup
+886,2015-04-19,WHV,2000,FAIR,07:09.1,SACH,07:24.1,IONA,07:44.8,,,,,,,,,,,Final,Iona College vs. Fairfield
+887,2015-04-19,WHV,2000,GMAS,06:37.1,DELA,06:38.5,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+888,2015-04-19,WHV,2000,GW,06:28.7,DELA,06:36.3,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+889,2015-04-19,WHV,2000,GW,06:33.7,UNC,06:37.1,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+890,2015-04-19,WHV,2000,MRST,07:27.0,ARMY,07:31.0,,,,,,,,,,,,,Final,President's Cup: Army versus Marist
+891,2015-04-19,WHV,2000,PUGS,07:02.5,LECL,07:12.3,PACL,07:18.4,WLMT,07:50.6,PACI,08:14.8,,,,,,,Final,Northwest Conference Championships
+892,2015-04-19,WHV,2000,RPI,07:33.3,ALBY,07:48.9,,,,,,,,,,,,,Final,Albany vs. RPI
+893,2015-04-19,WHV,2000,STJF,07:54.1,DYOU,08:51.0,,,,,,,,,,,,,Final,St. John Fisher College vs. D'Youville
+894,2015-04-19,WHV,2000,STLA,07:05.8,UNIO,07:09.2,,,,,,,,,,,,,Final,St. Lawrence University vs. Union College
+895,2015-04-19,WHV,2000,TUFT,06:45.0,WLSM,06:51.3,WPI,07:02.6,AMHR,07:12.4,SKID,07:18.1,CLRK,07:23.1,,,,,Final,Worcester Racing
+896,2015-04-19,WHV,2000,TULS,06:44.6,SMU,06:51.2,,,,,,,,,,,,,Final,Lawless Cup
+897,2015-04-19,WHV,2000,UNC,06:27.0,GMAS,06:28.8,,,,,,,,,,,,,Final,Occoquan Reservoir Racing
+898,2015-04-19,WLJ,2000,BU,06:50.3,WISC,06:51.6,RADC,06:52.5,,,,,,,,,,,Final,Lightweight Invitational Regatta
+899,2015-04-19,WLJ,2000,STAN,06:58.4,MIT,07:14.2,,,,,,,,,,,,,Final,Lightweight Invitational Regatta
+900,2015-04-19,WLJ,2000,RADC,07:04.6,BU,07:06.5,,,,,,,,,,,,,Heat,Lightweight Invitational Regatta
+901,2015-04-19,WLJ,2000,WISC,07:06.3,STAN,07:14.1,MIT,07:40.4,,,,,,,,,,,Heat,Lightweight Invitational Regatta
+902,2015-04-19,WLV,2000,STAN,06:36.1,RADC,06:39.6,BU,06:41.4,,,,,,,,,,,Final,Lightweight Invitational Regatta
+903,2015-04-19,WLV,2000,WISC,06:52.3,MIT,07:00.1,,,,,,,,,,,,,Final,Lightweight Invitational Regatta
+904,2015-04-19,WLV,2000,BU,06:57.1,RADC,06:58.1,,,,,,,,,,,,,Heat,Lightweight Invitational Regatta
+905,2015-04-19,WLV,2000,STAN,07:01.7,WISC,07:09.9,MIT,07:25.6,,,,,,,,,,,Heat,Lightweight Invitational Regatta
+906,2015-04-24,MHJ,,HOBR,06:37.0,RIT,07:01.3,UNIO,07:26.5,ROCH,07:30.1,STLA,07:34.0,,,,,,,Final,Liberty League Rowing Championships
+907,2015-04-24,MHV,,HOBR,06:29.1,RIT,06:42.8,ROCH,06:47.3,STLA,06:52.3,SKID,07:01.3,UNIO,07:02.3,,,,,Final,Liberty League Rowing Championships
+908,2015-04-24,MHV,,HOBR,06:42.0,ROCH,06:52.7,STLA,06:58.2,STJF,07:01.6,,,,,,,,,Heat,Liberty League Rowing Championships
+909,2015-04-24,MHV,,RIT,06:50.0,SKID,06:54.2,UNIO,06:57.3,,,,,,,,,,,Heat,Liberty League Rowing Championships
+910,2015-04-24,WHJ,,WLSM,08:01.3,RIT,08:19.5,ROCH,08:41.0,SKID,08:43.1,,,,,,,,,Final,Liberty League Rowing Championships
+911,2015-04-24,WHJ,2000,ND,07:00.6,INDI,07:05.3,,,,,,,,,,,,,Final,Dale England Cup - Friday
+912,2015-04-24,WHJ,2000,TEX,07:07.4,COLU,07:24.1,,,,,,,,,,,,,Final,Dale England Cup - Friday
+913,2015-04-24,WHV,,WLSM,07:26.2,RIT,07:27.4,ROCH,07:35.4,UNIO,07:52.3,SKID,07:59.1,STLA,07:59.8,,,,,Final,Liberty League Rowing Championships
+914,2015-04-24,WHV,,ROCH,07:55.8,STLA,08:06.3,SKID,08:16.9,,,,,,,,,,,Heat,Liberty League Rowing Championships
+915,2015-04-24,WHV,,WLSM,07:51.1,RIT,07:51.3,UNIO,08:13.0,STJF,08:24.1,,,,,,,,,Heat,Liberty League Rowing Championships
+916,2015-04-24,WHV,2000,INDI,06:43.5,ND,06:51.5,,,,,,,,,,,,,Final,Dale England Cup - Friday
+917,2015-04-24,WHV,2000,TEX,06:48.4,COLU,07:06.7,,,,,,,,,,,,,Final,Dale England Cup - Friday
+918,2015-04-25,MHJ,,ITHA,07:10.0,MRST,07:25.3,HAML,07:51.8,,,,,,,,,,,Final,Ithaca College vs. Hamilton and Marist
+919,2015-04-25,MHJ,,MICH,06:17.9,MERC,06:24.4,GV,06:25.1,MINN,06:35.4,MSOE,07:05.8,DEPA,07:16.0,,,,,Final,MACRA Championships
+920,2015-04-25,MHJ,,WASC,06:29.4,MARI,06:36.3,NYM,06:52.7,,,,,,,,,,,Final,Mid-Atlantic Rowing Conference Championships
+921,2015-04-25,MHJ,,WASH,05:49.3,CAL,05:55.1,,,,,,,,,,,,,Final,Cal v Washington
+922,2015-04-25,MHJ,,UCSB,06:36.7,SCLA,06:48.8,UCIR,06:53.3,UCDV,07:05.9,,,,,,,,,Heat,WIRA Regatta - Saturday
+923,2015-04-25,MHJ,,UCSD,06:33.9,OC,06:43.8,SDSU,06:51.5,UCLA,06:58.1,,,,,,,,,Heat,WIRA Regatta - Saturday
+924,2015-04-25,MHJ,1950,WESL,06:38.7,TRIN,06:49.0,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+925,2015-04-25,MHJ,2,DELA,06:49.7,BATE,07:11.0,,,,,,,,,,,,,Final,MIT vs. Bates & Delaware
+926,2015-04-25,MHJ,2000,BRWN,05:27.0,DART,05:29.8,,,,,,,,,,,,,Final,Atalanta Cup
+927,2015-04-25,MHJ,2000,BU,06:16.0,COLU,06:23.0,SYRA,06:28.0,,,,,,,,,,,Final,Conlan Cup & Lusins Trophy
+928,2015-04-25,MHJ,2000,DREX,05:52.5,TEMP,05:58.2,STJO,06:14.0,,,,,,,,,,,Final,Bergen Cup
+929,2015-04-25,MHJ,2000,HARV,06:07.5,PENN,06:08.9,NAVY,06:15.6,,,,,,,,,,,Final,Adams Cup and Clothier Trophy (live results)
+930,2015-04-25,MHJ,2000,HOBR,06:00.3,HC,06:08.6,BUCK,06:11.1,WILL,06:12.7,,,,,,,,,Final,Worcester Racing
+931,2015-04-25,MHJ,2000,PRIN,06:20.2,YALE,06:23.6,CORN,06:27.2,,,,,,,,,,,Final,Carnegie Cup
+932,2015-04-25,MHJ,2000,UNIO,07:06.0,STJF,07:45.0,,,,,,,,,,,,,Final,Union/St. John Fisher/RPI
+933,2015-04-25,MHJ,2000,WPI,06:11.6,BC,06:17.3,UMAS,06:43.8,,,,,,,,,,,Final,McCarthy/McGee Challenge Cup
+934,2015-04-25,MHV,,CAL,05:38.9,WASH,05:41.5,,,,,,,,,,,,,Final,Cal v Washington
+935,2015-04-25,MHV,,DEPA,07:02.1,DAYT,07:09.1,UCHI,07:27.1,,,,,,,,,,,Final,MACRA Championships
+936,2015-04-25,MHV,,ITHA,06:47.7,MRST,06:48.3,HAML,07:09.8,,,,,,,,,,,Final,Ithaca College vs. Hamilton and Marist
+937,2015-04-25,MHV,,MICH,06:26.9,GV,06:31.6,MINN,06:50.1,ND,06:56.0,MSOE,07:00.7,MERC,07:04.0,,,,,Final,MACRA Championships
+938,2015-04-25,MHV,,MIST,06:54.8,ILLI,06:56.1,CWES,07:09.5,STTH,07:20.8,UCHI,07:24.0,,,,,,,Final,MACRA Championships
+939,2015-04-25,MHV,,WASC,06:14.3,MARI,06:14.6,MAWA,06:36.3,NYM,06:40.1,FRMA,06:48.0,BING,06:51.6,,,,,Final,Mid-Atlantic Rowing Conference Championships
+940,2015-04-25,MHV,,GV,06:36.8,MINN,06:56.5,ILLI,07:10.3,STTH,07:22.8,DAYT,07:42.7,,,,,,,Heat,MACRA Championships
+941,2015-04-25,MHV,,MERC,07:04.8,ND,07:08.6,CWES,07:17.5,NORW,07:32.1,DEPA,07:33.5,WHEA,08:04.6,,,,,Heat,MACRA Championships
+942,2015-04-25,MHV,,MICH,06:52.3,MSOE,07:06.2,MIST,07:13.2,MIOH,07:27.6,UCHI,07:49.3,IOWA,08:43.7,,,,,Heat,MACRA Championships
+943,2015-04-25,MHV,,UCIR,06:21.3,SCLA,06:25.1,WAST,06:26.5,WWAS,06:33.6,SDSU,06:35.7,UCDV,06:46.9,SONO,06:47.8,,,Heat,WIRA Regatta - Saturday
+944,2015-04-25,MHV,,UCSB,06:24.3,OC,06:25.6,UCSD,06:33.3,UCLA,06:37.7,USC,06:39.0,PUGS,06:53.4,LECL,07:02.1,,,Heat,WIRA Regatta - Saturday
+945,2015-04-25,MHV,1750,UNH,06:16.3,COLB,06:27.7,UVM,06:39.2,,,,,,,,,,,Final,UNH vs. Colby College & UVM
+946,2015-04-25,MHV,1950,TRIN,06:27.9,WESL,06:36.4,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+947,2015-04-25,MHV,2,BATE,06:29.5,MIT,06:31.5,DELA,06:38.7,,,,,,,,,,,Final,MIT vs. Bates & Delaware
+948,2015-04-25,MHV,2000,BC,06:05.1,WPI,06:13.2,UMAS,06:30.4,,,,,,,,,,,Final,McCarthy/McGee Challenge Cup
+949,2015-04-25,MHV,2000,BRWN,05:18.5,DART,05:20.5,,,,,,,,,,,,,Final,Atalanta Cup
+950,2015-04-25,MHV,2000,BU,06:16.0,SYRA,06:23.0,COLU,06:23.6,,,,,,,,,,,Final,Conlan Cup & Lusins Trophy
+951,2015-04-25,MHV,2000,BUFF,06:32.0,GENS,06:42.0,OSWE,07:10.0,CLRS,07:11.0,,,,,,,,,Final,SUNY Geneseo-Oswego-Buffalo & Clarkson
+952,2015-04-25,MHV,2000,DREX,05:49.6,TEMP,05:57.7,VILN,06:07.1,STJO,06:07.6,LASL,06:17.2,,,,,,,Final,Bergen Cup
+953,2015-04-25,MHV,2000,FAIR,07:37.1,IONA,08:04.0,,,,,,,,,,,,,Final,SHU Invitational
+954,2015-04-25,MHV,2000,HARV,06:02.2,NAVY,06:02.9,PENN,06:11.9,,,,,,,,,,,Final,Adams Cup and Clothier Trophy (live results)
+955,2015-04-25,MHV,2000,HC,05:55.3,HOBR,05:56.2,WILL,06:08.6,BUCK,06:15.7,,,,,,,,,Final,Worcester Racing
+956,2015-04-25,MHV,2000,UNIO,06:31.0,STJF,06:46.0,RPI,06:51.0,,,,,,,,,,,Final,Union/St. John Fisher/RPI
+957,2015-04-25,MHV,2000,WASU,07:20.6,KANS,07:24.3,COLO,07:28.5,KAST,07:37.5,WICH,07:40.4,,,,,,,Final,Great Plains Rowing Championships
+958,2015-04-25,MHV,2000,YALE,06:09.1,PRIN,06:10.6,CORN,06:16.3,,,,,,,,,,,Final,Carnegie Cup
+959,2015-04-25,MHV,2000,KANS,06:31.7,COLO,06:34.8,MIZO,08:38.6,,,,,,,,,,,Heat,Great Plains Rowing Championships
+960,2015-04-25,MHV,2000,WASU,06:22.0,KAST,06:26.1,WICH,06:34.6,DENV,07:03.8,COST,07:12.8,,,,,,,Heat,Great Plains Rowing Championships
+961,2015-04-25,MLJ,2000,CORN,06:33.0,COLU,06:40.0,MIT,06:45.0,,,,,,,,,,,Final,Geiger Cup
+962,2015-04-25,MLJ,2000,HARV,05:40.3,YALE,05:43.8,PRIN,05:48.2,,,,,,,,,,,Final,Goldthwait Cup
+963,2015-04-25,MLJ,2000,NAVY,06:18.5,PENN,06:22.3,DELA,06:24.9,,,,,,,,,,,Final,Callow Cup
+964,2015-04-25,MLV,2000,CORN,06:18.0,COLU,06:21.0,MIT,06:28.0,,,,,,,,,,,Final,Geiger Cup
+965,2015-04-25,MLV,2000,PENN,06:09.4,NAVY,06:09.9,DELA,06:11.3,,,,,,,,,,,Final,Callow Cup
+966,2015-04-25,MLV,2000,PRIN,05:36.3,YALE,05:37.4,HARV,05:40.0,,,,,,,,,,,Final,Goldthwait Cup
+967,2015-04-25,WHJ,,DRAK,08:07.0,EMIC,08:30.7,,,,,,,,,,,,,Final,MACRA Championships
+968,2015-04-25,WHJ,,MARI,07:33.1,WASC,07:34.2,BRYN,07:57.4,FRMA,08:13.2,,,,,,,,,Final,Mid-Atlantic Rowing Conference Championships
+969,2015-04-25,WHJ,,WELL,07:03.3,SMIT,07:07.7,WPI,07:12.6,SIMM,07:41.9,CLRK,08:35.4,,,,,,,Final,NEWMAC Championships
+970,2015-04-25,WHJ,,STAN#,07:21.7,SACS,07:22.8,SDSU,07:28.6,STMY,07:34.5,UPOR,07:36.9,SCLA,07:38.0,,,,,Heat,WIRA Regatta - Saturday
+971,2015-04-25,WHJ,,UCSB,07:35.3,PUGS,07:47.2,HUMS,07:49.6,PACL,07:57.3,OC,08:02.3,,,,,,,Heat,WIRA Regatta - Saturday
+972,2015-04-25,WHJ,,UCSD,07:44.3,WWAS,07:50.3,UCDV,07:54.2,LECL,08:14.4,PUGS,08:14.4,MILL,08:27.5,,,,,Heat,WIRA Regatta - Saturday
+973,2015-04-25,WHJ,1750,COLB,07:59.4,UVM,08:36.2,UNH,08:47.4,,,,,,,,,,,Final,UNH vs. Colby College & UVM
+974,2015-04-25,WHJ,1950,TRIN,07:52.4,WESL,08:02.6,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+975,2015-04-25,WHJ,2000,ALAB,07:06.4,SMU,07:14.5,COK,07:24.0,,,,,,,,,,,Final,SMU/Alabama/Central Oklahoma
+976,2015-04-25,WHJ,2000,BRWN,06:22.2,CORN,06:43.8,,,,,,,,,,,,,Final,Dunn Bowl
+977,2015-04-25,WHJ,2000,BU,07:24.5,URI,07:26.7,BC,07:27.6,,,,,,,,,,,Final,University of Rhode Island vs. Boston College
+978,2015-04-25,WHJ,2000,CFLA,07:47.0,OLDD,08:02.3,UMIA,08:12.2,,,,,,,,,,,Final,UCF/Miami/Old Dominion/Nova S
+979,2015-04-25,WHJ,2000,DREX,06:52.5,STJO,06:53.1,TEMP,07:03.6,,,,,,,,,,,Final,Kelly Cup
+980,2015-04-25,WHJ,2000,FAIR,09:11.4,ROMO,09:29.6,,,,,,,,,,,,,Final,SHU Invitational
+981,2015-04-25,WHJ,2000,HAML,08:21.5,COLG,08:41.0,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+982,2015-04-25,WHJ,2000,IOWA,06:43.6,KANS,07:00.4,,,,,,,,,,,,,Final,Big 12 vs. Big Ten Double Dual
+983,2015-04-25,WHJ,2000,ITHA,08:12.4,HAML,08:20.9,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+984,2015-04-25,WHJ,2000,MRST,08:11.8,ITHA,08:16.2,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+985,2015-04-25,WHJ,2000,MRST,08:28.1,COLG,08:46.3,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+986,2015-04-25,WHJ,2000,OHST,06:36.1,SYRA,06:44.3,MICH,06:45.5,MIST,06:58.7,,,,,,,,,Final,Ohio State/Michigan/Michigan State/Syracuse
+987,2015-04-25,WHJ,2000,PRIN,06:32.4,PENN,06:45.0,DART,06:45.3,,,,,,,,,,,Final,The Class of 1984 Plaque 
+988,2015-04-25,WHJ,2000,RUTG,07:01.3,HC,07:06.0,MIT,07:09.2,,,,,,,,,,,Final,Holy Cross vs. Rutgers & MIT
+989,2015-04-25,WHJ,2000,TEX,07:06.2,ND,07:10.8,INDI,07:17.3,COLU,07:36.1,,,,,,,,,Final,Dale England Cup - Saturday
+990,2015-04-25,WHJ,2000,WASH,06:30.3,CAL,06:32.7,,,,,,,,,,,,,Final,UW Cal Dual
+991,2015-04-25,WHJ,2000,WISC,06:19.9,IOWA,06:30.9,OKLA,06:32.6,KANS,06:56.4,,,,,,,,,Final,Big 12 vs. Big Ten Double Dual
+992,2015-04-25,WHJ,2000,WISC,06:36.0,OKLA,06:55.4,,,,,,,,,,,,,Final,Big 12 vs. Big Ten Double Dual
+993,2015-04-25,WHJ,2000,YALE,07:02.0,RADC,07:05.7,,,,,,,,,,,,,Final,Nathaniel Case Cup
+994,2015-04-25,WHV,,GV,07:36.0,MERC,07:44.2,EMIC,07:46.6,UCHI,08:18.1,DRAK,08:22.1,ILLI,08:28.6,MARQ,08:39.5,,,Final,MACRA Championships
+995,2015-04-25,WHV,,HAVE,07:34.5,MAWA,07:38.6,SUSQ,07:53.2,STMD,08:02.4,SCRA,08:14.6,,,,,,,Final,Mid-Atlantic Rowing Conference Championships
+996,2015-04-25,WHV,,MILL,07:34.1,WLMT,07:47.7,AZST,08:58.7,,,,,,,,,,,Final,WIRA Regatta - Saturday
+997,2015-04-25,WHV,,MIOH,08:16.4,WHEA,08:37.6,STTH,08:59.1,,,,,,,,,,,Final,MACRA Championships
+998,2015-04-25,WHV,,WASC,07:04.5,MARI,07:08.9,BRYN,07:23.0,FRMA,07:23.1,NPRK,08:21.4,RSTC,09:00.0,,,,,Final,Mid-Atlantic Rowing Conference Championships
+999,2015-04-25,WHV,,WELL,06:52.5,SMIT,07:02.1,WPI,07:07.1,CSTG,07:11.8,SIMM,07:14.7,CLRK,07:25.3,MTHO,07:36.6,,,Final,NEWMAC Championships
+1000,2015-04-25,WHV,,GV,08:09.6,UCHI,08:39.2,ILLI,08:44.2,MIOH,08:58.2,NORW,09:24.5,STTH,09:34.7,WHEA,09:38.3,,,Heat,MACRA Championships
+1001,2015-04-25,WHV,,HUMS,07:09.5,UCSD,07:18.8,PACL,07:29.6,ORGN,07:33.4,AZST,09:58.4,,,,,,,Heat,WIRA Regatta - Saturday
+1002,2015-04-25,WHV,,LOMY,07:13.4,STMY,07:16.9,UPOR,07:28.5,SCLA,07:42.0,,,,,,,,,Heat,WIRA Regatta - Saturday
+1003,2015-04-25,WHV,,MERC,07:54.0,EMIC,08:01.1,DRAK,08:29.6,MARQ,08:35.6,,,,,,,,,Heat,MACRA Championships
+1004,2015-04-25,WHV,,STAN#,07:05.1,SACS,07:10.9,SEAT,07:10.9,SDSU,07:22.7,,,,,,,,,Heat,WIRA Regatta - Saturday
+1005,2015-04-25,WHV,,UCSB,07:16.9,PUGS,07:27.0,CSLB,07:36.7,UCIR,07:41.1,MILL,07:41.4,,,,,,,Heat,WIRA Regatta - Saturday
+1006,2015-04-25,WHV,,WWAS,07:19.7,OC,07:23.1,UCDV,07:27.8,LECL,07:31.2,WLMT,07:38.9,,,,,,,Heat,WIRA Regatta - Saturday
+1007,2015-04-25,WHV,1750,UNH,07:29.9,COLB,07:32.6,UVM,07:50.9,,,,,,,,,,,Final,UNH vs. Colby College & UVM
+1008,2015-04-25,WHV,1950,TRIN,07:22.1,WESL,07:45.5,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+1009,2015-04-25,WHV,2000,AMHR,07:12.9,CLRK,07:44.6,,,,,,,,,,,,,Final,Worcester Racing
+1010,2015-04-25,WHV,2000,BRWN,06:10.1,CORN,06:13.4,,,,,,,,,,,,,Final,Dunn Bowl
+1011,2015-04-25,WHV,2000,CAL,06:24.5,WASH,06:29.9,,,,,,,,,,,,,Final,UW Cal Dual
+1012,2015-04-25,WHV,2000,CFLA,07:06.9,UMIA,07:21.4,OLDD,07:26.3,NOVS,07:33.7,,,,,,,,,Final,UCF/Miami/Old Dominion/Nova S
+1013,2015-04-25,WHV,2000,COLG,07:48.4,MRST,08:01.4,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+1014,2015-04-25,WHV,2000,DREX,06:36.3,VILN,06:44.8,TEMP,06:45.3,STJO,06:45.7,PHIL,06:56.9,,,,,,,Final,Kelly Cup
+1015,2015-04-25,WHV,2000,FAIR,08:57.3,ROMO,09:04.6,IONA,09:05.4,SACH,09:34.3,,,,,,,,,Final,SHU Invitational
+1016,2015-04-25,WHV,2000,GENS,08:04.0,OSWE,09:07.0,,,,,,,,,,,,,Final,SUNY Geneseo-Oswego-Buffalo & Clarkson
+1017,2015-04-25,WHV,2000,HAML,07:38.2,ITHA,07:50.2,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+1018,2015-04-25,WHV,2000,HAML,07:43.8,COLG,07:48.1,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+1019,2015-04-25,WHV,2000,HC,06:49.4,RUTG,06:51.4,MIT,06:53.7,,,,,,,,,,,Final,Holy Cross vs. Rutgers & MIT
+1020,2015-04-25,WHV,2000,INDI,06:53.9,TEX,06:59.2,ND,07:07.6,COLU,07:18.9,,,,,,,,,Final,Dale England Cup - Saturday
+1021,2015-04-25,WHV,2000,IOWA,06:30.8,KANS,06:39.6,,,,,,,,,,,,,Final,Big 12 vs. Big Ten Double Dual
+1022,2015-04-25,WHV,2000,ITHA,07:48.3,MRST,07:56.7,,,,,,,,,,,,,Final,Cayuga Inlet Racing
+1023,2015-04-25,WHV,2000,OHST,06:19.8,MICH,06:24.4,SYRA,06:30.1,MIST,06:45.7,,,,,,,,,Final,Ohio State/Michigan/Michigan State/Syracuse
+1024,2015-04-25,WHV,2000,PRIN,06:21.7,PENN,06:33.7,DART,06:36.5,,,,,,,,,,,Final,The Class of 1984 Plaque 
+1025,2015-04-25,WHV,2000,PSU,07:01.7,ARMY,07:14.3,,,,,,,,,,,,,Final,Capt. Brian R. Faunce Cup - Women
+1026,2015-04-25,WHV,2000,SMU,07:01.1,COK,07:03.1,ALAB,07:05.8,,,,,,,,,,,Final,SMU/Alabama/Central Oklahoma
+1027,2015-04-25,WHV,2000,UNIO,07:35.0,RPI,08:06.0,STJF,08:09.0,,,,,,,,,,,Final,Union College/St John Fisher/RPI/SCC
+1028,2015-04-25,WHV,2000,URI,07:05.8,BC,07:09.3,BU,07:15.0,,,,,,,,,,,Final,University of Rhode Island vs. Boston College
+1029,2015-04-25,WHV,2000,WICH,07:09.0,COLO,07:09.8,DENV,08:37.0,MIZO,08:44.0,,,,,,,,,Final,Great Plains Rowing Championships
+1030,2015-04-25,WHV,2000,WISC,06:12.4,IOWA,06:22.6,OKLA,06:29.2,KANS,06:33.6,,,,,,,,,Final,Big 12 vs. Big Ten Double Dual
+1031,2015-04-25,WHV,2000,WISC,06:24.2,OKLA,06:43.6,,,,,,,,,,,,,Final,Big 12 vs. Big Ten Double Dual
+1032,2015-04-25,WHV,2000,YALE,06:59.0,RADC,07:06.6,,,,,,,,,,,,,Final,Nathaniel Case Cup
+1033,2015-04-25,WLJ,2000,BU,07:34.3,RADC,07:41.8,MIT,08:04.4,,,,,,,,,,,Final,Women's Lightweight Bean Pot & The Muri Cup
+1034,2015-04-25,WLV,2000,PRIN,06:23.7,GEOR,06:42.9,,,,,,,,,,,,,Final,Class of 2006 Cup
+1035,2015-04-25,WLV,2000,RADC,07:09.8,BU,07:14.8,MIT,07:37.0,,,,,,,,,,,Final,Women's Lightweight Bean Pot & The Muri Cup
+1036,2015-04-26,MHJ,,SDSU,06:41.0,UCLA,06:44.0,UCDV,06:57.1,,,,,,,,,,,Final,WIRA Finals
+1037,2015-04-26,MHJ,,UCSD,06:18.1,UCSB,06:20.0,OC,06:32.0,SCLA,06:37.0,UCIR,06:46.9,,,,,,,Final,WIRA Finals
+1038,2015-04-26,MHJ,2000,BATE,06:29.6,COLB,07:04.4,,,,,,,,,,,,,Final,19th CBB Presidents Cup
+1039,2015-04-26,MHJ,2000,CAL,05:55.4,ORST,06:18.3,,,,,,,,,,,,,Final,Oregon State University vs. California
+1040,2015-04-26,MHJ,2000,GW,05:42.3,GEOR,05:44.3,RUTG,05:59.6,,,,,,,,,,,Final,GW vs. Georgetown & Rutgers
+1041,2015-04-26,MHV,,SONO,06:44.0,LECL,06:55.8,,,,,,,,,,,,,Final,WIRA Finals
+1042,2015-04-26,MHV,,UCIR,06:12.1,WAST,06:15.1,SCLA,06:17.1,UCSB,06:19.1,OC,06:25.0,UCSD,06:29.5,,,,,Final,WIRA Finals
+1043,2015-04-26,MHV,,WWAS,06:28.1,SDSU,06:31.1,UCLA,06:32.1,USC,06:34.1,UCDV,06:41.1,PUGS,06:57.8,,,,,Final,WIRA Finals
+1044,2015-04-26,MHV,2000,BATE,06:09.9,COLB,06:22.3,BOWD,06:38.9,,,,,,,,,,,Final,19th CBB Presidents Cup
+1045,2015-04-26,MHV,2000,CAL,05:48.6,ORST,06:05.4,,,,,,,,,,,,,Final,Oregon State University vs. California
+1046,2015-04-26,MHV,2000,GEOR,05:34.1,GW,05:35.1,RUTG,05:47.4,,,,,,,,,,,Final,GW vs. Georgetown & Rutgers
+1047,2015-04-26,MLV,,WAST,06:33.0,UCSB,06:43.1,CAL,06:44.0,SACS,07:03.1,SDSU,07:11.2,,,,,,,Final,WIRA Finals
+1048,2015-04-26,WHJ,,PACL,07:47.1,OC,08:03.0,MILL,08:08.0,LECL,08:12.2,,,,,,,,,Final,WIRA Finals
+1049,2015-04-26,WHJ,,STAN#,07:07.0,SACS,07:09.1,SDSU,07:16.1,STMY,07:18.1,UPOR,07:19.1,SCLA,07:55.5,,,,,Final,WIRA Finals
+1050,2015-04-26,WHJ,,UCSB,07:34.1,UCSD,07:35.1,UCDV,07:42.0,WWAS,07:47.0,HUMS,07:50.0,PUGS,07:53.6,,,,,Final,WIRA Finals
+1051,2015-04-26,WHJ,2000,BATE,07:08.6,COLB,07:46.1,,,,,,,,,,,,,Final,19th CBB Presidents Cup
+1052,2015-04-26,WHJ,2000,GEOR,07:09.6,GW,07:15.9,GMAS,07:28.5,,,,,,,,,,,Final,George Cup & Class of 1998 Cup
+1053,2015-04-26,WHV,,MALW,07:46.3,ENDI,08:22.0,,,,,,,,,,,,,Final,Endicott/UMass Lowell
+1054,2015-04-26,WHV,,SDSU,07:21.2,SCLA,07:38.8,,,,,,,,,,,,,Final,WIRA Finals
+1055,2015-04-26,WHV,,STAN#,07:00.0,LOMY,07:03.0,STMY,07:04.1,SACS,07:06.0,SEAT,07:14.0,UPOR,07:16.8,,,,,Final,WIRA Finals
+1056,2015-04-26,WHV,,UCDV,07:30.1,PACL,07:32.1,CSLB,07:35.1,LECL,07:36.1,ORGN,07:38.0,UCIR,07:40.0,,,,,Final,WIRA Finals
+1057,2015-04-26,WHV,,UCSB,07:05.0,HUMS,07:06.0,UCSD,07:11.0,WWAS,07:14.0,PUGS,07:17.1,OC,07:20.1,,,,,Final,WIRA Finals
+1058,2015-04-26,WHV,2000,BATE,07:03.8,COLB,07:18.6,,,,,,,,,,,,,Final,19th CBB Presidents Cup
+1059,2015-04-26,WHV,2000,GEOR,06:58.5,GW,07:07.3,GMAS,07:10.2,,,,,,,,,,,Final,George Cup & Class of 1998 Cup
+1060,2015-04-26,WLV,,CAL,07:47.1,WAST,08:02.2,,,,,,,,,,,,,Final,WIRA Finals
+1061,2015-04-27,MHV,2000,ARMY,06:01.0,PSU,06:35.8,,,,,,,,,,,,,Final,Capt. Brian R. Faunce Cup - Men
+1062,2015-04-27,WHJ,2000,BRWN,06:10.1,YALE,06:20.4,,,,,,,,,,,,,Final,Nat and Anne Case Cup
+1063,2015-04-27,WHV,2000,BRWN,06:02.1,YALE,06:07.6,,,,,,,,,,,,,Final,Nat and Anne Case Cup
+1064,2015-04-28,WHV,2000,BARR,06:58.6,NOVS,07:13.0,FLTC,07:23.3,ROLL,07:50.0,TAMP,08:37.5,,,,,,,Final,SSC Rowing Championships
+1065,2015-05-02,MHJ,,BU,06:28.1,WISC,06:34.6,,,,,,,,,,,,,Final,Cochrane Cup/Jablonic Cup
+1066,2015-05-02,MHJ,,RIT,06:29.8,ARMY,06:32.4,MRST,06:33.4,ITHA,06:36.3,HAML,06:59.5,UNIO,07:04.1,RPI,07:50.4,,,Final,NYS Collegiate Championships
+1067,2015-05-02,MHJ,,TUFT,06:31.4,UMAS,06:32.4,COLB,06:49.5,,,,,,,,,,,Final,New England Rowing Championships
+1068,2015-05-02,MHJ,,UCDV,06:41.4,SACS,06:45.5,,,,,,,,,,,,,Final,Sacramento St at UC Davis
+1069,2015-05-02,MHJ,,WILL,06:20.2,WPI,06:20.6,WESL,06:25.2,BC,06:25.3,TRIN,06:33.4,BATE,06:36.7,,,,,Final,New England Rowing Championships
+1070,2015-05-02,MHJ,,BC,06:18.6,WILL,06:23.4,BATE,06:24.3,TUFT,06:26.6,,,,,,,,,Heat,New England Rowing Championships
+1071,2015-05-02,MHJ,,WPI,06:24.9,WESL,06:28.5,TRIN,06:30.7,UMAS,06:35.2,COLB,06:46.6,,,,,,,Heat,New England Rowing Championships
+1072,2015-05-02,MHJ,2000,CAL,05:46.1,STAN,06:02.4,,,,,,,,,,,,,Final,Big Row
+1073,2015-05-02,MHJ,2000,CORN,05:43.0,PENN,05:51.3,DART,05:54.0,,,,,,,,,,,Final,Madeira Cup
+1074,2015-05-02,MHJ,2000,GONZ,06:43.9,WAST,07:00.5,,,,,,,,,,,,,Final,Gonzaga vs. Washington State
+1075,2015-05-02,MHJ,2000,NORT,05:45.8,HARV,05:48.3,,,,,,,,,,,,,Final,Harvard vs. Northeastern
+1076,2015-05-02,MHJ,2000,PRIN,05:46.8,BRWN,05:51.0,,,,,,,,,,,,,Final,Content Cup
+1077,2015-05-02,MHV,,ARMY,06:18.3,MRST,06:22.0,ITHA,06:22.4,RIT,06:22.8,ROCH,06:33.8,HAML,06:36.2,,,,,Final,NYS Collegiate Championships
+1078,2015-05-02,MHV,,BATE,06:14.3,BC,06:17.0,WESL,06:17.8,TRIN,06:18.8,WILL,06:19.7,UNH,06:29.1,,,,,Final,New England Rowing Championships
+1079,2015-05-02,MHV,,BU,06:18.7,WISC,06:23.8,,,,,,,,,,,,,Final,Cochrane Cup/Jablonic Cup
+1080,2015-05-02,MHV,,BU,06:21.2,GEOR,06:42.8,,,,,,,,,,,,,Final,Cochrane Cup/Jablonic Cup
+1081,2015-05-02,MHV,,CANI,06:31.2,UNIO,06:32.9,STLA,06:35.7,SKID,06:36.6,BUFF,06:37.2,RPI,06:38.1,,,,,Final,NYS Collegiate Championships
+1082,2015-05-02,MHV,,GENS,06:44.4,BING,06:53.2,,,,,,,,,,,,,Final,NYS Collegiate Championships
+1083,2015-05-02,MHV,,MIT,06:33.1,GEOR,06:39.2,,,,,,,,,,,,,Final,Cochrane Cup/Jablonic Cup
+1084,2015-05-02,MHV,,UCDV,06:36.0,SACS,06:53.3,,,,,,,,,,,,,Final,Sacramento St at UC Davis
+1085,2015-05-02,MHV,,WASH,05:45.8,COLU,06:04.5,,,,,,,,,,,,,Final,Windermere Cup
+1086,2015-05-02,MHV,,WISC,06:26.2,MIT,06:36.6,,,,,,,,,,,,,Final,Cochrane Cup/Jablonic Cup
+1087,2015-05-02,MHV,,WPI,06:24.2,TUFT,06:26.9,MIDD,06:28.2,COLB,06:29.3,UMAS,06:38.6,CSTG,06:48.8,MALW,07:29.4,,,Final,New England Rowing Championships
+1088,2015-05-02,MHV,,ARMY,06:21.1,ROCH,06:27.6,STLA,06:29.9,RPI,06:33.9,GENS,06:39.6,,,,,,,Heat,NYS Collegiate Championships
+1089,2015-05-02,MHV,,BATE,06:10.6,TRIN,06:12.4,UNH,06:15.2,MIDD,06:17.4,COLB,06:20.2,CSTG,06:33.2,,,,,Heat,New England Rowing Championships
+1090,2015-05-02,MHV,,BC,06:10.2,WILL,06:13.1,WESL,06:13.6,WPI,06:18.1,TUFT,06:25.1,UMAS,06:38.9,MALW,07:25.7,,,Heat,New England Rowing Championships
+1091,2015-05-02,MHV,,ITHA,06:23.7,HAML,06:30.4,CANI,06:31.0,UNIO,06:40.4,,,,,,,,,Heat,NYS Collegiate Championships
+1092,2015-05-02,MHV,,MRST,06:20.4,RIT,06:25.5,BUFF,06:30.9,SKID,06:32.0,BING,06:51.6,,,,,,,Heat,NYS Collegiate Championships
+1093,2015-05-02,MHV,2000,CAL,05:31.2,STAN,05:48.0,,,,,,,,,,,,,Final,Big Row
+1094,2015-05-02,MHV,2000,CORN,05:35.4,PENN,05:37.2,DART,05:39.5,,,,,,,,,,,Final,Madeira Cup
+1095,2015-05-02,MHV,2000,HARV,05:40.7,NORT,05:43.0,,,,,,,,,,,,,Final,Harvard vs. Northeastern
+1096,2015-05-02,MHV,2000,PRIN,05:37.9,BRWN,05:38.6,,,,,,,,,,,,,Final,Content Cup
+1097,2015-05-02,MHV,2000,WAST,06:44.3,GONZ,06:49.2,,,,,,,,,,,,,Final,Gonzaga vs. Washington State
+1098,2015-05-02,MLJ,2000,CORN,06:14.8,DART,06:32.6,,,,,,,,,,,,,Final,Baggaley Bowl
+1099,2015-05-02,MLJ,2000,PRIN,06:02.3,COLU,06:07.8,DELA,06:14.7,MERC,06:20.2,,,,,,,,,Final,Princeton/Columbia/Delaware/Mercyhurst
+1100,2015-05-02,MLV,2000,COLU,05:52.2,PRIN,05:55.8,DELA,06:02.4,MERC,06:06.2,,,,,,,,,Final,Princeton/Columbia/Delaware/Mercyhurst
+1101,2015-05-02,MLV,2000,CORN,05:56.8,DART,06:11.8,,,,,,,,,,,,,Final,Baggaley Bowl
+1102,2015-05-02,WHJ,,BATE,07:07.9,WELL,07:14.5,WESL,07:16.0,WILL,07:17.8,TRIN,07:18.6,TUFT,07:23.5,,,,,Final,New England Rowing Championships
+1103,2015-05-02,WHJ,,CANI,07:50.5,SKID,07:59.9,ROCH,08:07.7,,,,,,,,,,,Final,NYS Collegiate Championships
+1104,2015-05-02,WHJ,,ITHA,07:37.9,MRST,07:39.1,WLSM,07:41.1,RIT,07:47.9,HAML,07:48.1,,,,,,,Final,NYS Collegiate Championships
+1105,2015-05-02,WHJ,,SACS,07:15.6,UCDV,07:43.4,,,,,,,,,,,,,Final,Sacramento St at UC Davis
+1106,2015-05-02,WHJ,,SMIT,07:27.7,WPI,07:32.8,COLB,07:44.1,MIDD,07:53.3,SIMM,07:57.1,,,,,,,Final,New England Rowing Championships
+1107,2015-05-02,WHJ,,BATE,07:09.4,WILL,07:17.1,TUFT,07:25.5,WPI,07:31.3,COLB,07:38.1,,,,,,,Heat,New England Rowing Championships
+1108,2015-05-02,WHJ,,HAML,07:38.0,MRST,07:41.9,CANI,07:47.9,SKID,08:12.3,,,,,,,,,Heat,NYS Collegiate Championships
+1109,2015-05-02,WHJ,,TRIN,07:13.1,WESL,07:14.6,WELL,07:19.9,SMIT,07:28.8,MIDD,07:42.8,SIMM,07:47.0,,,,,Heat,New England Rowing Championships
+1110,2015-05-02,WHJ,,WLSM,07:43.5,RIT,07:45.3,ITHA,07:45.5,ROCH,08:05.1,,,,,,,,,Heat,NYS Collegiate Championships
+1111,2015-05-02,WHJ,2000,CAL,06:24.3,STAN,06:30.2,,,,,,,,,,,,,Final,Big Row
+1112,2015-05-02,WHJ,2000,CREI,07:27.5,DRAK,07:36.6,,,,,,,,,,,,,Final,Creighton University vs. Drake University
+1113,2015-05-02,WHJ,2000,DART,07:08.3,CORN,07:12.9,,,,,,,,,,,,,Final,Parents Cup: Cornell v Dartmouth
+1114,2015-05-02,WHJ,2000,FORD,07:22.9,DAYT,07:45.8,,,,,,,,,,,,,Final,Atlantic 10 Conference Championships Finals
+1115,2015-05-02,WHJ,2000,IOWA,06:41.1,CFLA,06:45.6,TENN,06:57.8,,,,,,,,,,,Final,Tennessee/Central Florida/Iowa
+1116,2015-05-02,WHJ,2000,KAST,06:58.5,KANS,07:05.8,,,,,,,,,,,,,Final,Sunflower Showdown
+1117,2015-05-02,WHJ,2000,MICH,06:30.1,LOUV,06:32.6,,,,,,,,,,,,,Final,Michigan vs. Louisville
+1118,2015-05-02,WHJ,2000,OKLA,06:55.4,TULS,06:55.4,,,,,,,,,,,,,Final,Oklahoma vs. Tulsa
+1119,2015-05-02,WHJ,2000,PUGS,08:19.5,PACL,08:24.2,,,,,,,,,,,,,Final,Meyer/Lamberth Cup
+1120,2015-05-02,WHJ,2000,TEX,06:40.9,USD,06:48.6,,,,,,,,,,,,,Final,University of Texas vs. University of San Diego
+1121,2015-05-02,WHJ,2000,UMAS,06:55.9,STJO,07:02.1,URI,07:04.5,GMAS,07:07.8,GW,07:14.2,DUQN,07:19.1,,,,,Final,Atlantic 10 Conference Championships Finals
+1122,2015-05-02,WHJ,2000,WAST,06:46.4,UCLA,06:51.3,ORST,06:59.5,,,,,,,,,,,Final,Oregon St/Washington St/UCLA
+1123,2015-05-02,WHJ,2000,WISC,07:09.7,MINN,07:18.1,MIST,07:24.1,,,,,,,,,,,Final,Wisconsin/Minnesota/Michigan State
+1124,2015-05-02,WHJ,2000,UMAS,07:01.7,GW,07:08.4,DUQN,07:12.1,DAYT,07:50.5,,,,,,,,,Heat,Atlantic 10 Conference Championships Finals
+1125,2015-05-02,WHJ,2000,URI,07:04.7,STJO,07:07.8,GMAS,07:08.5,FORD,07:25.3,,,,,,,,,Heat,Atlantic 10 Conference Championships Finals
+1126,2015-05-02,WHV,,BATE,06:57.6,WILL,06:57.8,WELL,07:01.3,TRIN,07:04.4,TUFT,07:06.3,MIDD,07:15.2,,,,,Final,New England Rowing Championships
+1127,2015-05-02,WHV,,HAML,07:05.2,ITHA,07:10.6,RIT,07:12.4,WLSM,07:13.2,ROCH,07:21.8,MRST,07:25.0,,,,,Final,NYS Collegiate Championships
+1128,2015-05-02,WHV,,SACS,07:02.7,UCDV,07:27.0,,,,,,,,,,,,,Final,Sacramento St at UC Davis
+1129,2015-05-02,WHV,,SMIT,07:22.8,SIMM,07:30.9,UVM,07:36.5,MTHO,07:39.6,CLRK,07:51.4,,,,,,,Final,New England Rowing Championships
+1130,2015-05-02,WHV,,UNIO,07:30.1,STLA,07:34.8,CANI,07:36.5,SKID,07:37.0,STJF,07:54.8,GENS,08:05.2,,,,,Final,NYS Collegiate Championships
+1131,2015-05-02,WHV,,WASH,06:29.6,UVA,06:32.9,,,,,,,,,,,,,Final,Windermere Cup
+1132,2015-05-02,WHV,,WESL,07:16.2,WPI,07:22.6,UNH,07:26.0,COLB,07:27.4,AMHR,07:36.8,CSTG,07:38.4,,,,,Final,New England Rowing Championships
+1133,2015-05-02,WHV,,BATE,07:00.9,TUFT,07:06.4,COLB,07:11.8,UNH,07:13.4,SMIT,07:17.9,MTHO,07:34.2,,,,,Heat,New England Rowing Championships
+1134,2015-05-02,WHV,,HAML,07:12.0,RIT,07:17.8,MRST,07:20.3,UNIO,07:31.4,SKID,07:37.2,STJF,07:55.2,,,,,Heat,NYS Collegiate Championships
+1135,2015-05-02,WHV,,ITHA,07:15.8,WLSM,07:20.6,ROCH,07:22.4,CANI,07:29.6,STLA,07:34.2,GENS,08:04.9,,,,,Heat,NYS Collegiate Championships
+1136,2015-05-02,WHV,,TRIN,06:52.4,MIDD,06:58.2,WESL,07:01.4,AMHR,07:17.3,SIMM,07:28.6,,,,,,,Heat,New England Rowing Championships
+1137,2015-05-02,WHV,,WELL,06:53.5,WILL,06:54.6,WPI,07:15.2,CSTG,07:22.0,UVM,07:24.0,CLRK,07:37.8,,,,,Heat,New England Rowing Championships
+1138,2015-05-02,WHV,2000,CAL,06:13.0,STAN,06:16.5,,,,,,,,,,,,,Final,Big Row
+1139,2015-05-02,WHV,2000,CFLA,06:33.1,IOWA,06:35.7,TENN,06:46.5,,,,,,,,,,,Final,Tennessee/Central Florida/Iowa
+1140,2015-05-02,WHV,2000,CORN,06:44.7,DART,06:58.7,,,,,,,,,,,,,Final,Parents Cup: Cornell v Dartmouth
+1141,2015-05-02,WHV,2000,CREI,07:19.7,DRAK,07:36.6,,,,,,,,,,,,,Final,Creighton University vs. Drake University
+1142,2015-05-02,WHV,2000,GW,07:07.2,FORD,07:10.1,LASL,07:52.9,,,,,,,,,,,Final,Atlantic 10 Conference Championships Finals
+1143,2015-05-02,WHV,2000,KANS,06:52.1,KAST,06:52.5,,,,,,,,,,,,,Final,Sunflower Showdown
+1144,2015-05-02,WHV,2000,MICH,06:24.1,LOUV,06:34.5,,,,,,,,,,,,,Final,Michigan vs. Louisville
+1145,2015-05-02,WHV,2000,OKLA,06:40.6,TULS,06:56.3,,,,,,,,,,,,,Final,Oklahoma vs. Tulsa
+1146,2015-05-02,WHV,2000,PUGS,07:51.3,PACL,07:56.1,,,,,,,,,,,,,Final,Meyer/Lamberth Cup
+1147,2015-05-02,WHV,2000,TEX,06:30.4,USD,06:43.8,,,,,,,,,,,,,Final,University of Texas vs. University of San Diego
+1148,2015-05-02,WHV,2000,UMAS,06:50.2,URI,06:53.3,DUQN,06:55.4,DAYT,07:00.3,STJO,07:06.8,GMAS,07:19.4,,,,,Final,Atlantic 10 Conference Championships Finals
+1149,2015-05-02,WHV,2000,WAST,06:36.3,UCLA,06:42.8,ORST,06:52.6,,,,,,,,,,,Final,Oregon St/Washington St/UCLA
+1150,2015-05-02,WHV,2000,WISC,06:55.3,MINN,07:03.9,MIST,07:11.5,,,,,,,,,,,Final,Wisconsin/Minnesota/Michigan State
+1151,2015-05-02,WHV,2000,UMAS,06:47.4,STJO,06:52.0,DAYT,06:55.6,FORD,06:59.1,,,,,,,,,Heat,Atlantic 10 Conference Championships Finals
+1152,2015-05-02,WHV,2000,URI,06:53.4,DUQN,06:57.9,GMAS,07:02.1,GW,07:05.5,LASL,07:50.2,,,,,,,Heat,Atlantic 10 Conference Championships Finals
+1153,2015-05-03,MHJ,2000,NAVY,06:01.0,HOBR,06:04.2,GW,06:10.7,,,,,,,,,,,Final,Navy vs. George Washington and Hobart
+1154,2015-05-03,MHJ,2000,NORT,06:40.0,WISC,06:50.5,,,,,,,,,,,,,Final,Congram Cup
+1155,2015-05-03,MHV,2000,NAVY,05:45.6,HOBR,05:53.1,GW,05:55.6,,,,,,,,,,,Final,Navy vs. George Washington and Hobart
+1156,2015-05-03,MHV,2000,NORT,06:29.0,WISC,06:43.7,,,,,,,,,,,,,Final,Congram Cup
+1157,2015-05-03,WHJ,2000,GEOR,06:49.5,WV,06:51.0,BU,06:54.8,RUTG,07:03.6,MIT,07:06.9,BUFF,07:12.5,HC,07:16.2,,,Final,Eastern Women's Sprints
+1158,2015-05-03,WHJ,2000,RADC,06:32.4,NORT,06:43.9,DART,06:45.8,COLU,06:49.5,NAVY,06:54.7,BC,06:58.6,,,,,Final,Eastern Women's Sprints
+1159,2015-05-03,WHJ,2000,USC,06:37.1,PRIN,06:38.8,,,,,,,,,,,,,Final,Princeton vs. USC
+1160,2015-05-03,WHJ,2000,DART,06:54.9,COLU,06:59.2,WV,07:06.9,RUTG,07:16.7,,,,,,,,,Heat,Eastern Women's Sprints
+1161,2015-05-03,WHJ,2000,NORT,06:52.6,NAVY,06:57.4,GEOR,07:05.3,HC,07:13.7,,,,,,,,,Heat,Eastern Women's Sprints
+1162,2015-05-03,WHJ,2000,RADC,06:43.0,BC,06:54.9,BU,06:59.0,BUFF,07:07.5,MIT,07:25.6,,,,,,,Heat,Eastern Women's Sprints
+1163,2015-05-03,WHV,2000,HC,06:37.7,GEOR,06:41.9,BU,06:45.3,MIT,06:47.3,BUFF,06:48.0,RUTG,06:52.0,WV,06:56.5,,,Final,Eastern Women's Sprints
+1164,2015-05-03,WHV,2000,PRIN,06:21.6,USC,06:24.6,,,,,,,,,,,,,Final,Princeton vs. USC
+1165,2015-05-03,WHV,2000,RADC,06:20.8,COLU,06:31.5,DART,06:32.0,NORT,06:39.6,BC,06:40.4,NAVY,06:45.7,,,,,Final,Eastern Women's Sprints
+1166,2015-05-03,WHV,2000,COLU,06:40.4,BC,06:43.9,HC,06:50.1,BUFF,07:04.9,,,,,,,,,Heat,Eastern Women's Sprints
+1167,2015-05-03,WHV,2000,NORT,06:42.4,NAVY,06:46.2,GEOR,06:47.1,RUTG,06:58.6,,,,,,,,,Heat,Eastern Women's Sprints
+1168,2015-05-03,WHV,2000,RADC,06:36.0,DART,06:47.3,BU,06:57.0,MIT,06:57.1,WV,07:02.6,,,,,,,Heat,Eastern Women's Sprints
+1169,2015-05-03,WLJ,2000,BU,06:42.9,RADC,06:47.4,WISC,06:50.8,PRIN,06:59.7,,,,,,,,,Final,Eastern Womens Sprints Lightweight Championship
+1170,2015-05-03,WLV,2000,RADC,06:36.3,BU,06:39.2,PRIN,06:43.9,WISC,06:50.9,GEOR,07:00.9,,,,,,,Final,Eastern Womens Sprints Lightweight Championship
+1171,2015-05-08,MHJ,,DREX,06:15.0,BUCK,06:19.6,GV,06:23.7,DELA,06:26.3,RIT,06:31.4,GMAS,06:45.1,,,,,Heat,Dad Vail Regatta - Friday
+1172,2015-05-08,MHJ,,TEMP,06:16.4,UNC,06:22.4,FLTC,06:25.0,ARMY,06:40.6,VILN,06:54.3,CINC,07:02.0,,,,,Heat,Dad Vail Regatta - Friday
+1173,2015-05-08,MHJ,,UVA,06:18.9,MICH,06:22.4,STJO,06:35.1,PURD,06:42.2,FAIR,06:44.1,MINN,06:44.5,,,,,Heat,Dad Vail Regatta - Friday
+1174,2015-05-08,MHV,,DREX,06:04.9,GMAS,06:08.7,RIT,06:11.1,GATC,06:12.5,OHUN,07:07.9,,,,,,,Heat,Dad Vail Regatta - Friday
+1175,2015-05-08,MHV,,FLTC,05:57.3,PURD,05:59.3,CINC,06:00.4,VILN,06:08.3,PITT,06:15.2,,,,,,,Heat,Dad Vail Regatta - Friday
+1176,2015-05-08,MHV,,GV,06:01.2,UNC,06:06.4,MINN,06:16.9,LEHI,06:23.1,MCMA,06:23.1,,,,,,,Heat,Dad Vail Regatta - Friday
+1177,2015-05-08,MHV,,MICH,06:01.0,BUCK,06:05.5,MARI,06:12.5,CWES,06:25.2,DEPA,06:34.1,,,,,,,Heat,Dad Vail Regatta - Friday
+1178,2015-05-08,MHV,,STJO,06:21.3,CINC,06:24.3,MINN,06:27.4,GATC,06:29.6,CWES,06:46.6,BING,07:02.5,,,,,Heat,Dad Vail Regatta - Friday
+1179,2015-05-08,MHV,,TEMP,05:55.9,DELA,05:59.3,LASL,06:26.8,BING,06:49.8,,,,,,,,,Heat,Dad Vail Regatta - Friday
+1180,2015-05-08,MHV,,UVA,06:01.8,ARMY,06:04.9,STJO,06:11.4,FAIR,06:22.7,GENS,06:27.3,,,,,,,Heat,Dad Vail Regatta - Friday
+1181,2015-05-08,MHV,,VILN,06:25.0,MARI,06:27.1,FAIR,06:31.0,RIT,06:33.4,LASL,06:33.9,,,,,,,Heat,Dad Vail Regatta - Friday
+1182,2015-05-08,WHJ,,BUCK,07:22.4,STJO,07:26.9,CONN,07:34.4,PURD,07:59.6,PITT,08:25.4,BRYA,09:39.7,,,,,Heat,Dad Vail Regatta - Friday
+1183,2015-05-08,WHJ,,DREX,07:21.2,UNC,07:30.0,DELA,07:32.8,FORD,07:38.4,LEHI,07:46.0,MRST,07:53.5,,,,,Heat,Dad Vail Regatta - Friday
+1184,2015-05-08,WHJ,,UMAS,07:24.9,TEMP,07:35.5,DUQN,07:40.8,FAIR,07:49.2,COLG,07:59.4,OHSC,08:39.2,,,,,Heat,Dad Vail Regatta - Friday
+1185,2015-05-08,WHV,,BARR,06:49.5,NOVS,06:57.3,UCSD,07:09.2,FLTC,07:16.8,UCHR,07:39.6,,,,,,,Heat,Dad Vail Regatta - Friday
+1186,2015-05-08,WHV,,BRYN,07:38.0,RIT,07:46.8,STJF,07:58.6,MARI,08:05.6,,,,,,,,,Heat,Dad Vail Regatta - Friday
+1187,2015-05-08,WHV,,BUCK,06:55.4,STJO,07:02.6,LEHI,07:12.2,MARQ,07:33.4,MALW,07:34.3,,,,,,,Heat,Dad Vail Regatta - Friday
+1188,2015-05-08,WHV,,COK,07:13.9,HUMS,07:16.1,NOVS,07:21.0,PHIL,07:27.6,UCSD,07:29.3,FLTC,07:34.4,,,,,Heat,Dad Vail Regatta - Friday
+1189,2015-05-08,WHV,,DREX,06:51.5,FORD,06:57.4,OC,07:07.2,AMHR,07:26.1,GENS,08:09.3,,,,,,,Heat,Dad Vail Regatta - Friday
+1190,2015-05-08,WHV,,DUQN,07:01.1,DAYT,07:06.3,DELA,07:09.0,IONA,07:38.1,LASL,07:47.6,,,,,,,Heat,Dad Vail Regatta - Friday
+1191,2015-05-08,WHV,,GV,06:59.8,COLG,07:05.0,MRST,07:12.1,PITT,07:16.3,OHUN,08:54.9,,,,,,,Heat,Dad Vail Regatta - Friday
+1192,2015-05-08,WHV,,LEHI,07:14.4,UNC,07:15.9,DELA,07:17.4,AMHR,07:27.4,PITT,07:32.2,FAIR,07:39.2,,,,,Heat,Dad Vail Regatta - Friday
+1193,2015-05-08,WHV,,MARI,07:07.0,STJF,07:33.7,,,,,,,,,,,,,Heat,Dad Vail Regatta - Friday
+1194,2015-05-08,WHV,,MERC,06:49.8,HUMS,06:56.6,COK,07:05.4,PHIL,07:13.9,,,,,,,,,Heat,Dad Vail Regatta - Friday
+1195,2015-05-08,WHV,,OC,07:20.4,MIDD,07:22.1,MRST,07:24.6,IONA,07:47.5,MARQ,07:48.2,EMOR,08:05.0,,,,,Heat,Dad Vail Regatta - Friday
+1196,2015-05-08,WHV,,PURD,06:59.5,TEMP,07:03.3,MIDD,07:15.1,FAIR,07:24.8,CINC,07:55.3,,,,,,,Heat,Dad Vail Regatta - Friday
+1197,2015-05-08,WHV,,RIT,07:08.5,BRYN,07:31.5,,,,,,,,,,,,,Heat,Dad Vail Regatta - Friday
+1198,2015-05-08,WHV,,UMAS,06:46.9,CONN,06:54.0,UNC,06:58.8,EMOR,07:34.9,UGA,07:58.7,,,,,,,Heat,Dad Vail Regatta - Friday
+1199,2015-05-09,MHJ,,DREX,05:45.7,TEMP,05:45.8,UVA,05:51.9,MICH,05:53.0,BUCK,05:57.6,UNC,06:08.4,,,,,Final,Dad Vail Regatta - Saturday
+1200,2015-05-09,MHJ,,DREX,05:55.0,MICH,05:57.8,UNC,06:01.2,GV,06:03.7,PURD,06:08.1,ARMY,06:19.9,,,,,Heat,Dad Vail Regatta - Saturday
+1201,2015-05-09,MHJ,,TEMP,05:50.9,UVA,05:53.8,BUCK,05:55.1,STJO,05:56.0,FLTC,05:59.9,DELA,06:03.9,,,,,Heat,Dad Vail Regatta - Saturday
+1202,2015-05-09,MHJ,2000,DART,05:45.6,SYRA,05:58.3,,,,,,,,,,,,,Final,Packard Cup
+1203,2015-05-09,MHJ,2000,OC,06:10.1,UCSB,06:21.9,USD,06:35.3,UCIR,06:37.4,UCLA,06:43.6,,,,,,,Final,50th Newport Regatta
+1204,2015-05-09,MHV,,DELA,05:53.9,ARMY,05:56.6,UNC,05:58.4,VILN,06:02.3,BUCK,06:03.9,CINC,06:06.0,,,,,Final,Dad Vail Regatta - Saturday
+1205,2015-05-09,MHV,,FLTC,05:37.2,MICH,05:37.9,DREX,05:45.7,UVA,05:47.6,GV,05:49.4,TEMP,05:51.9,,,,,Final,Dad Vail Regatta - Saturday
+1206,2015-05-09,MHV,,DREX,05:41.6,UVA,05:41.9,DELA,05:50.9,VILN,05:53.9,PURD,05:58.2,STJO,06:01.1,,,,,Heat,Dad Vail Regatta - Saturday
+1207,2015-05-09,MHV,,FLTC,05:42.5,TEMP,05:47.8,UNC,05:50.4,BUCK,06:03.8,MINN,06:08.5,FAIR,06:19.0,,,,,Heat,Dad Vail Regatta - Saturday
+1208,2015-05-09,MHV,,MICH,05:44.9,GV,05:48.3,ARMY,05:53.5,CINC,05:56.5,MARI,05:57.9,GMAS,06:02.3,,,,,Heat,Dad Vail Regatta - Saturday
+1209,2015-05-09,MHV,2000,DART,05:39.1,SYRA,05:44.0,,,,,,,,,,,,,Final,Packard Cup
+1210,2015-05-09,MHV,2000,UCIR,06:12.0,UCSB,06:14.2,USD,06:15.1,OC,06:19.8,UCLA,06:28.6,,,,,,,Final,50th Newport Regatta
+1211,2015-05-09,MLV,,DELA,05:46.3,MIT,05:47.1,MERC,06:00.4,GATC,06:04.9,PURD,06:09.0,PITT,06:38.2,,,,,Final,Dad Vail Regatta - Saturday
+1212,2015-05-09,WHJ,,UMAS,06:40.4,BUCK,06:46.7,UNC,06:49.0,DREX,06:49.9,STJO,06:53.3,DELA,07:06.2,,,,,Final,Dad Vail Regatta - Saturday
+1213,2015-05-09,WHJ,,BUCK,06:46.3,DREX,06:51.6,DELA,06:54.9,CONN,06:55.6,TEMP,06:58.0,FAIR,07:11.6,,,,,Heat,Dad Vail Regatta - Saturday
+1214,2015-05-09,WHJ,,UMAS,06:45.5,STJO,06:50.7,UNC,06:51.0,DUQN,07:00.4,FORD,07:02.9,PURD,07:22.0,,,,,Heat,Dad Vail Regatta - Saturday
+1215,2015-05-09,WHV,,BARR,06:42.1,MERC,06:44.5,HUMS,06:52.1,COK,06:52.4,NOVS,06:58.3,PHIL,07:02.5,,,,,Final,Dad Vail Regatta - Saturday
+1216,2015-05-09,WHV,,MARI,06:52.4,RIT,06:56.4,BRYN,07:06.0,STJF,07:25.0,,,,,,,,,Final,Dad Vail Regatta - Saturday
+1217,2015-05-09,WHV,,STJO,06:47.6,TEMP,06:48.7,FORD,06:49.9,COLG,06:52.3,DAYT,06:53.6,CONN,07:00.0,,,,,Final,Dad Vail Regatta - Saturday
+1218,2015-05-09,WHV,,UCSD,07:01.2,FLTC,07:07.0,UCHR,07:38.3,,,,,,,,,,,Final,Dad Vail Regatta - Saturday
+1219,2015-05-09,WHV,,UMAS,06:37.4,BUCK,06:41.1,DREX,06:43.7,GV,06:45.3,PURD,06:50.2,DUQN,06:58.8,,,,,Final,Dad Vail Regatta - Saturday
+1220,2015-05-09,WHV,,BUCK,06:35.9,GV,06:40.2,TEMP,06:43.4,CONN,06:48.5,LEHI,06:55.1,OC,06:59.1,,,,,Heat,Dad Vail Regatta - Saturday
+1221,2015-05-09,WHV,,DREX,06:37.6,DUQN,06:40.1,COLG,06:47.1,STJO,06:49.8,MIDD,06:52.1,UNC,06:56.6,,,,,Heat,Dad Vail Regatta - Saturday
+1222,2015-05-09,WHV,,UMAS,06:31.8,PURD,06:37.3,FORD,06:39.1,DAYT,06:44.8,DELA,06:45.6,MRST,06:55.0,,,,,Heat,Dad Vail Regatta - Saturday
+1223,2015-05-09,WLV,,MIT,06:49.0,VILN,06:51.4,PURD,07:20.7,,,,,,,,,,,Final,Dad Vail Regatta - Saturday
+1224,2015-05-10,MHJ,,BC,06:37.9,BATE,06:39.0,ITHA,06:39.2,TRIN,06:48.1,UMAS,06:48.5,MRST,06:54.9,,,,,Final,ECAC National Invitational
+1225,2015-05-10,MHJ,,HOBR,06:22.1,MICH,06:27.8,BUCK,06:32.9,WESL,06:38.4,WPI,06:39.7,WILL,06:44.8,,,,,Final,ECAC National Invitational
+1226,2015-05-10,MHJ,,TUFT,06:53.2,WASC,07:03.4,COLB,07:08.5,HAML,07:15.3,,,,,,,,,Final,ECAC National Invitational
+1227,2015-05-10,MHJ,,BUCK,06:35.2,WILL,06:39.0,ITHA,06:40.0,TRIN,06:51.5,COLB,07:04.0,HAML,07:05.5,,,,,Heat,ECAC National Invitational
+1228,2015-05-10,MHJ,,HOBR,06:28.0,WESL,06:31.1,BC,06:31.9,UMAS,06:45.3,TUFT,06:48.5,,,,,,,Heat,ECAC National Invitational
+1229,2015-05-10,MHJ,,MICH,06:35.5,WPI,06:39.6,BATE,06:45.0,MRST,06:59.1,WASC,07:03.6,,,,,,,Heat,ECAC National Invitational
+1230,2015-05-10,MHV,,BUCK,06:40.1,WPI,06:40.3,TRIN,06:43.9,MRST,06:45.8,WASC,06:53.7,UNH,06:56.4,,,,,Final,ECAC National Invitational
+1231,2015-05-10,MHV,,MICH,06:15.3,HOBR,06:18.4,BATE,06:28.4,WILL,06:32.9,BC,06:34.7,WESL,06:35.7,,,,,Final,ECAC National Invitational
+1232,2015-05-10,MHV,,SKID,06:50.0,CSTG,06:56.6,CLRK,07:12.7,,,,,,,,,,,Final,ECAC National Invitational
+1233,2015-05-10,MHV,,TUFT,06:37.4,COLB,06:39.2,ITHA,06:42.5,HAML,06:50.6,STLA,07:12.6,,,,,,,Final,ECAC National Invitational
+1234,2015-05-10,MHV,,BATE,06:18.7,BC,06:21.0,MRST,06:25.6,UNH,06:29.8,COLB,06:35.8,HAML,06:40.2,CLRK,07:10.5,,,Heat,ECAC National Invitational
+1235,2015-05-10,MHV,,HOBR,06:13.4,WILL,06:17.6,TRIN,06:19.1,WASC,06:28.3,ITHA,06:29.8,STLA,06:47.6,CSTG,06:49.5,,,Heat,ECAC National Invitational
+1236,2015-05-10,MHV,,MICH,06:15.9,WESL,06:19.1,WPI,06:23.9,BUCK,06:27.0,TUFT,06:28.5,UMAS,06:45.2,SKID,06:52.9,,,Heat,ECAC National Invitational
+1237,2015-05-10,WHJ,,BATE,07:23.9,WESL,07:31.4,TRIN,07:37.8,WILL,07:41.3,WELL,07:41.6,TUFT,07:52.7,,,,,Final,ECAC National Invitational
+1238,2015-05-10,WHJ,,COLB,07:42.9,SIMM,08:03.2,WASC,08:11.6,,,,,,,,,,,Final,ECAC National Invitational
+1239,2015-05-10,WHJ,,WLSM,07:31.6,SMIT,07:32.0,HAML,07:35.7,ITHA,07:36.4,WPI,07:41.1,UNH,07:51.4,,,,,Final,ECAC National Invitational
+1240,2015-05-10,WHJ,,BATE,07:24.0,TUFT,07:36.3,HAML,07:41.9,ITHA,07:45.0,COLB,07:51.7,,,,,,,Heat,ECAC National Invitational
+1241,2015-05-10,WHJ,,TRIN,07:33.2,WELL,07:35.4,WLSM,07:56.8,UNH,08:00.6,WASC,08:28.2,,,,,,,Heat,ECAC National Invitational
+1242,2015-05-10,WHJ,,WESL,07:30.5,WILL,07:32.9,SMIT,07:47.5,WPI,08:10.3,SIMM,08:19.5,,,,,,,Heat,ECAC National Invitational
+1243,2015-05-10,WHV,,BATE,07:20.1,WILL,07:23.7,TRIN,07:24.0,HAML,07:34.6,TUFT,07:36.3,WELL,07:39.4,,,,,Final,ECAC National Invitational
+1244,2015-05-10,WHV,,CONC,07:44.7,SKID,07:48.8,CLRK,08:13.3,,,,,,,,,,,Final,ECAC National Invitational
+1245,2015-05-10,WHV,,ITHA,07:34.1,WESL,07:37.1,WLSM,07:42.8,WASC,07:44.4,SMIT,07:46.0,COLB,07:56.6,,,,,Final,ECAC National Invitational
+1246,2015-05-10,WHV,,UNH,07:48.9,CSTG,07:52.3,WPI,07:52.7,SIMM,08:06.1,STLA,08:12.4,MTHO,08:28.5,,,,,Final,ECAC National Invitational
+1247,2015-05-10,WHV,,BATE,07:08.9,TUFT,07:14.8,ITHA,07:21.4,COLB,07:25.6,UNH,07:28.7,MTHO,07:47.1,CONC,07:52.0,,,Heat,ECAC National Invitational
+1248,2015-05-10,WHV,,TRIN,07:07.4,WELL,07:12.0,WESL,07:21.0,WLSM,07:29.6,CSTG,07:33.0,SIMM,07:44.1,CLRK,08:07.5,,,Heat,ECAC National Invitational
+1249,2015-05-10,WHV,,WILL,07:03.9,HAML,07:08.3,WASC,07:17.6,SMIT,07:20.7,WPI,07:25.8,STLA,07:42.1,SKID,07:57.3,,,Heat,ECAC National Invitational
+1250,2015-05-12,WHV,2000,SYRA,07:16.4,NORT,07:30.2,,,,,,,,,,,,,Final,Syracuse University vs. Northeastern University
+1251,2015-05-15,WHJ,2000,LEHI,07:16.2,COLG,07:23.6,,,,,,,,,,,,,Final,Patriot League Championships
+1252,2015-05-15,WHJ,2000,NAVY,06:44.2,BUCK,06:49.4,BU,06:52.8,HC,06:53.7,GEOR,06:56.7,MIT,07:02.1,,,,,Final,Patriot League Championships
+1253,2015-05-15,WHJ,2000,HC,07:02.5,BUCK,07:03.1,GEOR,07:08.5,LEHI,07:18.9,,,,,,,,,Heat,Patriot League Championships
+1254,2015-05-15,WHJ,2000,NAVY,07:03.5,MIT,07:13.6,BU,07:14.5,COLG,07:40.2,,,,,,,,,Heat,Patriot League Championships
+1255,2015-05-15,WHJ,2000,SYRA,06:26.2,ND,06:30.0,DUKE,06:33.9,BC,06:43.0,,,,,,,,,Heat,ACC Championships Heats
+1256,2015-05-15,WHJ,2000,UVA,06:21.8,LOUV,06:29.4,CLEM,06:34.4,UNC,06:46.8,UMIA,06:54.6,,,,,,,Heat,ACC Championships Heats
+1257,2015-05-15,WHV,2000,COLG,06:54.1,LEHI,07:05.9,LOYO,07:42.0,,,,,,,,,,,Final,Patriot League Championships
+1258,2015-05-15,WHV,2000,NAVY,06:33.1,BUCK,06:33.4,HC,06:41.1,BU,06:46.0,GEOR,06:48.3,MIT,06:48.7,,,,,Final,Patriot League Championships
+1259,2015-05-15,WHV,2000,BUCK,06:50.0,HC,06:52.9,MIT,06:53.3,COLG,06:57.6,,,,,,,,,Heat,Patriot League Championships
+1260,2015-05-15,WHV,2000,NAVY,06:49.7,BU,06:55.1,GEOR,06:55.1,LEHI,07:10.3,LOYO,07:41.0,,,,,,,Heat,Patriot League Championships
+1261,2015-05-15,WHV,2000,SYRA,06:15.8,ND,06:18.7,DUKE,06:29.0,BC,06:34.0,,,,,,,,,Heat,ACC Championships Heats
+1262,2015-05-15,WHV,2000,UVA,06:10.0,LOUV,06:21.9,CLEM,06:30.6,UMIA,06:38.6,UNC,06:48.0,,,,,,,Heat,ACC Championships Heats
+1263,2015-05-16,MHJ,2000,GONZ,06:27.0,UCSD,06:32.8,USD,06:33.9,OKC,06:35.2,SCLA,06:48.5,,,,,,,Final,Western Sprints
+1264,2015-05-16,MHV,2000,OKC,06:19.5,SCLA,06:20.5,USD,06:24.4,UCSD,06:24.9,GONZ,06:26.3,,,,,,,Final,Western Sprints
+1265,2015-05-16,WHJ,2000,BC,06:55.8,UNC,07:03.3,UMIA,07:06.1,,,,,,,,,,,Final,ACC Championship Finals
+1266,2015-05-16,WHJ,2000,USD,06:41.8,GONZ,06:45.0,STMY,07:02.0,LOMY,07:06.1,UPOR,07:13.3,CREI,07:27.9,SCLA,07:36.0,,,Final,West Coast Conference Championships
+1267,2015-05-16,WHJ,2000,UVA,06:28.8,LOUV,06:33.3,ND,06:36.6,SYRA,06:37.0,CLEM,06:42.7,DUKE,06:44.9,,,,,Final,ACC Championship Finals
+1268,2015-05-16,WHJ,2000,OKLA,06:47.4,KAST,06:48.0,ALAB,06:49.5,KANS,06:53.6,,,,,,,,,Heat,Big 12 Championships Heats
+1269,2015-05-16,WHJ,2000,TEX,06:35.1,TENN,06:48.0,WV,06:54.4,OLDD,07:03.3,,,,,,,,,Heat,Big 12 Championships Heats
+1270,2015-05-16,WHV,2000,BC,06:43.6,UMIA,06:46.4,UNC,07:00.3,,,,,,,,,,,Final,ACC Championship Finals
+1271,2015-05-16,WHV,2000,GONZ,06:22.5,USD,06:26.9,LOMY,06:41.4,STMY,06:47.6,UPOR,06:50.1,SCLA,07:00.4,CREI,07:02.7,,,Final,West Coast Conference Championships
+1272,2015-05-16,WHV,2000,UVA,06:21.3,ND,06:28.6,SYRA,06:31.2,CLEM,06:33.1,LOUV,06:33.4,DUKE,06:45.9,,,,,Final,ACC Championship Finals
+1273,2015-05-16,WHV,2000,OKLA,06:36.4,KANS,06:44.2,ALAB,06:48.9,WV,06:49.3,,,,,,,,,Heat,Big 12 Championships Heats
+1274,2015-05-16,WHV,2000,TEX,06:17.9,TENN,06:38.9,KAST,06:44.2,OLDD,07:01.3,,,,,,,,,Heat,Big 12 Championships Heats
+1275,2015-05-17,MHJ,,WASH,05:54.1,CAL,05:59.7,ORST,06:16.4,STAN,06:21.2,,,,,,,,,Final,PAC 12 Championships
+1276,2015-05-17,MHJ,2000,CORN,05:51.9,WISC,05:56.8,PENN,05:57.9,DART,06:00.8,NAVY,06:01.0,COLU,06:02.4,,,,,Final,EARC Sprints
+1277,2015-05-17,MHJ,2000,JAX,06:12.8,MRST,06:15.1,FAIR,06:21.9,,,,,,,,,,,Final,MAAC Championship
+1278,2015-05-17,MHJ,2000,PRIN,05:43.9,BU,05:45.0,NORT,05:45.4,BRWN,05:48.2,YALE,05:50.6,HARV,05:52.7,,,,,Final,EARC Sprints
+1279,2015-05-17,MHJ,2000,SYRA,05:56.4,GW,06:02.1,GEOR,06:05.1,HC,06:08.1,RUTG,06:21.8,,,,,,,Final,EARC Sprints
+1280,2015-05-17,MHJ,2000,NORT,05:41.4,HARV,05:45.3,DART,05:46.6,COLU,05:50.3,GEOR,05:58.4,HC,06:03.2,,,,,Heat,EARC Sprints
+1281,2015-05-17,MHJ,2000,PRIN,05:36.7,BU,05:37.0,CORN,05:43.5,WISC,05:47.3,SYRA,05:54.1,,,,,,,Heat,EARC Sprints
+1282,2015-05-17,MHJ,2000,YALE,05:40.4,BRWN,05:43.6,PENN,05:49.1,NAVY,05:50.6,GW,05:53.2,RUTG,06:08.7,,,,,Heat,EARC Sprints
+1283,2015-05-17,MHV,,WASH,05:44.7,CAL,05:48.6,STAN,06:06.9,ORST,06:09.2,WAST,06:23.4,COLO,06:47.8,,,,,Final,PAC 12 Championships
+1284,2015-05-17,MHV,2000,HC,05:45.0,SYRA,05:47.4,GW,05:49.0,MIT,05:49.1,GEOR,05:52.6,RUTG,06:04.8,,,,,Final,EARC Sprints
+1285,2015-05-17,MHV,2000,JAX,05:54.1,MRST,05:56.8,FAIR,06:14.1,CANI,06:16.0,IONA,06:32.1,,,,,,,Final,MAAC Championship
+1286,2015-05-17,MHV,2000,NAVY,05:40.4,COLU,05:41.8,PENN,05:43.0,CORN,05:44.1,DART,05:45.6,WISC,05:47.3,,,,,Final,EARC Sprints
+1287,2015-05-17,MHV,2000,YALE,05:35.8,NORT,05:37.1,PRIN,05:37.4,BRWN,05:37.5,HARV,05:42.1,BU,05:43.6,,,,,Final,EARC Sprints
+1288,2015-05-17,MHV,2000,HARV,05:38.1,BU,05:38.6,DART,05:42.6,PENN,05:43.7,MIT,05:51.3,GEOR,05:52.7,,,,,Heat,EARC Sprints
+1289,2015-05-17,MHV,2000,PRIN,05:37.3,NORT,05:38.3,WISC,05:43.1,CORN,05:44.9,HC,05:47.1,GW,05:49.2,,,,,Heat,EARC Sprints
+1290,2015-05-17,MHV,2000,YALE,05:33.7,BRWN,05:34.9,NAVY,05:35.8,COLU,05:42.7,SYRA,05:49.3,RUTG,06:09.1,,,,,Heat,EARC Sprints
+1291,2015-05-17,MLJ,2000,DART,06:04.8,MIT,06:04.8,PENN,06:12.0,GEOR,06:27.4,,,,,,,,,Final,EARC Sprints
+1292,2015-05-17,MLJ,2000,HARV,05:54.6,CORN,05:56.2,PRIN,05:57.4,COLU,05:58.3,YALE,05:59.9,NAVY,06:05.1,,,,,Final,EARC Sprints
+1293,2015-05-17,MLJ,2000,CORN,05:49.7,YALE,05:51.3,NAVY,05:51.8,MIT,05:59.2,GEOR,06:16.9,,,,,,,Heat,EARC Sprints
+1294,2015-05-17,MLJ,2000,HARV,05:50.4,PRIN,05:52.2,COLU,05:57.7,DART,06:02.3,PENN,06:04.9,,,,,,,Heat,EARC Sprints
+1295,2015-05-17,MLV,2000,CORN,05:40.7,COLU,05:41.6,PRIN,05:44.6,YALE,05:46.3,HARV,05:47.1,MIT,05:51.2,,,,,Final,EARC Sprints
+1296,2015-05-17,MLV,2000,PENN,05:51.6,NAVY,05:53.8,DART,05:56.7,GEOR,06:08.2,,,,,,,,,Final,EARC Sprints
+1297,2015-05-17,MLV,2000,COLU,05:41.9,PRIN,05:43.9,MIT,05:44.4,PENN,05:45.2,GEOR,05:59.1,,,,,,,Heat,EARC Sprints
+1298,2015-05-17,MLV,2000,CORN,05:44.6,HARV,05:45.7,YALE,05:46.6,NAVY,05:46.9,DART,05:55.3,,,,,,,Heat,EARC Sprints
+1299,2015-05-17,WHJ,,IOWA,07:15.4,RUTG,07:43.9,,,,,,,,,,,,,Final,Big 10 Championship
+1300,2015-05-17,WHJ,,MICH,06:59.6,OHST,07:02.3,WISC,07:04.3,INDI,07:09.4,MINN,07:10.6,MIST,07:19.7,,,,,Final,Big 10 Championship
+1301,2015-05-17,WHJ,,OHST,06:49.9,MICH,06:59.1,MINN,07:11.5,RUTG,07:34.0,,,,,,,,,Heat,Big 10 Championship
+1302,2015-05-17,WHJ,,WISC,06:53.9,INDI,07:01.0,MIST,07:01.5,IOWA,07:03.5,,,,,,,,,Heat,Big 10 Championship
+1303,2015-05-17,WHJ,1900,CFLA,06:45.8,TULS,06:51.3,SACS,06:52.2,TEMP,07:01.3,CONN,07:06.0,SDSU,07:07.1,,,,,Final,The American Championship
+1304,2015-05-17,WHJ,1900,SMU,07:15.5,VILN,07:31.6,,,,,,,,,,,,,Final,The American Championship
+1305,2015-05-17,WHJ,1900,CFLA,06:21.6,SACS,06:29.6,TULS,06:33.0,TEMP,06:36.1,CONN,06:37.3,SDSU,06:39.9,SMU,06:45.6,VILN,07:06.9,Heat,The American Championship
+1306,2015-05-17,WHJ,2000,BRWN,06:21.8,RADC,06:27.1,YALE,06:29.5,PRIN,06:35.9,CORN,06:46.8,PENN,06:50.6,,,,,Final,Ivy League Women's Championship
+1307,2015-05-17,WHJ,2000,DART,06:49.5,COLU,06:55.3,,,,,,,,,,,,,Final,Ivy League Women's Championship
+1308,2015-05-17,WHJ,2000,IONA,07:54.4,SACH,08:19.8,STET,08:31.9,,,,,,,,,,,Final,MAAC Championship
+1309,2015-05-17,WHJ,2000,JAX,07:09.1,MRST,07:11.5,FAIR,07:15.8,CANI,07:21.8,ROMO,07:24.9,DRAK,07:26.2,,,,,Final,MAAC Championship
+1310,2015-05-17,WHJ,2000,KANS,07:15.4,OLDD,07:27.0,,,,,,,,,,,,,Final,Big 12 Championships Finals
+1311,2015-05-17,WHJ,2000,NORT,06:48.7,DREX,06:55.9,BUFF,07:06.2,DELA,07:13.1,EMIC,07:22.0,,,,,,,Final,Colonial Athletic Assocation Rowing Championship
+1312,2015-05-17,WHJ,2000,TEX,06:52.2,TENN,07:02.4,KAST,07:04.9,ALAB,07:06.8,OKLA,07:09.6,WV,07:17.2,,,,,Final,Big 12 Championships Finals
+1313,2015-05-17,WHJ,2000,WASH,06:39.7,CAL,06:44.2,WAST,06:46.4,STAN,06:49.5,USC,06:56.5,ORST,06:58.4,UCLA,07:09.2,,,Final,Pac-12 Conference Championships
+1314,2015-05-17,WHJ,2000,BRWN,06:25.1,RADC,06:32.1,PENN,06:44.6,COLU,06:48.6,,,,,,,,,Heat,Ivy League Women's Championship
+1315,2015-05-17,WHJ,2000,FAIR,07:15.8,MRST,07:21.8,DRAK,07:33.7,IONA,07:58.9,,,,,,,,,Heat,MAAC Championship
+1316,2015-05-17,WHJ,2000,JAX,07:16.2,CANI,07:23.0,ROMO,07:23.6,SACH,08:16.8,STET,08:36.4,,,,,,,Heat,MAAC Championship
+1317,2015-05-17,WHJ,2000,YALE,06:26.5,PRIN,06:30.6,CORN,06:38.1,DART,06:46.7,,,,,,,,,Heat,Ivy League Women's Championship
+1318,2015-05-17,WHV,,MIST,07:05.3,RUTG,07:32.6,,,,,,,,,,,,,Final,Big 10 Championship
+1319,2015-05-17,WHV,,OHST,06:42.1,MICH,06:44.9,INDI,06:46.1,WISC,06:55.2,MINN,07:01.4,IOWA,07:15.1,,,,,Final,Big 10 Championship
+1320,2015-05-17,WHV,,INDI,06:41.3,WISC,06:45.7,IOWA,06:54.2,MIST,06:55.9,,,,,,,,,Heat,Big 10 Championship
+1321,2015-05-17,WHV,,OHST,06:40.2,MICH,06:58.0,MINN,07:00.5,RUTG,07:23.4,,,,,,,,,Heat,Big 10 Championship
+1322,2015-05-17,WHV,1900,CFLA,06:34.3,TULS,06:41.8,SACS,06:45.1,SMU,06:48.5,SDSU,06:55.3,VILN,06:59.8,,,,,Final,The American Championship
+1323,2015-05-17,WHV,1900,TEMP,06:50.8,CONN,07:05.3,,,,,,,,,,,,,Final,The American Championship
+1324,2015-05-17,WHV,1900,CFLA,06:12.5,SACS,06:20.9,TULS,06:21.0,SMU,06:21.9,SDSU,06:26.5,VILN,06:30.9,TEMP,06:31.1,CONN,06:33.6,Heat,The American Championship
+1325,2015-05-17,WHV,2000,BRWN,06:15.4,YALE,06:18.9,PRIN,06:19.7,RADC,06:24.5,CORN,06:31.1,COLU,06:45.4,,,,,Final,Ivy League Women's Championship
+1326,2015-05-17,WHV,2000,CAL,06:30.6,STAN,06:36.7,WASH,06:39.2,WAST,06:43.7,USC,06:48.8,UCLA,06:53.4,ORST,06:56.3,,,Final,Pac-12 Conference Championships
+1327,2015-05-17,WHV,2000,JAX,06:46.9,MRST,06:55.8,FAIR,06:59.4,ROMO,07:14.9,CANI,07:15.7,IONA,07:16.0,,,,,Final,MAAC Championship
+1328,2015-05-17,WHV,2000,NORT,06:38.4,DREX,06:41.1,BUFF,06:47.3,EMIC,06:51.4,DELA,06:57.5,,,,,,,Final,Colonial Athletic Assocation Rowing Championship
+1329,2015-05-17,WHV,2000,PENN,06:39.3,DART,06:43.5,,,,,,,,,,,,,Final,Ivy League Women's Championship
+1330,2015-05-17,WHV,2000,SACH,07:21.0,DRAK,07:22.5,STET,07:54.2,,,,,,,,,,,Final,MAAC Championship
+1331,2015-05-17,WHV,2000,TEX,06:31.2,OKLA,06:47.3,KAST,06:54.3,TENN,06:57.5,KANS,07:00.2,ALAB,07:13.9,,,,,Final,Big 12 Championships Finals
+1332,2015-05-17,WHV,2000,WV,07:07.4,OLDD,07:18.8,,,,,,,,,,,,,Final,Big 12 Championships Finals
+1333,2015-05-17,WHV,2000,BRWN,06:15.4,RADC,06:21.2,CORN,06:29.8,DART,06:39.4,,,,,,,,,Heat,Ivy League Women's Championship
+1334,2015-05-17,WHV,2000,JAX,06:56.3,ROMO,07:14.1,CANI,07:15.1,SACH,07:25.5,STET,07:54.4,,,,,,,Heat,MAAC Championship
+1335,2015-05-17,WHV,2000,MRST,06:59.7,FAIR,07:00.3,IONA,07:11.7,DRAK,07:11.9,,,,,,,,,Heat,MAAC Championship
+1336,2015-05-17,WHV,2000,PRIN,06:17.1,YALE,06:21.4,COLU,06:29.6,PENN,06:33.4,,,,,,,,,Heat,Ivy League Women's Championship
+1337,2015-05-23,MHJ,2000,MICH,05:57.6,UNC,06:01.9,BUCK,06:06.7,BC,06:10.6,COLO,06:40.0,WASU,07:04.8,,,,,Heat,ACRA Championship - Heats
+1338,2015-05-23,MHJ,2000,PURD,06:10.6,BC,06:13.5,MINN,06:17.9,COLO,06:38.8,WASU,06:51.9,,,,,,,Heat,ACRA Championship - Heats
+1339,2015-05-23,MHJ,2000,UVA,05:55.9,UCSB,06:06.5,GV,06:09.3,PURD,06:10.2,MINN,06:22.2,,,,,,,Heat,ACRA Championship - Heats
+1340,2015-05-23,MHV,2000,BUCK,06:04.2,CINC,06:06.2,KANS,06:15.1,DEPA,06:22.3,VAND,06:23.7,WLMY,06:26.8,,,,,Heat,ACRA Championship - Heats
+1341,2015-05-23,MHV,2000,GV,05:58.5,PURD,06:02.2,WAST,06:02.5,MINN,06:17.0,VAND,06:28.0,VCOM,06:28.6,,,,,Heat,ACRA Championship - Heats
+1342,2015-05-23,MHV,2000,MICH,05:53.0,UNC,05:54.3,BC,05:59.9,PITT,06:16.7,WLMY,06:30.5,WASU,06:36.6,,,,,Heat,ACRA Championship - Heats
+1343,2015-05-23,MHV,2000,MINN,06:09.5,PITT,06:10.1,ILLI,06:18.2,VCOM,06:22.0,COLO,06:22.3,WASU,06:22.9,,,,,Heat,ACRA Championship - Heats
+1344,2015-05-23,MHV,2000,UCSB,05:52.7,UCIR,05:55.1,ND,05:56.8,CINC,06:01.1,ILLI,06:12.9,KANS,06:24.1,,,,,Heat,ACRA Championship - Heats
+1345,2015-05-23,MHV,2000,UVA,05:52.9,DELA,06:02.3,UNH,06:04.5,BUCK,06:20.7,COLO,06:25.5,DEPA,06:35.0,,,,,Heat,ACRA Championship - Heats
+1346,2015-05-23,WHV,2000,GV,06:48.6,UNH,06:52.1,ORGN,06:52.9,WICH,07:00.2,UCHI,07:05.2,VAND,07:20.4,,,,,Heat,ACRA Championship - Heats
+1347,2015-05-23,WHV,2000,UCHI,07:07.9,COLO,07:16.1,VAND,07:20.6,UGA,07:34.7,,,,,,,,,Heat,ACRA Championship - Heats
+1348,2015-05-23,WHV,2000,UCSB,06:35.3,PURD,06:37.5,UCDV,06:53.7,ILLI,07:02.8,COLO,07:09.0,VCOM,07:18.5,UGA,07:22.1,,,Heat,ACRA Championship - Heats
+1349,2015-05-23,WHV,2000,WICH,07:06.8,ILLI,07:19.2,VCOM,07:26.5,,,,,,,,,,,Heat,ACRA Championship - Heats
+1350,2015-05-24,MHJ,2000,MINN,06:22.9,COLO,06:42.0,WASU,06:44.4,,,,,,,,,,,Final,ACRA Championship -  Finals
+1351,2015-05-24,MHJ,2000,UVA,05:53.8,MICH,05:55.9,UCSB,06:00.3,BUCK,06:04.1,UNC,06:05.4,GV,06:07.1,BC,06:09.8,PURD,06:18.1,Final,ACRA Championship -  Finals
+1352,2015-05-24,MHV,2000,BC,06:02.4,WAST,06:02.8,BUCK,06:04.3,ND,06:07.4,CINC,06:07.9,UNH,06:08.3,MINN,06:10.6,PITT,06:17.7,Final,ACRA Championship -  Finals
+1353,2015-05-24,MHV,2000,KANS,06:08.6,ILLI,06:09.0,DEPA,06:09.7,WASU,06:10.0,VAND,06:10.3,COLO,06:11.2,VCOM,06:12.2,WLMY,06:13.1,Final,ACRA Championship -  Finals
+1354,2015-05-24,MHV,2000,MICH,05:45.4,GV,05:46.7,UVA,05:48.3,UNC,05:51.3,UCSB,05:52.9,UCIR,05:53.5,PURD,05:58.6,DELA,05:59.4,Final,ACRA Championship -  Finals
+1355,2015-05-24,MHV,2000,MICH,05:47.0,GV,05:48.8,UCIR,05:52.1,DELA,05:52.4,WAST,05:52.9,BC,05:55.7,BUCK,05:59.7,PITT,06:17.6,Heat,ACRA Championship -  Finals
+1356,2015-05-24,MHV,2000,UNC,05:50.9,UVA,05:52.5,UCSB,05:52.8,PURD,05:54.4,ND,05:54.7,UNH,05:55.3,CINC,05:58.6,MINN,06:06.3,Heat,ACRA Championship -  Finals
+1357,2015-05-24,WHV,2000,GV,06:42.8,UCSB,06:42.9,PURD,06:48.9,UNH,06:55.0,ORGN,06:59.9,UCDV,07:01.9,WICH,07:04.1,,,Final,ACRA Championship -  Finals
+1358,2015-05-24,WHV,2000,UCHI,07:15.5,COLO,07:20.3,VAND,07:24.3,UGA,07:29.2,VCOM,07:30.8,ILLI,07:33.5,,,,,Final,ACRA Championship -  Finals
+1359,2015-05-29,WHJ,,BRWN,06:26.0,OHST,06:27.1,WASH,06:32.1,YALE,06:34.8,CAL,06:35.1,WAST,06:39.7,,,,,Final,NCAA Championships - Sunday
+1360,2015-05-29,WHJ,,GONZ,07:03.0,CFLA,07:12.4,NAVY,07:20.7,JAX,07:43.9,,,,,,,,,Final,NCAA Championships - Sunday
+1361,2015-05-29,WHJ,,PRIN,06:46.4,RADC,06:49.0,USC,06:56.4,NORT,07:00.7,ND,07:02.7,UMAS,07:02.8,,,,,Final,NCAA Championships - Sunday
+1362,2015-05-29,WHJ,,STAN,06:32.1,TEX,06:35.2,WISC,06:35.7,MICH,06:36.3,INDI,06:37.6,UVA,06:39.8,,,,,Final,NCAA Championships - Sunday
+1363,2015-05-29,WHJ,,BATE,07:00.8,WELL,07:01.1,HAML,07:38.9,,,,,,,,,,,Heat,NCAA Championships - Friday
+1364,2015-05-29,WHJ,,BRWN,06:30.3,OHST,06:33.0,WISC,06:45.6,PRIN,06:49.7,NORT,06:56.9,JAX,07:33.5,,,,,Heat,NCAA Championships - Friday
+1365,2015-05-29,WHJ,,CAL,06:34.6,YALE,06:37.0,MICH,06:40.1,USC,06:47.6,UMAS,07:00.4,NAVY,07:11.9,,,,,Heat,NCAA Championships - Friday
+1366,2015-05-29,WHJ,,TRIN,07:08.4,WILL,07:12.0,WASC,07:57.9,,,,,,,,,,,Heat,NCAA Championships - Friday
+1367,2015-05-29,WHJ,,UVA,06:38.6,MICH,06:38.8,RADC,06:40.2,PRIN,06:44.3,NORT,06:55.1,CFLA,07:05.7,NAVY,07:19.7,,,Heat,NCAA Championships - Friday
+1368,2015-05-29,WHJ,,WASH,06:36.1,STAN,06:38.5,INDI,06:42.9,RADC,06:47.8,GONZ,07:00.6,,,,,,,Heat,NCAA Championships - Friday
+1369,2015-05-29,WHJ,,WAST,06:36.5,TEX,06:38.6,UVA,06:41.3,ND,06:55.0,CFLA,07:02.3,,,,,,,Heat,NCAA Championships - Friday
+1370,2015-05-29,WHJ,,WELL,07:08.9,WILL,07:14.8,HAML,07:32.2,WASC,07:56.2,,,,,,,,,Heat,NCAA Championships - Friday
+1371,2015-05-29,WHJ,,WISC,06:36.8,INDI,06:40.1,USC,06:47.0,ND,06:51.7,UMAS,06:55.0,GONZ,06:57.4,JAX,07:29.9,,,Heat,NCAA Championships - Friday
+1372,2015-05-29,WHV,,BARR,07:11.5,MERC,07:19.7,HUMS,07:25.1,COK,07:40.4,,,,,,,,,Final,NCAA Championships - Sunday
+1373,2015-05-29,WHV,,BRWN,06:24.7,MICH,06:27.3,WAST,06:29.0,INDI,06:31.2,PRIN,06:32.4,RADC,06:34.5,,,,,Final,NCAA Championships - Sunday
+1374,2015-05-29,WHV,,NORT,06:52.4,UMAS,06:57.0,NAVY,07:02.0,JAX,07:02.8,,,,,,,,,Final,NCAA Championships - Sunday
+1375,2015-05-29,WHV,,NOVS,07:25.1,PHIL,07:32.4,,,,,,,,,,,,,Final,NCAA Championships - Sunday
+1376,2015-05-29,WHV,,OHST,06:18.1,CAL,06:18.6,UVA,06:24.3,TEX,06:27.2,STAN,06:28.0,WASH,06:28.5,,,,,Final,NCAA Championships - Sunday
+1377,2015-05-29,WHV,,WISC,06:36.0,YALE,06:38.9,GONZ,06:41.1,USC,06:44.2,ND,06:44.9,CFLA,06:55.4,,,,,Final,NCAA Championships - Sunday
+1378,2015-05-29,WHV,,BARR,06:55.3,COK,07:15.6,PHIL,07:19.7,,,,,,,,,,,Heat,NCAA Championships - Friday
+1379,2015-05-29,WHV,,BATE,06:53.1,HAML,06:56.2,WELL,07:00.8,WASC,07:05.3,,,,,,,,,Heat,NCAA Championships - Friday
+1380,2015-05-29,WHV,,BRWN,06:26.9,INDI,06:28.3,GONZ,06:35.3,ND,06:37.3,CFLA,06:47.1,NORT,06:47.9,NAVY,07:01.6,,,Heat,NCAA Championships - Friday
+1381,2015-05-29,WHV,,CAL,06:23.7,PRIN,06:28.4,YALE,06:30.2,GONZ,06:35.6,USC,06:38.1,,,,,,,Heat,NCAA Championships - Friday
+1382,2015-05-29,WHV,,MERC,06:58.3,HUMS,07:01.8,NOVS,07:28.1,,,,,,,,,,,Heat,NCAA Championships - Friday
+1383,2015-05-29,WHV,,OHST,06:25.3,MICH,06:32.2,INDI,06:34.0,WISC,06:45.2,CFLA,06:55.9,,,,,,,Heat,NCAA Championships - Friday
+1384,2015-05-29,WHV,,TEX,06:26.0,WASH,06:26.0,BRWN,06:26.7,RADC,06:44.1,UMAS,06:58.2,NAVY,07:05.2,,,,,Heat,NCAA Championships - Friday
+1385,2015-05-29,WHV,,TRIN,06:48.0,WILL,06:55.4,TUFT,07:07.2,PUGS,07:27.5,,,,,,,,,Heat,NCAA Championships - Friday
+1386,2015-05-29,WHV,,TUFT,06:54.3,WELL,06:55.4,PUGS,07:02.4,WASC,07:03.8,,,,,,,,,Heat,NCAA Championships - Friday
+1387,2015-05-29,WHV,,UVA,06:25.8,STAN,06:29.4,WAST,06:33.5,ND,06:47.7,NORT,06:59.9,JAX,07:15.4,,,,,Heat,NCAA Championships - Friday
+1388,2015-05-29,WHV,,WAST,06:27.8,RADC,06:29.1,WISC,06:29.3,USC,06:33.5,YALE,06:34.9,UMAS,06:55.7,JAX,07:08.5,,,Heat,NCAA Championships - Friday
+1389,2015-05-30,WHJ,,BATE,07:05.5,WELL,07:07.4,TRIN,07:13.2,WILL,07:18.8,,,,,,,,,Final,NCAA Championships - Saturday
+1390,2015-05-30,WHJ,,HAML,07:42.2,WASC,07:57.3,,,,,,,,,,,,,Final,NCAA Championships - Saturday
+1391,2015-05-30,WHJ,,BRWN,06:32.3,YALE,06:36.7,WAST,06:36.8,STAN,06:37.0,UVA,06:45.9,INDI,06:50.0,,,,,Heat,NCAA Championships - Saturday
+1392,2015-05-30,WHJ,,OHST,06:32.2,WASH,06:34.2,CAL,06:38.7,TEX,06:42.0,MICH,06:42.2,WISC,06:42.7,,,,,Heat,NCAA Championships - Saturday
+1393,2015-05-30,WHJ,,PRIN,06:51.3,USC,06:55.1,NORT,07:01.6,GONZ,07:05.4,NAVY,07:20.6,,,,,,,Heat,NCAA Championships - Saturday
+1394,2015-05-30,WHJ,,RADC,06:49.3,UMAS,06:57.6,ND,06:57.9,CFLA,07:12.0,JAX,07:34.3,,,,,,,Heat,NCAA Championships - Saturday
+1395,2015-05-30,WHV,,TRIN,06:54.6,BATE,06:57.8,HAML,07:02.5,WELL,07:04.6,WILL,07:04.8,TUFT,07:08.6,,,,,Final,NCAA Championships - Saturday
+1396,2015-05-30,WHV,,WASC,07:11.2,PUGS,07:22.1,,,,,,,,,,,,,Final,NCAA Championships - Saturday
+1397,2015-05-30,WHV,,CAL,06:27.4,UVA,06:29.5,TEX,06:34.4,MICH,06:37.2,WAST,06:41.7,INDI,06:43.8,,,,,Heat,NCAA Championships - Saturday
+1398,2015-05-30,WHV,,GONZ,06:40.5,USC,06:43.0,CFLA,06:56.4,UMAS,07:02.0,NAVY,07:09.6,,,,,,,Heat,NCAA Championships - Saturday
+1399,2015-05-30,WHV,,HUMS,07:03.5,COK,07:10.8,NOVS,07:16.2,PHIL,07:21.3,,,,,,,,,Heat,NCAA Championships - Saturday
+1400,2015-05-30,WHV,,OHST,06:29.3,STAN,06:33.3,WASH,06:34.6,BRWN,06:39.2,PRIN,06:44.5,RADC,06:48.7,,,,,Heat,NCAA Championships - Saturday
+1401,2015-05-30,WHV,,WISC,06:37.6,YALE,06:40.8,ND,06:43.9,NORT,07:02.1,JAX,07:15.6,,,,,,,Heat,NCAA Championships - Saturday
+1402,2015-05-31,MHJ,2000,BRWN,05:39.9,CAL,05:39.9,BU,05:43.1,HARV,05:44.7,CORN,05:46.8,PENN,06:01.1,,,,,Heat,IRA National Championship - Heats
+1403,2015-05-31,MHJ,2000,BU,05:57.0,NORT,06:01.5,DART,06:13.5,NAVY,06:15.2,FLTC,06:27.3,HC,06:39.9,,,,,Heat,IRA National Championship - Heats
+1404,2015-05-31,MHJ,2000,CAL,05:56.8,YALE,05:59.6,WISC,06:06.8,DREX,06:09.6,ORST,06:25.9,,,,,,,Heat,IRA National Championship - Heats
+1405,2015-05-31,MHJ,2000,COLU,05:53.1,SYRA,05:56.0,HOBR,05:56.7,,,,,,,,,,,Heat,IRA National Championship - Heats
+1406,2015-05-31,MHJ,2000,DART,05:59.3,COLU,06:01.5,ORST,06:06.7,,,,,,,,,,,Heat,IRA National Championship - Heats
+1407,2015-05-31,MHJ,2000,HARV,05:57.6,NAVY,06:07.5,HOBR,06:16.7,,,,,,,,,,,Heat,IRA National Championship - Heats
+1408,2015-05-31,MHJ,2000,NAVY,05:51.4,GW,05:55.3,ORST,05:58.9,FLTC,06:04.7,HC,06:07.1,,,,,,,Heat,IRA National Championship - Heats
+1409,2015-05-31,MHJ,2000,PENN,06:00.6,GW,06:03.5,DREX,06:20.0,HC,06:30.9,,,,,,,,,Heat,IRA National Championship - Heats
+1410,2015-05-31,MHJ,2000,PRIN,06:01.1,BRWN,06:04.6,PENN,06:12.3,COLU,06:15.4,HOBR,06:19.6,,,,,,,Heat,IRA National Championship - Heats
+1411,2015-05-31,MHJ,2000,WASH,05:39.6,PRIN,05:42.6,YALE,05:44.1,NORT,05:45.9,DART,05:53.0,WISC,05:53.8,,,,,Heat,IRA National Championship - Heats
+1412,2015-05-31,MHJ,2000,WASH,05:56.9,CORN,06:00.4,HARV,06:03.5,SYRA,06:25.4,GW,06:28.8,,,,,,,Heat,IRA National Championship - Heats
+1413,2015-05-31,MHJ,2000,WISC,05:57.9,SYRA,06:01.6,FLTC,06:27.7,,,,,,,,,,,Heat,IRA National Championship - Heats
+1414,2015-05-31,MHV,2000,CAL,05:30.5,PRIN,05:32.7,BRWN,05:33.1,NAVY,05:36.7,BU,05:40.0,PENN,05:42.8,,,,,Heat,IRA National Championship - Heats
+1415,2015-05-31,MHV,2000,CAL,05:51.8,HARV,05:59.1,COLU,06:03.5,WISC,06:06.5,HC,06:07.0,OKC,06:22.7,,,,,Heat,IRA National Championship - Heats
+1416,2015-05-31,MHV,2000,COLU,05:51.2,FLTC,05:53.6,SYRA,05:56.3,DREX,06:02.2,,,,,,,,,Heat,IRA National Championship - Heats
+1417,2015-05-31,MHV,2000,CORN,05:48.2,STAN,05:53.0,HC,05:58.0,SCLA,06:21.3,,,,,,,,,Heat,IRA National Championship - Heats
+1418,2015-05-31,MHV,2000,DART,05:43.6,HC,05:45.8,WISC,05:45.9,GW,05:48.3,SYRA,05:49.0,ORST,05:50.5,,,,,Heat,IRA National Championship - Heats
+1419,2015-05-31,MHV,2000,HOBR,05:43.2,FLTC,05:45.6,STAN,05:45.8,DREX,05:47.6,OKC,05:59.2,SCLA,06:01.7,,,,,Heat,IRA National Championship - Heats
+1420,2015-05-31,MHV,2000,NAVY,05:49.9,DART,05:53.2,OKC,05:57.6,GW,06:00.3,,,,,,,,,Heat,IRA National Championship - Heats
+1421,2015-05-31,MHV,2000,PENN,05:48.9,WISC,05:51.0,HOBR,05:53.5,ORST,06:01.1,,,,,,,,,Heat,IRA National Championship - Heats
+1422,2015-05-31,MHV,2000,PRIN,05:52.3,NORT,05:54.7,CORN,05:57.8,DART,06:00.1,DREX,06:00.1,HOBR,06:04.9,,,,,Heat,IRA National Championship - Heats
+1423,2015-05-31,MHV,2000,WASH,05:32.7,HARV,05:35.5,NORT,05:36.5,YALE,05:36.5,CORN,05:38.5,COLU,05:55.3,,,,,Heat,IRA National Championship - Heats
+1424,2015-05-31,MHV,2000,WASH,05:52.5,BU,05:55.2,NAVY,05:58.9,FLTC,05:59.5,ORST,06:17.5,SCLA,06:20.3,,,,,Heat,IRA National Championship - Heats
+1425,2015-05-31,MHV,2000,YALE,05:52.2,BRWN,05:54.9,PENN,06:04.1,STAN,06:07.4,GW,06:14.6,SYRA,06:17.0,,,,,Heat,IRA National Championship - Heats
+1426,2015-05-31,WLV,2000,PRIN,06:45.4,GEOR,06:48.0,VILN,06:54.6,TULS,06:56.5,MIT,06:57.5,,,,,,,Heat,IRA National Championship - Heats
+1427,2015-05-31,WLV,2000,RADC,06:39.1,BU,06:42.0,GEOR,06:59.0,MIT,07:01.2,,,,,,,,,Heat,IRA National Championship - Heats
+1428,2015-05-31,WLV,2000,STAN,06:34.0,WISC,06:37.0,PRIN,06:39.3,VILN,07:03.6,TULS,07:07.5,,,,,,,Heat,IRA National Championship - Heats
+1429,2015-06-01,MHJ,2000,COLU,05:51.1,NAVY,05:53.3,GW,05:54.0,SYRA,05:57.3,HOBR,05:59.8,ORST,05:59.8,,,,,Final,IRA National Championship - Finals
+1430,2015-06-01,MHJ,2000,DREX,05:53.0,FLTC,06:05.2,HC,06:16.3,,,,,,,,,,,Final,IRA National Championship - Finals
+1431,2015-06-01,MHJ,2000,HARV,05:42.8,CORN,05:44.9,NORT,05:45.2,PENN,05:51.7,DART,05:54.8,WISC,05:58.3,,,,,Final,IRA National Championship - Finals
+1432,2015-06-01,MHJ,2000,WASH,05:33.6,PRIN,05:34.7,BU,05:38.3,CAL,05:42.3,YALE,05:45.0,BRWN,05:49.0,,,,,Final,IRA National Championship - Finals
+1433,2015-06-01,MHV,2000,DART,05:43.1,FLTC,05:44.1,WISC,05:44.3,HOBR,05:45.7,HC,05:48.6,STAN,05:56.0,,,,,Final,IRA National Championship - Finals
+1434,2015-06-01,MHV,2000,SYRA,05:45.1,DREX,05:47.7,ORST,05:47.9,GW,05:50.6,OKC,05:53.5,SCLA,06:00.0,,,,,Final,IRA National Championship - Finals
+1435,2015-06-01,MHV,2000,WASH,05:28.0,CAL,05:30.8,PRIN,05:30.9,BRWN,05:36.2,HARV,05:38.7,NORT,05:41.3,,,,,Final,IRA National Championship - Finals
+1436,2015-06-01,MHV,2000,YALE,05:37.9,BU,05:39.6,NAVY,05:40.0,CORN,05:42.6,PENN,05:42.6,COLU,05:50.6,,,,,Final,IRA National Championship - Finals
+1437,2015-06-01,MLV,2000,CORN,05:39.0,COLU,05:41.0,HARV,05:42.0,PRIN,05:44.7,YALE,05:49.1,PENN,05:50.9,,,,,Final,IRA National Championship - Finals
+1438,2015-06-01,MLV,2000,MIT,05:52.0,NAVY,05:55.1,,,,,,,,,,,,,Final,IRA National Championship - Finals
+1439,2015-06-01,MLV,2000,COLU,05:48.8,PRIN,05:51.6,PENN,05:53.0,MIT,05:54.8,,,,,,,,,Heat,IRA National Championship - Finals
+1440,2015-06-01,MLV,2000,CORN,05:53.3,HARV,05:55.9,YALE,05:56.5,NAVY,06:03.2,,,,,,,,,Heat,IRA National Championship - Finals
+1441,2015-06-01,WLV,2000,STAN,06:32.2,RADC,06:35.1,BU,06:36.0,PRIN,06:38.5,WISC,06:44.1,GEOR,06:59.3,,,,,Final,IRA National Championship - Finals
+1442,2015-06-01,WLV,2000,VILN,06:58.2,MIT,07:00.1,TULS,07:00.1,,,,,,,,,,,Final,IRA National Championship - Finals
+1442,2015-06-07,MHV,6437,YALE,18:35.8,HARV,18:52.5,,,,,,,,,,,,,Final,150th Yale-Harvard Regatta
+1442,2015-06-07,MHJ,4828,YALE,13:43.6,HARV,13:47.9,,,,,,,,,,,,,Final,150th Yale-Harvard Regatta

@@ -1,0 +1,1587 @@
+RaceId,Date,CrewType,Distance,Team1,Time1,Team2,Time2,Team3,Time3,Team4,Time4,Team5,Time5,Team6,Time6,Team7,Time7,Team8,Time8,RaceType,RaceName
+0,2011-03-05,WHV,2000,UCLA,6:31.4,LOMY,7:04.0,,,,,,,,,,,,,Final,UCLA vs. Loyola Marymount University
+1,2011-03-05,WHV,2000,CLEM,6:54.1,NORT,7:02.2,EMIC,7:59.2,,,,,,,,,,,Final,Clemson vs. Northeastern and Eastern Michigan
+2,2011-03-05,WHJ,2000,CLEM,7:05.7,NORT,7:10.0,EMIC,8:16.9,,,,,,,,,,,Final,Clemson vs. Northeastern and Eastern Michigan
+3,2011-03-05,MHN,0,GATC,6:45.1,VAND,7:02.1,CLEM,7:30.2,AUBN,8:13.7,,,,,,,,,Final,SERCS Regatta
+4,2011-03-05,WHV,0,GATC,7:39.9,CLEC,7:52.3,VAND,7:57.9,UCHR,8:16.3,,,,,,,,,Final,SERCS Regatta
+5,2011-03-05,MHV,0,GATC,6:36.1,CLEM,6:45.3,VAND,6:52.6,UGA,8:19.0,,,,,,,,,Final,SERCS Regatta
+6,2011-03-05,MHV,0,AZST,5:00.0,SDSU,5:13.7,,,,,,,,,,,,,Final,Desert Sprints/Elk Head Regatta
+7,2011-03-05,MHN,0,AZST,5:07.9,SDSU,6:50.7,,,,,,,,,,,,,Final,Desert Sprints/Elk Head Regatta
+8,2011-03-05,WHV,0,ORST,6:22.3,UVIC,6:32.1,UBC,6:43.5,,,,,,,,,,,Final,Desert Sprints/Elk Head Regatta
+9,2011-03-05,MHV,0,UVIC,5:39.6,ORST,5:44.5,UBC,5:48.2,,,,,,,,,,,Final,Desert Sprints/Elk Head Regatta
+10,2011-03-05,MHV,2000,FLA,6:22.1,TAMP,6:28.7,EMBR,7:04.1,,,,,,,,,,,Final,Florida Crew Classic
+11,2011-03-05,MHN,2000,FLA,7:14.0,EMBR,7:34.9,,,,,,,,,,,,,Final,Florida Crew Classic
+12,2011-03-05,MHV,2000,TAMP,6:50.7,FLA,6:52.9,EMBR,7:10.8,,,,,,,,,,,Final,Florida Crew Classic
+13,2011-03-05,MHN,1950,ROLL,7:04.6,VILN,7:30.6,DUQN,8:28.7,,,,,,,,,,,Final,Metro Cup Regatta
+14,2011-03-05,MHV,1950,VILN,6:47.5,ROLL,6:54.1,CFLA,7:40.4,,,,,,,,,,,Final,Metro Cup Regatta
+15,2011-03-05,WHV,1950,DUQN,7:41.0,ROLL,8:13.3,,,,,,,,,,,,,Final,Metro Cup Regatta
+16,2011-03-05,MHV,2000,UCLA,6:07.8,LOMY,6:26.1,,,,,,,,,,,,,Final,UCLA vs. LMU
+17,2011-03-05,WHV,2000,MILL,8:38.5,PACL,8:44.8,,,,,,,,,,,,,Final,Mills vs. PLU
+18,2011-03-06,WHV,2000,UCSB,7:19.0,UCSD,7:35.9,UCIR,7:36.7,CSLB,8:09.5,,,,,,,,,Final,Opening Day Alamitos Bay
+19,2011-03-06,MHV,2000,UCIR,6:17.3,UCSB,6:23.5,CSLB,7:04.6,,,,,,,,,,,Final,Opening Day Alamitos Bay
+20,2011-03-06,MHN,2000,UCSB,6:34.0,CSLB,6:50.4,UCIR,6:52.6,,,,,,,,,,,Final,Opening Day Alamitos Bay
+21,2011-03-06,WHJ,2000,UCSB,7:39.8,UCSD,7:48.5,,,,,,,,,,,,,Final,Opening Day Alamitos Bay
+22,2011-03-06,MHJ,2000,UCSB,7:04.3,UCIR,7:07.4,,,,,,,,,,,,,Final,Opening Day Alamitos Bay
+23,2011-03-06,MHN,0,STAN,6:35.7,UCDV,7:03.6,SCLA,7:22.6,,,,,,,,,,,Final,Davis Invitational
+24,2011-03-06,MHV,0,STAN,6:11.4,UCDV,6:35.0,SCLA,6:39.0,,,,,,,,,,,Final,Davis Invitational
+25,2011-03-06,MHJ,0,STAN,6:21.9,UCDV,6:50.8,SCLA,6:58.9,,,,,,,,,,,Final,Davis Invitational
+26,2011-03-11,MHV,2000,UCSD,6:21.9,USD,6:28.3,GONZ,6:31.0,,,,,,,,,,,Final,UCSD / Gonzaga / USD Regatta
+27,2011-03-11,MHJ,2000,UCSD,6:19.3,GONZ,6:22.0,,,,,,,,,,,,,Final,UCSD / Gonzaga / USD Regatta
+28,2011-03-11,MHN,2000,GONZ,6:27.0,UCSD,6:27.4,,,,,,,,,,,,,Final,UCSD / Gonzaga / USD Regatta
+29,2011-03-11,WHJ,0,TEMP,7:33.8,FLTC,7:38.2,,,,,,,,,,,,,Final,Keuper Cup
+30,2011-03-11,MHJ,0,TEMP,6:22.0,JAX,6:29.0,,,,,,,,,,,,,Final,Keuper Cup
+31,2011-03-11,WHV,0,TEMP,7:17.7,FLTC,7:33.2,,,,,,,,,,,,,Final,Keuper Cup
+32,2011-03-11,MHV,0,FLTC,6:09.0,JAX,6:20.1,TEMP,6:20.7,,,,,,,,,,,Final,Keuper Cup
+33,2011-03-12,WHV,1000,DRAK,6:17.0,WICH,6:23.0,,,,,,,,,,,,,Final,Charlie Thomas Memorial Row
+34,2011-03-12,WHJ,1000,DRAK,6:55.2,WICH,6:58.5,,,,,,,,,,,,,Final,Charlie Thomas Memorial Row
+35,2011-03-12,WHV,1000,DRAK,6:23.8,WICH,6:27.7,,,,,,,,,,,,,Final,Charlie Thomas Memorial Row
+36,2011-03-12,WHV,2000,CLEM,6:43.5,UCHR,8:03.6,,,,,,,,,,,,,Final,Clemson v Univ of Charleston
+37,2011-03-12,WHJ,0,OKLA,7:22.6,TULS,7:30.0,,,,,,,,,,,,,Final,Oklahoma Invitational
+38,2011-03-12,WHV,0,OKLA,7:03.9,TULS,7:13.6,,,,,,,,,,,,,Final,Oklahoma Invitational
+39,2011-03-12,WHJ,0,USD,7:29.4,KANS,7:38.7,,,,,,,,,,,,,Final,Oklahoma Invitational
+40,2011-03-12,WHV,0,USD,7:11.9,KANS,7:16.2,,,,,,,,,,,,,Final,Oklahoma Invitational
+41,2011-03-12,WHJ,0,SMU,7:42.7,CREI,7:48.5,,,,,,,,,,,,,Final,Oklahoma Invitational
+42,2011-03-12,WHV,0,SMU,7:29.3,CREI,7:34.1,,,,,,,,,,,,,Final,Oklahoma Invitational
+43,2011-03-12,WHJ,0,OKLA,7:32.3,TULS,7:41.0,KANS,7:43.1,,,,,,,,,,,Final,Oklahoma Invitational
+44,2011-03-12,WHV,0,OKLA,7:09.4,KANS,7:23.7,,,,,,,,,,,,,Final,Oklahoma Invitational
+45,2011-03-12,WHJ,0,USD,7:45.8,CREI,8:16.9,,,,,,,,,,,,,Final,Oklahoma Invitational
+46,2011-03-12,WHV,0,USD,7:30.4,CREI,8:06.1,,,,,,,,,,,,,Final,Oklahoma Invitational
+47,2011-03-12,WHJ,0,TULS,7:45.9,SMU,8:03.7,,,,,,,,,,,,,Final,Oklahoma Invitational
+48,2011-03-12,WHV,0,TULS,7:28.9,SMU,7:50.3,,,,,,,,,,,,,Final,Oklahoma Invitational
+49,2011-03-12,WHV,2000,CFLA,6:48.0,JAX,7:03.6,,,,,,,,,,,,,Final,UCF vs. Jacksonville University
+50,2011-03-12,WHJ,2000,CFLA,6:56.7,JAX,7:29.5,,,,,,,,,,,,,Final,UCF vs. Jacksonville University
+51,2011-03-12,WHJ,0,WLMT,6:06.5,PUGS,6:39.7,,,,,,,,,,,,,Final,Governor's Cup - Puget Sound at Willamette
+52,2011-03-12,WHV,0,PUGS,9:00.4,WLMT,10:00.,,,,,,,,,,,,,Final,Governor's Cup - Puget Sound at Willamette
+53,2011-03-12,MHV,0,WLMT,6:21.0,PUGS,6:37.3,,,,,,,,,,,,,Final,Governor's Cup - Puget Sound at Willamette
+54,2011-03-12,WHV,2000,SACS,6:53.7,STMY,7:06.2,HUMS,7:12.9,UCSD,7:26.6,S,7,M,7,P,8,,,Final,Sacramento State Invitational
+55,2011-03-12,WHJ,2000,SACS,6:57.5,STMY,7:19.5,HUMS,7:22.8,UCSD,7:49.3,,,,,,,,,Final,Sacramento State Invitational
+56,2011-03-12,MHV,2000,DREX,6:10.5,STJO,6:23.0,,,,,,,,,,,,,Final,St Josephs v Delaware & Drexel
+57,2011-03-12,MHJ,2000,DREX,6:26.2,STJO,6:31.1,,,,,,,,,,,,,Final,St Josephs v Delaware & Drexel
+58,2011-03-12,WHV,2000,STJO,6:51.4,DREX,7:04.3,DELA,7:11.4,,,,,,,,,,,Final,St Josephs v Delaware & Drexel
+59,2011-03-12,WHJ,2000,STJO,7:07.1,DELA,7:09.2,DREX,7:38.0,,,,,,,,,,,Final,St Josephs v Delaware & Drexel
+60,2011-03-12,MHV,2000,UCLA,6:12.3,UCIR,6:16.5,UCSB,6:20.4,,,,,,,,,,,Final,UC Irvine vs. UCLA & UCSB
+61,2011-03-12,MHJ,2000,UCSB,6:25.2,UCIR,6:28.6,,,,,,,,,,,,,Final,UC Irvine vs. UCLA & UCSB
+62,2011-03-12,MHV,2000,SACS,6:17.1,SONO,6:27.5,SCLA,6:33.4,HUMS,7:04.2,C,7,P,7,,,,,Final,Sacramento State Invitational
+63,2011-03-12,MHN,2000,HUMS,6:40.1,SCLA,6:50.4,,,,,,,,,,,,,Final,Sacramento State Invitational
+64,2011-03-12,MHV,1950,WESL,6:00.0,ROLL,6:10.2,EMOR,6:11.6,FLA,6:28.8,E,6,,,,,,,Final,Spring Break Race
+65,2011-03-12,MHJ,1950,WESL,6:15.9,ROLL,6:18.3,FLA,6:36.9,,,,,,,,,,,Final,Spring Break Race
+66,2011-03-12,MHN,1950,FLA,6:13.2,WESL,6:30.7,EMOR,6:52.9,EMBR,7:22.1,,,,,,,,,Final,Spring Break Race
+67,2011-03-12,WHV,1950,FLA,6:41.1,EMOR,6:45.6,WESL,6:55.4,ROLL,7:06.1,,,,,,,,,Final,Spring Break Race
+68,2011-03-12,WHJ,1950,EMOR,7:11.1,WESL,7:15.3,FLA,7:16.5,,,,,,,,,,,Final,Spring Break Race
+69,2011-03-13,WHJ,0,OKLA,7:32.0,CREI,8:20.5,,,,,,,,,,,,,Final,Oklahoma Invitational
+70,2011-03-13,WHV,0,OKLA,7:34.7,CREI,8:08.5,,,,,,,,,,,,,Final,Oklahoma Invitational
+71,2011-03-13,WHJ,0,USD,7:52.2,SMU,8:19.6,,,,,,,,,,,,,Final,Oklahoma Invitational
+72,2011-03-13,WHV,0,USD,7:36.0,SMU,7:56.6,,,,,,,,,,,,,Final,Oklahoma Invitational
+73,2011-03-13,WHJ,0,KANS,7:48.1,TULS,7:52.1,,,,,,,,,,,,,Final,Oklahoma Invitational
+74,2011-03-13,WHV,0,TULS,7:29.8,KANS,7:52.1,,,,,,,,,,,,,Final,Oklahoma Invitational
+75,2011-03-13,WHJ,0,OKLA,7:47.6,SMU,8:19.3,,,,,,,,,,,,,Final,Oklahoma Invitational
+76,2011-03-13,WHV,0,OKLA,7:32.9,SMU,8:03.2,,,,,,,,,,,,,Final,Oklahoma Invitational
+77,2011-03-13,WHJ,0,USD,7:42.9,TULS,7:52.8,,,,,,,,,,,,,Final,Oklahoma Invitational
+78,2011-03-13,WHV,0,USD,7:21.5,TULS,7:24.5,,,,,,,,,,,,,Final,Oklahoma Invitational
+79,2011-03-13,WHJ,0,KANS,8:06.5,CREI,8:29.1,,,,,,,,,,,,,Final,Oklahoma Invitational
+80,2011-03-13,WHV,0,KANS,7:52.4,CREI,8:04.6,,,,,,,,,,,,,Final,Oklahoma Invitational
+81,2011-03-13,WHV,2000,UCLA,6:19.8,SDSU,6:36.5,,,,,,,,,,,,,Final,UCLA vs. San Diego State University
+82,2011-03-13,WHJ,2000,UCLA,6:27.7,SDSU,7:11.6,,,,,,,,,,,,,Final,UCLA vs. San Diego State University
+83,2011-03-13,MHN,1300,ALAB,0:00.0,LSU,0:56.0,,,,,,,,,,,,,Final,Cane River Sprints
+84,2011-03-13,MHN,1300,WASU,4:33.4,NWST,5:27.1,,,,,,,,,,,,,Final,Cane River Sprints
+85,2011-03-13,MHN,1300,LSU,5:12.7,NWST,6:04.4,,,,,,,,,,,,,Final,Cane River Sprints
+86,2011-03-13,MHN,1300,WASU,4:43.0,ALAB,4:49.4,,,,,,,,,,,,,Final,Cane River Sprints
+87,2011-03-13,MHN,1300,WASU,0:00.0,LSU,0:20.9,,,,,,,,,,,,,Final,Cane River Sprints
+88,2011-03-13,MHN,1300,ALAB,4:58.0,NWST,5:53.1,,,,,,,,,,,,,Final,Cane River Sprints
+89,2011-03-13,MHV,1300,WASU,4:18.4,LSU,4:39.8,,,,,,,,,,,,,Final,Cane River Sprints
+90,2011-03-13,MHV,2000,WASC,6:36.0,CLRK,7:15.0,,,,,,,,,,,,,Final,Washington College vs. Clark University
+91,2011-03-13,WHV,2000,WASC,7:40.0,CLRK,8:27.0,,,,,,,,,,,,,Final,Washington College vs. Clark University
+92,2011-03-13,WHJ,2000,WASC,7:46.0,CLRK,9:04.0,,,,,,,,,,,,,Final,Washington College vs. Clark University
+93,2011-03-13,MHN,2000,WASC,6:56.0,CLRK,7:50.0,,,,,,,,,,,,,Final,Washington College vs. Clark University
+94,2011-03-17,WHV,1400,TULS,5:18.0,DRAK,5:31.0,,,,,,,,,,,,,Scrim,Spring Break Scrimmage
+95,2011-03-17,WHV,1400,TULS,5:25.0,DRAK,5:34.0,,,,,,,,,,,,,Scrim,Spring Break Scrimmage
+96,2011-03-17,WHV,1400,TULS,5:21.0,DRAK,5:31.0,,,,,,,,,,,,,Scrim,Spring Break Scrimmage
+97,2011-03-17,WHV,1400,TULS,5:19.0,DRAK,5:29.0,,,,,,,,,,,,,Scrim,Spring Break Scrimmage
+98,2011-03-18,WHV,0,NOVS,7:28.2,JAX,7:34.4,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+99,2011-03-18,WHV,0,BARR,7:43.1,COK,7:48.8,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+100,2011-03-18,WHV,0,FLTC,7:53.0,PHIL,8:10.4,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+101,2011-03-18,WHJ,0,TEX,7:30.1,LOUV,7:52.0,,,,,,,,,,,,,Final,Longhorn Invitational
+102,2011-03-18,WHV,0,TEX,7:15.1,LOUV,7:23.8,,,,,,,,,,,,,Final,Longhorn Invitational
+103,2011-03-18,MHV,2000,TEX,6:30.3,MINN,6:31.2,,,,,,,,,,,,,Final,Texas vs. Minnesota
+104,2011-03-18,MHN,2000,MINN,6:51.9,TEX,7:12.5,,,,,,,,,,,,,Final,Texas vs. Minnesota
+105,2011-03-19,WHV,2000,LECL,7:53.5,MILL,8:10.3,,,,,,,,,,,,,Final,Mills College vs. Lewis and Clark
+106,2011-03-19,WHV,2000,DREX,6:37.0,VILN,6:46.4,LASL,6:53.4,,,,,,,,,,,Final,Drexel v Villanova & LaSalle
+107,2011-03-19,WHJ,2000,DREX,6:44.1,VILN,6:53.0,,,,,,,,,,,,,Final,Drexel v Villanova & LaSalle
+108,2011-03-19,WHV,2000,SACS,6:38.2,SDSU,6:44.8,,,,,,,,,,,,,Final,Sacramento State vs. San Diego State
+109,2011-03-19,WHJ,2000,SACS,6:44.8,SDSU,7:02.0,,,,,,,,,,,,,Final,Sacramento State vs. San Diego State
+110,2011-03-19,WHJ,0,TEX,7:11.0,IOWA,7:21.2,,,,,,,,,,,,,Final,Longhorn Invitational
+111,2011-03-19,WHV,0,TEX,7:06.9,IOWA,7:14.7,,,,,,,,,,,,,Final,Longhorn Invitational
+112,2011-03-19,WHJ,0,USD,7:19.9,CFLA,7:20.0,,,,,,,,,,,,,Final,Longhorn Invitational
+113,2011-03-19,WHV,0,USD,7:08.2,CFLA,7:09.2,,,,,,,,,,,,,Final,Longhorn Invitational
+114,2011-03-19,WHJ,0,WISC,7:28.3,OKLA,7:44.4,,,,,,,,,,,,,Final,Longhorn Invitational
+115,2011-03-19,WHV,0,WISC,7:20.0,OKLA,7:24.9,,,,,,,,,,,,,Final,Longhorn Invitational
+116,2011-03-19,WHJ,0,LOUV,7:45.7,KAST,8:02.5,,,,,,,,,,,,,Final,Longhorn Invitational
+117,2011-03-19,WHV,0,LOUV,7:42.6,KAST,7:51.9,,,,,,,,,,,,,Final,Longhorn Invitational
+118,2011-03-19,WHJ,0,WISC,7:22.6,TEX,7:22.8,,,,,,,,,,,,,Final,Longhorn Invitational
+119,2011-03-19,WHV,0,TEX,7:09.7,WISC,7:12.9,,,,,,,,,,,,,Final,Longhorn Invitational
+120,2011-03-19,WHJ,0,OKLA,7:48.8,LOUV,8:03.2,,,,,,,,,,,,,Final,Longhorn Invitational
+121,2011-03-19,WHV,0,OKLA,7:16.5,LOUV,7:18.3,,,,,,,,,,,,,Final,Longhorn Invitational
+122,2011-03-19,WHJ,0,CFLA,7:46.9,KAST,7:56.9,,,,,,,,,,,,,Final,Longhorn Invitational
+123,2011-03-19,WHV,0,CFLA,7:38.0,KAST,7:46.8,,,,,,,,,,,,,Final,Longhorn Invitational
+124,2011-03-19,WHJ,0,IOWA,7:50.5,USD,8:00.4,,,,,,,,,,,,,Final,Longhorn Invitational
+125,2011-03-19,WHV,0,IOWA,7:33.2,USD,7:40.5,,,,,,,,,,,,,Final,Longhorn Invitational
+126,2011-03-19,WHV,2000,CLEM,6:39.9,INDI,6:45.2,ALAB,6:52.0,BU,6:52.7,S,6,P,7,M,7,,,Final,Clemson/Indiana/Alabama/Syra/BU/Purdue/Marist
+127,2011-03-19,WHJ,2000,CLEM,6:44.5,INDI,6:52.3,ALAB,6:57.0,SYRA,7:00.9,B,7,P,7,M,7,,,Final,Clemson/Indiana/Alabama/Syra/BU/Purdue/Marist
+128,2011-03-19,WHV,2000,PENN,6:48.5,GEOR,7:02.5,,,,,,,,,,,,,Final,University of Pennsylvania vs. Georgetown
+129,2011-03-19,WHJ,2000,PENN,6:51.0,GEOR,7:02.3,,,,,,,,,,,,,Final,University of Pennsylvania vs. Georgetown
+130,2011-03-19,WHV,2000,PENN,7:05.1,DUKE,7:13.3,,,,,,,,,,,,,Final,University of Pennsylvania vs. Duke
+131,2011-03-19,WHJ,2000,PENN,7:09.0,DUKE,7:24.2,,,,,,,,,,,,,Final,University of Pennsylvania vs. Duke
+132,2011-03-19,WHV,2000,ND,6:10.9,BUFF,6:18.0,,,,,,,,,,,,,Final,Notre Dame vs Buffalo
+133,2011-03-19,WHJ,2000,ND,6:17.6,BUFF,6:19.8,,,,,,,,,,,,,Final,Notre Dame vs Buffalo
+134,2011-03-19,WHV,2000,TENN,6:09.5,MINN,6:12.1,,,,,,,,,,,,,Final,Tennessee vs. Minnesota
+135,2011-03-19,WHJ,2000,MINN,6:15.1,TENN,6:17.4,,,,,,,,,,,,,Final,Tennessee vs. Minnesota
+136,2011-03-19,WHV,2000,DUKE,6:47.0,STJO,7:00.4,,,,,,,,,,,,,Final,St. Joseph's vs. Duke
+137,2011-03-19,WHJ,2000,DUKE,7:11.1,STJO,7:21.5,,,,,,,,,,,,,Final,St. Joseph's vs. Duke
+138,2011-03-19,MHV,2000,GEOR,6:16.1,STJO,6:28.1,BC,6:48.5,,,,,,,,,,,Final,Jesuit Invitational
+139,2011-03-19,MHJ,2000,GEOR,6:29.5,STJO,6:35.2,,,,,,,,,,,,,Final,Jesuit Invitational
+140,2011-03-19,WHV,2000,STJO,7:11.8,BC,7:12.9,GEOR,7:13.9,LOYO,7:26.9,,,,,,,,,Final,Jesuit Invitational
+141,2011-03-19,WHJ,2000,GEOR,7:11.0,STJO,7:16.0,BC,7:31.8,,,,,,,,,,,Final,Jesuit Invitational
+142,2011-03-19,MHN,0,WASU,7:25.0,WICH,7:32.0,,,,,,,,,,,,,Final,Washington Univ v Wichita State
+143,2011-03-19,MHV,0,WICH,7:04.0,WASU,7:04.9,,,,,,,,,,,,,Final,Washington Univ v Wichita State
+144,2011-03-19,WHV,0,WICH,7:40.0,WASU,7:56.9,,,,,,,,,,,,,Final,Washington Univ v Wichita State
+145,2011-03-19,MHV,0,TULN,6:43.2,VAND,6:46.7,,,,,,,,,,,,,Final,ACRA Challenge South
+146,2011-03-19,MHV,0,TEX,6:39.0,EMOR,6:52.9,,,,,,,,,,,,,Final,ACRA Challenge South
+147,2011-03-19,WHV,0,TULN,7:42.0,VAND,7:59.0,,,,,,,,,,,,,Final,ACRA Challenge South
+148,2011-03-19,WHV,0,EMOR,7:47.7,TEXC,7:58.6,,,,,,,,,,,,,Final,ACRA Challenge South
+149,2011-03-19,MHN,0,VAND,6:56.5,TULN,7:05.2,,,,,,,,,,,,,Final,ACRA Challenge South
+150,2011-03-19,MHN,0,TEX,7:11.9,LSU,7:24.0,,,,,,,,,,,,,Final,ACRA Challenge South
+151,2011-03-19,MHV,0,EMOR,7:04.0,VAND,7:15.0,,,,,,,,,,,,,Final,ACRA Challenge South
+152,2011-03-19,MHV,0,TEX,6:45.9,TULN,6:49.1,,,,,,,,,,,,,Final,ACRA Challenge South
+153,2011-03-19,WHV,0,EMOR,7:51.0,VAND,8:20.0,,,,,,,,,,,,,Final,ACRA Challenge South
+154,2011-03-19,WHV,0,TULN,7:53.2,TEXC,8:06.8,,,,,,,,,,,,,Final,ACRA Challenge South
+155,2011-03-19,MHN,0,VAND,7:15.0,LSU,7:39.0,,,,,,,,,,,,,Final,ACRA Challenge South
+156,2011-03-19,MHN,0,TULN,7:10.8,TEX,7:15.3,,,,,,,,,,,,,Final,ACRA Challenge South
+157,2011-03-19,WHV,0,NOVS,7:03.4,COK,7:25.2,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+158,2011-03-19,WHV,0,BARR,7:06.6,PHIL,7:19.2,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+159,2011-03-19,WHV,0,COLU,6:44.1,JAX,6:59.8,FLTC,7:18.3,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+160,2011-03-19,MHV,0,COLU,5:47.9,FLTC,5:53.0,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+161,2011-03-19,MHJ,0,COLU,6:02.8,JAX,6:17.7,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+162,2011-03-19,WHJ,0,COLU,0:00.0,JAX,0:45.5,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+163,2011-03-19,MHN,0,COLU,5:59.3,JAX,6:52.7,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+164,2011-03-19,WHV,0,NOVS,7:04.5,PHIL,7:28.7,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+165,2011-03-19,WHV,0,JAX,6:58.1,BARR,7:09.9,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+166,2011-03-19,WHV,0,FLTC,7:11.9,COK,7:12.8,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+167,2011-03-19,MHV,0,FLTC,6:01.6,PHIL,6:44.9,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+168,2011-03-19,MHV,0,COLU,6:03.8,JAX,6:17.8,,,,,,,,,,,,,Final,Governor's Cup Fellsmere FL
+169,2011-03-19,MHV,1950,ARMY,5:57.2,ROLL,6:08.8,,,,,,,,,,,,,Final,Rollins Invitational
+170,2011-03-19,MHJ,1950,ARMY,6:08.1,ROLL,6:20.1,,,,,,,,,,,,,Final,Rollins Invitational
+171,2011-03-19,WHV,1950,ARMY,6:51.8,ROLL,7:11.6,,,,,,,,,,,,,Final,Rollins Invitational
+172,2011-03-19,MHN,0,FLST,5:23.2,UTCH,5:26.5,,,,,,,,,,,,,Final,Tampa Mayors Cup
+173,2011-03-19,WHJ,0,STLA,5:28.5,HAML,5:35.5,,,,,,,,,,,,,Final,Tampa Mayors Cup
+174,2011-03-19,MHJ,0,STLA,5:12.3,UTCH,5:23.7,,,,,,,,,,,,,Final,Tampa Mayors Cup
+175,2011-03-19,MHV,0,HAML,4:57.7,STLA,4:58.6,UTCH,5:01.5,,,,,,,,,,,Final,Tampa Mayors Cup
+176,2011-03-19,WHV,0,STLA,5:24.8,HAML,5:33.9,STET,5:41.5,UTCH,5:47.7,F,5,,,,,,,Final,Tampa Mayors Cup
+177,2011-03-19,MHV,2000,UCLA,6:36.2,OC,6:39.2,USD,6:43.2,,,,,,,,,,,Final,Orange Coast College vs. USD & UCLA
+178,2011-03-19,MHN,2000,OC,6:49.8,USD,6:58.9,UCLA,7:51.8,,,,,,,,,,,Final,Orange Coast College vs. USD & UCLA
+179,2011-03-19,MHN,0,NCST,7:33.9,CCHR,8:25.9,,,,,,,,,,,,,Final,Augusta Invitational
+180,2011-03-19,MHV,0,CCHR,6:39.3,NCST,6:54.7,,,,,,,,,,,,,Final,Augusta Invitational
+181,2011-03-19,MHV,2000,DREX,5:43.3,LASL,5:53.4,VILN,6:04.2,,,,,,,,,,,Final,Drexel v Villanova & LaSalle
+182,2011-03-19,MHN,2000,DREX,5:53.1,LASL,6:01.3,VILN,6:40.2,,,,,,,,,,,Final,Drexel v Villanova & LaSalle
+183,2011-03-20,WHJ,0,TEX,7:12.7,USD,7:30.8,,,,,,,,,,,,,Final,Longhorn Invitational
+184,2011-03-20,WHV,0,TEX,7:02.6,USD,7:18.5,,,,,,,,,,,,,Final,Longhorn Invitational
+185,2011-03-20,WHJ,0,WISC,7:19.7,LOUV,7:31.0,,,,,,,,,,,,,Final,Longhorn Invitational
+186,2011-03-20,WHV,0,LOUV,7:04.3,WISC,7:04.3,,,,,,,,,,,,,Final,Longhorn Invitational
+187,2011-03-20,WHJ,0,OKLA,7:25.9,CFLA,7:35.4,,,,,,,,,,,,,Final,Longhorn Invitational
+188,2011-03-20,WHV,0,OKLA,7:19.8,CFLA,7:31.2,,,,,,,,,,,,,Final,Longhorn Invitational
+189,2011-03-20,WHJ,0,IOWA,7:32.7,KAST,7:44.3,,,,,,,,,,,,,Final,Longhorn Invitational
+190,2011-03-20,WHV,0,IOWA,7:23.7,KAST,7:34.7,,,,,,,,,,,,,Final,Longhorn Invitational
+191,2011-03-20,MHV,0,TEX,6:28.5,VAND,6:48.4,,,,,,,,,,,,,Final,ACRA Challenge South
+192,2011-03-20,MHV,0,EMOR,6:32.2,TULN,6:34.1,,,,,,,,,,,,,Final,ACRA Challenge South
+193,2011-03-20,WHV,0,TEXC,7:32.6,VAND,7:38.1,,,,,,,,,,,,,Final,ACRA Challenge South
+194,2011-03-20,WHV,0,EMOR,7:24.5,TULN,7:33.0,,,,,,,,,,,,,Final,ACRA Challenge South
+195,2011-03-20,MHN,0,VAND,6:50.0,TEX,7:04.0,,,,,,,,,,,,,Final,ACRA Challenge South
+196,2011-03-20,MHV,2000,ORST,6:38.7,GONZ,6:48.3,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+197,2011-03-20,MHJ,2000,ORST,6:58.4,GONZ,7:14.8,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+198,2011-03-20,MHN,2000,ORST,6:55.9,GONZ,7:00.8,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+199,2011-03-20,WHV,2000,ORST,7:51.9,GONZ,8:03.5,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+200,2011-03-20,WHJ,2000,ORST,7:50.4,GONZ,8:26.0,,,,,,,,,,,,,Final,Gonzaga vs. Oregon State
+201,2011-03-23,MHV,1000,WICH,4:17.8,NORW,5:19.8,,,,,,,,,,,,,Scrim,Wichita State vs Northwestern State
+202,2011-03-23,WHV,1000,WICH,4:43.0,NWST,5:11.6,,,,,,,,,,,,,Scrim,Wichita State vs Northwestern State
+203,2011-03-24,WHV,2000,WELL,7:36.0,WASC,7:55.0,,,,,,,,,,,,,Final,Wellesley College vs. Washington College
+204,2011-03-24,WHJ,2000,WELL,7:52.0,WASC,7:55.0,,,,,,,,,,,,,Final,Wellesley College vs. Washington College
+205,2011-03-25,WHV,0,NOVS,6:45.6,UCHR,7:26.6,,,,,,,,,,,,,Final,DII Duals
+206,2011-03-25,WHV,0,BARR,6:57.8,FAIR,7:10.6,,,,,,,,,,,,,Final,DII Duals
+207,2011-03-25,WHV,0,FLTC,7:17.7,UCSD,7:30.5,,,,,,,,,,,,,Final,DII Duals
+208,2011-03-25,WHV,0,FLTC,7:15.7,UCHR,7:57.0,,,,,,,,,,,,,Final,DII Duals
+209,2011-03-25,WHV,0,BARR,7:00.8,UCSD,7:17.5,,,,,,,,,,,,,Final,DII Duals
+210,2011-03-25,WHV,0,NOVS,7:02.7,FAIR,7:25.8,,,,,,,,,,,,,Final,DII Duals
+211,2011-03-25,WHV,0,BARR,7:13.9,UCHR,8:04.1,,,,,,,,,,,,,Final,DII Duals
+212,2011-03-25,WHV,0,NOVS,7:07.5,UCSD,7:23.2,,,,,,,,,,,,,Final,DII Duals
+213,2011-03-25,WHV,0,FLTC,7:15.6,FAIR,7:33.0,,,,,,,,,,,,,Final,DII Duals
+214,2011-03-25,MHV,1800,STLA,7:40.1,RIT,7:44.8,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+215,2011-03-25,MHJ,1800,RIT,7:47.2,STLA,8:26.7,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+216,2011-03-26,MLV,2000,PRIN,6:11.8,NAVY,6:20.8,MIT,6:43.4,,,,,,,,,,,Final,The Murtaugh Cup
+217,2011-03-26,MLJ,2000,PRIN,6:24.5,NAVY,6:34.2,,,,,,,,,,,,,Final,The Murtaugh Cup
+218,2011-03-26,MLN,2000,PRIN,6:29.3,NAVY,6:32.1,MIT,7:06.9,,,,,,,,,,,Final,The Murtaugh Cup
+219,2011-03-26,MHV,2000,PENN,5:40.3,GW,5:47.3,,,,,,,,,,,,,Final,McCausland Cup
+220,2011-03-26,MHJ,2000,PENN,5:35.8,GW,5:52.6,,,,,,,,,,,,,Final,McCausland Cup
+221,2011-03-26,MHN,2000,GW,5:46.0,PENN,5:46.8,,,,,,,,,,,,,Final,McCausland Cup
+222,2011-03-26,MHV,2000,COLU,5:55.7,RUTG,6:06.7,,,,,,,,,,,,,Final,Collins Cup
+223,2011-03-26,MHJ,2000,COLU,6:07.3,RUTG,6:23.5,,,,,,,,,,,,,Final,Collins Cup
+224,2011-03-26,MHN,2000,COLU,6:04.4,RUTG,6:25.3,,,,,,,,,,,,,Final,Collins Cup
+225,2011-03-26,MHV,2000,BRWN,5:45.5,YALE,5:46.0,,,,,,,,,,,,,Final,Brown University vs. Yale University
+226,2011-03-26,MHJ,2000,YALE,6:03.2,BRWN,6:07.6,,,,,,,,,,,,,Final,Brown University vs. Yale University
+227,2011-03-26,MHN,2000,BRWN,6:12.8,YALE,6:13.8,,,,,,,,,,,,,Final,Brown University vs. Yale University
+228,2011-03-26,WHV,2000,LOUV,6:31.0,TENN,6:33.9,,,,,,,,,,,,,Final,Tennessee vs. Louisville
+229,2011-03-26,WHJ,2000,TENN,6:34.6,LOUV,6:45.7,,,,,,,,,,,,,Final,Tennessee vs. Louisville
+230,2011-03-26,WHV,2000,WAST,7:01.9,GONZ,7:18.6,,,,,,,,,,,,,Final,Gonzaga vs. Washington State
+231,2011-03-26,WHJ,2000,WAST,7:13.1,GONZ,7:28.5,,,,,,,,,,,,,Final,Gonzaga vs. Washington State
+232,2011-03-26,WHV,0,CAL,6:46.1,UCLA,7:03.3,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+233,2011-03-26,WHV,0,STAN,6:37.9,UVA,6:41.0,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+234,2011-03-26,WHJ,0,CAL,6:50.7,UCLA,6:59.5,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+235,2011-03-26,WHJ,0,UVA,6:42.1,STAN,6:46.9,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+236,2011-03-26,WHV,0,STMY,7:49.0,SCLA,8:11.8,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+237,2011-03-26,WHJ,0,STMY,8:25.3,SCLA,8:45.3,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+238,2011-03-26,WHV,2000,OC,7:12.6,LOMY,7:13.6,UCIR,7:40.2,CHAP,8:06.6,C,8,,,,,,,Final,Berg Cup
+239,2011-03-26,WHV,2000,RADC,7:25.9,TULS,7:53.9,,,,,,,,,,,,,Final,Harvard-Radcliffe vs. University of Tulsa
+240,2011-03-26,WHJ,2000,RADC,7:48.0,TULS,8:18.2,,,,,,,,,,,,,Final,Harvard-Radcliffe vs. University of Tulsa
+241,2011-03-26,WHV,2000,BU,7:50.0,SYRA,7:53.7,,,,,,,,,,,,,Final,Kittell Cup
+242,2011-03-26,WHJ,2000,BU,8:02.0,SYRA,8:13.0,,,,,,,,,,,,,Final,Kittell Cup
+243,2011-03-26,WHV,2000,PRIN,7:03.8,BRWN,7:06.3,MIST,7:10.0,,,,,,,,,,,Final,Class of 1987 Trophy
+244,2011-03-26,WHJ,2000,PRIN,7:15.2,BRWN,7:19.2,MIST,7:27.7,,,,,,,,,,,Final,Class of 1987 Trophy
+245,2011-03-26,WHV,2000,GEOR,6:12.5,UNC,6:14.4,,,,,,,,,,,,,Final,Class of 2006 Cup
+246,2011-03-26,WHJ,2000,GEOR,6:20.4,UNC,6:24.2,,,,,,,,,,,,,Final,Class of 2006 Cup
+247,2011-03-26,MHV,2000,WESL,5:52.5,CSTG,5:55.1,,,,,,,,,,,,,Final,Coast Guard vs. Wesleyan
+248,2011-03-26,MHJ,2000,WESL,0:00.0,CSTG,0:01.0,,,,,,,,,,,,,Final,Coast Guard vs. Wesleyan
+249,2011-03-26,WHV,2000,CSTG,6:28.0,WESL,6:39.2,,,,,,,,,,,,,Final,Coast Guard vs. Wesleyan
+250,2011-03-26,WHJ,2000,WESL,5:40.5,CSTG,5:49.4,,,,,,,,,,,,,Final,Coast Guard vs. Wesleyan
+251,2011-03-26,WHV,2000,YALE,6:09.4,PENN,6:12.9,COLU,6:22.0,,,,,,,,,,,Final,Connell Cup
+252,2011-03-26,WHJ,2000,YALE,6:16.2,COLU,6:27.8,PENN,6:28.3,,,,,,,,,,,Final,Connell Cup
+253,2011-03-26,WHV,2000,URI,7:49.1,UNH,7:52.9,CONN,8:03.7,UMAS,8:07.6,,,,,,,,,Final,Rhode Island/UMass/UConn/UNH
+254,2011-03-26,WHJ,2000,URI,8:15.4,UMAS,8:23.1,UNH,8:38.9,CONN,8:46.7,,,,,,,,,Final,Rhode Island/UMass/UConn/UNH
+255,2011-03-26,WHV,2000,OHST,6:30.2,MICH,6:42.0,,,,,,,,,,,,,Final,Ohio State vs. Michigan
+256,2011-03-26,WHJ,2000,OHST,6:37.6,MICH,6:46.3,,,,,,,,,,,,,Final,Ohio State vs. Michigan
+257,2011-03-26,WHV,2000,COK,7:15.9,OKC,7:17.1,,,,,,,,,,,,,Final,Stroklahoma
+258,2011-03-26,MHV,1750,JCAR,6:08.8,CWES,7:06.8,,,,,,,,,,,,,Final,Cleveland Collegiate Regatta
+259,2011-03-26,WHV,1750,JCAR,7:28.5,CWES,7:37.4,,,,,,,,,,,,,Final,Cleveland Collegiate Regatta
+260,2011-03-26,MHN,0,MRST,6:22.2,WASC,6:34.2,LEHI,6:41.2,USMM,6:57.2,D,7,F,7,,,,,Heat2,Murphy Cup
+261,2011-03-26,MHN,0,LASL,6:15.2,FORD,6:46.1,LAFA,6:48.4,PITT,7:11.4,,,,,,,,,Heat2,Murphy Cup
+262,2011-03-26,MHN,0,UVA,5:58.9,DREX,6:04.1,LOYO,6:48.9,VILN,7:09.8,U,8,,,,,,,Heat2,Murphy Cup
+263,2011-03-26,MHN,0,UVA,6:50.4,DREX,6:55.5,LASL,7:04.6,MRST,7:14.9,W,7,,,,,,,Final,Murphy Cup
+264,2011-03-26,WHJ,0,BUCK,6:49.1,DELA,6:51.3,NAVY,6:53.8,FORD,7:02.3,V,7,S,7,,,,,Heat2,Murphy Cup
+265,2011-03-26,WHJ,0,RUTG,6:48.1,DREX,6:51.1,GMAS,6:53.5,MRST,7:00.5,L,7,,,,,,,Heat2,Murphy Cup
+266,2011-03-26,WHJ,0,STJO,6:47.1,GW,6:59.6,TEMP,7:15.7,DUQN,7:21.9,,,,,,,,,Heat2,Murphy Cup
+267,2011-03-26,WHJ,0,STJO,6:45.9,BUCK,6:47.4,DELA,6:53.7,RUTG,7:02.8,D,7,G,7,,,,,Final,Murphy Cup
+268,2011-03-26,MHJ,0,UVA,6:03.4,TEMP,6:09.8,COLG,6:31.9,FORD,6:34.5,,,,,,,,,Heat3,Murphy Cup
+269,2011-03-26,MHJ,0,DREX,6:13.3,STJO,6:14.8,MRST,6:18.4,DELA,6:35.3,,,,,,,,,Heat3,Murphy Cup
+270,2011-03-26,MHJ,0,UVA,6:06.4,TEMP,6:08.4,STJO,6:15.0,DREX,6:16.4,M,6,C,6,,,,,Final,Murphy Cup
+271,2011-03-26,WHV,0,WASC,7:07.3,BRYN,7:17.8,FRMA,7:21.5,RSTC,8:14.4,,,,,,,,,Heat3,Murphy Cup
+272,2011-03-26,WHV,0,DOWL,7:20.8,VASS,7:36.9,,,,,,,,,,,,,Heat2,Murphy Cup
+273,2011-03-26,WHV,0,WASC,7:08.7,PHIL,7:22.5,FRMA,7:22.6,VASS,7:27.4,B,7,D,7,,,,,Final,Murphy Cup
+274,2011-03-26,WHV,0,BUCK,6:48.8,COLG,6:49.4,GW,6:56.2,VILN,6:58.7,D,7,,,,,,,Heat1,Murphy Cup
+275,2011-03-26,WHV,0,STJO,6:39.6,FORD,6:40.9,LOYO,6:52.9,LEHI,6:57.7,L,7,,,,,,,Heat1,Murphy Cup
+276,2011-03-26,WHV,0,NAVY,6:37.9,GMAS,6:41.6,JAX,6:43.3,TEMP,6:45.9,R,7,P,7,,,,,Heat1,Murphy Cup
+277,2011-03-26,WHV,0,RUTG,6:26.7,DREX,6:30.1,MRST,6:44.2,DELA,6:48.3,S,7,L,7,,,,,Heat1,Murphy Cup
+278,2011-03-26,WHV,0,COLG,6:58.1,GMAS,6:58.3,JAX,7:02.5,DELA,7:05.9,T,7,M,7,,,,,Final,Murphy Cup
+279,2011-03-26,WHV,0,RUTG,6:38.3,STJO,6:41.4,NAVY,6:43.9,DREX,6:47.1,B,6,F,6,,,,,Final,Murphy Cup
+280,2011-03-26,MHV,0,JAX,5:57.0,STJO,6:06.7,WASC,6:13.0,,,,,,,,,,,Heat1,Murphy Cup
+281,2011-03-26,MHV,0,MRST,5:59.0,DELA,6:00.6,FORD,6:13.5,PITT,6:22.8,S,7,,,,,,,Heat1,Murphy Cup
+282,2011-03-26,MHV,0,TEMP,5:58.5,LASL,6:02.5,FRMA,6:19.1,PHIL,6:35.2,O,6,,,,,,,Heat1,Murphy Cup
+283,2011-03-26,MHV,0,UVA,6:03.0,DREX,6:08.6,VILN,6:21.1,LEHI,6:24.0,R,6,V,6,,,,,Heat1,Murphy Cup
+284,2011-03-26,MHV,0,DREX,6:07.5,FORD,6:14.2,STJO,6:14.9,WASC,6:21.1,F,6,,,,,,,Final,Murphy Cup
+285,2011-03-26,MHV,0,UVA,5:51.8,TEMP,5:56.2,JAX,5:58.3,DELA,6:00.6,M,6,L,6,,,,,Final,Murphy Cup
+286,2011-03-26,MHV,2000,TEX,6:27.3,COLO,6:34.1,WICH,6:45.8,,,,,,,,,,,Final,Texas v Colorado & Wichita State
+287,2011-03-26,MHN,2000,WICH,6:59.5,TEX,7:04.4,COLO,7:07.9,,,,,,,,,,,Final,Texas v Colorado & Wichita State
+288,2011-03-26,WHV,2000,WICH,7:26.7,TEXC,7:38.8,COLO,7:41.4,,,,,,,,,,,Final,Texas v Colorado & Wichita State
+289,2011-03-26,MHV,0,LECL,6:44.0,WWAS,6:45.5,WAST,6:46.0,WLMT,6:54.2,P,6,P,7,,,,,Final,Daffodil Cup
+290,2011-03-26,WHV,0,WWAS,6:54.7,PUGS,7:01.1,SPAC,7:02.6,LECL,7:16.4,O,7,W,7,P,7,,,Final,Daffodil Cup
+291,2011-03-26,WHJ,0,WWAS,7:36.5,LECL,8:03.0,,,,,,,,,,,,,Final,Daffodil Cup
+292,2011-03-26,MHN,0,WAST,6:56.6,WWAS,7:04.1,PACL,7:44.6,PUGS,7:58.8,,,,,,,,,Final,Daffodil Cup
+293,2011-03-26,WHV,1800,STLA,7:35.1,RIT,7:57.7,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+294,2011-03-26,WHJ,1800,STLA,8:05.5,RIT,9:11.5,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+295,2011-03-26,MHV,1800,RIT,6:29.2,STLA,6:39.1,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+296,2011-03-26,MHJ,1800,RIT,6:46.6,STLA,7:09.4,,,,,,,,,,,,,Final,RIT vs. St Lawrence
+297,2011-03-26,MHV,2000,MICH,6:20.7,MARI,6:29.8,,,,,,,,,,,,,Final,Univ. of Michigan vs. Marietta College
+298,2011-03-26,MHJ,2000,MICH,6:16.0,MARI,6:39.7,,,,,,,,,,,,,Final,Univ. of Michigan vs. Marietta College
+299,2011-03-26,MLV,2000,MARI,6:35.4,MICH,6:35.9,,,,,,,,,,,,,Final,Univ. of Michigan vs. Marietta College
+300,2011-03-26,MHN,2000,MARI,6:22.5,MICH,6:24.2,,,,,,,,,,,,,Final,Univ. of Michigan vs. Marietta College
+301,2011-03-26,WLV,0,STAN,7:07.9,WISC,7:13.4,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - LW Events
+302,2011-03-26,WLV,0,PRIN,7:06.3,STMY,7:18.7,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - LW Events
+303,2011-03-26,WLV,0,PRIN,7:19.3,WISC,7:30.2,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - LW Events
+304,2011-03-26,MLV,2000,HARV,6:36.1,DELA,6:47.2,,,,,,,,,,,,,Final,Harvard vs. Delaware
+305,2011-03-26,MLJ,2000,HARV,6:45.5,DELA,7:05.1,,,,,,,,,,,,,Final,Harvard vs. Delaware
+306,2011-03-26,MLN,2000,DELA,7:07.5,HARV,7:12.5,,,,,,,,,,,,,Final,Harvard vs. Delaware
+307,2011-03-26,MHV,2000,PURD,6:29.3,MARI,6:33.8,,,,,,,,,,,,,Final,56th Annual MC-Purdue Challenge Cup
+308,2011-03-26,MHJ,2000,PURD,6:34.8,MARI,6:34.9,,,,,,,,,,,,,Final,56th Annual MC-Purdue Challenge Cup
+309,2011-03-26,MLV,2000,MARI,6:41.9,PURD,6:59.7,,,,,,,,,,,,,Final,56th Annual MC-Purdue Challenge Cup
+310,2011-03-26,MLN,2000,PURD,6:23.5,MARI,6:35.5,,,,,,,,,,,,,Final,56th Annual MC-Purdue Challenge Cup
+311,2011-03-26,WHV,0,UCDV,8:13.4,UCSB,8:53.8,,,,,,,,,,,,,Final,UCDavis vs UCSB
+312,2011-03-26,MHV,0,UCSB,6:56.8,UCDV,7:07.1,,,,,,,,,,,,,Final,UCDavis vs UCSB
+313,2011-03-26,MHJ,0,UCDV,7:25.4,UCSB,7:48.0,,,,,,,,,,,,,Final,UCDavis vs UCSB
+314,2011-03-26,MHN,0,UCDV,7:55.4,UCSB,8:03.7,,,,,,,,,,,,,Final,UCDavis vs UCSB
+315,2011-03-26,WHV,0,EMOR,6:57.2,COLB,7:01.5,FLA,7:04.4,VAND,7:18.7,C,7,,,,,,,Heat3,John Hunter Regatta
+316,2011-03-26,WHV,0,GATC,7:04.2,ROLL,7:18.5,CCHR,7:23.3,NWST,7:30.7,,,,,,,,,Heat3,John Hunter Regatta
+317,2011-03-26,WHV,0,EMOR,6:58.1,GATC,7:01.7,FLA,7:03.6,VAND,7:26.1,C,7,,,,,,,Final,John Hunter Regatta
+318,2011-03-26,MHV,0,EMOR,6:27.0,CLEM,6:28.7,UTCH,6:30.9,NCST,6:45.1,L,6,,,,,,,Heat3,John Hunter Regatta
+319,2011-03-26,MHV,0,GATC,6:12.9,COLB,6:17.8,FLA,6:19.8,ROLL,6:21.5,V,6,N,6,,,,,Heat3,John Hunter Regatta
+320,2011-03-26,MHV,0,GATC,6:10.7,FLA,6:15.4,EMOR,6:26.3,UTCH,6:33.4,C,6,,,,,,,Final,John Hunter Regatta
+321,2011-03-26,MHN,0,FLA,6:17.4,VT,6:24.1,GATC,6:26.2,VAND,6:38.0,E,6,C,6,,,,,Final,John Hunter Regatta
+322,2011-03-26,MHN,0,LSU,6:46.7,WHEA,7:08.8,UTCH,7:14.2,NWST,7:14.6,N,7,A,7,,,,,Final,John Hunter Regatta
+323,2011-03-26,WHJ,0,GATC,7:20.0,FLA,7:20.5,EMOR,7:41.6,VAND,7:52.5,N,8,,,,,,,Final,John Hunter Regatta
+324,2011-03-26,MHJ,0,VAND,6:34.6,FLA,6:39.0,CLEM,6:52.0,UTCH,7:14.0,,,,,,,,,Final,John Hunter Regatta
+325,2011-03-27,MHV,1600,COLO,5:48.5,WICH,5:54.7,,,,,,,,,,,,,Final,Wichita State vs. Colorado
+326,2011-03-27,MHN,1600,WICH,6:04.7,COLO,6:13.9,,,,,,,,,,,,,Final,Wichita State vs. Colorado
+327,2011-03-27,WHV,1600,WICH,6:48.4,COLO,7:07.3,,,,,,,,,,,,,Final,Wichita State vs. Colorado
+328,2011-03-27,MHV,2000,ND,6:12.0,PURD,6:22.9,,,,,,,,,,,,,Final,Notre Dame vs. Purdue
+329,2011-03-27,MHJ,2000,PURD,6:16.0,ND,6:16.1,,,,,,,,,,,,,Final,Notre Dame vs. Purdue
+330,2011-03-27,MHN,2000,PURD,6:28.0,ND,6:38.4,,,,,,,,,,,,,Final,Notre Dame vs. Purdue
+331,2011-03-27,WHV,2000,INDI,6:28.0,ND,6:29.0,PURD,6:46.9,EMIC,7:25.0,,,,,,,,,Final,Indiana/Notre Dame/Purdue/Eastern Michigan
+332,2011-03-27,WHJ,2000,INDI,6:32.0,ND,6:37.9,PURD,7:08.8,,,,,,,,,,,Final,Indiana/Notre Dame/Purdue/Eastern Michigan
+333,2011-03-27,WHV,0,CAL,6:28.6,UVA,6:31.1,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+334,2011-03-27,WHV,0,STAN,6:31.6,UCLA,6:38.9,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+335,2011-03-27,WHJ,0,STAN,6:40.8,UCLA,6:51.6,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+336,2011-03-27,WHJ,0,UVA,6:40.4,CAL,6:48.5,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - DI Events
+337,2011-03-27,WLV,0,WISC,6:55.4,STMY,7:10.3,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - LW Events
+338,2011-03-27,WLV,0,PRIN,6:43.6,STAN,6:54.9,,,,,,,,,,,,,Final,PAC-10 Women's Challenge - LW Events
+339,2011-03-27,WHV,0,UGA,8:10.4,CCHR,8:24.9,,,,,,,,,,,,,Final,Lanier Sprints
+340,2011-03-27,MHV,0,CCHR,3:30.0,GAST,3:38.5,TENN,3:40.6,LSU,3:45.7,N,3,,,,,,,Final,Lanier Sprints
+341,2011-04-01,WHV,2000,MIST,6:28.5,BU,6:56.3,,,,,,,,,,,,,Final,Dale England Cup Regatta
+342,2011-04-01,WHJ,2000,MIST,6:52.0,BU,7:09.7,,,,,,,,,,,,,Final,Dale England Cup Regatta
+343,2011-04-01,WHV,2000,INDI,6:39.0,GONZ,6:50.6,,,,,,,,,,,,,Final,Dale England Cup Regatta
+344,2011-04-01,WHJ,2000,INDI,7:08.1,GONZ,7:23.4,,,,,,,,,,,,,Final,Dale England Cup Regatta
+345,2011-04-02,MHV,0,UBC,5:59.3,UCIR,6:02.8,FORD,6:05.4,PURD,6:05.6,O,6,S,6,C,6,,,Heat2,San Diego Crew Classic
+346,2011-04-02,MHV,0,ND,6:05.1,UCLA,6:07.1,SACS,6:08.2,BATE,6:13.5,U,6,U,6,L,6,,,Heat2,San Diego Crew Classic
+347,2011-04-02,MHV,0,DREX,6:03.7,OKC,6:05.6,USD,6:08.4,WAST,6:09.1,M,6,A,6,,,,,Heat2,San Diego Crew Classic
+348,2011-04-02,WHV,0,KAST,6:46.1,SDSU,6:54.0,DREX,6:55.5,LOMY,7:06.5,S,7,,,,,,,Heat1,San Diego Crew Classic
+349,2011-04-02,WHV,0,SACS,6:59.1,GEOR,7:00.9,UVIC,7:01.3,STMY,7:02.2,F,7,U,7,,,,,Heat2,San Diego Crew Classic
+350,2011-04-02,WHV,0,TULS,6:48.1,ALAB,6:48.9,BATE,6:54.7,SMU,7:04.1,U,7,,,,,,,Heat2,San Diego Crew Classic
+351,2011-04-02,MHV,0,CAL,5:49.0,ORST,5:59.9,MICH,6:01.8,BUCK,6:02.0,,,,,,,,,Heat3,San Diego Crew Classic
+352,2011-04-02,MHV,0,STAN,5:56.0,TEMP,6:01.1,UCSD,6:01.6,JAX,6:03.8,N,6,,,,,,,Heat3,San Diego Crew Classic
+353,2011-04-02,WHV,0,USC,6:20.8,CAL,6:26.9,WAST,6:34.1,UCLA,6:36.0,U,6,I,6,,,,,Heat3,San Diego Crew Classic
+354,2011-04-02,WHV,0,STAN,6:24.0,WASH,6:29.9,WISC,6:30.8,OKLA,6:35.9,O,6,P,6,,,,,Heat3,San Diego Crew Classic
+355,2011-04-02,WHV,0,OC,7:05.4,UCSD,7:21.7,UCIR,7:25.0,CSLB,7:45.6,C,7,,,,,,,Heat2,San Diego Crew Classic
+356,2011-04-02,WHV,0,UCSB,7:04.6,MILL,7:11.3,COK,7:17.1,SONO,7:18.8,,,,,,,,,Heat3,San Diego Crew Classic
+357,2011-04-02,WLV,0,STAN,6:41.7,UVIC,6:48.3,UBC,6:59.9,GEOR,7:04.8,,,,,,,,,Final,San Diego Crew Classic
+358,2011-04-02,MHN,0,CAL,5:58.0,USD,6:24.7,WAST,6:29.4,AZST,6:39.2,S,6,,,,,,,Heat2,San Diego Crew Classic
+359,2011-04-02,MHN,0,UCSD,6:14.5,ORST,6:16.9,UCLA,6:45.7,USC,7:22.5,,,,,,,,,Heat2,San Diego Crew Classic
+360,2011-04-02,MHN,0,OC,6:18.1,UCSB,6:25.8,UCDV,6:31.5,CSLB,6:46.4,U,6,S,7,,,,,Heat2,San Diego Crew Classic
+361,2011-04-02,WHJ,0,USC,6:41.6,WISC,6:43.5,SACS,6:58.6,OKLA,7:03.7,G,7,B,7,L,7,,,Heat2,San Diego Crew Classic
+362,2011-04-02,WHJ,0,STAN,6:42.3,WAST,6:48.8,IOWA,6:53.0,USD,7:04.6,T,7,F,7,,,,,Heat2,San Diego Crew Classic
+363,2011-04-02,WHJ,0,WASH,6:40.7,UCLA,6:46.9,ALAB,6:52.7,ORST,6:54.3,K,7,S,7,S,7,,,Heat2,San Diego Crew Classic
+364,2011-04-02,MHJ,0,STAN,6:11.4,ND,6:20.4,UCDV,6:26.1,BATE,6:30.4,O,6,,,,,,,Heat2,San Diego Crew Classic
+365,2011-04-02,MHJ,0,CAL,6:03.8,ORST,6:13.7,UCSD,6:13.7,UCIR,6:37.8,U,6,S,6,,,,,Heat3,San Diego Crew Classic
+366,2011-04-02,MHV,0,OC,6:05.9,UCDV,6:11.2,SONO,6:15.7,MINN,6:20.9,U,6,,,,,,,Final,San Diego Crew Classic
+367,2011-04-02,WHV,0,FORD,6:53.6,UBC,6:57.7,UCDV,6:59.5,LOMY,7:05.7,S,7,,,,,,,Final,San Diego Crew Classic
+368,2011-04-02,MLV,0,CAL,6:23.9,WAST,6:28.7,,,,,,,,,,,,,Final,San Diego Crew Classic
+369,2011-04-02,WHJ,0,USD,6:52.3,KAST,6:59.3,BATE,6:59.6,TULS,7:01.6,G,7,S,7,,,,,Final,San Diego Crew Classic
+370,2011-04-02,MHN,0,WAST,6:18.3,UCDV,6:21.9,AZST,6:28.3,CSLB,6:32.6,,,,,,,,,Final,San Diego Crew Classic
+371,2011-04-02,MLV,2000,DELA,6:25.4,COLU,6:27.5,,,,,,,,,,,,,Final,Columbia vs. Delaware Lwts
+372,2011-04-02,MLJ,2000,DELA,6:47.5,COLU,7:07.5,,,,,,,,,,,,,Final,Columbia vs. Delaware Lwts
+373,2011-04-02,MLN,2000,COLU,6:26.6,DELA,6:29.4,,,,,,,,,,,,,Final,Columbia vs. Delaware Lwts
+374,2011-04-02,MLV,2000,YALE,6:05.5,NAVY,6:08.8,,,,,,,,,,,,,Final,Johnson Cup
+375,2011-04-02,MLJ,2000,YALE,6:08.7,NAVY,6:11.8,,,,,,,,,,,,,Final,Johnson Cup
+376,2011-04-02,MLN,2000,YALE,6:08.0,NAVY,6:16.3,,,,,,,,,,,,,Final,Johnson Cup
+377,2011-04-02,MHN,0,VAND,7:18.0,CLEM,7:26.9,ALAB,7:39.8,NCST,7:53.5,U,8,C,8,,,,,Final,2011 Clemson Sprints Regatta
+378,2011-04-02,MHV,0,VAND,6:37.5,CCHR,6:38.6,CLEM,6:39.6,NCST,7:01.0,M,7,,,,,,,Final,2011 Clemson Sprints Regatta
+379,2011-04-02,MLV,2000,PRIN,5:58.7,GEOR,6:02.5,COLU,6:12.2,,,,,,,,,,,Final,Fosburgh Cup
+380,2011-04-02,MLJ,2000,PRIN,6:09.4,GEOR,6:27.4,COLU,6:30.5,,,,,,,,,,,Final,Fosburgh Cup
+381,2011-04-02,MLN,2000,PRIN,6:09.9,COLU,6:14.9,GEOR,6:20.3,,,,,,,,,,,Final,Fosburgh Cup
+382,2011-04-02,MLV,2000,DELA,6:10.7,PENN,6:14.6,,,,,,,,,,,,,Final,UPenn vs. Delaware
+383,2011-04-02,MLJ,2000,DELA,6:20.9,PENN,6:25.5,,,,,,,,,,,,,Final,UPenn vs. Delaware
+384,2011-04-02,MLN,2000,PENN,6:16.6,DELA,6:20.8,,,,,,,,,,,,,Final,UPenn vs. Delaware
+385,2011-04-02,MHV,2000,DELA,6:11.8,RUTG,6:13.1,,,,,,,,,,,,,Final,Rutgers v Delaware and Bucknell
+386,2011-04-02,MHJ,2000,RUTG,6:16.0,BUCK,6:17.0,DELA,6:37.5,,,,,,,,,,,Final,Rutgers v Delaware and Bucknell
+387,2011-04-02,MHN,2000,BUCK,6:14.8,RUTG,6:29.3,,,,,,,,,,,,,Final,Rutgers v Delaware and Bucknell
+388,2011-04-02,MHN,2000,NORT,6:46.3,MIT,7:21.4,,,,,,,,,,,,,Final,Northeastern University vs. M.I.T.
+389,2011-04-02,MHV,2000,PRIN,5:48.6,SYRA,5:55.1,GEOR,5:56.5,,,,,,,,,,,Final,Annual Skirmish
+390,2011-04-02,MHJ,2000,PRIN,6:01.4,SYRA,6:04.7,GEOR,6:43.2,,,,,,,,,,,Final,Annual Skirmish
+391,2011-04-02,MHN,2000,PRIN,6:06.3,SYRA,6:18.4,GEOR,6:24.9,,,,,,,,,,,Final,Annual Skirmish
+392,2011-04-02,MHV,2000,BU,6:35.6,BRWN,6:42.4,,,,,,,,,,,,,Final,Boston University vs. Brown
+393,2011-04-02,MHJ,2000,BRWN,7:00.0,BU,7:01.2,,,,,,,,,,,,,Final,Boston University vs. Brown
+394,2011-04-02,MHN,2000,BU,6:49.0,BRWN,7:12.0,,,,,,,,,,,,,Final,Boston University vs. Brown
+395,2011-04-02,MHV,2000,DART,5:53.6,HC,6:05.8,,,,,,,,,,,,,Final,Holy Cross vs. Dartmouth
+396,2011-04-02,MHJ,2000,DART,6:08.2,HC,6:19.6,,,,,,,,,,,,,Final,Holy Cross vs. Dartmouth
+397,2011-04-02,MHN,2000,DART,6:13.2,HC,6:17.4,,,,,,,,,,,,,Final,Holy Cross vs. Dartmouth
+398,2011-04-02,MHV,2000,HARV,6:58.9,CORN,7:16.8,,,,,,,,,,,,,Final,Harvard University vs. Cornell University
+399,2011-04-02,MHJ,2000,HARV,6:50.7,CORN,7:00.0,,,,,,,,,,,,,Final,Harvard University vs. Cornell University
+400,2011-04-02,MHN,2000,HARV,6:48.3,CORN,7:02.6,,,,,,,,,,,,,Final,Harvard University vs. Cornell University
+401,2011-04-02,WHV,2000,CORN,6:14.5,YALE,6:17.9,SYRA,6:39.5,,,,,,,,,,,Final,Cayuga Cup
+402,2011-04-02,WHJ,2000,YALE,6:30.0,CORN,6:31.6,SYRA,6:44.5,,,,,,,,,,,Final,Cayuga Cup
+403,2011-04-02,WHV,2000,UNH,6:55.8,HC,6:59.6,,,,,,,,,,,,,Final,Holy Cross vs. UNH
+404,2011-04-02,WHJ,2000,HC,7:08.3,UNH,7:08.7,,,,,,,,,,,,,Final,Holy Cross vs. UNH
+405,2011-04-02,WHV,2000,WILL,6:50.2,STJO,7:11.0,MARI,7:32.7,,,,,,,,,,,Final,St. Josephs vs. Williams & Marietta
+406,2011-04-02,WHJ,2000,WILL,6:56.4,STJO,6:57.3,,,,,,,,,,,,,Final,St. Josephs vs. Williams & Marietta
+407,2011-04-02,WHV,2000,MIST,6:22.2,INDI,6:26.3,,,,,,,,,,,,,Final,Dale England Cup Regatta
+408,2011-04-02,WHJ,2000,MIST,6:35.8,INDI,6:45.8,,,,,,,,,,,,,Final,Dale England Cup Regatta
+409,2011-04-02,WHV,2000,MIST,6:30.3,GONZ,7:00.1,,,,,,,,,,,,,Final,Dale England Cup Regatta
+410,2011-04-02,WHJ,2000,MIST,6:47.8,GONZ,7:02.2,,,,,,,,,,,,,Final,Dale England Cup Regatta
+411,2011-04-02,WHV,2000,INDI,6:37.1,BU,6:45.1,,,,,,,,,,,,,Final,Dale England Cup Regatta
+412,2011-04-02,WHJ,2000,INDI,6:49.0,BU,6:52.0,,,,,,,,,,,,,Final,Dale England Cup Regatta
+413,2011-04-02,WHV,2000,BU,6:47.5,GONZ,6:51.3,,,,,,,,,,,,,Final,Dale England Cup Regatta
+414,2011-04-02,WHJ,2000,BU,7:02.9,GONZ,7:15.9,,,,,,,,,,,,,Final,Dale England Cup Regatta
+415,2011-04-02,WHV,2000,UMAS,5:07.0,COLG,5:18.0,,,,,,,,,,,,,Final,UMass vs. Colgate University
+416,2011-04-02,MHV,0,WASH,5:42.4,WWAS,6:18.6,,,,,,,,,,,,,Final,2011 Husky Invite
+417,2011-04-02,MHN,0,WASH,6:01.5,ORST,6:17.3,,,,,,,,,,,,,Final,2011 Husky Invite
+418,2011-04-02,MHJ,0,WASH,5:51.2,WWAS,6:47.0,,,,,,,,,,,,,Final,2011 Husky Invite
+419,2011-04-02,WHV,2000,COLU,7:18.0,BUCK,7:28.7,,,,,,,,,,,,,Final,Columbia University vs. Bucknell University
+420,2011-04-02,WHJ,2000,COLU,7:32.7,BUCK,7:33.5,,,,,,,,,,,,,Final,Columbia University vs. Bucknell University
+421,2011-04-02,WHV,2000,PRIN,6:26.1,RUTG,6:44.9,NAVY,6:54.1,,,,,,,,,,,Final,Rutgers University vs. Princeton University
+422,2011-04-02,WHJ,2000,PRIN,6:33.3,RUTG,6:51.7,NAVY,6:53.7,,,,,,,,,,,Final,Rutgers University vs. Princeton University
+423,2011-04-02,WHV,2000,BRWN,6:27.3,RADC,6:29.7,,,,,,,,,,,,,Final,Brown vs. Radcliffe
+424,2011-04-02,WHJ,2000,BRWN,6:31.9,RADC,6:44.4,,,,,,,,,,,,,Final,Brown vs. Radcliffe
+425,2011-04-02,WHV,2000,NOVS,7:06.3,BARR,7:11.1,,,,,,,,,,,,,Final,Barry University vs. Nova Southeastern
+426,2011-04-02,WHV,0,OLDD,6:47.9,UMIA,6:58.6,,,,,,,,,,,,,Final,Old Dominion vs. Miami
+427,2011-04-02,WHJ,0,OLDD,7:22.0,UMIA,7:25.0,,,,,,,,,,,,,Final,Old Dominion vs. Miami
+428,2011-04-02,WHV,2000,NORT,7:14.4,URI,7:30.2,BC,7:47.4,,,,,,,,,,,Final,URI v Northeastern and Boston College
+429,2011-04-02,WHJ,2000,NORT,7:14.1,URI,7:21.1,BC,7:53.1,,,,,,,,,,,Final,URI v Northeastern and Boston College
+430,2011-04-02,WHV,2000,TEX,6:45.3,KANS,7:05.4,,,,,,,,,,,,,Final,Kansas vs. Texas
+431,2011-04-02,WHJ,2000,TEX,6:54.1,KANS,7:10.0,,,,,,,,,,,,,Final,Kansas vs. Texas
+432,2011-04-02,MHJ,2000,TRIN,6:06.7,MRST,6:13.7,CSTG,6:24.6,CONN,6:36.2,,,,,,,,,Final,UConn/Coast Guard/Marist/Trinity
+433,2011-04-02,MHV,2000,TRIN,5:52.7,MRST,5:56.0,CONN,6:27.9,,,,,,,,,,,Final,UConn/Coast Guard/Marist/Trinity
+434,2011-04-02,MHN,2000,TRIN,6:11.6,MRST,6:16.7,CSTG,6:23.9,CONN,6:38.2,,,,,,,,,Final,UConn/Coast Guard/Marist/Trinity
+435,2011-04-02,WHV,2000,CONN,6:42.2,TRIN,6:43.6,MRST,6:51.6,,,,,,,,,,,Final,UConn/Coast Guard/Marist/Trinity
+436,2011-04-02,WHJ,2000,CONN,6:42.0,TRIN,6:53.7,MRST,6:58.6,CSTG,7:33.6,,,,,,,,,Final,UConn/Coast Guard/Marist/Trinity
+437,2011-04-02,MHN,0,TUFT,7:01.5,UVM,7:05.4,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+438,2011-04-02,MHV,0,TULN,6:41.9,TUFT,6:57.5,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+439,2011-04-02,MHV,0,UVM,6:30.5,TULN,6:36.0,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+440,2011-04-02,WHJ,0,TUFT,7:34.9,MTHO,7:40.7,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+441,2011-04-02,WHJ,0,SIMM,7:37.8,UVM,7:44.2,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+442,2011-04-02,WHJ,0,TUFT,7:45.2,SIMM,7:54.9,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+443,2011-04-02,WHJ,0,UVM,7:40.4,MTHO,7:56.5,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+444,2011-04-02,WHV,0,MTHO,7:16.7,TUFT,7:29.4,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+445,2011-04-02,WHV,0,UVM,7:14.1,SIMM,7:18.5,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+446,2011-04-02,WHV,0,TULN,7:47.6,SIMM,8:13.3,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+447,2011-04-02,WHV,0,UVM,7:21.9,TUFT,7:43.8,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+448,2011-04-02,WHV,0,SIMM,7:31.2,TULN,7:46.5,,,,,,,,,,,,,Final,Tufts/Simmons/Mt. Holyoke/UVM/Tulane
+449,2011-04-02,MHV,2000,HOBR,6:19.6,ITHA,6:28.4,RIT,6:37.2,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+450,2011-04-02,MHJ,2000,HOBR,6:40.2,ROCH,7:05.4,,,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+451,2011-04-02,MHJ,2000,RIT,6:37.1,ITHA,6:56.1,,,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+452,2011-04-02,MHJ,2000,HOBR,6:55.0,RIT,7:09.4,,,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+453,2011-04-02,MHJ,2000,ROCH,6:59.5,ITHA,7:04.9,,,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+454,2011-04-02,MHN,2000,ITHA,6:40.8,HOBR,6:42.4,RIT,7:15.1,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+455,2011-04-02,MHN,2000,ITHA,7:00.8,ROCH,7:21.8,RIT,7:31.0,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+456,2011-04-02,WHV,2000,ITHA,7:08.9,ROCH,7:29.9,RIT,7:36.8,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+457,2011-04-02,WHJ,2000,ITHA,7:34.1,ROCH,8:02.7,,,,,,,,,,,,,Final,Ithaca/RIT/Univ Rochester/Hobart
+458,2011-04-02,MHN,0,HUMS,7:23.5,PACL,7:36.1,ORGN,7:42.3,,,,,,,,,,,Final,Northwest Collegiate Rowing Invitational
+459,2011-04-02,WHV,0,PUGS,7:31.5,LECL,7:37.5,WLMT,7:42.7,PACL,8:33.2,,,,,,,,,Final,Northwest Collegiate Rowing Invitational
+460,2011-04-02,WHV,0,WWAS,7:25.0,SPAC,7:33.2,HUMS,7:34.8,,,,,,,,,,,Final,Northwest Collegiate Rowing Invitational
+461,2011-04-02,WHJ,0,WLMT,8:04.8,LECL,8:16.2,,,,,,,,,,,,,Final,Northwest Collegiate Rowing Invitational
+462,2011-04-02,WHJ,0,HUMS,8:07.0,WLMT,8:13.3,LECL,8:23.3,,,,,,,,,,,Final,Northwest Collegiate Rowing Invitational
+463,2011-04-02,WHV,0,WLMT,7:42.5,PUGS,7:45.5,HUMS,7:48.9,LECL,7:54.6,O,8,,,,,,,Final,Northwest Collegiate Rowing Invitational
+464,2011-04-02,MHV,0,LECL,7:18.3,WLMT,7:22.4,PUGS,7:35.5,PACL,7:46.3,H,7,O,7,,,,,Final,Northwest Collegiate Rowing Invitational
+465,2011-04-02,MHV,2000,WASC,6:49.0,PHIL,7:06.0,,,,,,,,,,,,,Final,Washington Coll vs. Philadelphia
+466,2011-04-02,WHV,2000,WASC,7:48.0,PHIL,8:17.0,,,,,,,,,,,,,Final,Washington Coll vs. Philadelphia
+467,2011-04-02,MHJ,0,WPI,6:22.8,WESL,6:23.8,MIDD,7:08.6,,,,,,,,,,,Final,WPI/Smith/Wesleyan/UMass/Middlebury
+468,2011-04-02,MHN,0,UMAS,7:05.4,MIDD,7:24.2,WPI,7:46.6,,,,,,,,,,,Final,WPI/Smith/Wesleyan/UMass/Middlebury
+469,2011-04-02,MHV,0,WESL,6:16.8,UMAS,6:21.1,WPI,6:26.7,MIDD,6:34.8,,,,,,,,,Final,WPI/Smith/Wesleyan/UMass/Middlebury
+470,2011-04-02,WHJ,0,WESL,7:18.7,SMIT,7:26.1,WPI,7:30.9,MIDD,8:16.7,,,,,,,,,Final,WPI/Smith/Wesleyan/UMass/Middlebury
+471,2011-04-02,WHV,0,WPI,7:08.1,WESL,7:11.9,SMIT,7:12.5,MIDD,7:40.0,,,,,,,,,Final,WPI/Smith/Wesleyan/UMass/Middlebury
+472,2011-04-02,MHV,2000,LEHI,6:15.8,PSU,6:17.5,FRMA,6:31.9,,,,,,,,,,,Final,Neuweiler Plate
+473,2011-04-02,MHN,2000,LEHI,6:56.7,PSU,7:41.7,FRMA,7:58.5,,,,,,,,,,,Final,Neuweiler Plate
+474,2011-04-02,WHV,2000,LEHI,7:31.6,PSU,7:46.8,FRMA,7:55.3,ROMO,7:57.1,R,8,,,,,,,Final,Neuweiler Plate
+475,2011-04-02,WHJ,2000,LEHI,6:57.7,PSU,7:07.1,FRMA,7:17.2,,,,,,,,,,,Final,Neuweiler Plate
+476,2011-04-02,MHN,0,MIST,7:16.5,MSOE,7:29.8,OHST,7:32.8,CINC,8:05.0,,,,,,,,,Final,Lubbers Cup Regatta
+477,2011-04-02,MHN,0,UVA,7:01.1,BROC,7:07.6,GV,7:09.7,MICH,7:22.6,,,,,,,,,Final,Lubbers Cup Regatta
+478,2011-04-02,MHJ,0,MICH,6:24.7,UVA,6:28.6,BROC,6:42.0,GV,6:45.8,,,,,,,,,Final,Lubbers Cup Regatta
+479,2011-04-02,WHV,0,GV,7:29.9,CSTG,7:37.1,BROC,7:58.2,EMIC,8:11.0,N,8,M,8,,,,,Final,Lubbers Cup Regatta
+480,2011-04-02,MHV,0,UVA,6:42.0,GV,6:47.4,BROC,6:53.1,MIST,7:05.4,O,7,C,7,,,,,Final,Lubbers Cup Regatta
+481,2011-04-02,WHJ,2000,HAML,8:17.0,UNIO,8:30.0,,,,,,,,,,,,,Final,Union College vs. Hamilton College
+482,2011-04-02,WHV,2000,HAML,8:08.0,UNIO,8:45.0,,,,,,,,,,,,,Final,Union College vs. Hamilton College
+483,2011-04-02,MHV,2000,UNIO,6:50.0,HAML,7:23.0,,,,,,,,,,,,,Final,Union College vs. Hamilton College
+484,2011-04-02,MHV,2000,URI,6:35.9,UNH,6:39.8,BC,6:48.3,,,,,,,,,,,Final,URI v Boston College/UNH
+485,2011-04-02,MHN,2000,BC,6:56.1,URI,7:05.2,UNH,7:06.5,,,,,,,,,,,Final,URI v Boston College/UNH
+486,2011-04-02,MHV,2000,WILL,6:14.6,MARI,6:22.7,STJO,6:29.0,,,,,,,,,,,Final,St Josephs vs. Williams & Marietta
+487,2011-04-02,MHJ,2000,WILL,6:20.6,STJO,6:29.2,MARI,6:32.6,,,,,,,,,,,Final,St Josephs vs. Williams & Marietta
+488,2011-04-02,WLV,2000,PRIN,7:02.8,BUCK,7:18.9,MIT,7:42.4,,,,,,,,,,,Final,Princeton Lwt vs. MIT & Bucknell
+489,2011-04-02,MHN,2000,FAIR,7:36.0,IONA,7:51.2,ARMY,7:56.6,SKID,8:30.6,,,,,,,,,Final,SHU Invitational
+490,2011-04-02,MHV,2000,ARMY,7:16.0,IONA,7:37.6,,,,,,,,,,,,,Final,SHU Invitational
+491,2011-04-02,WHJ,2000,FAIR,8:39.0,SACH,8:49.2,SKID,9:14.6,ARMY,9:47.0,,,,,,,,,Final,SHU Invitational
+492,2011-04-02,WHV,2000,DRAK,8:36.0,ARMY,8:39.7,SKID,8:45.0,FAIR,8:49.3,S,9,I,9,,,,,Final,SHU Invitational
+493,2011-04-02,MHV,2000,WICH,6:23.0,KAST,6:31.0,,,,,,,,,,,,,Final,Sunflower State Championships
+494,2011-04-02,MHN,2000,WICH,6:29.0,KAST,6:39.0,,,,,,,,,,,,,Final,Sunflower State Championships
+495,2011-04-02,WHJ,0,STJO,7:25.7,GMAS,7:44.8,WV,7:45.3,DAYT,7:50.4,D,8,T,8,,,,,Final,Occoquan Sprints
+496,2011-04-02,WHJ,0,MAWA,8:29.4,WLMY,8:42.6,,,,,,,,,,,,,Final,Occoquan Sprints
+497,2011-04-02,WHJ,0,STJO,8:14.0,WV,8:47.1,TEMP,9:21.6,WLMY,9:33.3,,,,,,,,,Heat3,Occoquan Sprints
+498,2011-04-02,WHJ,0,DAYT,8:23.4,GMAS,8:27.9,DUQN,8:33.7,MAWA,8:54.7,,,,,,,,,Heat3,Occoquan Sprints
+499,2011-04-02,MHV,0,GMAS,6:45.6,WLMY,7:01.4,LBTY,7:22.7,,,,,,,,,,,Final,Occoquan Sprints
+500,2011-04-02,WHV,0,DAYT,7:26.6,WV,7:26.8,STJO,7:27.2,GMAS,7:27.3,T,7,L,7,,,,,Final,Occoquan Sprints
+501,2011-04-02,WHV,0,MARI,8:02.3,MAWA,8:03.0,DUQN,8:04.2,STMD,8:06.8,W,8,,,,,,,Final,Occoquan Sprints
+502,2011-04-02,WHV,0,VCOM,8:53.5,RUCM,9:38.2,,,,,,,,,,,,,Final,Occoquan Sprints
+503,2011-04-02,WHV,0,STJO,8:02.4,LOYO,8:20.6,MARI,8:31.5,STMD,8:46.4,R,9,R,1,,,,,Heat2,Occoquan Sprints
+504,2011-04-02,WHV,0,WV,7:44.7,DAYT,7:49.2,DUQN,8:12.0,VCOM,8:54.3,C,9,,,,,,,Heat2,Occoquan Sprints
+505,2011-04-02,WHV,0,GMAS,7:48.8,TEMP,7:57.5,MAWA,8:21.6,WLMY,8:47.0,,,,,,,,,Heat2,Occoquan Sprints
+506,2011-04-02,MHN,0,LOYO,7:33.2,STJN,7:38.0,GMAS,7:39.9,DUQN,7:59.8,V,8,L,8,,,,,Final,Occoquan Sprints
+507,2011-04-03,WHJ,0,ORST,6:54.6,IOWA,6:58.1,ALAB,6:58.9,OKLA,7:06.1,S,7,,,,,,,Final,San Diego Crew Classic
+508,2011-04-03,MHJ,0,BATE,6:26.4,UCDV,6:28.4,OC,6:31.5,UCSB,6:37.8,U,6,S,6,,,,,Final,San Diego Crew Classic
+509,2011-04-03,WHV,0,SONO,7:26.3,UCIR,7:39.8,CHAP,7:54.5,,,,,,,,,,,Final,San Diego Crew Classic
+510,2011-04-03,WHV,0,BATE,6:52.9,UVIC,6:53.9,DREX,6:55.1,SDSU,6:56.7,S,6,S,7,,,,,Final,San Diego Crew Classic
+511,2011-04-03,MHV,0,PURD,6:10.1,WAST,6:12.1,BATE,6:13.1,SACS,6:13.4,U,6,F,6,,,,,Final,San Diego Crew Classic
+512,2011-04-03,WHV,0,OKLA,6:45.6,UCLA,6:46.0,IOWA,6:46.8,USD,6:51.1,O,6,P,7,,,,,Final,San Diego Crew Classic
+513,2011-04-03,MHV,0,NORT,6:07.9,BUCK,6:09.4,JAX,6:16.4,,,,,,,,,,,Final,San Diego Crew Classic
+514,2011-04-03,WHV,0,USC,6:32.9,STAN,6:35.5,CAL,6:37.8,WISC,6:42.2,W,6,W,6,,,,,Final,San Diego Crew Classic
+515,2011-04-03,MHV,0,CAL,5:54.9,STAN,5:57.8,MICH,6:08.2,ORST,6:11.1,U,6,T,6,,,,,Final,San Diego Crew Classic
+516,2011-04-03,WHJ,0,WASH,6:44.8,STAN,6:49.0,USC,6:52.6,WISC,6:52.7,W,6,U,7,,,,,Final,San Diego Crew Classic
+517,2011-04-03,MHJ,0,CAL,6:04.7,STAN,6:12.3,ORST,6:16.3,UCSD,6:17.3,N,6,,,,,,,Final,San Diego Crew Classic
+518,2011-04-03,WHV,0,ALAB,6:56.9,TULS,6:58.1,KAST,6:59.4,GEOR,7:05.9,S,7,,,,,,,Final,San Diego Crew Classic
+519,2011-04-03,MHV,0,UBC,6:14.0,DREX,6:18.2,ND,6:19.7,OKC,6:23.2,U,6,U,6,,,,,Final,San Diego Crew Classic
+520,2011-04-03,WLV,0,STAN,7:06.0,UVIC,7:12.0,GEOR,7:20.4,UBC,7:24.0,,,,,,,,,Final,San Diego Crew Classic
+521,2011-04-03,MHN,0,CAL,6:06.0,OC,6:18.0,ORST,6:18.3,UCSD,6:24.0,U,6,U,6,,,,,Final,San Diego Crew Classic
+522,2011-04-03,WHV,0,OC,7:20.1,UCSB,7:24.9,MILL,7:26.3,COK,7:36.5,U,7,,,,,,,Final,San Diego Crew Classic
+523,2011-04-03,WHV,2000,COLU,7:04.2,NORT,7:06.6,,,,,,,,,,,,,Final,Woodbury Cup
+524,2011-04-03,WHJ,2000,NORT,7:18.5,COLU,7:19.8,,,,,,,,,,,,,Final,Woodbury Cup
+525,2011-04-03,WHV,0,CLEM,6:44.4,MICH,6:47.9,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+526,2011-04-03,WHV,0,UVA,6:40.4,OHST,6:44.5,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+527,2011-04-03,WHJ,0,CLEM,6:57.2,MICH,6:57.4,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+528,2011-04-03,WHJ,0,UVA,6:45.7,OHST,6:51.6,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+529,2011-04-03,WHV,0,UVA,6:48.2,MICH,6:56.6,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+530,2011-04-03,WHV,0,CLEM,6:56.3,OHST,6:59.6,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+531,2011-04-03,WHJ,0,UVA,7:05.0,MICH,7:12.9,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+532,2011-04-03,WHJ,0,OHST,7:15.3,CLEM,7:26.6,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+533,2011-04-03,WHV,2000,HC,7:00.0,SIMM,7:07.5,,,,,,,,,,,,,Final,Holy Cross vs. Simmons
+534,2011-04-03,WHJ,2000,HC,7:13.0,SIMM,7:28.0,,,,,,,,,,,,,Final,Holy Cross vs. Simmons
+535,2011-04-03,WHV,2000,MIT,7:51.8,BC,8:12.3,,,,,,,,,,,,,Final,BC vs. MIT Cup Race
+536,2011-04-03,WHJ,2000,BC,8:27.0,MIT,8:38.7,,,,,,,,,,,,,Final,BC vs. MIT Cup Race
+537,2011-04-03,MHJ,2000,MRST,6:22.1,CONN,6:45.6,,,,,,,,,,,,,Final,Connecticut/LaSalle/Marist
+538,2011-04-03,MHN,2000,LASL,6:11.4,MRST,6:20.5,CONN,6:46.4,,,,,,,,,,,Final,Connecticut/LaSalle/Marist
+539,2011-04-03,MHV,2000,MRST,6:03.0,LASL,6:23.5,CONN,6:43.5,,,,,,,,,,,Final,Connecticut/LaSalle/Marist
+540,2011-04-03,WHV,2000,CONN,6:50.4,MRST,6:51.2,LASL,7:12.2,,,,,,,,,,,Final,Connecticut/LaSalle/Marist
+541,2011-04-03,MHV,0,HAML,6:47.1,TUFT,7:11.6,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+542,2011-04-03,MHV,0,TULN,6:51.8,UVM,7:16.9,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+543,2011-04-03,MHV,0,TULN,6:52.7,HAML,7:08.8,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+544,2011-04-03,MHV,0,TUFT,7:09.3,UVM,7:12.5,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+545,2011-04-03,WHJ,0,TUFT,7:15.4,HAML,7:19.5,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+546,2011-04-03,WHJ,0,UVM,7:46.6,HAML,8:17.8,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+547,2011-04-03,WHJ,0,UVM,7:44.9,TUFT,7:45.9,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+548,2011-04-03,WHV,0,HAML,7:16.4,TUFT,7:23.6,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+549,2011-04-03,WHV,0,UVM,7:25.9,TULN,7:47.6,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+550,2011-04-03,WHV,0,UVM,7:42.1,HAML,7:50.9,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+551,2011-04-03,WHV,0,TUFT,7:43.8,TULN,8:08.3,,,,,,,,,,,,,Final,Tufts/Hamilton/Vermont/Tulane
+552,2011-04-03,MHV,2000,ROCH,6:25.0,CARN,6:42.0,CWES,7:37.0,,,,,,,,,,,Final,University Rowing Association
+553,2011-04-03,WHV,2000,ROCH,7:22.0,CWES,7:59.1,,,,,,,,,,,,,Final,University Rowing Association
+554,2011-04-09,MHN,0,WASH,6:06.1,ORST,6:29.2,,,,,,,,,,,,,Final,Covered Bridge Regatta
+555,2011-04-09,MHJ,0,WASH,5:54.8,ORST,6:24.6,,,,,,,,,,,,,Final,Covered Bridge Regatta
+556,2011-04-09,MHV,0,WASH,5:48.7,ORST,6:15.8,,,,,,,,,,,,,Final,Covered Bridge Regatta
+557,2011-04-09,WHJ,0,HUMS,7:51.2,WLMT,7:54.5,LECL,8:10.0,,,,,,,,,,,Final,Covered Bridge Regatta
+558,2011-04-09,WHV,0,SPAC,7:24.5,HUMS,7:28.6,WLMT,7:31.8,LECL,7:38.6,O,7,,,,,,,Final,Covered Bridge Regatta
+559,2011-04-09,MHV,0,LECL,6:46.7,WLMT,6:58.6,PACL,7:07.3,HUMS,7:15.6,O,7,S,7,,,,,Final,Covered Bridge Regatta
+560,2011-04-09,MLV,2000,DART,6:00.3,DELA,6:09.3,,,,,,,,,,,,,Final,Dartmouth College vs. U. of Delaware
+561,2011-04-09,MLJ,2000,DART,6:02.5,DELA,6:16.6,,,,,,,,,,,,,Final,Dartmouth College vs. U. of Delaware
+562,2011-04-09,MLN,2000,DELA,6:05.4,DART,6:05.7,,,,,,,,,,,,,Final,Dartmouth College vs. U. of Delaware
+563,2011-04-09,MLV,2000,NAVY,6:11.4,COLU,6:17.4,,,,,,,,,,,,,Final,US Naval Academy vs. Columbia University
+564,2011-04-09,MLJ,2000,NAVY,6:21.0,COLU,6:41.4,,,,,,,,,,,,,Final,US Naval Academy vs. Columbia University
+565,2011-04-09,MLN,2000,COLU,6:21.4,NAVY,6:23.0,,,,,,,,,,,,,Final,US Naval Academy vs. Columbia University
+566,2011-04-09,MLV,2000,HARV,5:46.4,PENN,5:55.1,,,,,,,,,,,,,Final,Matthews & Leonard Cups
+567,2011-04-09,MLJ,2000,HARV,5:53.7,PENN,6:06.9,,,,,,,,,,,,,Final,Matthews & Leonard Cups
+568,2011-04-09,MLN,2000,HARV,5:54.9,PENN,6:00.9,,,,,,,,,,,,,Final,Matthews & Leonard Cups
+569,2011-04-09,MLV,2000,YALE,5:53.4,GEOR,5:54.5,MIT,6:17.1,,,,,,,,,,,Final,Joy Cup
+570,2011-04-09,MLJ,2000,YALE,5:52.7,GEOR,6:07.5,,,,,,,,,,,,,Final,Joy Cup
+571,2011-04-09,MLN,2000,YALE,6:03.2,GEOR,6:09.7,MIT,6:28.2,,,,,,,,,,,Final,Joy Cup
+572,2011-04-09,WHJ,0,INDI,6:53.0,IOWA,6:56.2,URI,6:56.9,,,,,,,,,,,Final,Big Ten Duals
+573,2011-04-09,WHJ,0,OHST,6:48.6,LOUV,6:57.2,BUCK,6:59.4,,,,,,,,,,,Final,Big Ten Duals
+574,2011-04-09,WHV,0,INDI,6:48.6,IOWA,6:52.2,URI,7:06.1,,,,,,,,,,,Final,Big Ten Duals
+575,2011-04-09,WHV,0,OHST,6:40.2,LOUV,6:40.8,BUCK,6:59.8,,,,,,,,,,,Final,Big Ten Duals
+576,2011-04-09,WHJ,0,INDI,7:05.2,BUCK,7:06.8,LOUV,7:08.2,,,,,,,,,,,Final,Big Ten Duals
+577,2011-04-09,WHJ,0,OHST,7:04.4,IOWA,7:11.3,URI,7:16.3,,,,,,,,,,,Final,Big Ten Duals
+578,2011-04-09,WHV,0,LOUV,7:02.5,INDI,7:03.6,BUCK,7:16.8,,,,,,,,,,,Final,Big Ten Duals
+579,2011-04-09,WHV,0,OHST,6:58.2,IOWA,7:04.0,URI,7:14.5,,,,,,,,,,,Final,Big Ten Duals
+580,2011-04-09,MHV,2000,PRIN,5:28.0,COLU,5:31.0,PENN,5:39.6,,,,,,,,,,,Final,Childs Cup
+581,2011-04-09,MHJ,2000,PRIN,5:38.5,PENN,5:41.4,COLU,5:53.8,,,,,,,,,,,Final,Childs Cup
+582,2011-04-09,MHN,2000,PRIN,5:34.2,COLU,5:39.6,PENN,5:48.0,,,,,,,,,,,Final,Childs Cup
+583,2011-04-09,MHV,2000,HARV,5:55.2,BRWN,5:57.8,,,,,,,,,,,,,Final,Stein Cup
+584,2011-04-09,MHJ,2000,HARV,5:58.9,BRWN,6:10.4,,,,,,,,,,,,,Final,Stein Cup
+585,2011-04-09,MHN,2000,HARV,6:12.2,BRWN,6:19.2,,,,,,,,,,,,,Final,Stein Cup
+586,2011-04-09,MHV,2000,YALE,5:54.5,DART,5:59.6,,,,,,,,,,,,,Final,Olympic Axe
+587,2011-04-09,MHJ,2000,YALE,5:50.5,DART,5:56.2,,,,,,,,,,,,,Final,Olympic Axe
+588,2011-04-09,MHN,2000,YALE,6:01.6,DART,6:04.6,,,,,,,,,,,,,Final,Olympic Axe
+589,2011-04-09,MHV,2000,WISC,6:11.4,MICH,6:26.8,,,,,,,,,,,,,Final,Wisconsin vs. Michigan
+590,2011-04-09,MHJ,2000,WISC,6:16.6,MICH,6:32.8,,,,,,,,,,,,,Final,Wisconsin vs. Michigan
+591,2011-04-09,MHN,2000,WISC,6:28.3,MICH,6:44.7,,,,,,,,,,,,,Final,Wisconsin vs. Michigan
+592,2011-04-09,MHV,2000,BU,6:02.0,NORT,6:09.6,,,,,,,,,,,,,Final,Boston University vs. Northeastern
+593,2011-04-09,MHN,2000,BU,6:02.3,NORT,6:04.1,,,,,,,,,,,,,Final,Boston University vs. Northeastern
+594,2011-04-09,WHV,2000,WASH,6:37.7,WAST,6:43.2,,,,,,,,,,,,,Final,Washington State vs. Washington
+595,2011-04-09,WHJ,2000,WASH,6:49.7,WAST,6:50.1,,,,,,,,,,,,,Final,Washington State vs. Washington
+596,2011-04-09,WHV,2000,PENN,6:54.7,NORT,6:57.5,SYRA,7:07.3,,,,,,,,,,,Final,Orange Challenge Cup
+597,2011-04-09,WHJ,2000,PENN,7:07.8,NORT,7:11.9,SYRA,7:20.8,,,,,,,,,,,Final,Orange Challenge Cup
+598,2011-04-09,WHV,2000,ROCH,7:44.6,WLSM,7:47.9,,,,,,,,,,,,,Final,William Smith v. U of Rochester
+599,2011-04-09,WHJ,2000,WLSM,8:10.7,ROCH,8:17.9,,,,,,,,,,,,,Final,William Smith v. U of Rochester
+600,2011-04-09,WHV,2000,YALE,6:50.1,DART,6:58.1,BU,7:09.6,,,,,,,,,,,Final,Class of 1985 Cup
+601,2011-04-09,WHJ,2000,YALE,7:02.5,DART,7:09.7,BU,7:25.0,,,,,,,,,,,Final,Class of 1985 Cup
+602,2011-04-09,WHV,2000,PRIN,6:36.8,CORN,6:46.1,RADC,6:48.1,,,,,,,,,,,Final,Class of 1975 Cup
+603,2011-04-09,WHJ,2000,PRIN,6:55.4,RADC,7:04.5,CORN,7:09.8,,,,,,,,,,,Final,Class of 1975 Cup
+604,2011-04-09,WHV,2000,TRIN,7:00.4,HC,7:05.7,SMIT,7:13.9,MTHO,7:15.0,,,,,,,,,Final,Holy Cross vs. Trinity
+605,2011-04-09,WHJ,2000,TRIN,7:17.8,HC,7:23.8,SMIT,7:25.2,MTHO,7:39.5,,,,,,,,,Final,Holy Cross vs. Trinity
+606,2011-04-09,WHJ,0,MICH,6:55.4,MINN,7:02.9,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+607,2011-04-09,WHJ,0,WISC,6:46.6,MIST,6:47.4,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+608,2011-04-09,WHV,0,MICH,6:48.6,MINN,6:55.9,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+609,2011-04-09,WHV,0,MIST,6:37.3,WISC,6:43.5,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+610,2011-04-09,WHJ,0,WISC,6:47.2,MICH,6:48.4,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+611,2011-04-09,WHJ,0,MIST,6:45.8,MINN,6:58.6,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+612,2011-04-09,WHV,0,WISC,6:41.3,MICH,6:44.4,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+613,2011-04-09,WHV,0,MIST,6:34.1,MINN,6:43.4,,,,,,,,,,,,,Final,Wisc/Michigan/Michigan St/Minnesota
+614,2011-04-09,MHV,0,BOWD,5:43.0,MIDD,5:45.0,AMHR,5:56.0,,,,,,,,,,,Final,Big Three? Amherst/Bowdoin/Middlebury
+615,2011-04-09,MHJ,0,WILL,6:30.4,WPI,6:42.0,,,,,,,,,,,,,Final,WPI/Williams/Simmons/ConnC/F&M/URoch/MIT
+616,2011-04-09,MHN,0,MIT,6:32.8,WILL,6:50.4,ROCH,7:22.9,,,,,,,,,,,Final,WPI/Williams/Simmons/ConnC/F&M/URoch/MIT
+617,2011-04-09,MHV,0,WILL,6:23.3,WPI,6:46.6,ROCH,7:04.4,,,,,,,,,,,Final,WPI/Williams/Simmons/ConnC/F&M/URoch/MIT
+618,2011-04-09,WHJ,0,WILL,7:20.2,SIMM,7:48.5,WPI,7:52.5,CONC,8:08.7,F,8,,,,,,,Final,WPI/Williams/Simmons/ConnC/F&M/URoch/MIT
+619,2011-04-09,WHV,0,WILL,7:10.2,WPI,7:30.5,SIMM,7:37.2,CONC,7:59.1,F,8,,,,,,,Final,WPI/Williams/Simmons/ConnC/F&M/URoch/MIT
+620,2011-04-09,WHV,2000,ALBY,7:38.9,DYOU,8:16.8,,,,,,,,,,,,,Final,SUNY-Albany/Cazenovia/D'Youville
+621,2011-04-09,MHV,0,JAX,5:25.1,GATC,5:30.7,FLA,5:44.2,ROLL,5:51.4,E,6,,,,,,,Final,FIRA Championships - Saturday
+622,2011-04-09,WHV,0,NOVS,6:29.4,JAX,6:31.8,FLA,6:35.4,GATC,6:44.2,F,6,R,7,F,7,,,Final,FIRA Championships - Saturday
+623,2011-04-09,MHJ,0,JAX,5:50.3,FLA,6:14.8,,,,,,,,,,,,,Final,FIRA Championships - Saturday
+624,2011-04-09,WHJ,0,GATC,6:57.3,NOVS,7:06.5,JAX,7:19.6,FLA,7:27.5,,,,,,,,,Final,FIRA Championships - Saturday
+625,2011-04-09,WLV,0,GATC,6:33.2,FLA,6:39.0,,,,,,,,,,,,,Final,FIRA Championships - Saturday
+626,2011-04-09,MHN,0,JAX,5:38.8,FLA,5:43.6,GATC,5:44.5,FLST,9:21.7,,,,,,,,,Final,FIRA Championships - Saturday
+627,2011-04-09,WHV,2000,HAML,7:13.7,RIT,7:23.9,,,,,,,,,,,,,Final,Hamilton College vs. RIT
+628,2011-04-09,MHV,2000,RIT,6:26.9,HAML,6:31.2,,,,,,,,,,,,,Final,Hamilton College vs. RIT
+629,2011-04-09,WHJ,2000,HAML,7:20.8,RIT,7:23.6,,,,,,,,,,,,,Final,Hamilton College vs. RIT
+630,2011-04-09,MHJ,0,BATE,6:00.3,WESL,6:02.5,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+631,2011-04-09,MHV,0,BATE,6:12.1,TUFT,6:32.4,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+632,2011-04-09,MHV,0,WESL,5:52.4,UNH,5:54.2,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+633,2011-04-09,MHV,0,UNH,6:04.2,TUFT,6:40.1,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+634,2011-04-09,MHV,0,WESL,5:53.9,BATE,6:04.0,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+635,2011-04-09,WHJ,0,WELL,6:56.7,TUFT,7:01.9,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+636,2011-04-09,WHJ,0,BATE,6:53.7,WESL,7:05.9,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+637,2011-04-09,WHJ,0,WESL,7:07.0,TUFT,7:10.6,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+638,2011-04-09,WHJ,0,BATE,6:57.7,WELL,7:05.3,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+639,2011-04-09,WHV,0,WELL,6:49.5,TUFT,7:15.0,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+640,2011-04-09,WHV,0,BATE,6:40.5,WESL,6:55.8,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+641,2011-04-09,WHV,0,TUFT,6:59.1,WESL,7:04.0,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+642,2011-04-09,WHV,0,BATE,6:42.8,WELL,6:49.5,,,,,,,,,,,,,Final,Tufts/Bates/Wesleyan/UNH/Wellesley
+643,2011-04-09,MHJ,2000,UNIO,7:13.0,RPI,7:46.0,,,,,,,,,,,,,Final,Union College vs. RPI and SCCC
+644,2011-04-09,MHV,2000,UNIO,6:51.0,RPI,8:03.0,,,,,,,,,,,,,Final,Union College vs. RPI and SCCC
+645,2011-04-09,MHV,2000,ITHA,6:09.5,STLA,6:19.4,,,,,,,,,,,,,Final,Ithaca v St. Lawrence & Skidmore
+646,2011-04-09,MHJ,2000,ITHA,6:32.2,STLA,6:47.9,,,,,,,,,,,,,Final,Ithaca v St. Lawrence & Skidmore
+647,2011-04-09,MHN,2000,ITHA,6:26.5,STLA,7:27.6,SKID,7:52.6,,,,,,,,,,,Final,Ithaca v St. Lawrence & Skidmore
+648,2011-04-09,WHV,2000,ITHA,6:47.5,STLA,6:56.5,SKID,7:09.8,,,,,,,,,,,Final,Ithaca v St. Lawrence & Skidmore
+649,2011-04-09,WHJ,2000,STLA,7:06.7,ITHA,7:08.8,,,,,,,,,,,,,Final,Ithaca v St. Lawrence & Skidmore
+650,2011-04-09,WHJ,0,GW,7:04.6,MIT,7:24.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+651,2011-04-09,WHJ,0,STJO,6:56.1,GEOR,7:01.2,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+652,2011-04-09,WHJ,0,COLU,6:56.1,NAVY,7:03.4,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+653,2011-04-09,WHV,0,MIT,6:47.1,OXFD,6:47.9,GW,6:49.7,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+654,2011-04-09,WHV,0,GEOR,6:46.2,STJO,6:51.9,BROC,7:08.2,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+655,2011-04-09,WHV,0,COLU,6:44.1,NAVY,6:55.1,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+656,2011-04-09,WLV,0,RADC,6:51.0,GEOR,6:52.4,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+657,2011-04-09,MHN,0,NAVY,5:57.3,GEOR,6:14.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+658,2011-04-09,MHN,0,GW,6:10.7,HC,6:17.3,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+659,2011-04-09,MHN,0,CORN,6:00.5,GONZ,6:28.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+660,2011-04-09,MHJ,0,NAVY,5:58.7,GEOR,6:23.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+661,2011-04-09,MHJ,0,GW,6:12.4,HC,6:13.9,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+662,2011-04-09,MHJ,0,CORN,6:00.8,GONZ,6:16.2,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+663,2011-04-09,MHV,0,NAVY,5:44.6,GEOR,5:50.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+664,2011-04-09,MHV,0,OXFD,5:58.5,HC,5:59.6,GW,6:01.5,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+665,2011-04-09,MHV,0,CORN,5:55.8,BROC,6:02.5,GONZ,6:12.5,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+666,2011-04-09,WHJ,0,STJO,6:46.7,GW,6:50.2,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+667,2011-04-09,WHJ,0,COLU,6:44.8,GEOR,6:48.3,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+668,2011-04-09,WHJ,0,NAVY,6:52.7,MIT,7:21.1,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+669,2011-04-09,WHV,0,STJO,6:35.0,GW,6:47.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+670,2011-04-09,WHV,0,COLU,6:29.0,GEOR,6:35.4,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+671,2011-04-09,WHV,0,NAVY,6:35.2,MIT,6:38.2,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+672,2011-04-09,MHN,0,NAVY,5:49.0,HC,6:05.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+673,2011-04-09,MHN,0,GW,5:51.3,GONZ,6:01.3,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+674,2011-04-09,MHN,0,CORN,5:47.7,GEOR,6:03.5,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+675,2011-04-09,MHJ,0,NAVY,5:45.0,HC,6:04.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+676,2011-04-09,MHJ,0,GONZ,6:01.8,GW,6:05.9,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+677,2011-04-09,MHJ,0,CORN,5:52.5,GEOR,6:09.1,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+678,2011-04-09,MHV,0,NAVY,5:41.9,HC,6:00.4,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+679,2011-04-09,MHV,0,GW,5:55.9,GONZ,5:59.9,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+680,2011-04-09,MHV,0,CORN,5:44.0,GEOR,5:53.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+681,2011-04-09,WHV,0,OXFD,6:49.0,BROC,6:57.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+682,2011-04-09,MHV,0,OXFD,5:46.4,BROC,5:46.8,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+683,2011-04-09,WHV,0,DUKE,7:07.2,UMIA,7:13.0,TEMP,7:13.9,CONN,7:21.8,U,7,,,,,,,Heat3,Knecht Cup
+684,2011-04-09,WHV,0,RUTG,7:12.6,KANS,7:18.0,UMAS,7:22.9,MRST,7:25.2,V,7,,,,,,,Heat3,Knecht Cup
+685,2011-04-09,WHV,0,OLDD,7:06.2,BUFF,7:10.8,UNH,7:13.8,DELA,7:18.1,L,7,I,8,,,,,Heat3,Knecht Cup
+686,2011-04-09,WHV,0,GV,7:07.7,WV,7:11.6,COLG,7:20.0,ARMY,7:48.3,R,8,,,,,,,Heat2,Knecht Cup
+687,2011-04-09,WHV,0,DREX,7:09.4,GMAS,7:12.8,FORD,7:17.6,BC,7:21.6,D,7,L,7,,,,,Heat3,Knecht Cup
+688,2011-04-09,MHV,0,TEMP,6:18.5,RUTG,6:21.6,HOBR,6:21.8,BC,6:29.0,U,6,,,,,,,Heat3,Knecht Cup
+689,2011-04-09,MHV,0,TRIN,6:18.1,MARI,6:22.3,DREX,6:23.8,ARMY,6:31.5,U,6,,,,,,,Heat3,Knecht Cup
+690,2011-04-09,MHV,0,BUCK,6:17.7,DELA,6:22.4,STJO,6:26.8,FORD,6:35.6,I,6,V,6,,,,,Heat3,Knecht Cup
+691,2011-04-09,MHV,0,MRST,6:19.1,GV,6:22.7,MERC,6:27.2,LASL,6:27.6,W,6,L,6,,,,,Heat3,Knecht Cup
+692,2011-04-09,WHJ,0,DUKE,7:26.2,CONN,7:31.0,MRST,7:45.2,UNH,7:47.0,G,8,,,,,,,Heat2,Knecht Cup
+693,2011-04-09,WHJ,0,BUFF,7:28.8,UMAS,7:32.1,KANS,7:45.6,BC,7:54.6,T,8,,,,,,,Heat3,Knecht Cup
+694,2011-04-09,WHJ,0,DREX,7:52.6,WV,7:57.1,UNC,8:00.8,DUQN,8:13.0,L,8,,,,,,,Heat2,Knecht Cup
+695,2011-04-09,WHJ,0,DELA,7:33.6,RUTG,7:42.6,FORD,7:48.9,OLDD,7:54.0,W,7,M,8,,,,,Heat3,Knecht Cup
+696,2011-04-09,MHJ,0,TEMP,6:29.4,BUCK,6:35.5,MARI,6:35.8,MRST,6:48.0,D,6,,,,,,,Heat2,Knecht Cup
+697,2011-04-09,MHJ,0,TRIN,6:29.4,DREX,6:32.6,STJO,6:34.1,RUTG,6:43.7,U,6,,,,,,,Heat2,Knecht Cup
+698,2011-04-09,MHN,0,BC,6:20.1,TRIN,6:20.1,RUTG,6:50.5,FORD,7:06.7,I,7,G,7,,,,,Heat2,Knecht Cup
+699,2011-04-09,MHN,0,BUCK,6:26.6,UNC,6:30.7,MRST,6:38.8,WASC,6:44.8,L,7,P,7,,,,,Heat2,Knecht Cup
+700,2011-04-09,MHN,0,LASL,6:34.8,GV,6:38.1,COLG,6:50.2,UMAS,6:55.3,D,8,S,8,,,,,Heat2,Knecht Cup
+701,2011-04-09,MHN,0,DREX,6:25.4,HOBR,6:36.3,LEHI,6:46.9,VT,6:48.1,V,7,P,7,,,,,Heat2,Knecht Cup
+702,2011-04-09,WHJ,0,DELA,7:01.4,UMAS,7:05.0,DUKE,7:05.3,DREX,7:16.0,F,7,,,,,,,Heat3,Knecht Cup
+703,2011-04-09,WHJ,0,BUFF,7:01.7,CONN,7:01.8,RUTG,7:11.1,KANS,7:12.3,W,7,,,,,,,Heat2,Knecht Cup
+704,2011-04-09,WHV,0,DUKE,6:48.0,GMAS,6:55.1,UNH,7:03.0,UMAS,7:05.7,B,7,,,,,,,Heat1,Knecht Cup
+705,2011-04-09,WHV,0,RUTG,6:44.8,WV,6:46.9,DREX,6:50.9,BUFF,6:51.4,T,6,C,7,,,,,Heat2,Knecht Cup
+706,2011-04-09,WHV,0,OLDD,6:45.5,GV,6:49.0,UMIA,6:52.8,KANS,6:55.3,F,6,D,7,,,,,Heat2,Knecht Cup
+707,2011-04-09,MHV,0,TEMP,5:56.4,MRST,5:58.0,DELA,6:00.0,HOBR,6:01.9,M,6,M,6,,,,,Heat3,Knecht Cup
+708,2011-04-09,MHV,0,TRIN,5:59.7,DREX,6:01.5,GV,6:02.0,BUCK,6:02.9,S,6,R,6,,,,,Heat3,Knecht Cup
+709,2011-04-09,WHV,0,MERC,7:14.5,PHIL,7:26.0,PSU,7:37.0,,,,,,,,,,,Heat2,Knecht Cup
+710,2011-04-09,WHV,0,PITT,7:24.7,DOWL,7:49.9,LAFA,7:55.5,,,,,,,,,,,Heat1,Knecht Cup
+711,2011-04-09,MHV,0,GMAS,6:27.9,LAFA,6:35.6,UNC,6:38.2,VT,7:00.6,,,,,,,,,Heat2,Knecht Cup
+712,2011-04-09,MHV,0,MARI,6:31.0,PSU,6:37.0,PITT,6:39.3,,,,,,,,,,,Heat2,Knecht Cup
+713,2011-04-09,MHN,0,DREX,6:12.5,BC,6:19.1,GV,6:23.5,VT,6:32.5,U,6,M,6,,,,,Heat3,Knecht Cup
+714,2011-04-09,MHN,0,BUCK,6:13.8,TRIN,6:13.9,HOBR,6:26.1,LEHI,6:30.9,L,6,W,6,,,,,Heat3,Knecht Cup
+715,2011-04-09,WLV,0,WISC,6:52.9,MIT,7:10.2,UMAS,7:49.7,,,,,,,,,,,Heat1,Knecht Cup
+716,2011-04-09,WLV,0,BUCK,7:00.1,BUFF,7:06.4,,,,,,,,,,,,,Heat1,Knecht Cup
+717,2011-04-09,WHV,0,WASC,7:02.4,MARI,7:07.0,MAWA,7:13.9,NPRK,7:34.5,B,7,R,8,,,,,Final,Knecht Cup
+718,2011-04-09,MHJ,0,UCSD,5:57.1,OC,6:09.1,UCIR,6:27.2,UCLA,6:38.0,,,,,,,,,Final,Newport Regatta
+719,2011-04-09,MHV,0,UCSD,5:47.5,UCIR,5:55.1,USD,5:59.0,OC,5:59.6,U,6,U,6,,,,,Final,Newport Regatta
+720,2011-04-09,WHV,1950,CFLA,6:22.8,ALAB,6:29.5,,,,,,,,,,,,,Final,Alabama vs. Central Florida
+721,2011-04-09,WHJ,1950,ALAB,6:35.0,CFLA,6:42.4,,,,,,,,,,,,,Final,Alabama vs. Central Florida
+722,2011-04-09,WHV,0,CSTG,6:34.4,COLB,6:48.2,MALW,7:13.8,,,,,,,,,,,Final,Riverhawk Racing Series
+723,2011-04-09,WHJ,0,CSTG,7:04.8,COLB,7:15.6,,,,,,,,,,,,,Final,Riverhawk Racing Series
+724,2011-04-09,MHJ,0,COLB,5:59.6,CSTG,6:01.7,,,,,,,,,,,,,Final,Riverhawk Racing Series
+725,2011-04-09,MHN,0,COLB,6:32.1,CSTG,6:44.4,MAMA,7:37.1,,,,,,,,,,,Final,Riverhawk Racing Series
+726,2011-04-09,MHV,0,COLB,5:46.2,CSTG,5:51.0,,,,,,,,,,,,,Final,Riverhawk Racing Series
+727,2011-04-09,MHV,2000,UCSB,6:23.0,SCLA,6:31.0,,,,,,,,,,,,,Final,Santa Clara v UC Santa Barbara
+728,2011-04-09,MHN,2000,UCSB,6:23.5,SCLA,6:34.0,,,,,,,,,,,,,Final,Santa Clara v UC Santa Barbara
+729,2011-04-09,MHV,2000,CINC,6:36.9,JCAR,6:50.5,MIOH,7:06.9,CLEV,8:25.4,,,,,,,,,Final,2011 Cincinnati Regatta
+730,2011-04-09,MHN,2000,CINC,7:16.8,DAYT,7:28.1,MIOH,7:34.8,OHUN,7:47.9,,,,,,,,,Final,2011 Cincinnati Regatta
+731,2011-04-09,WHV,2000,OHUN,8:10.5,MIOH,8:11.7,CINC,8:16.8,JCAR,8:28.1,,,,,,,,,Final,2011 Cincinnati Regatta
+732,2011-04-09,WHV,0,PURD,7:17.6,OHSC,7:50.2,,,,,,,,,,,,,Final,Purdue v Ohio State Club
+733,2011-04-09,MHV,0,PURD,6:22.5,OHST,6:28.4,,,,,,,,,,,,,Final,Purdue v Ohio State Club
+734,2011-04-10,WHV,2000,WLSM,6:45.1,ITHA,6:50.2,,,,,,,,,,,,,Final,Ithaca College vs. William Smith
+735,2011-04-10,WHJ,2000,WLSM,7:02.5,ITHA,7:04.1,,,,,,,,,,,,,Final,Ithaca College vs. William Smith
+736,2011-04-10,MHV,2000,UVM,6:24.0,MIDD,6:35.7,,,,,,,,,,,,,Final,UVM vs. Middlebury
+737,2011-04-10,MHN,2000,UVM,7:14.6,MIDD,7:50.0,,,,,,,,,,,,,Final,UVM vs. Middlebury
+738,2011-04-10,WHV,2000,UVM,7:22.0,MIDD,7:47.7,,,,,,,,,,,,,Final,UVM vs. Middlebury
+739,2011-04-10,WHJ,2000,NAVY,6:43.1,GW,6:56.3,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+740,2011-04-10,WHJ,2000,GEOR,6:42.1,MIT,7:12.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+741,2011-04-10,WHJ,2000,COLU,6:42.5,STJO,6:48.1,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+742,2011-04-10,WHV,2000,NAVY,6:40.2,GW,6:41.3,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+743,2011-04-10,WHV,2000,STJO,6:39.1,MIT,6:43.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+744,2011-04-10,MHN,2000,GEOR,6:03.2,GONZ,6:09.1,HC,6:10.6,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+745,2011-04-10,MHN,2000,NAVY,5:50.6,GW,6:10.0,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+746,2011-04-10,MHJ,2000,HC,5:59.0,GONZ,6:00.8,GEOR,6:11.0,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+747,2011-04-10,MHJ,2000,NAVY,5:49.7,GW,6:11.1,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+748,2011-04-10,MHV,2000,GEOR,5:43.0,HC,5:48.2,GONZ,5:59.0,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+749,2011-04-10,WHV,2000,GEOR,6:37.5,BROC,6:54.2,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+750,2011-04-10,MHV,2000,BROC,5:50.5,GW,5:50.7,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+751,2011-04-10,WHV,2000,COLU,6:33.1,OXFD,6:46.6,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+752,2011-04-10,MHV,2000,NAVY,5:41.3,OXFD,5:52.5,,,,,,,,,,,,,Final,George Washington Univ Invitational Regatta
+753,2011-04-10,MLV,0,MARI,6:26.5,STJO,6:30.5,PSU,6:31.7,LAFA,6:37.6,V,7,,,,,,,Final,Knecht Cup
+754,2011-04-10,WLV,0,WISC,6:57.6,BUCK,7:05.1,BUFF,7:15.5,MIT,7:15.5,,,,,,,,,Final,Knecht Cup
+755,2011-04-10,MHN,0,TRIN,6:30.9,GV,6:47.4,USMM,7:27.0,,,,,,,,,,,Final,Knecht Cup
+756,2011-04-10,MHN,0,UNC,6:28.1,VT,6:33.6,LEHI,6:35.4,LASL,6:35.9,M,6,W,6,,,,,Final,Knecht Cup
+757,2011-04-10,MHN,0,DREX,6:10.9,BC,6:13.9,BUCK,6:14.3,TRIN,6:20.7,G,6,H,6,,,,,Final,Knecht Cup
+758,2011-04-10,MHJ,0,TEMP,6:14.4,TRIN,6:18.4,DREX,6:18.5,STJO,6:28.3,B,6,M,6,,,,,Final,Knecht Cup
+759,2011-04-10,WHJ,0,RUTG,7:11.1,DREX,7:14.7,KANS,7:15.1,WV,7:31.5,F,7,,,,,,,Final,Knecht Cup
+760,2011-04-10,WHJ,0,DELA,6:57.7,UMAS,6:58.0,BUFF,6:59.2,CONN,7:02.7,D,7,,,,,,,Final,Knecht Cup
+761,2011-04-10,MHV,0,GMAS,6:23.8,LAFA,6:31.4,PITT,6:33.3,MARI,6:34.4,U,6,P,6,,,,,Final,Knecht Cup
+762,2011-04-10,WHV,0,MERC,7:20.0,PITT,7:22.6,DOWL,7:36.4,PHIL,7:45.3,P,8,,,,,,,Final,Knecht Cup
+763,2011-04-10,MHV,0,PHIL,6:49.1,CARN,7:08.5,,,,,,,,,,,,,Final,Knecht Cup
+764,2011-04-10,MHV,0,UNC,6:14.6,ARMY,6:15.1,LASL,6:18.8,WASC,6:21.0,B,6,U,6,,,,,Final,Knecht Cup
+765,2011-04-10,MHV,0,HOBR,6:07.5,BUCK,6:08.3,RUTG,6:11.5,MARI,6:15.1,S,6,M,6,,,,,Final,Knecht Cup
+766,2011-04-10,MHV,0,TEMP,6:00.1,DELA,6:01.6,TRIN,6:02.3,MRST,6:02.7,D,6,G,6,,,,,Final,Knecht Cup
+767,2011-04-10,WHV,0,FORD,7:01.2,TEMP,7:02.4,COLG,7:03.8,UMAS,7:06.1,D,7,B,7,,,,,Final,Knecht Cup
+768,2011-04-10,WHV,0,BUFF,6:54.3,DREX,6:58.1,UNH,6:58.5,KANS,7:04.9,G,7,U,7,,,,,Final,Knecht Cup
+769,2011-04-10,WHV,0,GV,6:47.3,RUTG,6:47.6,OLDD,6:53.5,DUKE,6:55.3,W,7,,,,,,,Final,Knecht Cup
+770,2011-04-10,MLV,2000,HARV,5:48.9,GEOR,5:52.5,,,,,,,,,,,,,Final,Georgetown vs. Harvard
+771,2011-04-10,MLJ,2000,HARV,6:01.7,GEOR,6:14.8,,,,,,,,,,,,,Final,Georgetown vs. Harvard
+772,2011-04-10,MLN,2000,GEOR,6:08.6,HARV,6:11.4,,,,,,,,,,,,,Final,Georgetown vs. Harvard
+773,2011-04-10,MHV,2000,UNIO,6:43.9,FRMA,6:47.9,,,,,,,,,,,,,Final,Clark/Mt Holyoke/Simmons/Union/F&M/Lowell
+774,2011-04-10,MHJ,2000,UNIO,7:10.1,FRMA,7:28.0,,,,,,,,,,,,,Final,Clark/Mt Holyoke/Simmons/Union/F&M/Lowell
+775,2011-04-10,WHV,2000,MTHO,7:31.5,SIMM,7:34.6,UNIO,7:51.5,FRMA,7:52.8,C,8,M,8,,,,,Final,Clark/Mt Holyoke/Simmons/Union/F&M/Lowell
+776,2011-04-10,WHJ,2000,SIMM,7:47.4,MTHO,7:51.2,FRMA,8:21.3,UNIO,8:35.7,,,,,,,,,Final,Clark/Mt Holyoke/Simmons/Union/F&M/Lowell
+777,2011-04-10,WHV,2000,BATE,7:01.5,TRIN,7:02.0,WELL,7:05.1,HC,7:11.4,W,7,R,7,,,,,Final,WPI/Wellesley/Bates/Trinity/HolyCross/URoch
+778,2011-04-10,WHJ,2000,BATE,7:20.7,WELL,7:25.8,TRIN,7:28.5,HC,7:37.5,W,7,R,8,,,,,Final,WPI/Wellesley/Bates/Trinity/HolyCross/URoch
+779,2011-04-10,MHJ,2000,BATE,6:39.4,WPI,6:44.0,ROCH,6:55.1,URI,6:57.7,,,,,,,,,Final,WPI/Wellesley/Bates/Trinity/HolyCross/URoch
+780,2011-04-10,MHN,2000,URI,7:06.8,ROCH,7:22.4,,,,,,,,,,,,,Final,WPI/Wellesley/Bates/Trinity/HolyCross/URoch
+781,2011-04-10,MHV,2000,URI,6:29.1,BATE,6:31.5,WPI,6:37.6,ROCH,6:52.0,,,,,,,,,Final,WPI/Wellesley/Bates/Trinity/HolyCross/URoch
+782,2011-04-10,MHV,0,OKC,4:20.3,WICH,4:32.6,KAST,4:35.7,NEBR,4:41.6,,,,,,,,,Heat3,Upper Mid West Championships
+783,2011-04-10,MHV,0,STTH,3:58.0,IOWA,4:03.0,,,,,,,,,,,,,Heat2,Upper Mid West Championships
+784,2011-04-10,WHJ,0,CREI,4:49.9,KAST,4:53.8,WICH,5:00.5,,,,,,,,,,,Final,Upper Mid West Championships
+785,2011-04-10,WHV,0,WICH,4:37.0,CREI,4:42.0,STTH,5:14.1,STCL,5:45.0,,,,,,,,,Final,Upper Mid West Championships
+786,2011-04-10,MHV,0,OKC,3:53.1,WICH,3:54.1,KAST,4:08.1,STTH,4:21.0,I,4,,,,,,,Final,Upper Mid West Championships
+787,2011-04-10,MHN,0,KAST,4:03.0,WICH,4:11.1,STTH,4:44.4,IOWA,5:39.2,,,,,,,,,Final,Upper Mid West Championships
+788,2011-04-10,WHV,0,WASU,3:18.7,UCHI,3:30.5,,,,,,,,,,,,,Final,Washington Univ Sprints Regatta
+789,2011-04-10,MHN,0,WASU,3:18.2,UCHI,3:25.8,,,,,,,,,,,,,Final,Washington Univ Sprints Regatta
+790,2011-04-10,MHV,0,WASU,3:05.4,UCHI,3:17.8,STLO,3:25.5,,,,,,,,,,,Final,Washington Univ Sprints Regatta
+791,2011-04-15,WHJ,0,UCLA,7:44.1,TEX,7:46.2,,,,,,,,,,,,,Final,UVA Invitational
+792,2011-04-15,WHJ,0,USC,7:32.0,CLEM,7:42.1,,,,,,,,,,,,,Final,UVA Invitational
+793,2011-04-15,WHJ,0,MIST,7:21.5,UVA,7:27.1,,,,,,,,,,,,,Final,UVA Invitational
+794,2011-04-15,WHV,0,TEX,7:16.7,UCLA,7:18.8,,,,,,,,,,,,,Final,UVA Invitational
+795,2011-04-15,WHV,0,USC,7:03.9,CLEM,7:15.5,,,,,,,,,,,,,Final,UVA Invitational
+796,2011-04-15,WHV,0,UVA,7:14.8,MIST,7:19.4,,,,,,,,,,,,,Final,UVA Invitational
+797,2011-04-15,WHV,0,BUCK,7:11.2,DELA,7:26.7,,,,,,,,,,,,,Final,Bucknell vs. Delaware
+798,2011-04-15,WHJ,0,BUCK,6:57.8,DELA,7:04.2,,,,,,,,,,,,,Final,Bucknell vs. Delaware
+799,2011-04-16,MLV,2000,PRIN,5:47.1,CORN,5:50.2,,,,,,,,,,,,,Final,Platt Cup
+800,2011-04-16,MLJ,2000,PRIN,5:52.9,CORN,5:55.4,,,,,,,,,,,,,Final,Platt Cup
+801,2011-04-16,MLN,2000,CORN,5:59.6,PRIN,6:02.2,,,,,,,,,,,,,Final,Platt Cup
+802,2011-04-16,MLV,2000,HARV,5:49.5,DART,5:51.4,MIT,6:19.0,,,,,,,,,,,Final,Biglin Bowl
+803,2011-04-16,MLJ,2000,HARV,6:03.0,DART,6:05.8,,,,,,,,,,,,,Final,Biglin Bowl
+804,2011-04-16,MLN,2000,HARV,6:15.4,DART,6:22.2,MIT,6:29.2,,,,,,,,,,,Final,Biglin Bowl
+805,2011-04-16,MLV,2000,YALE,6:21.6,COLU,6:30.6,PENN,6:38.5,,,,,,,,,,,Final,Dodge Cup
+806,2011-04-16,MLJ,2000,YALE,7:09.7,PENN,7:23.7,COLU,7:37.1,,,,,,,,,,,Final,Dodge Cup
+807,2011-04-16,MHV,2000,BU,6:21.1,DART,6:31.6,RUTG,6:40.9,,,,,,,,,,,Final,Bill Cup
+808,2011-04-16,MHJ,2000,BU,6:30.1,DART,6:46.4,RUTG,7:08.4,,,,,,,,,,,Final,Bill Cup
+809,2011-04-16,MHN,2000,DART,6:39.9,BU,6:42.6,RUTG,7:37.7,,,,,,,,,,,Final,Bill Cup
+810,2011-04-16,MHV,2000,YALE,6:22.9,PENN,6:35.4,COLU,6:47.3,,,,,,,,,,,Final,Blackwell Cup
+811,2011-04-16,MHJ,2000,YALE,6:41.0,PENN,7:16.1,COLU,7:56.1,,,,,,,,,,,Final,Blackwell Cup
+812,2011-04-16,MHV,2000,HARV,5:45.6,PRIN,5:46.8,,,,,,,,,,,,,Final,Compton Cup
+813,2011-04-16,MHJ,2000,HARV,5:51.8,PRIN,6:01.8,,,,,,,,,,,,,Final,Compton Cup
+814,2011-04-16,MHN,2000,HARV,5:59.6,PRIN,6:05.4,MIT,6:38.1,,,,,,,,,,,Final,Compton Cup
+815,2011-04-16,MHV,2000,BRWN,5:32.7,NORT,5:42.5,,,,,,,,,,,,,Final,Dreissigacker Cup
+816,2011-04-16,MHN,2000,NORT,5:37.2,BRWN,5:40.0,,,,,,,,,,,,,Final,Dreissigacker Cup
+817,2011-04-16,MHV,2000,SYRA,5:42.2,CORN,5:45.0,NAVY,5:46.5,,,,,,,,,,,Final,Goes Cup
+818,2011-04-16,MHJ,2000,NAVY,5:48.7,SYRA,5:50.9,CORN,5:54.7,,,,,,,,,,,Final,Goes Cup
+819,2011-04-16,MHN,2000,NAVY,5:49.7,SYRA,5:54.7,CORN,5:58.4,,,,,,,,,,,Final,Goes Cup
+820,2011-04-16,WHV,2000,DREX,6:40.0,VILN,6:50.2,PHIL,6:50.7,ARMY,6:52.7,V,7,R,7,,,,,Final,Kerr Cup
+821,2011-04-16,WHV,0,URI,8:23.1,TEMP,8:35.2,FORD,8:41.1,DUQN,8:49.7,L,9,,,,,,,Heat3,2011 A10 Championship Regatta
+822,2011-04-16,WHV,0,STJO,8:23.5,UMAS,8:29.8,DAYT,8:35.9,GW,8:44.2,,,,,,,,,Heat3,2011 A10 Championship Regatta
+823,2011-04-16,WHJ,0,STJO,8:47.9,GW,9:08.4,DAYT,9:15.2,TEMP,9:59.5,,,,,,,,,Heat3,2011 A10 Championship Regatta
+824,2011-04-16,WHJ,0,UMAS,8:40.3,URI,8:44.3,FORD,9:14.8,DUQN,9:19.1,,,,,,,,,Heat3,2011 A10 Championship Regatta
+825,2011-04-16,WHV,0,GW,8:42.5,DUQN,9:06.0,LASL,9:10.5,,,,,,,,,,,Final,2011 A10 Championship Regatta
+826,2011-04-16,WHV,0,DAYT,7:52.2,STJO,8:04.5,UMAS,8:08.0,URI,8:09.3,T,8,F,8,,,,,Final,2011 A10 Championship Regatta
+827,2011-04-16,WHJ,0,DUQN,9:20.2,TEMP,9:53.4,,,,,,,,,,,,,Final,2011 A10 Championship Regatta
+828,2011-04-16,WHJ,0,URI,8:32.0,UMAS,8:38.4,STJO,8:46.1,GW,9:06.0,F,9,D,9,,,,,Final,2011 A10 Championship Regatta
+829,2011-04-16,WHV,2000,WELL,7:11.6,CSTG,7:12.1,SMIT,7:21.9,WPI,7:23.5,M,7,C,8,,,,,Final,NEWMAC Championship
+830,2011-04-16,WHJ,2000,SMIT,7:32.0,WELL,7:38.9,WPI,7:48.4,CSTG,7:52.8,M,7,,,,,,,Final,NEWMAC Championship
+831,2011-04-16,WHV,0,OLDD,7:12.6,BUCK,7:22.6,,,,,,,,,,,,,Final,Bucknell vs. Old Dominion
+832,2011-04-16,WHJ,0,BUCK,7:37.9,OLDD,8:09.3,,,,,,,,,,,,,Final,Bucknell vs. Old Dominion
+833,2011-04-16,WHV,0,COLG,7:31.3,DELA,7:33.7,,,,,,,,,,,,,Final,Colgate vs. Delaware & Bucknell
+834,2011-04-16,WHV,2000,PRIN,6:28.1,YALE,6:31.0,OHST,6:42.5,,,,,,,,,,,Final,Eisenberg Cup
+835,2011-04-16,WHJ,2000,PRIN,6:45.1,YALE,6:48.1,OHST,6:49.0,,,,,,,,,,,Final,Eisenberg Cup
+836,2011-04-16,WHV,2000,NORT,6:41.9,BU,6:48.5,LOUV,6:52.4,,,,,,,,,,,Final,Charles River Challenge
+837,2011-04-16,WHJ,2000,LOUV,6:55.8,BU,7:01.5,NORT,7:06.6,,,,,,,,,,,Final,Charles River Challenge
+838,2011-04-16,WHV,0,OLDD,7:34.3,COLG,7:58.0,,,,,,,,,,,,,Final,Colgate vs. Old Dominion
+839,2011-04-16,WHJ,0,OLDD,8:16.7,COLG,8:45.2,,,,,,,,,,,,,Final,Colgate vs. Old Dominion
+840,2011-04-16,WHV,2000,DART,6:37.7,RADC,6:45.3,MINN,6:51.2,SYRA,6:54.7,,,,,,,,,Final,Charles River Challenge
+841,2011-04-16,WHJ,2000,MINN,6:48.2,RADC,6:48.7,DART,6:59.3,SYRA,7:05.7,,,,,,,,,Final,Charles River Challenge
+842,2011-04-16,WHV,2000,MICH,7:11.1,OKLA,7:13.8,INDI,7:15.7,,,,,,,,,,,Final,Michigan/Oklahoma/Indiana/Buffalo/GV
+843,2011-04-16,WHV,2000,BUFF,7:15.3,GV,7:23.1,,,,,,,,,,,,,Final,Michigan/Oklahoma/Indiana/Buffalo/GV
+844,2011-04-16,WHJ,2000,MICH,7:00.9,INDI,7:10.2,OKLA,7:13.0,,,,,,,,,,,Final,Michigan/Oklahoma/Indiana/Buffalo/GV
+845,2011-04-16,WHJ,2000,BUFF,7:19.5,GV,7:27.2,,,,,,,,,,,,,Final,Michigan/Oklahoma/Indiana/Buffalo/GV
+846,2011-04-16,WHV,2000,CORN,6:29.4,PENN,6:33.6,RUTG,6:46.8,,,,,,,,,,,Final,Raritan Cup: Cornell v. Penn & Rutgers
+847,2011-04-16,WHJ,2000,CORN,6:39.3,PENN,6:45.4,RUTG,7:04.5,,,,,,,,,,,Final,Raritan Cup: Cornell v. Penn & Rutgers
+848,2011-04-16,MHN,0,TEX,6:33.3,VAND,6:38.3,WASU,6:53.1,DAYT,7:11.5,M,7,,,,,,,Heat3,SIRA
+849,2011-04-16,MHN,0,UCSD,6:38.4,ND,6:47.2,GATC,6:49.2,VT,6:53.8,L,7,U,8,,,,,Heat3,SIRA
+850,2011-04-16,MHN,0,PURD,6:28.6,UVA,6:39.7,COLO,6:53.4,DELA,6:58.0,C,7,B,7,,,,,Heat3,SIRA
+851,2011-04-16,MHN,0,GW,6:28.6,UNC,6:39.7,TULN,6:53.4,ALAB,6:58.0,N,7,A,7,,,,,Heat3,SIRA
+852,2011-04-16,MHJ,0,STJO,6:30.5,JAX,6:31.9,ND,6:35.2,PURD,10:46.2,,,,,,,,,Heat1,SIRA
+853,2011-04-16,MHJ,0,UCSD,6:04.1,GW,6:09.8,OHST,6:34.6,MIST,6:46.3,,,,,,,,,Heat1,SIRA
+854,2011-04-16,MHJ,0,UVA,6:08.0,TEMP,6:10.9,MARI,6:30.4,UNC,6:39.9,T,6,,,,,,,Heat1,SIRA
+855,2011-04-16,WHV,0,MERC,6:51.2,FLTC,7:01.6,COK,7:03.3,PSU,7:12.3,M,7,,,,,,,Heat3,SIRA
+856,2011-04-16,WHV,0,NOVS,6:50.3,TEXC,7:10.5,VAND,7:14.9,TULN,7:22.0,O,7,,,,,,,Heat3,SIRA
+857,2011-04-16,WHV,0,BARR,6:53.5,EMOR,6:57.8,MISC,7:00.5,ROLL,7:20.4,U,7,,,,,,,Heat3,SIRA
+858,2011-04-16,WHV,0,FLA,6:55.3,MARI,6:56.8,COLO,7:03.1,OHSC,7:04.6,W,7,,,,,,,Heat3,SIRA
+859,2011-04-16,MHV,0,FLTC,5:56.4,MARI,6:07.6,OKC,6:14.2,DAYT,6:22.5,C,6,,,,,,,Heat3,SIRA
+860,2011-04-16,MHV,0,UVA,5:56.1,STJO,5:58.7,PURD,6:00.6,COLO,6:08.1,L,6,,,,,,,Heat3,SIRA
+861,2011-04-16,MHV,0,TEMP,5:55.1,DELA,5:57.2,MERC,5:59.2,OHST,6:08.4,M,6,,,,,,,Heat3,SIRA
+862,2011-04-16,MHV,0,GW,5:54.4,ND,5:54.8,MIST,5:59.1,ROLL,6:23.6,U,6,O,6,,,,,Heat3,SIRA
+863,2011-04-16,MHV,0,UCSD,5:58.4,JAX,6:01.7,UNC,6:03.7,TEX,6:15.0,V,6,N,6,,,,,Heat3,SIRA
+864,2011-04-16,MHN,0,GW,6:01.7,UVA,6:03.9,ND,6:18.4,TEX,6:26.6,W,6,C,7,,,,,Heat3,SIRA
+865,2011-04-16,MHN,0,UCSD,6:01.2,PURD,6:07.5,UNC,6:11.5,GATC,6:17.5,V,6,T,6,,,,,Heat3,SIRA
+866,2011-04-16,MHJ,0,JAX,6:10.8,UNC,6:16.8,OHST,6:24.4,TEX,6:46.5,,,,,,,,,Heat1,SIRA
+867,2011-04-16,MHJ,0,TEMP,6:02.5,ND,6:04.0,MIST,6:33.8,,,,,,,,,,,Heat1,SIRA
+868,2011-04-16,MHJ,0,GW,6:01.1,PURD,6:02.6,MARI,6:16.1,,,,,,,,,,,Heat1,SIRA
+869,2011-04-16,WHV,0,MERC,6:46.1,FLA,6:50.5,EMOR,6:55.6,MISC,6:59.0,C,7,T,7,,,,,Heat3,SIRA
+870,2011-04-16,WHV,0,NOVS,6:46.1,MARI,6:50.5,BARR,6:52.1,FLTC,6:57.7,V,7,C,8,,,,,Heat3,SIRA
+871,2011-04-16,MHV,0,FLTC,5:47.4,GW,5:50.4,STJO,5:51.8,UNC,5:55.3,M,5,,,,,,,Heat2,SIRA
+872,2011-04-16,MHV,0,UVA,5:47.1,UCSD,5:47.5,DELA,5:48.2,MIST,5:56.4,O,5,,,,,,,Heat2,SIRA
+873,2011-04-16,MHV,0,TEMP,5:47.9,JAX,5:50.2,ND,5:53.9,MARI,5:55.1,P,5,,,,,,,Heat2,SIRA
+874,2011-04-16,MHV,2000,LAFA,5:30.7,LEHI,5:36.1,,,,,,,,,,,,,Final,River Cup
+875,2011-04-16,MHN,2000,LEHI,5:44.3,LAFA,5:59.6,,,,,,,,,,,,,Final,River Cup
+876,2011-04-16,WHV,2000,LEHI,6:28.6,LAFA,6:41.7,,,,,,,,,,,,,Final,River Cup
+877,2011-04-16,MHV,2000,STLA,7:20.0,HAML,7:36.0,,,,,,,,,,,,,Final,Hamilton v St. Lawrence
+878,2011-04-16,WHV,2000,UNIO,8:30.6,ALBY,9:21.7,,,,,,,,,,,,,Final,Union College vs. SUNY Albany
+879,2011-04-16,MHV,2000,UNIO,6:58.4,ALBY,7:28.5,,,,,,,,,,,,,Final,Union College vs. SUNY Albany
+880,2011-04-16,MHJ,2000,UNIO,7:26.8,ALBY,8:01.8,,,,,,,,,,,,,Final,Union College vs. SUNY Albany
+881,2011-04-16,MHN,0,TUFT,6:39.5,MIDD,6:56.4,,,,,,,,,,,,,Final,Tufts v Middlebury
+882,2011-04-16,WHV,0,TUFT,7:09.8,MIDD,7:14.0,,,,,,,,,,,,,Final,Tufts v Middlebury
+883,2011-04-16,MHV,1600,WICH,5:00.0,NEBR,5:28.0,,,,,,,,,,,,,Final,Tornado Alley Sprints
+884,2011-04-16,MHJ,0,WILL,6:08.0,WESL,6:30.9,COLB,6:38.7,ITHA,6:40.0,,,,,,,,,Final,DIII in Worcester
+885,2011-04-16,MHN,0,ITHA,6:34.4,WILL,6:44.7,WESL,7:00.1,COLB,7:12.2,,,,,,,,,Final,DIII in Worcester
+886,2011-04-16,MHV,0,WILL,6:19.5,WESL,6:31.5,ITHA,6:41.1,,,,,,,,,,,Final,DIII in Worcester
+887,2011-04-16,WHJ,0,ITHA,7:35.8,HC,7:41.8,MIT,7:54.7,CONC,8:09.6,C,8,,,,,,,Final,DIII in Worcester
+888,2011-04-16,WHV,0,ITHA,7:20.9,MIT,7:24.3,HC,7:26.8,COLB,7:54.8,C,8,,,,,,,Final,DIII in Worcester
+889,2011-04-16,MHJ,0,TRIN,6:07.9,WASC,6:14.1,BATE,6:14.4,WPI,6:20.3,,,,,,,,,Final,DIII in Worcester
+890,2011-04-16,MHN,0,TRIN,6:42.6,UNH,6:49.6,,,,,,,,,,,,,Final,DIII in Worcester
+891,2011-04-16,MHV,0,TRIN,6:24.8,BATE,6:26.1,UNH,6:32.6,WPI,6:41.1,W,6,,,,,,,Final,DIII in Worcester
+892,2011-04-16,WHJ,0,TRIN,7:34.9,BATE,7:41.0,UNH,7:51.8,WASC,8:08.0,S,9,,,,,,,Final,DIII in Worcester
+893,2011-04-16,WHV,0,BATE,7:03.6,UNH,7:12.0,TRIN,7:15.6,WASC,7:32.2,S,7,,,,,,,Final,DIII in Worcester
+894,2011-04-16,MHV,1500,FRMA,5:33.0,SCRA,6:24.0,,,,,,,,,,,,,Final,Franklin & Marshall v Bryn Mawr & Scranton
+895,2011-04-16,WHV,1500,FRMA,6:34.0,BRYN,7:02.0,SCRA,8:01.0,,,,,,,,,,,Final,Franklin & Marshall v Bryn Mawr & Scranton
+896,2011-04-16,WHJ,1500,FRMA,7:49.0,SCRA,8:55.0,,,,,,,,,,,,,Final,Franklin & Marshall v Bryn Mawr & Scranton
+897,2011-04-16,MHV,1500,HOBR,4:32.0,COLG,4:38.0,,,,,,,,,,,,,Final,Seneca Cup
+898,2011-04-16,MHJ,1500,HOBR,4:51.0,COLG,5:07.0,,,,,,,,,,,,,Final,Seneca Cup
+899,2011-04-16,MHV,2000,MINN,6:32.6,MSOE,6:53.6,,,,,,,,,,,,,Final,Wisconsin vs. MSOE and Minnesota
+900,2011-04-16,MHN,2000,MINN,6:51.0,MSOE,7:12.8,,,,,,,,,,,,,Final,Wisconsin vs. MSOE and Minnesota
+901,2011-04-16,MHV,2000,DREX,5:40.8,FORD,5:50.0,LASL,5:53.0,ARMY,5:55.3,V,6,,,,,,,Final,Kerr Cup
+902,2011-04-16,MHN,2000,DREX,5:54.7,LASL,6:04.2,ARMY,6:17.0,FORD,6:38.4,V,6,V,6,,,,,Final,Kerr Cup
+903,2011-04-16,MHV,2000,UCLA,5:59.2,UCSB,6:00.4,,,,,,,,,,,,,Final,UC Santa Barbara vs. UCLA
+904,2011-04-16,MHN,2000,UCSB,6:15.4,UCLA,6:30.1,,,,,,,,,,,,,Final,UC Santa Barbara vs. UCLA
+905,2011-04-16,MHV,2000,URI,6:18.4,UMAS,6:20.4,CSTG,6:32.2,,,,,,,,,,,Final,URI vs. Coast Guard & UMASS
+906,2011-04-16,MHJ,2000,CSTG,6:43.9,URI,6:54.0,,,,,,,,,,,,,Final,URI vs. Coast Guard & UMASS
+907,2011-04-16,MHN,2000,URI,6:45.0,UMAS,6:59.8,CSTG,7:13.8,,,,,,,,,,,Final,URI vs. Coast Guard & UMASS
+908,2011-04-16,MHV,2000,WAST,6:01.8,GONZ,6:07.8,,,,,,,,,,,,,Final,Fawley Cup
+909,2011-04-16,MHJ,2000,GONZ,6:07.0,WAST,6:22.1,,,,,,,,,,,,,Final,Fawley Cup
+910,2011-04-16,MHN,2000,GONZ,6:13.0,WAST,6:29.0,,,,,,,,,,,,,Final,Fawley Cup
+911,2011-04-16,MHV,0,MICH,6:05.0,BUCK,6:07.7,,,,,,,,,,,,,Final,Bucknell vs. Michigan
+912,2011-04-16,MHJ,0,MICH,6:20.1,BUCK,6:52.7,,,,,,,,,,,,,Final,Bucknell vs. Michigan
+913,2011-04-16,MHN,0,BUCK,6:43.5,MICH,6:45.5,,,,,,,,,,,,,Final,Bucknell vs. Michigan
+914,2011-04-16,WLV,1500,STAN,4:42.4,RADC,4:48.4,,,,,,,,,,,,,Final,Class of 2010 Invitational Cup
+915,2011-04-16,WLV,2000,MIT,7:13.0,BUFF,7:19.8,,,,,,,,,,,,,Final,MIT vs. Buffalo & Simmons Openweight
+916,2011-04-16,MHJ,0,STAN,6:06.0,ORST,6:08.3,,,,,,,,,,,,,Final,Stanford Invite
+917,2011-04-16,MHV,0,CAL,5:35.2,WISC,5:36.0,,,,,,,,,,,,,Final,Stanford Invite
+918,2011-04-16,MHV,0,STAN,5:53.0,ORST,5:56.1,,,,,,,,,,,,,Final,Stanford Invite
+919,2011-04-16,MHV,0,OC,6:03.6,UCDV,6:04.7,,,,,,,,,,,,,Final,Stanford Invite
+920,2011-04-16,MHJ,0,WISC,5:43.9,CAL,5:45.0,,,,,,,,,,,,,Final,Stanford Invite
+921,2011-04-16,MHJ,0,OC,6:15.4,UCDV,6:22.5,,,,,,,,,,,,,Final,Stanford Invite
+922,2011-04-16,MHN,0,CAL,5:47.7,WISC,6:04.9,,,,,,,,,,,,,Final,Stanford Invite
+923,2011-04-16,MHN,0,CAL,0:00.0,OC,0:07.5,UCDV,0:27.4,,,,,,,,,,,Final,Stanford Invite
+924,2011-04-16,MHN,0,ORST,6:05.6,STAN,6:21.2,,,,,,,,,,,,,Final,Stanford Invite
+925,2011-04-16,MHN,0,STAN,6:47.5,SCLA,7:01.5,,,,,,,,,,,,,Final,Stanford Invite
+926,2011-04-16,MHN,0,OC,6:28.8,UCDV,7:11.5,,,,,,,,,,,,,Final,Stanford Invite
+927,2011-04-16,MHN,0,WISC,6:19.5,ORST,6:29.0,,,,,,,,,,,,,Final,Stanford Invite
+928,2011-04-16,MHJ,0,CAL,6:07.3,UCDV,6:45.3,,,,,,,,,,,,,Final,Stanford Invite
+929,2011-04-16,MHJ,0,WISC,6:19.8,ORST,6:30.5,,,,,,,,,,,,,Final,Stanford Invite
+930,2011-04-16,MHJ,0,STAN,6:36.5,OC,6:45.9,,,,,,,,,,,,,Final,Stanford Invite
+931,2011-04-16,MHV,0,STAN,6:20.5,OC,6:42.3,,,,,,,,,,,,,Final,Stanford Invite
+932,2011-04-16,MHV,0,WISC,6:16.8,ORST,6:21.7,,,,,,,,,,,,,Final,Stanford Invite
+933,2011-04-16,MHN,0,WISC,6:35.3,STAN,6:59.0,,,,,,,,,,,,,Final,Stanford Invite
+934,2011-04-16,MHV,2000,GEOR,5:58.8,HC,6:12.2,,,,,,,,,,,,,Final,Georgetown University vs. Holy Cross
+935,2011-04-16,MHJ,2000,GEOR,6:21.7,HC,6:24.4,,,,,,,,,,,,,Final,Georgetown University vs. Holy Cross
+936,2011-04-16,MHN,2000,GEOR,6:14.4,HC,6:18.3,,,,,,,,,,,,,Final,Georgetown University vs. Holy Cross
+937,2011-04-16,WHJ,0,CAL,6:32.6,ND,6:43.9,ORST,6:44.9,,,,,,,,,,,Final,Lake Natoma Invitational
+938,2011-04-16,WHJ,0,STAN,6:29.1,WISC,6:30.8,CFLA,7:08.5,,,,,,,,,,,Final,Lake Natoma Invitational
+939,2011-04-16,WHJ,0,BRWN,6:39.2,TENN,6:49.9,SACS,7:02.4,,,,,,,,,,,Final,Lake Natoma Invitational
+940,2011-04-16,WHV,0,CAL,6:25.5,ND,6:36.6,ORST,6:52.2,,,,,,,,,,,Final,Lake Natoma Invitational
+941,2011-04-16,WHV,0,STAN,6:26.8,WISC,6:39.3,CFLA,6:45.0,,,,,,,,,,,Final,Lake Natoma Invitational
+942,2011-04-16,WHV,0,BRWN,6:31.0,TENN,6:38.3,SACS,6:56.3,,,,,,,,,,,Final,Lake Natoma Invitational
+943,2011-04-16,WHJ,0,CAL,6:43.6,TENN,6:58.7,CFLA,7:14.0,,,,,,,,,,,Final,Lake Natoma Invitational
+944,2011-04-16,WHJ,0,STAN,6:40.9,ND,6:55.2,SACS,7:14.1,,,,,,,,,,,Final,Lake Natoma Invitational
+945,2011-04-16,WHJ,0,WISC,6:39.0,BRWN,6:41.4,ORST,6:53.9,,,,,,,,,,,Final,Lake Natoma Invitational
+946,2011-04-16,WHV,0,CAL,6:31.1,TENN,6:38.6,CFLA,6:51.0,,,,,,,,,,,Final,Lake Natoma Invitational
+947,2011-04-16,WHV,0,STAN,6:29.6,ND,6:40.7,SACS,6:58.1,,,,,,,,,,,Final,Lake Natoma Invitational
+948,2011-04-16,WHV,0,BRWN,6:32.0,WISC,6:41.4,ORST,6:55.5,,,,,,,,,,,Final,Lake Natoma Invitational
+949,2011-04-16,WHV,2000,GONZ,6:37.7,WWAS,6:40.4,PUGS,6:53.0,,,,,,,,,,,Final,Blue Cup
+950,2011-04-16,WHJ,2000,WWAS,6:53.5,GONZ,6:57.3,,,,,,,,,,,,,Final,Blue Cup
+951,2011-04-16,WHV,2000,UCSD,7:16.1,UCIR,7:34.3,,,,,,,,,,,,,Final,UC San Diego vs. UC Irvine
+952,2011-04-16,WHJ,0,TEX,6:57.6,CLEM,6:59.8,,,,,,,,,,,,,Final,UVA Invite - Saturday PM
+953,2011-04-16,WHJ,0,UVA,6:53.4,UCLA,7:03.8,,,,,,,,,,,,,Final,UVA Invite - Saturday PM
+954,2011-04-16,WHJ,0,MIST,6:54.4,USC,7:00.8,,,,,,,,,,,,,Final,UVA Invite - Saturday PM
+955,2011-04-16,WHV,0,TEX,6:45.6,CLEM,6:47.7,,,,,,,,,,,,,Final,UVA Invite - Saturday PM
+956,2011-04-16,WHV,0,UVA,6:45.2,UCLA,6:47.6,,,,,,,,,,,,,Final,UVA Invite - Saturday PM
+957,2011-04-16,WHV,0,USC,6:36.8,MIST,6:51.0,,,,,,,,,,,,,Final,UVA Invite - Saturday PM
+958,2011-04-16,MHV,2000,WHEA,6:50.0,UCHI,6:54.0,NORW,7:11.0,,,,,,,,,,,Final,North Shore Invitational
+959,2011-04-16,MHN,2000,NORW,8:05.0,UCHI,8:32.0,,,,,,,,,,,,,Final,North Shore Invitational
+960,2011-04-16,WHV,2000,NORW,7:37.0,NPRK,7:56.0,UCHI,7:59.0,,,,,,,,,,,Final,North Shore Invitational
+961,2011-04-16,MHN,0,SUMA,6:31.0,BING,6:44.0,BUFF,7:45.0,,,,,,,,,,,Final,Busfield Regatta
+962,2011-04-16,WHV,0,BING,6:12.0,GENS,6:28.0,RPI,7:19.0,,,,,,,,,,,Final,Busfield Regatta
+963,2011-04-16,MHV,0,BING,5:46.0,BUFF,5:52.0,RPI,6:13.0,,,,,,,,,,,Final,Busfield Regatta
+964,2011-04-16,MHV,2000,UCIR,6:11.3,LOMY,6:20.8,SDSU,7:05.3,,,,,,,,,,,Final,Parker Cup
+965,2011-04-16,MHN,2000,UCIR,6:28.1,LOMY,6:36.6,SDSU,6:46.1,,,,,,,,,,,Final,Parker Cup
+966,2011-04-17,WHJ,0,UVA,6:29.2,USC,6:32.7,,,,,,,,,,,,,Final,UVA Invite - Sunday AM
+967,2011-04-17,WHJ,0,MIST,6:31.6,TEX,6:36.1,,,,,,,,,,,,,Final,UVA Invite - Sunday AM
+968,2011-04-17,WHJ,0,CLEM,6:40.9,UCLA,6:44.3,,,,,,,,,,,,,Final,UVA Invite - Sunday AM
+969,2011-04-17,WHV,0,USC,6:18.3,UVA,6:27.1,,,,,,,,,,,,,Final,UVA Invite - Sunday AM
+970,2011-04-17,WHV,0,MIST,6:25.4,TEX,6:29.7,,,,,,,,,,,,,Final,UVA Invite - Sunday AM
+971,2011-04-17,WHV,0,CLEM,6:25.0,UCLA,6:27.2,,,,,,,,,,,,,Final,UVA Invite - Sunday AM
+972,2011-04-17,WHV,2000,RADC,7:09.1,OHST,7:11.5,DART,7:12.2,NORT,7:23.7,,,,,,,,,Final,Charles River Challenge Flight A
+973,2011-04-17,WHJ,2000,OHST,7:33.7,RADC,7:38.6,DART,7:49.0,NORT,8:00.7,,,,,,,,,Final,Charles River Challenge Flight A
+974,2011-04-17,WHV,2000,LOUV,7:22.0,MINN,7:28.0,SYRA,7:32.0,BU,7:36.0,,,,,,,,,Final,Charles River Challenge: B Flight
+975,2011-04-17,WHJ,2000,MINN,7:41.0,LOUV,7:51.0,SYRA,7:57.1,BU,7:57.6,,,,,,,,,Final,Charles River Challenge: B Flight
+976,2011-04-17,WHJ,0,ORST,6:45.7,SACS,6:57.5,CFLA,7:01.0,,,,,,,,,,,Final,Lake Natoma Invitational
+977,2011-04-17,WHJ,0,WISC,6:35.3,ND,6:45.2,TENN,6:45.6,,,,,,,,,,,Final,Lake Natoma Invitational
+978,2011-04-17,WHJ,0,STAN,6:29.5,CAL,6:34.7,BRWN,6:37.3,,,,,,,,,,,Final,Lake Natoma Invitational
+979,2011-04-17,WHV,0,CFLA,6:41.8,ORST,6:45.2,SACS,6:50.2,,,,,,,,,,,Final,Lake Natoma Invitational
+980,2011-04-17,WHV,0,TENN,6:31.1,ND,6:33.0,WISC,6:34.0,,,,,,,,,,,Final,Lake Natoma Invitational
+981,2011-04-17,WHV,0,STAN,6:21.4,CAL,6:26.0,BRWN,6:29.1,,,,,,,,,,,Final,Lake Natoma Invitational
+982,2011-04-17,WHV,2000,HC,6:55.0,BC,6:59.5,CONN,7:03.5,,,,,,,,,,,Final,Irving-Christensen Cup
+983,2011-04-17,WHJ,2000,CONN,7:03.8,HC,7:08.2,BC,7:27.0,,,,,,,,,,,Final,Irving-Christensen Cup
+984,2011-04-17,MHV,2000,STLA,8:03.0,UNIO,8:24.0,,,,,,,,,,,,,Final,Union College vs. St. Lawrence University
+985,2011-04-17,WHV,2000,STLA,8:34.0,UNIO,8:45.0,,,,,,,,,,,,,Final,Union College vs. St. Lawrence University
+986,2011-04-17,MHV,2000,GV,7:34.6,ROCH,8:07.8,,,,,,,,,,,,,Final,Grand Valley vs. Rochester
+987,2011-04-17,WHV,2000,GV,9:41.3,ROCH,10:11.,,,,,,,,,,,,,Final,Grand Valley vs. Rochester
+988,2011-04-17,MHN,0,GATC,6:26.1,TEX,6:31.9,COLO,6:37.6,TULN,6:37.7,V,6,W,6,,,,,Final,SIRA - Sunday
+989,2011-04-17,MHN,0,UVA,6:01.9,UCSD,6:02.0,PURD,6:05.6,GW,6:06.2,N,6,U,6,,,,,Final,SIRA - Sunday
+990,2011-04-17,WHJ,0,ALAB,6:49.7,TULS,6:55.7,PURD,6:58.9,KAST,7:04.6,S,7,,,,,,,Final,SIRA - Sunday
+991,2011-04-17,WLV,0,GATC,7:07.2,PURD,7:18.0,FLA,7:25.1,,,,,,,,,,,Final,SIRA - Sunday
+992,2011-04-17,MHJ,0,PURD,6:08.9,ND,6:11.5,MARI,6:19.8,UNC,6:24.5,O,6,M,6,,,,,Final,SIRA - Sunday
+993,2011-04-17,MHJ,0,UVA,5:56.9,UCSD,5:57.9,TEMP,6:00.7,GW,6:05.7,J,6,S,6,,,,,Final,SIRA - Sunday
+994,2011-04-17,WHV,0,FLTC,7:06.3,COLO,7:08.7,MISC,7:09.4,COK,7:12.2,T,7,V,7,,,,,Final,SIRA - Sunday
+995,2011-04-17,WHV,0,MERC,6:50.7,NOVS,6:57.3,FLA,6:59.6,EMOR,7:00.4,B,7,M,7,,,,,Final,SIRA - Sunday
+996,2011-04-17,MLV,0,MARI,6:19.8,STJO,6:22.1,PURD,6:22.6,WLMY,6:24.2,P,6,M,6,,,,,Final,SIRA - Sunday
+997,2011-04-17,WHV,0,ALAB,6:47.0,TULS,6:49.2,KAST,6:49.9,PURD,7:04.6,J,7,S,7,,,,,Final,SIRA - Sunday
+998,2011-04-17,MHV,0,DELA,6:09.3,ND,6:13.0,STJO,6:14.0,MIST,6:15.5,M,6,U,6,,,,,Final,SIRA - Sunday
+999,2011-04-17,MHV,0,FLTC,6:01.7,TEMP,6:04.5,UVA,6:05.6,GW,6:07.4,J,6,U,6,,,,,Final,SIRA - Sunday
+1000,2011-04-17,MHV,2000,BATE,6:41.1,COLB,6:45.8,BOWD,6:56.6,,,,,,,,,,,Final,15th President's Cup
+1001,2011-04-17,MHJ,2000,BATE,6:58.1,COLB,7:06.4,,,,,,,,,,,,,Final,15th President's Cup
+1002,2011-04-17,WHV,2000,BATE,7:26.3,COLB,7:52.7,,,,,,,,,,,,,Final,15th President's Cup
+1003,2011-04-17,WHJ,2000,BATE,7:58.0,COLB,8:22.1,,,,,,,,,,,,,Final,15th President's Cup
+1004,2011-04-17,MHV,0,WISC,5:45.8,STAN,5:51.4,,,,,,,,,,,,,Final,Stanford Invite
+1005,2011-04-17,MHV,0,CAL,5:52.2,ORST,5:58.1,,,,,,,,,,,,,Final,Stanford Invite
+1006,2011-04-17,MHJ,0,WISC,5:49.6,STAN,6:11.8,,,,,,,,,,,,,Final,Stanford Invite
+1007,2011-04-17,MHJ,0,CAL,5:58.9,ORST,6:05.0,,,,,,,,,,,,,Final,Stanford Invite
+1008,2011-04-17,MHN,0,CAL,6:06.8,ORST,6:16.3,,,,,,,,,,,,,Final,Stanford Invite
+1009,2011-04-17,MHV,0,UCDV,6:11.0,SCLA,6:12.8,,,,,,,,,,,,,Final,Stanford Invite
+1010,2011-04-17,MHJ,0,OC,6:18.9,UCDV,6:28.1,,,,,,,,,,,,,Final,Stanford Invite
+1011,2011-04-17,MHN,0,OC,6:10.0,STAN,6:14.1,,,,,,,,,,,,,Final,Stanford Invite
+1012,2011-04-17,WLV,2000,STAN,8:20.3,MIT,9:08.4,,,,,,,,,,,,,Final,MIT vs. Stanford
+1013,2011-04-17,WLV,2000,RADC,8:18.7,BUFF,8:45.9,,,,,,,,,,,,,Final,Radcliffe vs. University of Buffalo
+1014,2011-04-17,MHJ,0,RIT,6:26.7,WPI,6:27.5,WASC,6:28.2,,,,,,,,,,,Final,RIT/Skidmore/Tufts/Wash Col/Will Smith/WPI
+1015,2011-04-17,MHN,0,RIT,6:55.3,TUFT,6:55.8,,,,,,,,,,,,,Final,RIT/Skidmore/Tufts/Wash Col/Will Smith/WPI
+1016,2011-04-17,MHV,0,WPI,6:37.5,RIT,6:38.0,WASC,6:55.7,TUFT,7:32.3,,,,,,,,,Final,RIT/Skidmore/Tufts/Wash Col/Will Smith/WPI
+1017,2011-04-17,WHJ,0,WLSM,7:22.0,TUFT,7:24.4,WPI,7:31.6,WASC,7:33.0,S,8,,,,,,,Final,RIT/Skidmore/Tufts/Wash Col/Will Smith/WPI
+1018,2011-04-17,WHV,0,WLSM,7:17.1,WPI,7:23.2,WASC,7:31.5,TUFT,7:39.4,S,7,R,8,,,,,Final,RIT/Skidmore/Tufts/Wash Col/Will Smith/WPI
+1019,2011-04-17,MHV,1500,SKID,6:16.5,ALBY,6:38.4,,,,,,,,,,,,,Final,Skidmore College vs. University of Albany
+1020,2011-04-17,MHN,1500,SKID,6:54.5,ALBY,7:12.6,,,,,,,,,,,,,Final,Skidmore College vs. University of Albany
+1021,2011-04-22,MHV,2000,BU,5:46.7,SYRA,5:48.5,COLU,5:55.5,,,,,,,,,,,Final,Conlan Cup / Lusins Cup
+1022,2011-04-22,MHJ,2000,BU,5:58.3,SYRA,6:01.2,COLU,6:13.9,,,,,,,,,,,Final,Conlan Cup / Lusins Cup
+1023,2011-04-22,MHN,2000,BU,5:52.7,COLU,6:02.9,SYRA,6:08.2,,,,,,,,,,,Final,Conlan Cup / Lusins Cup
+1024,2011-04-22,MHV,2000,BRWN,5:05.7,DART,5:06.4,,,,,,,,,,,,,Final,Atalanta Cup
+1025,2011-04-22,MHJ,2000,BRWN,5:17.1,DART,5:21.5,,,,,,,,,,,,,Final,Atalanta Cup
+1026,2011-04-22,MHN,2000,BRWN,5:15.9,DART,5:25.2,,,,,,,,,,,,,Final,Atalanta Cup
+1027,2011-04-22,WHV,2000,BRWN,6:12.2,URI,6:31.4,BU,6:33.3,,,,,,,,,,,Final,Arlene Gorton Bowl
+1028,2011-04-22,WHJ,2000,BRWN,6:18.4,URI,6:27.9,BU,6:45.1,,,,,,,,,,,Final,Arlene Gorton Bowl
+1029,2011-04-22,MHV,2000,MERC,6:50.6,PHIL,7:05.8,FRMA,7:17.4,,,,,,,,,,,Final,Philadelphia University vs. Dowling
+1030,2011-04-22,WHV,2000,PHIL,7:44.0,FRMA,7:49.5,MERC,7:50.8,MALW,7:54.7,D,8,,,,,,,Final,Philadelphia University vs. Dowling
+1031,2011-04-23,MHN,0,OHUN,0:00.0,PSU,0:09.2,WV,0:22.6,CLEV,0:51.0,,,,,,,,,Final,WV Governor's Cup Regatta
+1032,2011-04-23,MHJ,0,PSU,5:49.7,OHUN,6:26.5,,,,,,,,,,,,,Final,WV Governor's Cup Regatta
+1033,2011-04-23,WHV,0,EMIC,6:27.0,PSU,6:36.5,UCHR,6:41.3,OHUN,6:42.5,,,,,,,,,Final,WV Governor's Cup Regatta
+1034,2011-04-23,MHV,0,PSU,6:08.3,CLEV,6:15.9,OHUN,6:19.5,JCAR,6:25.3,I,6,W,6,,,,,Final,WV Governor's Cup Regatta
+1035,2011-04-23,MLV,2000,CORN,5:59.6,GEOR,6:00.0,COLU,6:04.6,MIT,6:23.9,,,,,,,,,Final,Geiger Cup
+1036,2011-04-23,MLJ,2000,CORN,6:08.6,COLU,6:27.0,GEOR,6:42.4,,,,,,,,,,,Final,Geiger Cup
+1037,2011-04-23,MLN,2000,COLU,6:12.5,CORN,6:17.5,GEOR,6:29.3,MIT,6:41.5,,,,,,,,,Final,Geiger Cup
+1038,2011-04-23,MLV,2000,DART,5:38.8,YALE,5:41.5,,,,,,,,,,,,,Final,Durand Cup
+1039,2011-04-23,MLJ,2000,YALE,5:50.8,DART,5:56.0,,,,,,,,,,,,,Final,Durand Cup
+1040,2011-04-23,MLN,2000,YALE,5:56.8,DART,6:02.5,,,,,,,,,,,,,Final,Durand Cup
+1041,2011-04-23,MLV,2000,YALE,6:12.2,CORN,6:16.3,DELA,6:29.4,,,,,,,,,,,Final,Yale v Cornell & Delaware
+1042,2011-04-23,MLJ,2000,CORN,6:20.5,YALE,6:22.7,DELA,6:36.8,,,,,,,,,,,Final,Yale v Cornell & Delaware
+1043,2011-04-23,MLN,2000,YALE,6:12.9,CORN,6:18.0,DELA,6:28.8,,,,,,,,,,,Final,Yale v Cornell & Delaware
+1044,2011-04-23,MLV,2000,HARV,5:53.0,NAVY,5:54.2,,,,,,,,,,,,,Final,Haines Cup
+1045,2011-04-23,MLJ,2000,HARV,5:59.4,NAVY,6:02.2,,,,,,,,,,,,,Final,Haines Cup
+1046,2011-04-23,MLN,2000,HARV,6:11.4,NAVY,6:17.7,,,,,,,,,,,,,Final,Haines Cup
+1047,2011-04-23,MLV,2000,PRIN,5:43.5,PENN,5:48.4,GEOR,5:51.6,,,,,,,,,,,Final,Wood-Hammond Cup
+1048,2011-04-23,MLJ,2000,PRIN,5:55.1,PENN,6:09.7,GEOR,6:18.6,,,,,,,,,,,Final,Wood-Hammond Cup
+1049,2011-04-23,MLN,2000,PRIN,5:54.0,PENN,5:58.4,GEOR,6:04.3,,,,,,,,,,,Final,Wood-Hammond Cup
+1050,2011-04-23,MHV,2000,GEOR,5:39.6,NORT,5:42.1,,,,,,,,,,,,,Final,Georgetown vs. Northeastern
+1051,2011-04-23,MHN,2000,NORT,5:52.9,GEOR,6:01.3,,,,,,,,,,,,,Final,Georgetown vs. Northeastern
+1052,2011-04-23,MHV,2000,PRIN,5:49.2,CORN,5:52.8,YALE,6:00.1,,,,,,,,,,,Final,Carnegie Cup
+1053,2011-04-23,MHJ,2000,PRIN,5:53.0,CORN,5:57.7,YALE,5:58.4,,,,,,,,,,,Final,Carnegie Cup
+1054,2011-04-23,MHN,2000,PRIN,5:51.2,CORN,5:55.7,YALE,6:04.9,,,,,,,,,,,Final,Carnegie Cup
+1055,2011-04-23,MHV,2000,HARV,5:31.5,NAVY,5:35.1,PENN,5:47.1,,,,,,,,,,,Final,Adams Cup
+1056,2011-04-23,MHJ,2000,HARV,5:36.3,NAVY,5:45.0,PENN,5:47.2,,,,,,,,,,,Final,Adams Cup
+1057,2011-04-23,MHN,2000,HARV,5:39.0,NAVY,5:45.2,PENN,5:59.4,,,,,,,,,,,Final,Adams Cup
+1058,2011-04-23,MHV,2000,GEOR,5:32.1,GW,5:38.3,RUTG,5:42.1,,,,,,,,,,,Final,George Washington University vs. Georgetown
+1059,2011-04-23,MHJ,2000,GW,5:27.8,GEOR,5:36.0,RUTG,5:59.6,,,,,,,,,,,Final,George Washington University vs. Georgetown
+1060,2011-04-23,MHN,2000,GW,5:25.8,GEOR,5:25.9,RUTG,5:38.8,,,,,,,,,,,Final,George Washington University vs. Georgetown
+1061,2011-04-23,MHV,2000,PENN,6:04.0,NORT,6:05.5,,,,,,,,,,,,,Final,Burk Cup
+1062,2011-04-23,MHJ,2000,PENN,6:17.5,TEMP,6:30.1,,,,,,,,,,,,,Final,Burk Cup
+1063,2011-04-23,MHN,2000,NORT,6:11.5,PENN,6:23.5,,,,,,,,,,,,,Final,Burk Cup
+1064,2011-04-23,MHV,2000,HC,6:12.8,BUCK,6:13.5,,,,,,,,,,,,,Final,Holy Cross vs. Bucknell
+1065,2011-04-23,MHJ,2000,HC,6:32.4,BUCK,6:52.1,,,,,,,,,,,,,Final,Holy Cross vs. Bucknell
+1066,2011-04-23,MHN,2000,BUCK,6:30.3,HC,6:34.0,,,,,,,,,,,,,Final,Holy Cross vs. Bucknell
+1067,2011-04-23,WHV,2000,OHST,6:34.9,MIST,6:36.1,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1068,2011-04-23,WHJ,2000,MIST,6:51.0,OHST,7:00.5,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1069,2011-04-23,WHJ,2000,MICH,6:43.1,WAST,6:47.0,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1070,2011-04-23,WHV,2000,WAST,6:37.6,MICH,6:40.8,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1071,2011-04-23,WHV,2000,OHST,6:52.3,MICH,7:01.1,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1072,2011-04-23,WHJ,2000,MICH,6:50.4,OHST,7:00.0,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1073,2011-04-23,WHV,2000,MIST,6:39.0,WAST,6:42.7,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1074,2011-04-23,WHJ,2000,MIST,6:45.8,WAST,6:50.0,,,,,,,,,,,,,Final,Ohio State/Michigan/Michigan St/Wash St
+1075,2011-04-23,WHV,2000,PRIN,5:54.0,DART,6:03.5,PENN,6:13.1,,,,,,,,,,,Final,Dartmouth v UPenn/Princeton
+1076,2011-04-23,WHJ,2000,PRIN,6:03.2,DART,6:12.8,PENN,6:13.4,,,,,,,,,,,Final,Dartmouth v UPenn/Princeton
+1077,2011-04-23,WHV,2000,BRWN,7:41.8,COLU,7:55.4,CORN,7:56.0,,,,,,,,,,,Final,The Dunn Bowl
+1078,2011-04-23,WHJ,2000,BRWN,7:52.5,CORN,8:10.1,COLU,8:23.6,,,,,,,,,,,Final,The Dunn Bowl
+1079,2011-04-23,WHV,2000,SACS,6:44.8,UCDV,6:58.1,,,,,,,,,,,,,Final,Sacramento State vs. UC Davis
+1080,2011-04-23,WHJ,2000,SACS,6:53.7,UCDV,7:29.8,,,,,,,,,,,,,Final,Sacramento State vs. UC Davis
+1081,2011-04-23,WHV,0,TAMP,8:31.9,ROLL,8:42.5,,,,,,,,,,,,,Final,Sunshine State Conference Championships
+1082,2011-04-23,WHV,0,NOVS,7:37.9,FLTC,7:44.6,BARR,7:48.6,,,,,,,,,,,Final,Sunshine State Conference Championships
+1083,2011-04-23,WHV,2000,KAST,6:42.7,KANS,6:53.8,,,,,,,,,,,,,Final,Kansas Cup
+1084,2011-04-23,WHJ,2000,KAST,6:55.2,KANS,7:00.5,,,,,,,,,,,,,Final,Kansas Cup
+1085,2011-04-23,WHV,2000,HC,7:13.3,UMAS,7:14.4,,,,,,,,,,,,,Final,Holy Cross vs. UMass
+1086,2011-04-23,WHJ,2000,UMAS,7:14.0,HC,7:33.0,,,,,,,,,,,,,Final,Holy Cross vs. UMass
+1087,2011-04-23,WHV,2000,UVA,6:23.9,CLEM,6:25.1,DUKE,6:41.4,UMIA,6:49.6,B,6,U,6,,,,,Final,ACC Women's Rowing Championships
+1088,2011-04-23,WHJ,2000,UVA,6:35.9,CLEM,6:40.8,DUKE,6:59.6,UMIA,7:04.5,B,7,U,7,,,,,Final,ACC Women's Rowing Championships
+1089,2011-04-23,WHJ,0,SMIT,7:06.2,TUFT,7:19.5,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1090,2011-04-23,WHJ,0,WELL,7:09.1,SIMM,7:22.2,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1091,2011-04-23,WHJ,0,TUFT,7:12.4,SIMM,7:21.4,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1092,2011-04-23,WHJ,0,SMIT,7:04.7,WELL,7:08.1,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1093,2011-04-23,WHV,0,SMIT,6:55.0,TUFT,6:58.3,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1094,2011-04-23,WHV,0,WELL,6:51.0,SIMM,7:10.8,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1095,2011-04-23,WHV,0,TUFT,7:15.4,SIMM,7:20.3,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1096,2011-04-23,WHV,0,WELL,6:57.5,SMIT,7:07.9,,,,,,,,,,,,,Final,Tufts/Simmons/Smith/Wellesley
+1097,2011-04-23,WHV,2000,RADC,6:33.1,YALE,6:36.1,,,,,,,,,,,,,Final,The Case Cup
+1098,2011-04-23,WHJ,2000,YALE,6:40.6,RADC,6:41.2,,,,,,,,,,,,,Final,The Case Cup
+1099,2011-04-23,WHV,2000,CAL,6:18.5,WASH,6:24.3,,,,,,,,,,,,,Final,Washington vs. California
+1100,2011-04-23,WHJ,2000,CAL,6:27.8,WASH,6:33.2,,,,,,,,,,,,,Final,Washington vs. California
+1101,2011-04-23,WHV,2000,WLSM,6:13.5,STLA,6:17.5,SKID,6:51.7,,,,,,,,,,,Final,Liberty League Championships
+1102,2011-04-23,WHJ,2000,STLA,6:39.6,WLSM,6:41.0,,,,,,,,,,,,,Final,Liberty League Championships
+1103,2011-04-23,WHV,2000,WLSM,6:31.0,SKID,6:44.5,,,,,,,,,,,,,Heat1,Liberty League Championships
+1104,2011-04-23,WHV,2000,STLA,6:25.8,UNIO,6:46.0,,,,,,,,,,,,,Heat1,Liberty League Championships
+1105,2011-04-23,MHV,2000,WILL,6:26.0,BATE,6:43.7,ITHA,6:45.8,CSTG,6:49.1,,,,,,,,,Final,2011 Onota Cup: Bates/USCGA/Ithaca/Williams
+1106,2011-04-23,MHJ,2000,WILL,6:36.4,BATE,6:58.4,CSTG,7:02.0,ITHA,7:20.4,,,,,,,,,Final,2011 Onota Cup: Bates/USCGA/Ithaca/Williams
+1107,2011-04-23,MHN,2000,ITHA,6:49.2,WILL,6:54.6,CSTG,7:40.9,,,,,,,,,,,Final,2011 Onota Cup: Bates/USCGA/Ithaca/Williams
+1108,2011-04-23,WHV,2000,WILL,7:14.3,BATE,7:23.0,ITHA,7:28.4,CSTG,7:37.7,,,,,,,,,Final,2011 Onota Cup: Bates/USCGA/Ithaca/Williams
+1109,2011-04-23,WHJ,2000,WILL,7:26.8,BATE,7:32.5,ITHA,7:47.3,CSTG,8:06.2,,,,,,,,,Final,2011 Onota Cup: Bates/USCGA/Ithaca/Williams
+1110,2011-04-23,WHJ,0,WWAS,7:20.2,WLMT,7:30.9,HUMS,7:40.2,LECL,7:45.2,,,,,,,,,Final,NCRC Championship
+1111,2011-04-23,MHV,0,LECL,6:24.7,WWAS,6:25.8,WLMT,6:35.5,PUGS,6:39.4,P,6,H,7,,,,,Final,NCRC Championship
+1112,2011-04-23,WHV,0,WWAS,6:53.7,PUGS,7:06.9,SPAC,7:07.8,HUMS,7:08.7,L,7,W,7,,,,,Final,NCRC Championship
+1113,2011-04-23,MHN,0,WWAS,6:52.3,HUMS,6:59.8,PACL,7:22.4,,,,,,,,,,,Final,NCRC Championship
+1114,2011-04-23,MHV,2000,MIST,6:11.9,OHST,6:19.9,CINC,6:30.6,,,,,,,,,,,Final,State's Cup:OSU Club/MSU Club/Cincy/Dayton
+1115,2011-04-23,MHJ,2000,OHST,6:33.5,MIST,6:56.7,,,,,,,,,,,,,Final,State's Cup:OSU Club/MSU Club/Cincy/Dayton
+1116,2011-04-23,MHN,2000,MIST,6:42.2,CINC,6:45.6,OHST,6:46.6,,,,,,,,,,,Final,State's Cup:OSU Club/MSU Club/Cincy/Dayton
+1117,2011-04-23,WHV,2000,DAYT,6:59.3,MISC,7:23.6,OHSC,7:25.3,,,,,,,,,,,Final,State's Cup:OSU Club/MSU Club/Cincy/Dayton
+1118,2011-04-23,WHJ,2000,DAYT,7:24.7,OHSC,7:29.1,CINC,7:50.9,,,,,,,,,,,Final,State's Cup:OSU Club/MSU Club/Cincy/Dayton
+1119,2011-04-23,WHV,1500,UVM,5:42.6,COLB,5:46.8,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1120,2011-04-23,WHV,1500,UNH,5:40.9,MIDD,6:01.0,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1121,2011-04-23,MHV,1500,UNH,4:57.8,MIDD,5:10.7,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1122,2011-04-23,MHV,1500,COLB,5:00.1,UVM,5:03.2,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1123,2011-04-23,MHN,1500,UNH,5:12.7,UVM,5:17.1,MIDD,5:34.5,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1124,2011-04-23,WHV,1500,MIDD,5:55.7,COLB,6:01.6,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1125,2011-04-23,WHV,1500,UNH,5:44.0,UVM,5:56.7,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1126,2011-04-23,MHV,1500,UVM,5:10.0,MIDD,5:17.8,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1127,2011-04-23,MHV,1500,UNH,4:40.7,COLB,4:47.5,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1128,2011-04-23,MHJ,1500,COLB,5:16.8,MIDD,5:31.9,,,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1129,2011-04-23,WHJ,1500,UNH,5:43.4,UVM,6:05.1,COLB,6:30.0,,,,,,,,,,,Final,Colby vs. Middlebury/UNH/UVM
+1130,2011-04-23,MHV,2000,TRIN,6:19.1,WESL,6:20.4,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+1131,2011-04-23,MHJ,2000,TRIN,6:37.1,WESL,6:47.3,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+1132,2011-04-23,WHV,2000,TRIN,7:18.0,WESL,7:38.8,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+1133,2011-04-23,WHJ,2000,TRIN,7:33.3,WESL,7:54.7,,,,,,,,,,,,,Final,Trinity College vs. Wesleyan University
+1134,2011-04-23,MHV,2000,UCLA,7:02.2,USC,7:26.7,,,,,,,,,,,,,Final,UCLA vs. USC
+1135,2011-04-23,MHN,2000,UCLA,7:46.4,USC,8:02.9,,,,,,,,,,,,,Final,UCLA vs. USC
+1136,2011-04-23,MHJ,0,WPI,6:56.5,RPI,7:30.4,,,,,,,,,,,,,Final,WPI/BC/RPI/UMass
+1137,2011-04-23,MHN,0,BC,6:48.3,UMAS,7:27.5,RPI,7:30.4,,,,,,,,,,,Final,WPI/BC/RPI/UMass
+1138,2011-04-23,MHV,0,UMAS,6:37.6,BC,6:39.9,WPI,6:43.2,RPI,7:46.2,,,,,,,,,Final,WPI/BC/RPI/UMass
+1139,2011-04-23,MHV,2000,WASH,5:35.0,CAL,5:37.6,,,,,,,,,,,,,Final,Washington vs. California
+1140,2011-04-23,MHJ,2000,WASH,5:37.9,CAL,5:47.6,,,,,,,,,,,,,Final,Washington vs. California
+1141,2011-04-23,MHN,2000,CAL,5:42.9,WASH,5:48.2,,,,,,,,,,,,,Final,Washington vs. California
+1142,2011-04-23,MHV,2000,HOBR,5:35.1,UNIO,5:56.1,STLA,6:03.9,,,,,,,,,,,Final,Liberty League Championships
+1143,2011-04-23,MHJ,2000,HOBR,5:58.8,UNIO,6:18.1,,,,,,,,,,,,,Final,Liberty League Championships
+1144,2011-04-23,MHV,2000,HOBR,5:41.8,SKID,6:11.6,,,,,,,,,,,,,Heat1,Liberty League Championships
+1145,2011-04-23,MHV,2000,UNIO,5:52.8,STLA,5:53.0,,,,,,,,,,,,,Heat1,Liberty League Championships
+1146,2011-04-23,MHN,2000,HOBR,5:58.1,STLA,6:11.8,SKID,6:19.7,,,,,,,,,,,Final,Liberty League Championships
+1147,2011-04-23,MHV,2000,SACS,5:59.8,UCDV,6:00.1,,,,,,,,,,,,,Final,Sacramento State vs. UC Davis
+1148,2011-04-23,MHJ,2000,UCDV,6:14.4,SACS,6:49.1,,,,,,,,,,,,,Final,Sacramento State vs. UC Davis
+1149,2011-04-23,MHN,2000,MIT,6:14.0,COLG,6:44.0,,,,,,,,,,,,,Final,MIT vs. Colgate
+1150,2011-04-23,WLV,2000,PRIN,6:42.6,RADC,6:49.7,BUCK,7:03.1,,,,,,,,,,,Final,Class of 1999 Cup; Radcliffe vs. Princeton
+1151,2011-04-23,WLV,2000,WISC,6:46.7,MIT,7:20.7,,,,,,,,,,,,,Final,University of Wisconsin vs. MIT
+1152,2011-04-23,WHV,2000,TULS,6:57.6,COK,7:33.3,,,,,,,,,,,,,Final,Tulsa Duels
+1153,2011-04-24,MLV,2000,DART,5:29.8,COLU,5:39.4,,,,,,,,,,,,,Final,Subin Cup
+1154,2011-04-24,MLJ,2000,DART,5:37.1,COLU,5:51.5,,,,,,,,,,,,,Final,Subin Cup
+1155,2011-04-24,MLN,2000,COLU,5:28.5,DART,5:33.0,,,,,,,,,,,,,Final,Subin Cup
+1156,2011-04-24,WHV,2000,BUCK,6:54.2,COLG,6:57.2,NAVY,6:58.1,HC,6:58.9,M,7,L,7,,,,,Final,Patriot League Championship
+1157,2011-04-24,WHJ,2000,BUCK,6:57.2,NAVY,6:59.6,HC,7:07.4,LEHI,7:17.9,M,7,C,7,,,,,Final,Patriot League Championship
+1158,2011-04-24,WHV,2000,WAST,6:42.8,OHST,6:44.2,,,,,,,,,,,,,Final,Ohio State vs. Washington State
+1159,2011-04-24,WHJ,2000,OHST,6:55.6,WAST,6:57.4,,,,,,,,,,,,,Final,Ohio State vs. Washington State
+1160,2011-04-24,WHJ,0,NORT,6:43.3,BUFF,6:46.9,DELA,6:50.0,DREX,6:54.1,O,7,G,7,,,,,Final,CAA Rowing Championship
+1161,2011-04-24,WHV,0,NORT,6:30.7,OLDD,6:35.5,BUFF,6:38.0,DREX,6:40.9,G,6,D,6,,,,,Final,CAA Rowing Championship
+1162,2011-04-29,WHJ,0,USD,7:09.5,GONZ,7:14.1,STMY,7:24.2,LOMY,7:32.3,C,7,S,8,,,,,Final,WCC Championship
+1163,2011-04-29,WHV,0,USD,6:56.9,GONZ,6:58.5,STMY,7:23.0,CREI,7:32.8,L,7,S,7,,,,,Final,WCC Championship
+1164,2011-04-30,MLV,2000,PENN,5:36.9,MIT,5:45.9,,,,,,,,,,,,,Final,University of Pennsylvania vs. M.I.T.
+1165,2011-04-30,MLN,2000,PENN,5:46.1,MIT,5:52.6,,,,,,,,,,,,,Final,University of Pennsylvania vs. M.I.T.
+1166,2011-04-30,MLV,2000,DART,6:17.9,CORN,6:23.9,,,,,,,,,,,,,Final,Baggaley Bowl
+1167,2011-04-30,MLJ,2000,CORN,6:26.1,DART,6:31.9,,,,,,,,,,,,,Final,Baggaley Bowl
+1168,2011-04-30,MLN,2000,CORN,6:22.3,DART,6:32.5,,,,,,,,,,,,,Final,Baggaley Bowl
+1169,2011-04-30,MLV,2000,NAVY,5:46.9,PENN,5:54.0,,,,,,,,,,,,,Final,Callow Trophy
+1170,2011-04-30,MLJ,2000,NAVY,5:58.6,PENN,6:15.3,,,,,,,,,,,,,Final,Callow Trophy
+1171,2011-04-30,MLN,2000,PENN,6:07.4,NAVY,6:15.8,,,,,,,,,,,,,Final,Callow Trophy
+1172,2011-04-30,MLV,2000,HARV,6:03.7,PRIN,6:04.7,YALE,6:08.5,,,,,,,,,,,Final,Goldthwait and Vogel Cups
+1173,2011-04-30,MLJ,2000,HARV,6:12.2,PRIN,6:14.1,YALE,6:22.0,,,,,,,,,,,Final,Goldthwait and Vogel Cups
+1174,2011-04-30,MLN,2000,YALE,6:14.7,PRIN,6:15.1,HARV,6:22.2,,,,,,,,,,,Final,Goldthwait and Vogel Cups
+1175,2011-04-30,MLV,2000,DELA,5:30.6,MIT,5:43.3,,,,,,,,,,,,,Final,MIT vs. Delaware
+1176,2011-04-30,MLN,2000,DELA,5:40.5,MIT,5:42.5,,,,,,,,,,,,,Final,MIT vs. Delaware
+1177,2011-04-30,MHV,2000,HC,5:48.5,RUTG,5:51.3,,,,,,,,,,,,,Final,Rutgers University vs. Holy Cross
+1178,2011-04-30,MHJ,2000,HC,5:57.6,RUTG,6:08.2,,,,,,,,,,,,,Final,Rutgers University vs. Holy Cross
+1179,2011-04-30,MHN,2000,HC,5:57.8,RUTG,6:17.2,,,,,,,,,,,,,Final,Rutgers University vs. Holy Cross
+1180,2011-04-30,MHV,2000,HARV,5:56.7,NORT,6:11.4,,,,,,,,,,,,,Final,Charlie Smith Cup
+1181,2011-04-30,MHN,2000,HARV,6:03.1,NORT,6:04.3,,,,,,,,,,,,,Final,Charlie Smith Cup
+1182,2011-04-30,MHV,2000,NAVY,6:00.3,COLU,6:03.5,GW,6:21.6,,,,,,,,,,,Final,Maxwell Stevenson Cup
+1183,2011-04-30,MHJ,2000,NAVY,6:16.9,GW,6:35.3,COLU,6:40.1,,,,,,,,,,,Final,Maxwell Stevenson Cup
+1184,2011-04-30,MHN,2000,NAVY,6:22.1,COLU,6:35.6,GW,6:50.4,,,,,,,,,,,Final,Maxwell Stevenson Cup
+1185,2011-04-30,MHV,2000,WISC,4:37.8,DART,4:39.3,,,,,,,,,,,,,Final,Cochrane cup
+1186,2011-04-30,MHJ,2000,WISC,4:37.7,DART,4:42.6,,,,,,,,,,,,,Final,Cochrane cup
+1187,2011-04-30,MHN,2000,WISC,4:40.4,DART,4:43.5,MIT,4:54.3,,,,,,,,,,,Final,Cochrane cup
+1188,2011-04-30,MHV,2000,PRIN,6:02.1,BRWN,6:04.7,,,,,,,,,,,,,Final,Content Cup
+1189,2011-04-30,MHJ,2000,PRIN,6:10.0,BRWN,6:13.2,,,,,,,,,,,,,Final,Content Cup
+1190,2011-04-30,MHN,2000,PRIN,6:20.1,BRWN,6:24.2,,,,,,,,,,,,,Final,Content Cup
+1191,2011-04-30,WHV,2000,CFLA,0:00.0,UMIA,0:09.7,JAX,0:21.0,,,,,,,,,,,Final,UCF vs. Miami & Jacksonville
+1192,2011-04-30,WHV,2000,URI,7:14.7,BUFF,7:24.9,,,,,,,,,,,,,Final,DI Women at Ithaca
+1193,2011-04-30,WHJ,2000,URI,7:18.4,BUFF,7:23.9,,,,,,,,,,,,,Final,DI Women at Ithaca
+1194,2011-04-30,WHV,2000,DUKE,7:12.2,IOWA,7:16.7,BUCK,7:28.5,,,,,,,,,,,Final,DI Women at Ithaca
+1195,2011-04-30,WHJ,2000,IOWA,7:12.2,BUCK,7:16.1,DUKE,7:24.2,,,,,,,,,,,Final,DI Women at Ithaca
+1196,2011-04-30,WHV,2000,USC,6:22.3,UCLA,6:37.0,,,,,,,,,,,,,Final,UCLA vs. USC
+1197,2011-04-30,WHJ,2000,USC,6:33.3,UCLA,6:38.9,,,,,,,,,,,,,Final,UCLA vs. USC
+1198,2011-04-30,WHV,2000,BRWN,6:04.6,YALE,6:09.8,,,,,,,,,,,,,Final,Nat and Anne Case Cup
+1199,2011-04-30,WHJ,2000,BRWN,6:06.3,YALE,6:11.6,,,,,,,,,,,,,Final,Nat and Anne Case Cup
+1200,2011-04-30,MHJ,0,UCSD,6:19.7,OC,6:25.7,UCDV,6:29.5,UCIR,6:45.2,,,,,,,,,Heat3,WIRA
+1201,2011-04-30,MHJ,0,GONZ,6:21.3,UCSB,6:36.9,WAST,6:40.7,,,,,,,,,,,Heat2,WIRA
+1202,2011-04-30,WHV,0,WWAS,7:10.5,SPAC,7:15.6,HUMS,7:22.7,WLMT,7:26.2,M,7,C,7,C,8,,,Heat3,WIRA
+1203,2011-04-30,WHV,0,PUGS,7:17.8,OC,7:19.8,LECL,7:22.0,UCSB,7:24.4,U,7,S,7,,,,,Heat3,WIRA
+1204,2011-04-30,MHV,0,UCSD,6:22.9,UCDV,6:23.9,SACS,6:24.5,SCLA,6:36.9,L,6,,,,,,,Heat2,WIRA
+1205,2011-04-30,MHV,0,GONZ,6:17.3,UCLA,6:17.8,UCIR,6:18.4,OC,6:23.1,S,6,,,,,,,Heat2,WIRA
+1206,2011-04-30,MHV,0,WAST,6:18.0,USD,6:18.3,UCSB,6:19.0,COLO,6:33.1,W,6,P,6,,,,,Heat2,WIRA
+1207,2011-04-30,MHN,0,UCSD,6:33.2,WAST,6:38.3,AZST,6:41.8,SDSU,6:53.4,C,7,,,,,,,Heat2,WIRA
+1208,2011-04-30,MHN,0,OC,6:33.8,UCSB,6:44.1,COLO,6:54.1,SCLA,7:00.6,L,8,C,8,,,,,Heat2,WIRA
+1209,2011-04-30,MHN,0,GONZ,6:36.8,USD,6:44.1,UCLA,6:54.3,ORGN,7:00.3,U,7,P,7,,,,,Heat2,WIRA
+1210,2011-04-30,MHN,0,UCIR,7:04.5,LOMY,7:18.9,CSLB,7:19.7,CHAP,7:23.5,P,7,,,,,,,Final,WIRA
+1211,2011-04-30,MHN,0,AZST,6:59.3,COLO,7:00.7,SDSU,7:01.5,SCLA,7:02.3,U,7,O,7,,,,,Final,WIRA
+1212,2011-04-30,MLV,0,CAL,6:39.4,WAST,6:41.9,HUMS,7:02.7,AZST,7:12.7,,,,,,,,,Final,WIRA
+1213,2011-04-30,WLV,0,STAN,7:12.6,WAST,7:56.0,UCSD,8:53.6,,,,,,,,,,,Final,WIRA
+1214,2011-04-30,MHN,0,OC,6:06.8,GONZ,6:08.9,UCSD,6:11.7,UCSB,6:14.4,U,6,W,6,,,,,Final,WIRA
+1215,2011-04-30,MHJ,0,UCIR,6:30.1,WAST,6:35.4,,,,,,,,,,,,,Final,WIRA
+1216,2011-04-30,WHJ,0,WWAS,7:07.2,WLMT,7:09.9,HUMS,7:17.5,UCSB,7:23.1,M,7,,,,,,,Final,WIRA
+1217,2011-04-30,WHJ,0,SACS,6:51.8,USD,6:56.5,GONZ,7:00.1,SDSU,7:09.9,S,7,C,7,,,,,Final,WIRA
+1218,2011-04-30,MHJ,0,UCSD,6:04.3,OC,6:05.8,GONZ,6:07.0,UCDV,6:16.6,U,6,,,,,,,Final,WIRA
+1219,2011-04-30,MHV,0,SONO,6:13.4,LECL,6:16.0,WLMT,6:20.7,PACL,6:31.9,,,,,,,,,Final,WIRA
+1220,2011-04-30,WHV,0,UCSB,6:56.6,WLMT,6:58.8,MILL,7:00.0,UCSD,7:06.4,C,7,S,7,C,7,,,Final,WIRA
+1221,2011-04-30,MHV,0,UCIR,5:56.5,OC,5:58.8,SACS,6:00.3,UCSB,6:03.3,S,6,C,6,,,,,Final,WIRA
+1222,2011-04-30,WHV,0,WWAS,6:36.5,SPAC,6:45.4,HUMS,6:46.4,PUGS,6:47.7,L,6,O,6,,,,,Final,WIRA
+1223,2011-04-30,MHV,0,UCSD,5:52.6,GONZ,5:53.8,UCLA,5:58.3,WAST,5:58.7,U,6,U,6,,,,,Final,WIRA
+1224,2011-04-30,WHV,0,USD,6:31.1,GONZ,6:33.4,SACS,6:34.6,UCDV,6:46.2,S,6,S,6,C,7,,,Final,WIRA
+1225,2011-04-30,WHV,2000,CORN,6:54.2,DART,7:01.8,,,,,,,,,,,,,Final,Parents Cup: Cornell v. Dartmouth
+1226,2011-04-30,WHJ,2000,CORN,6:59.9,DART,7:01.3,,,,,,,,,,,,,Final,Parents Cup: Cornell v. Dartmouth
+1227,2011-04-30,WHV,2000,PRIN,6:51.1,UVA,7:03.4,COLU,7:05.5,TENN,7:08.1,,,,,,,,,Final,Princeton vs. Virginia
+1228,2011-04-30,WHJ,2000,PRIN,7:06.0,UVA,7:09.0,TENN,7:35.0,COLU,7:42.5,,,,,,,,,Final,Princeton vs. Virginia
+1229,2011-04-30,WHV,2000,TEX,6:47.7,OKLA,6:57.9,KAST,7:02.5,KANS,7:03.5,,,,,,,,,Final,Big 12 Championship
+1230,2011-04-30,WHJ,2000,TEX,6:55.9,OKLA,7:09.8,KAST,7:14.4,KANS,7:16.5,,,,,,,,,Final,Big 12 Championship
+1231,2011-04-30,WHV,2000,RADC,6:43.9,NORT,6:52.0,BU,6:59.7,MIT,7:02.4,B,7,,,,,,,Final,Beanpot Regatta
+1232,2011-04-30,WHJ,2000,RADC,7:07.0,NORT,7:19.8,BU,7:26.3,MIT,7:38.0,B,7,,,,,,,Final,Beanpot Regatta
+1233,2011-04-30,WHV,2000,WAST,6:48.2,ORST,7:03.2,,,,,,,,,,,,,Final,Oregon State v Washington State
+1234,2011-04-30,WHJ,2000,WAST,6:57.7,ORST,6:58.5,,,,,,,,,,,,,Final,Oregon State v Washington State
+1235,2011-04-30,WHV,0,CORN,7:10.4,DUKE,7:22.0,URI,7:25.1,,,,,,,,,,,Final,Women DI at Ithaca
+1236,2011-04-30,WHJ,0,CORN,7:21.8,IOWA,7:24.7,URI,7:26.3,,,,,,,,,,,Final,Women DI at Ithaca
+1237,2011-04-30,WHV,0,DART,7:19.6,IOWA,7:27.2,BUFF,7:38.4,,,,,,,,,,,Final,Women DI at Ithaca
+1238,2011-04-30,WHJ,0,DART,7:20.4,BUCK,7:33.6,BUFF,7:45.4,,,,,,,,,,,Final,Women DI at Ithaca
+1239,2011-04-30,WHV,2000,STLA,6:44.5,HAML,6:46.4,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1240,2011-04-30,WHJ,2000,STLA,6:48.9,HAML,6:54.8,ROCH,7:15.4,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1241,2011-04-30,WHV,2000,ROCH,6:52.9,UNIO,6:56.0,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1242,2011-04-30,WHV,2000,STLA,6:53.9,ROCH,7:07.1,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1243,2011-04-30,MHN,0,BC,6:08.9,UNH,6:17.3,URI,6:26.4,UVM,6:31.5,M,6,,,,,,,Heat3,New England Rowing Championships
+1244,2011-04-30,MHN,0,TRIN,6:05.7,WILL,6:08.8,TUFT,6:31.2,CONN,6:37.3,U,6,,,,,,,Heat3,New England Rowing Championships
+1245,2011-04-30,MHN,0,BC,5:58.5,TRIN,6:00.7,WILL,6:02.5,UNH,6:14.8,U,6,T,6,,,,,Final,New England Rowing Championships
+1246,2011-04-30,MHN,0,UVM,6:25.9,MIDD,6:29.4,UMAS,6:41.4,CONN,6:43.9,,,,,,,,,Final,New England Rowing Championships
+1247,2011-04-30,WHV,0,WILL,6:27.1,HC,6:41.0,CSTG,6:42.0,SIMM,6:48.8,T,6,,,,,,,Heat2,New England Rowing Championships
+1248,2011-04-30,WHV,0,BATE,6:35.4,WELL,6:39.4,SMIT,6:44.0,MTHO,6:47.8,W,6,M,7,,,,,Heat2,New England Rowing Championships
+1249,2011-04-30,WHV,0,UNH,6:38.4,TRIN,6:42.6,WPI,6:50.0,UVM,6:53.9,M,6,C,7,,,,,Heat2,New England Rowing Championships
+1250,2011-04-30,WHV,0,WILL,6:34.0,BATE,6:41.6,WELL,6:42.8,TRIN,6:45.8,H,6,U,6,,,,,Final,New England Rowing Championships
+1251,2011-04-30,WHV,0,CSTG,6:45.5,WPI,6:46.2,SIMM,6:51.1,SMIT,6:51.2,U,6,M,6,,,,,Final,New England Rowing Championships
+1252,2011-04-30,WHV,0,MIDD,7:03.6,WESL,7:05.9,TUFT,7:07.8,COLB,7:19.8,,,,,,,,,Final,New England Rowing Championships
+1253,2011-04-30,WHJ,0,WILL,6:45.9,HC,6:51.4,UNH,6:55.5,WPI,7:07.0,C,7,,,,,,,Heat2,New England Rowing Championships
+1254,2011-04-30,WHJ,0,TRIN,6:50.7,WELL,6:56.0,MTHO,7:03.7,SIMM,7:08.0,W,7,,,,,,,Heat2,New England Rowing Championships
+1255,2011-04-30,WHJ,0,BATE,6:47.8,SMIT,6:53.0,TUFT,7:00.0,UVM,7:07.6,C,7,,,,,,,Heat2,New England Rowing Championships
+1256,2011-04-30,WHJ,0,WILL,6:40.9,BATE,6:44.9,HC,6:50.7,TRIN,6:51.0,S,6,W,6,,,,,Final,New England Rowing Championships
+1257,2011-04-30,WHJ,0,UNH,6:56.0,TUFT,7:00.4,WPI,7:05.3,SIMM,7:09.0,M,7,U,7,,,,,Final,New England Rowing Championships
+1258,2011-04-30,WHJ,0,WESL,7:04.9,CSTG,7:10.2,COLB,7:30.8,,,,,,,,,,,Final,New England Rowing Championships
+1259,2011-04-30,MHV,0,WILL,5:54.5,UNH,5:57.7,UMAS,5:59.7,MIDD,6:10.4,C,6,,,,,,,Heat2,New England Rowing Championships
+1260,2011-04-30,MHV,0,TRIN,5:55.5,BATE,5:57.2,COLB,5:58.6,CSTG,6:15.3,A,7,,,,,,,Heat2,New England Rowing Championships
+1261,2011-04-30,MHV,0,WPI,5:57.6,URI,5:59.6,WESL,6:01.0,BC,6:02.3,,,,,,,,,Heat2,New England Rowing Championships
+1262,2011-04-30,MHV,0,WILL,5:50.3,TRIN,5:56.4,BATE,6:01.7,UNH,6:02.0,W,6,U,6,,,,,Final,New England Rowing Championships
+1263,2011-04-30,MHV,0,COLB,6:03.5,UMAS,6:05.8,WESL,6:06.9,BC,6:08.9,M,6,C,6,,,,,Final,New England Rowing Championships
+1264,2011-04-30,MHV,0,CONN,6:36.0,AMHR,7:11.8,,,,,,,,,,,,,Final,New England Rowing Championships
+1265,2011-04-30,MHJ,0,WILL,6:07.6,WPI,6:13.2,WESL,6:16.4,MIDD,6:32.6,C,6,,,,,,,Heat3,New England Rowing Championships
+1266,2011-04-30,MHJ,0,TRIN,6:07.0,BATE,6:11.1,COLB,6:13.1,CSTG,6:14.6,,,,,,,,,Heat3,New England Rowing Championships
+1267,2011-04-30,MHJ,0,WILL,6:00.8,TRIN,6:08.8,BATE,6:09.8,WPI,6:10.3,W,6,C,6,,,,,Final,New England Rowing Championships
+1268,2011-04-30,MHJ,0,CSTG,6:18.7,MIDD,6:31.9,CONN,6:44.0,,,,,,,,,,,Final,New England Rowing Championships
+1269,2011-04-30,WHV,0,DOWL,7:08.0,FAIR,7:14.6,SACH,7:42.2,IONA,8:32.2,,,,,,,,,Final,Metropolitan Intercollegiate Championships
+1270,2011-04-30,MHN,0,FAIR,6:58.6,FORD,7:18.3,IONA,7:19.1,USMM,7:44.1,M,8,,,,,,,Final,Metropolitan Intercollegiate Championships
+1271,2011-04-30,MHV,0,FORD,6:25.9,IONA,6:29.8,DOWL,6:35.8,,,,,,,,,,,Final,Metropolitan Intercollegiate Championships
+1272,2011-04-30,MHV,2000,DREX,5:30.6,TEMP,5:32.8,LASL,5:44.0,STJO,5:47.1,,,,,,,,,Final,BERGEN and KELLY CUP
+1273,2011-04-30,MHJ,2000,TEMP,5:35.6,DREX,5:40.2,STJO,5:41.7,,,,,,,,,,,Final,BERGEN and KELLY CUP
+1274,2011-04-30,MHN,2000,DREX,5:49.5,LASL,5:58.5,,,,,,,,,,,,,Final,BERGEN and KELLY CUP
+1275,2011-04-30,WHV,2000,STJO,6:15.4,DREX,6:18.7,TEMP,6:22.6,PHIL,6:34.9,L,6,,,,,,,Final,BERGEN and KELLY CUP
+1276,2011-04-30,WHJ,2000,STJO,6:14.4,DREX,6:25.0,TEMP,6:40.0,,,,,,,,,,,Final,BERGEN and KELLY CUP
+1277,2011-04-30,MHN,0,CAL,5:51.4,STAN,6:22.0,,,,,,,,,,,,,Final,California vs. Stanford
+1278,2011-04-30,MHJ,0,CAL,5:47.7,STAN,5:58.6,,,,,,,,,,,,,Final,California vs. Stanford
+1279,2011-04-30,MHV,0,CAL,5:39.2,STAN,5:48.1,,,,,,,,,,,,,Final,California vs. Stanford
+1280,2011-04-30,WHJ,0,STAN,6:35.0,CAL,6:37.6,,,,,,,,,,,,,Final,California vs. Stanford
+1281,2011-04-30,WHV,0,CAL,6:20.0,STAN,6:24.0,,,,,,,,,,,,,Final,California vs. Stanford
+1282,2011-04-30,MHJ,2000,WASC,6:14.1,FRMA,7:16.3,,,,,,,,,,,,,Final,Mid-Atlantic Rowing Conference
+1283,2011-04-30,MHV,2000,WASC,6:02.3,RUCM,6:12.2,FRMA,6:12.6,,,,,,,,,,,Final,Mid-Atlantic Rowing Conference
+1284,2011-04-30,WHJ,2000,WASC,7:09.1,MAWA,7:31.7,FRMA,7:41.7,NPRK,7:47.6,,,,,,,,,Final,Mid-Atlantic Rowing Conference
+1285,2011-04-30,WHV,2000,MARI,6:31.7,WASC,6:33.5,FRMA,6:44.9,MAWA,6:45.2,B,6,N,6,,,,,Final,Mid-Atlantic Rowing Conference
+1286,2011-04-30,MHN,0,GV,5:30.0,PURD,5:33.0,MIST,5:33.0,MICH,5:47.0,,,,,,,,,Final,MACRA Championship Regatta
+1287,2011-04-30,WHV,0,GV,5:29.0,MERC,5:44.0,MIST,6:06.0,UCHI,6:18.0,,,,,,,,,Heat3,MACRA Championship Regatta
+1288,2011-04-30,WHV,0,PURD,5:28.0,DRAK,5:45.0,EMIC,5:49.0,NORW,5:52.0,,,,,,,,,Heat3,MACRA Championship Regatta
+1289,2011-04-30,MHV,0,MICH,5:00.0,PURD,5:05.0,MIST,5:08.0,MINN,5:12.0,N,5,,,,,,,Heat3,MACRA Championship Regatta
+1290,2011-04-30,MHV,0,GV,5:07.0,MERC,5:28.0,ND,5:39.0,CLEV,6:22.0,,,,,,,,,Heat3,MACRA Championship Regatta
+1291,2011-04-30,MHV,2000,UVA,5:53.8,DELA,5:56.2,,,,,,,,,,,,,Final,Virginia vs. Delaware
+1292,2011-04-30,MHV,2000,UNIO,6:14.5,HAML,6:16.0,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1293,2011-04-30,MHJ,2000,ROCH,6:18.5,UNIO,6:35.1,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1294,2011-04-30,MHV,2000,STLA,6:17.6,ROCH,6:25.3,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1295,2011-04-30,MHV,2000,ROCH,6:16.1,UNIO,6:16.7,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1296,2011-04-30,MHN,2000,STLA,6:29.9,ROCH,6:31.1,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1297,2011-04-30,MHV,2000,STLA,6:22.8,HAML,6:30.2,,,,,,,,,,,,,Final,Hamilton College vs. St. Lawrence
+1298,2011-04-30,WLV,2000,PRIN,7:39.3,GEOR,7:56.9,,,,,,,,,,,,,Final,Princeton Lwt Women v Georgetown Lwt Women
+1299,2011-04-30,WLV,2000,RADC,7:04.1,MIT,7:29.3,,,,,,,,,,,,,Final,The Muri Cup
+1300,2011-05-01,MHV,2000,WISC,5:44.7,BU,5:45.0,,,,,,,,,,,,,Final,Jablonic Cup
+1301,2011-05-01,MHJ,2000,WISC,5:49.1,BU,5:58.7,,,,,,,,,,,,,Final,Jablonic Cup
+1302,2011-05-01,MHN,2000,BU,5:51.9,WISC,5:56.6,,,,,,,,,,,,,Final,Jablonic Cup
+1303,2011-05-01,WHV,2000,WISC,6:10.0,MINN,6:14.4,,,,,,,,,,,,,Final,Wisconsin vs. Minnesota
+1304,2011-05-01,WHJ,2000,WISC,6:41.0,MINN,6:50.4,,,,,,,,,,,,,Final,Wisconsin vs. Minnesota
+1305,2011-05-01,WHJ,0,NAVY,7:10.5,GW,7:13.3,DELA,7:15.4,FORD,7:30.0,,,,,,,,,Final,ECAC Mid-Atlantic/New England Regionals
+1306,2011-05-01,WHV,0,NAVY,7:02.5,DELA,7:06.8,COLG,7:08.2,FORD,7:08.8,G,7,,,,,,,Final,ECAC Mid-Atlantic/New England Regionals
+1307,2011-05-01,WHV,0,LOUV,6:51.7,GEOR,6:53.0,RUTG,7:19.2,VILN,7:24.7,,,,,,,,,Heat3,Big East Championship
+1308,2011-05-01,WHV,0,ND,6:56.5,SYRA,7:02.3,WV,7:03.7,CONN,7:06.3,,,,,,,,,Heat3,Big East Championship
+1309,2011-05-01,WHJ,0,ND,7:06.6,GEOR,7:12.0,CONN,7:28.6,WV,7:36.1,,,,,,,,,Heat3,Big East Championship
+1310,2011-05-01,WHJ,0,LOUV,7:12.1,SYRA,7:16.0,RUTG,7:29.7,VILN,7:39.6,,,,,,,,,Heat3,Big East Championship
+1311,2011-05-01,WHJ,0,VILN,7:21.0,WV,7:27.6,,,,,,,,,,,,,Final,Big East Championship
+1312,2011-05-01,WHJ,0,ND,6:49.1,LOUV,6:51.0,GEOR,6:58.1,SYRA,6:59.8,C,7,R,7,,,,,Final,Big East Championship
+1313,2011-05-01,WHV,0,CONN,7:02.8,VILN,7:18.3,,,,,,,,,,,,,Final,Big East Championship
+1314,2011-05-01,WHV,0,LOUV,6:40.0,ND,6:42.8,GEOR,6:44.7,RUTG,6:47.1,S,6,W,7,,,,,Final,Big East Championship
+1315,2011-05-01,MHN,0,VT,6:22.1,GMAS,6:41.8,LOYO,6:52.1,STJN,6:55.4,V,7,,,,,,,Final,Mid-Atlantic Collegiate Championships
+1316,2011-05-01,MHN,0,UMD,7:04.7,LBTY,7:30.5,,,,,,,,,,,,,Final,Mid-Atlantic Collegiate Championships
+1317,2011-05-01,MHN,0,VT,6:35.7,GMAS,6:54.0,STJN,7:04.9,UMD,7:30.4,,,,,,,,,Heat3,Mid-Atlantic Collegiate Championships
+1318,2011-05-01,MHN,0,LOYO,7:14.8,LBTY,7:32.6,VCOM,7:35.3,,,,,,,,,,,Heat3,Mid-Atlantic Collegiate Championships
+1319,2011-05-01,MHV,0,GMAS,6:03.8,LBTY,6:29.9,VT,6:48.3,,,,,,,,,,,Final,Mid-Atlantic Collegiate Championships
+1320,2011-05-01,WHV,0,BUCK,6:50.3,LOYO,6:57.7,,,,,,,,,,,,,Final,Mid-Atlantic Collegiate Championships
+1321,2011-05-01,WHV,0,VCOM,7:10.0,STMD,7:11.6,UMD,8:10.9,,,,,,,,,,,Final,Mid-Atlantic Collegiate Championships
+1322,2011-05-01,MHV,2000,HOBR,6:00.8,ARMY,6:05.9,MRST,6:07.7,RIT,6:12.7,I,6,B,6,,,,,Final,Ithaca/Army/Binghamton/Hobart/Marist/RIT
+1323,2011-05-01,MHJ,2000,MRST,6:14.5,RIT,6:16.4,ARMY,6:21.5,HOBR,6:22.7,,,,,,,,,Final,Ithaca/Army/Binghamton/Hobart/Marist/RIT
+1324,2011-05-01,MHN,2000,MRST,6:12.8,ARMY,6:17.6,ITHA,6:22.1,HOBR,6:29.7,R,6,,,,,,,Final,Ithaca/Army/Binghamton/Hobart/Marist/RIT
+1325,2011-05-01,WHV,2000,ITHA,6:52.6,MRST,7:02.8,ARMY,7:09.5,BING,7:12.6,,,,,,,,,Final,Ithaca/Army/Binghamton/Hobart/Marist/RIT
+1326,2011-05-01,WHJ,2000,ITHA,6:49.1,MRST,7:05.9,,,,,,,,,,,,,Final,Ithaca/Army/Binghamton/Hobart/Marist/RIT
+1327,2011-05-01,MHN,1700,WASU,6:45.7,ILLI,6:49.8,,,,,,,,,,,,,Final,Washington University Sprints: Part III
+1328,2011-05-01,MHV,1700,WASU,6:11.1,ILLI,6:43.3,,,,,,,,,,,,,Final,Washington University Sprints: Part III
+1329,2011-05-07,MHV,0,WASH,5:43.2,STAN,5:55.7,CAMB,6:02.5,,,,,,,,,,,Final,Windermere Cup
+1330,2011-05-07,MHJ,0,WASH,5:55.6,STAN,6:14.4,ORST,6:22.1,,,,,,,,,,,Final,Windermere Cup
+1331,2011-05-07,WHV,0,WASH,6:42.6,OKLA,6:57.1,CAMB,7:05.3,,,,,,,,,,,Final,Windermere Cup
+1332,2011-05-07,WHV,0,WWAS,6:58.1,SPAC,7:21.3,,,,,,,,,,,,,Final,Windermere Cup
+1333,2011-05-07,MHN,0,WASH,6:02.6,ORST,6:22.9,,,,,,,,,,,,,Final,Windermere Cup
+1334,2011-05-08,MHV,0,WILL,5:52.4,MRST,5:53.3,COLB,5:56.4,BATE,5:58.6,U,6,C,6,S,6,,,Heat2,ECAC NIRC Championship
+1335,2011-05-08,MHV,0,MICH,5:52.4,BUCK,5:56.0,UNH,6:05.7,RIT,6:09.5,I,6,H,6,T,6,,,Heat2,ECAC NIRC Championship
+1336,2011-05-08,MHV,0,TRIN,5:51.6,HOBR,5:53.4,WPI,5:56.4,URI,5:57.9,W,5,B,6,T,6,,,Heat2,ECAC NIRC Championship
+1337,2011-05-08,MHV,0,MICH,5:57.4,WILL,5:59.3,BUCK,6:01.7,HOBR,6:04.4,T,6,M,6,,,,,Final,ECAC NIRC Championship
+1338,2011-05-08,MHV,0,BATE,6:12.5,COLB,6:14.9,UNH,6:16.0,URI,6:18.4,W,6,R,6,,,,,Final,ECAC NIRC Championship
+1339,2011-05-08,MHV,0,UMAS,6:15.8,BC,6:16.0,WESL,6:18.9,CSTG,6:20.5,I,6,H,6,,,,,Final,ECAC NIRC Championship
+1340,2011-05-08,MHV,0,STLA,6:29.6,TULN,6:38.9,TUFT,6:50.2,,,,,,,,,,,Final,ECAC NIRC Championship
+1341,2011-05-08,MHN,0,BC,6:02.1,WILL,6:03.3,MRST,6:07.6,TUFT,6:28.0,S,6,,,,,,,Heat2,ECAC NIRC Championship
+1342,2011-05-08,MHN,0,BUCK,6:06.9,MICH,6:12.1,UNH,6:22.5,RIT,6:31.2,U,6,,,,,,,Heat2,ECAC NIRC Championship
+1343,2011-05-08,MHN,0,TRIN,6:06.0,ITHA,6:09.8,URI,6:18.6,HOBR,6:22.1,,,,,,,,,Heat2,ECAC NIRC Championship
+1344,2011-05-08,MHN,0,BUCK,6:12.0,MICH,6:14.4,ITHA,6:14.5,TRIN,6:14.6,W,6,B,6,,,,,Final,ECAC NIRC Championship
+1345,2011-05-08,MHN,0,MRST,6:10.4,UNH,6:16.1,HOBR,6:17.0,URI,6:18.2,T,6,R,6,,,,,Final,ECAC NIRC Championship
+1346,2011-05-08,MHN,0,STLA,6:42.3,UMAS,6:47.4,,,,,,,,,,,,,Final,ECAC NIRC Championship
+1347,2011-05-08,MHJ,0,WILL,5:59.5,TRIN,6:03.6,BATE,6:05.5,HOBR,6:07.0,W,6,I,6,,,,,Heat3,ECAC NIRC Championship
+1348,2011-05-08,MHJ,0,MICH,6:00.5,WPI,6:04.3,RIT,6:06.4,MRST,6:06.8,B,6,C,6,,,,,Heat3,ECAC NIRC Championship
+1349,2011-05-08,MHJ,0,WILL,6:06.5,MICH,6:10.0,TRIN,6:17.1,BATE,6:19.2,W,6,R,6,,,,,Final,ECAC NIRC Championship
+1350,2011-05-08,MHJ,0,BUCK,6:27.1,MRST,6:29.1,HOBR,6:29.3,COLB,6:30.1,W,6,I,6,,,,,Final,ECAC NIRC Championship
+1351,2011-05-08,WHV,0,WILL,6:26.0,TRIN,6:37.3,SIMM,6:44.7,HC,6:46.0,S,6,C,7,T,7,,,Heat2,ECAC NIRC Championship
+1352,2011-05-08,WHV,0,BATE,6:35.8,ITHA,6:38.9,UNH,6:42.8,HAML,6:46.9,S,6,T,6,C,7,,,Heat2,ECAC NIRC Championship
+1353,2011-05-08,WHV,0,WELL,6:36.5,WLSM,6:39.0,CSTG,6:39.9,WPI,6:42.0,M,6,W,6,R,7,,,Heat2,ECAC NIRC Championship
+1354,2011-05-08,WHV,0,WILL,6:45.2,BATE,6:50.7,WELL,6:52.9,TRIN,6:55.7,I,6,W,7,,,,,Final,ECAC NIRC Championship
+1355,2011-05-08,WHV,0,UNH,7:00.2,HC,7:01.0,WPI,7:03.5,CSTG,7:05.8,H,7,S,7,,,,,Final,ECAC NIRC Championship
+1356,2011-05-08,WHV,0,SMIT,7:08.2,STLA,7:10.3,MTHO,7:13.3,TUFT,7:14.2,W,7,C,7,,,,,Final,ECAC NIRC Championship
+1357,2011-05-08,WHV,0,TULN,7:21.3,CONC,7:30.6,RIT,7:47.1,,,,,,,,,,,Final,ECAC NIRC Championship
+1358,2011-05-08,WHJ,0,WILL,6:38.7,TRIN,6:45.6,HC,6:52.3,TUFT,7:02.3,W,7,C,7,,,,,Heat2,ECAC NIRC Championship
+1359,2011-05-08,WHJ,0,BATE,6:44.8,ITHA,6:46.3,SMIT,6:50.2,HAML,7:02.4,S,7,C,7,,,,,Heat2,ECAC NIRC Championship
+1360,2011-05-08,WHJ,0,UNH,6:51.4,WELL,6:51.6,WLSM,6:54.4,STLA,6:58.2,W,6,M,7,,,,,Heat2,ECAC NIRC Championship
+1361,2011-05-08,WHJ,0,WILL,6:46.5,BATE,6:52.1,TRIN,6:58.5,ITHA,7:01.9,U,7,W,7,,,,,Final,ECAC NIRC Championship
+1362,2011-05-08,WHJ,0,SMIT,6:56.8,HC,6:57.1,WLSM,7:03.5,TUFT,7:05.7,H,7,S,7,,,,,Final,ECAC NIRC Championship
+1363,2011-05-08,WHJ,0,WESL,7:14.7,SIMM,7:19.9,WPI,7:23.3,MTHO,7:28.0,C,7,C,7,,,,,Final,ECAC NIRC Championship
+1364,2011-05-09,WHV,2000,GEOR,7:06.3,GW,7:11.0,GMAS,7:12.4,,,,,,,,,,,Final,1998 Cup / Georges Trophy
+1365,2011-05-09,WHJ,2000,GW,7:12.7,GEOR,7:19.4,GMAS,7:36.9,,,,,,,,,,,Final,1998 Cup / Georges Trophy
+1366,2011-05-13,MHV,0,MICH,6:00.6,PURD,6:03.7,MARI,6:13.1,LASL,6:21.0,W,6,,,,,,,Heat2,Dad Vail Regatta - Heats
+1367,2011-05-13,MHV,0,FLTC,5:57.2,BROC,6:01.1,OKC,6:15.5,MINN,6:16.5,S,6,,,,,,,Heat2,Dad Vail Regatta - Heats
+1368,2011-05-13,MHV,0,WILL,5:59.6,GV,6:02.3,MIST,6:04.4,VILN,6:29.0,D,7,,,,,,,Heat2,Dad Vail Regatta - Heats
+1369,2011-05-13,MHV,0,TEMP,6:04.3,MRST,6:07.2,GMAS,6:27.5,DAYT,6:35.4,L,6,,,,,,,Heat2,Dad Vail Regatta - Heats
+1370,2011-05-13,MHV,0,DELA,5:52.6,UVA,5:54.6,BC,6:12.6,ARMY,6:21.9,B,6,,,,,,,Heat2,Dad Vail Regatta - Heats
+1371,2011-05-13,MHV,0,DREX,5:57.8,JAX,5:59.1,URI,6:10.6,UVM,6:12.4,O,6,L,6,,,,,Heat2,Dad Vail Regatta - Heats
+1372,2011-05-13,WHV,0,MERC,6:56.8,SPAC,7:01.8,BARR,7:05.6,DOWL,7:10.1,P,7,,,,,,,Heat3,Dad Vail Regatta - Heats
+1373,2011-05-13,WHV,0,GV,6:58.9,NOVS,6:59.9,FLTC,7:12.4,COK,7:16.0,M,7,,,,,,,Heat3,Dad Vail Regatta - Heats
+1374,2011-05-13,WHV,0,OLDD,6:44.7,PURD,6:49.7,UVM,7:08.9,MARQ,7:28.0,O,7,,,,,,,Heat2,Dad Vail Regatta - Heats
+1375,2011-05-13,WHV,0,BUFF,6:53.9,UMAS,6:55.8,OHSC,7:10.6,LASL,7:22.5,B,7,P,7,,,,,Heat2,Dad Vail Regatta - Heats
+1376,2011-05-13,WHV,0,SACS,6:53.3,FORD,6:56.4,GMAS,6:59.0,LOYO,7:18.7,W,7,V,7,,,,,Heat2,Dad Vail Regatta - Heats
+1377,2011-05-13,WHV,0,DREX,6:50.4,CONN,6:52.4,DAYT,6:55.4,DRAK,7:17.1,M,7,V,7,,,,,Heat2,Dad Vail Regatta - Heats
+1378,2011-05-13,WHV,0,STJO,6:49.6,WV,6:54.1,JAX,7:00.2,TEMP,7:01.6,L,7,E,7,,,,,Heat2,Dad Vail Regatta - Heats
+1379,2011-05-13,WHV,0,GV,6:52.4,BUCK,6:57.5,MRST,7:04.0,DELA,7:11.4,A,7,S,8,,,,,Heat2,Dad Vail Regatta - Heats
+1380,2011-05-13,MHN,0,UVA,6:29.7,MINN,6:38.0,LASL,6:41.4,GMAS,7:00.3,F,7,,,,,,,Heat3,Dad Vail Regatta - Heats
+1381,2011-05-13,MHN,0,DREX,6:20.6,LEHI,6:35.3,CINC,6:47.9,IONA,7:09.1,M,7,,,,,,,Heat3,Dad Vail Regatta - Heats
+1382,2011-05-13,MHN,0,DELA,6:18.8,BC,6:20.2,MRST,6:34.8,SCRA,7:06.9,S,7,B,7,,,,,Heat3,Dad Vail Regatta - Heats
+1383,2011-05-13,MHN,0,BUCK,6:18.6,MICH,6:21.6,GV,6:23.9,GATC,6:24.8,A,7,O,7,,,,,Heat3,Dad Vail Regatta - Heats
+1384,2011-05-13,MHN,0,PURD,6:19.2,FLA,6:22.7,BROC,6:25.7,WASU,6:51.8,L,7,R,7,,,,,Heat3,Dad Vail Regatta - Heats
+1385,2011-05-13,MHJ,0,MICH,6:15.5,DELA,6:22.3,MARI,6:32.4,BC,6:32.9,V,7,,,,,,,Heat4,Dad Vail Regatta - Heats
+1386,2011-05-13,MHJ,0,UVA,6:19.6,GV,6:24.4,JAX,6:25.2,STJO,6:26.8,A,6,M,6,,,,,Heat4,Dad Vail Regatta - Heats
+1387,2011-05-13,MHJ,0,TEMP,6:22.8,DREX,6:29.6,PURD,6:33.8,WASC,6:38.1,O,6,,,,,,,Heat4,Dad Vail Regatta - Heats
+1388,2011-05-13,WHJ,0,STJO,7:04.3,DREX,7:16.4,OLDD,7:20.1,CONN,7:20.3,L,7,B,8,,,,,Heat4,Dad Vail Regatta - Heats
+1389,2011-05-13,WHJ,0,BUCK,7:09.3,PURD,7:18.0,FORD,7:24.2,GMAS,7:30.5,O,7,T,7,,,,,Heat4,Dad Vail Regatta - Heats
+1390,2011-05-13,WHJ,0,BUFF,7:03.9,DELA,7:09.0,MRST,7:16.0,DAYT,7:20.4,U,7,L,7,,,,,Heat4,Dad Vail Regatta - Heats
+1391,2011-05-13,MLV,0,MERC,6:11.2,DELA,6:15.9,STJO,6:18.0,ROCH,6:26.5,W,6,,,,,,,Heat3,Dad Vail Regatta - Heats
+1392,2011-05-13,MLV,0,MICH,6:18.4,MARI,6:21.1,PURD,6:24.9,FORD,6:29.3,P,6,,,,,,,Heat3,Dad Vail Regatta - Heats
+1393,2011-05-14,WHV,0,TEX,6:44.8,CFLA,6:53.5,TULS,6:57.4,SMU,7:11.6,,,,,,,,,Heat3,Conference USA Women's Rowing Championship
+1394,2011-05-14,WHV,0,TENN,6:40.0,OKLA,6:44.5,KAST,6:44.8,KANS,6:55.3,,,,,,,,,Heat3,Conference USA Women's Rowing Championship
+1395,2011-05-14,WHJ,0,TEX,6:50.0,CFLA,6:58.1,TULS,7:11.1,SMU,7:32.6,,,,,,,,,Heat3,Conference USA Women's Rowing Championship
+1396,2011-05-14,WHJ,0,TENN,6:54.5,KAST,7:03.6,OKLA,7:06.7,KANS,7:09.7,,,,,,,,,Heat3,Conference USA Women's Rowing Championship
+1397,2011-05-14,WHJ,0,KANS,7:02.8,SMU,7:28.4,,,,,,,,,,,,,Final,Conference USA Women's Rowing Championship
+1398,2011-05-14,WHJ,0,TEX,6:38.8,TENN,6:43.6,OKLA,6:50.1,CFLA,6:53.0,T,6,K,6,,,,,Final,Conference USA Women's Rowing Championship
+1399,2011-05-14,WHV,0,KANS,6:54.3,SMU,7:06.6,,,,,,,,,,,,,Final,Conference USA Women's Rowing Championship
+1400,2011-05-14,WHV,0,TEX,6:28.8,TENN,6:29.3,CFLA,6:40.1,OKLA,6:40.3,T,6,K,6,,,,,Final,Conference USA Women's Rowing Championship
+1401,2011-05-14,MHV,0,UCSB,6:41.6,SACS,6:47.3,ORGN,7:57.7,,,,,,,,,,,Final,Pacific Coast Rowing Championships
+1402,2011-05-15,MHN,0,UVA,6:12.6,FLA,6:15.1,GV,6:21.8,MRST,6:27.5,L,6,,,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1403,2011-05-15,MHN,0,DREX,6:09.1,PURD,6:12.5,BC,6:19.0,MICH,6:19.2,L,6,,,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1404,2011-05-15,MHN,0,BROC,6:11.3,BUCK,6:12.2,DELA,6:20.7,MINN,6:40.9,C,6,,,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1405,2011-05-15,WHJ,0,STJO,7:02.0,PURD,7:15.7,DREX,7:19.7,MRST,7:22.4,F,7,D,7,,,,,Heat3,Dad Vail Regatta - Semis & Finals
+1406,2011-05-15,WHJ,0,BUCK,7:00.9,BUFF,7:04.4,DELA,7:09.0,OLDD,7:14.0,C,7,G,7,,,,,Heat3,Dad Vail Regatta - Semis & Finals
+1407,2011-05-15,MHJ,0,MICH,6:11.1,DELA,6:13.4,PURD,6:14.9,GV,6:17.3,J,6,W,6,,,,,Heat3,Dad Vail Regatta - Semis & Finals
+1408,2011-05-15,MHJ,0,UVA,6:13.3,TEMP,6:14.4,DREX,6:20.5,MARI,6:22.2,S,6,B,6,,,,,Heat3,Dad Vail Regatta - Semis & Finals
+1409,2011-05-15,WHV,0,OLDD,6:49.8,GV,6:53.6,UMAS,7:03.0,WV,7:04.6,D,7,T,7,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1410,2011-05-15,WHV,0,STJO,6:54.4,BUFF,6:56.2,CONN,7:00.3,JAX,7:03.3,F,7,G,7,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1411,2011-05-15,WHV,0,PURD,6:49.0,SACS,6:49.8,DREX,6:50.1,DAYT,7:00.3,B,7,M,7,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1412,2011-05-15,MHV,0,MICH,5:54.7,UVA,5:55.8,DREX,6:00.0,BROC,6:01.9,U,6,V,6,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1413,2011-05-15,MHV,0,FLTC,5:55.2,DELA,5:58.9,MRST,6:04.4,GV,6:05.5,B,6,G,6,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1414,2011-05-15,MHV,0,WILL,5:57.5,JAX,5:58.9,TEMP,6:00.8,PURD,6:06.4,M,6,M,6,,,,,Heat2,Dad Vail Regatta - Semis & Finals
+1415,2011-05-15,MLN,0,PURD,6:20.9,MICH,6:22.4,GV,6:26.8,MIST,6:32.1,,,,,,,,,Final,Dad Vail Regatta - Semis & Finals
+1416,2011-05-15,WLV,0,BUCK,6:59.2,GATC,7:08.5,BUFF,7:10.2,PURD,7:25.4,,,,,,,,,Final,Dad Vail Regatta - Semis & Finals
+1417,2011-05-15,MLV,0,MERC,6:06.6,DELA,6:09.9,MICH,6:11.6,STJO,6:15.6,M,6,P,6,,,,,Final,Dad Vail Regatta - Semis & Finals
+1418,2011-05-15,WHV,0,MERC,7:00.1,SPAC,7:02.6,NOVS,7:02.9,GV,7:08.4,B,7,F,7,,,,,Final,Dad Vail Regatta - Semis & Finals
+1419,2011-05-15,WHV,0,MARI,7:15.2,EMOR,7:18.9,ROCH,7:23.0,SKID,7:25.0,,,,,,,,,Final,Dad Vail Regatta - Semis & Finals
+1420,2011-05-15,MHN,0,PURD,6:07.6,DREX,6:08.6,UVA,6:15.1,BROC,6:15.9,B,6,F,6,,,,,Final,Dad Vail Regatta - Semis & Finals
+1421,2011-05-15,WHJ,0,STJO,6:49.2,BUCK,6:52.4,BUFF,6:55.4,DELA,7:02.3,D,7,P,7,,,,,Final,Dad Vail Regatta - Semis & Finals
+1422,2011-05-15,MHJ,0,UVA,5:56.4,MICH,5:58.4,TEMP,6:01.5,DELA,6:07.3,P,6,D,6,,,,,Final,Dad Vail Regatta - Semis & Finals
+1423,2011-05-15,WHV,0,DREX,6:46.6,WV,6:49.4,CONN,6:51.0,DAYT,6:56.6,U,6,J,7,,,,,Final,Dad Vail Regatta - Semis & Finals
+1424,2011-05-15,WHV,0,PURD,6:38.5,OLDD,6:38.8,GV,6:43.4,STJO,6:45.2,S,6,B,6,,,,,Final,Dad Vail Regatta - Semis & Finals
+1425,2011-05-15,MHV,0,DREX,5:53.0,TEMP,5:55.4,BROC,5:56.5,GV,6:00.3,M,6,P,6,,,,,Final,Dad Vail Regatta - Semis & Finals
+1426,2011-05-15,MHV,0,MICH,5:48.0,FLTC,5:51.0,DELA,5:51.7,UVA,5:52.3,W,5,J,5,,,,,Final,Dad Vail Regatta - Semis & Finals
+1427,2011-05-15,WHV,0,DOWL,7:08.1,COK,7:09.5,PHIL,7:18.5,MALW,7:30.3,,,,,,,,,Final,Dad Vail Regatta - Semis & Finals
+1428,2011-05-15,WHJ,0,UVA,6:50.2,LOUV,6:57.3,OKLA,6:57.8,DUKE,6:58.5,T,7,,,,,,,Heat3,Oak Ridge Invitational
+1429,2011-05-15,WHJ,0,CLEM,6:53.4,ND,6:55.1,URI,6:59.2,CFLA,7:12.7,,,,,,,,,Heat3,Oak Ridge Invitational
+1430,2011-05-15,WHJ,0,UVA,6:39.3,CLEM,6:42.4,ND,6:44.9,URI,6:52.5,O,6,L,6,,,,,Final,Oak Ridge Invitational
+1431,2011-05-15,WHJ,0,DUKE,6:58.9,CFLA,7:00.5,TULS,7:07.8,,,,,,,,,,,Final,Oak Ridge Invitational
+1432,2011-05-15,WHV,0,UVA,6:35.2,ND,6:43.4,OKLA,6:46.2,URI,6:46.6,T,6,,,,,,,Heat3,Oak Ridge Invitational
+1433,2011-05-15,WHV,0,CLEM,6:36.8,DUKE,6:39.3,LOUV,6:41.8,CFLA,6:46.9,U,6,,,,,,,Heat3,Oak Ridge Invitational
+1434,2011-05-15,WHV,0,UVA,6:26.0,CLEM,6:31.9,DUKE,6:34.8,ND,6:35.2,L,6,O,6,,,,,Final,Oak Ridge Invitational
+1435,2011-05-15,WHV,0,CFLA,6:42.9,TULS,6:46.5,URI,6:48.2,UMIA,6:53.8,,,,,,,,,Final,Oak Ridge Invitational
+1436,2011-05-15,WHV,2000,MIST,6:17.1,OHST,6:20.5,MICH,6:21.0,WISC,6:27.6,I,6,M,6,I,6,,,Final,Big Ten Championships
+1437,2011-05-15,WHJ,2000,OHST,6:25.3,WISC,6:27.1,MICH,6:31.4,MINN,6:33.5,M,6,I,6,I,6,,,Final,Big Ten Championships
+1438,2011-05-15,WHV,0,PRIN,6:34.9,DART,6:39.6,COLU,6:46.3,SYRA,7:00.9,B,7,,,,,,,Heat2,EAWRC Sprints
+1439,2011-05-15,WHV,0,BRWN,6:34.9,CORN,6:44.3,PENN,6:56.0,RUTG,6:58.9,N,7,B,7,,,,,Heat2,EAWRC Sprints
+1440,2011-05-15,WHV,0,YALE,6:39.7,RADC,6:43.7,NORT,6:47.4,GEOR,6:58.1,M,7,G,7,,,,,Heat2,EAWRC Sprints
+1441,2011-05-15,WHJ,0,PRIN,6:45.3,DART,6:50.0,PENN,7:06.3,GW,7:09.1,R,7,,,,,,,Heat2,EAWRC Sprints
+1442,2011-05-15,WHJ,0,BRWN,6:49.0,CORN,6:56.5,NORT,7:03.1,NAVY,7:06.6,B,7,B,7,,,,,Heat2,EAWRC Sprints
+1443,2011-05-15,WHJ,0,YALE,6:51.1,RADC,7:00.5,SYRA,7:04.5,COLU,7:04.7,G,7,M,7,,,,,Heat2,EAWRC Sprints
+1444,2011-05-15,WLV,0,PRIN,6:30.4,WISC,6:34.1,RADC,6:41.6,BUCK,6:49.0,G,6,M,7,,,,,Final,EAWRC Sprints
+1445,2011-05-15,WHJ,0,BU,7:01.0,GEOR,7:03.1,RUTG,7:08.3,MIT,7:14.8,B,7,,,,,,,Final,EAWRC Sprints
+1446,2011-05-15,WHJ,0,PENN,6:58.3,NORT,7:01.7,COLU,7:04.5,NAVY,7:05.4,S,7,G,7,,,,,Final,EAWRC Sprints
+1447,2011-05-15,WHJ,0,PRIN,6:36.4,YALE,6:39.6,BRWN,6:39.8,DART,6:40.5,R,6,C,6,,,,,Final,EAWRC Sprints
+1448,2011-05-15,WHV,0,BU,6:55.0,MIT,6:58.5,NAVY,7:03.5,GW,7:03.9,B,7,,,,,,,Final,EAWRC Sprints
+1449,2011-05-15,WHV,0,COLU,6:38.6,NORT,6:42.9,PENN,6:48.5,SYRA,6:49.7,R,6,G,6,,,,,Final,EAWRC Sprints
+1450,2011-05-15,WHV,0,PRIN,6:20.5,BRWN,6:24.6,DART,6:31.0,YALE,6:34.6,R,6,C,6,,,,,Final,EAWRC Sprints
+1451,2011-05-15,MHN,0,CAL,5:52.0,WASH,5:58.8,ORST,6:13.5,STAN,6:22.7,W,6,U,8,,,,,Final,Pac-10 Rowing Championships - Official
+1452,2011-05-15,MHJ,0,WASH,5:41.5,CAL,5:52.3,STAN,5:59.0,ORST,6:10.7,,,,,,,,,Final,Pac-10 Rowing Championships - Official
+1453,2011-05-15,WHJ,0,STAN,6:24.5,CAL,6:32.4,USC,6:34.3,WASH,6:36.2,W,6,U,6,O,6,,,Final,Pac-10 Rowing Championships - Official
+1454,2011-05-15,MHV,0,WASH,5:38.2,CAL,5:39.9,STAN,5:51.9,ORST,6:02.3,W,6,U,6,U,6,,,Final,Pac-10 Rowing Championships - Official
+1455,2011-05-15,WHV,0,CAL,7:02.1,STAN,7:02.6,USC,7:09.3,WAST,7:16.4,W,7,U,7,O,7,,,Final,Pac-10 Rowing Championships - Official
+1456,2011-05-15,MHV,0,HARV,5:47.8,SYRA,5:50.9,CORN,5:55.7,GEOR,5:57.0,P,6,,,,,,,Heat2,EARC Sprints
+1457,2011-05-15,MHV,0,WISC,5:47.6,BRWN,5:49.4,NAVY,5:52.9,COLU,5:56.6,N,6,R,6,,,,,Heat2,EARC Sprints
+1458,2011-05-15,MHV,0,PRIN,5:45.3,BU,5:47.1,YALE,5:49.7,DART,5:50.8,G,6,H,6,,,,,Heat2,EARC Sprints
+1459,2011-05-15,MHV,0,HARV,5:40.4,PRIN,5:42.4,WISC,5:42.5,BRWN,5:43.6,S,5,B,5,,,,,Final,EARC Sprints
+1460,2011-05-15,MHV,0,YALE,5:46.7,DART,5:48.1,NAVY,5:49.0,CORN,5:50.1,G,5,C,5,,,,,Final,EARC Sprints
+1461,2011-05-15,MHV,0,PENN,5:53.9,NORT,5:56.1,GW,6:03.1,RUTG,6:06.0,H,6,,,,,,,Final,EARC Sprints
+1462,2011-05-15,MHJ,0,HARV,5:57.3,SYRA,5:59.7,BU,6:06.3,COLU,6:15.2,G,6,,,,,,,Heat2,EARC Sprints
+1463,2011-05-15,MHJ,0,WISC,5:56.8,BRWN,5:58.0,CORN,6:00.2,DART,6:19.8,G,6,,,,,,,Heat2,EARC Sprints
+1464,2011-05-15,MHJ,0,PRIN,5:59.8,YALE,6:00.6,NAVY,6:04.0,PENN,6:13.2,H,6,R,6,,,,,Heat2,EARC Sprints
+1465,2011-05-15,MHJ,0,HARV,5:49.0,WISC,5:52.5,SYRA,5:53.2,PRIN,5:54.3,B,5,Y,5,,,,,Final,EARC Sprints
+1466,2011-05-15,MHJ,0,CORN,5:56.8,NAVY,6:02.1,DART,6:05.1,PENN,6:05.7,B,6,C,6,,,,,Final,EARC Sprints
+1467,2011-05-15,MHJ,0,GW,6:12.7,HC,6:13.0,GEOR,6:20.2,RUTG,6:25.2,,,,,,,,,Final,EARC Sprints
+1468,2011-05-15,MHN,0,HARV,5:59.6,CORN,6:02.7,BRWN,6:03.9,YALE,6:14.8,G,6,R,6,,,,,Heat2,EARC Sprints
+1469,2011-05-15,MHN,0,PRIN,6:06.3,NAVY,6:10.1,DART,6:16.0,WISC,6:16.8,M,6,P,6,,,,,Heat2,EARC Sprints
+1470,2011-05-15,MHN,0,NORT,6:09.7,BU,6:10.8,COLU,6:17.2,SYRA,6:19.2,H,6,G,6,,,,,Heat2,EARC Sprints
+1471,2011-05-15,MHN,0,HARV,5:54.5,PRIN,6:00.4,NORT,6:02.5,NAVY,6:03.7,C,6,B,6,,,,,Final,EARC Sprints
+1472,2011-05-15,MHN,0,BRWN,6:02.4,WISC,6:06.1,YALE,6:06.9,SYRA,6:07.7,C,6,D,6,,,,,Final,EARC Sprints
+1473,2011-05-15,MHN,0,HC,6:16.9,PENN,6:17.1,MIT,6:21.9,GW,6:22.7,G,6,R,6,,,,,Final,EARC Sprints
+1474,2011-05-15,MLV,0,HARV,5:50.2,YALE,5:53.0,NAVY,5:54.1,COLU,5:55.9,P,5,,,,,,,Heat3,EARC Sprints
+1475,2011-05-15,MLV,0,DART,5:52.4,PRIN,5:52.7,CORN,5:55.3,GEOR,5:58.7,M,6,,,,,,,Heat3,EARC Sprints
+1476,2011-05-15,MLV,0,HARV,5:45.4,DART,5:46.8,YALE,5:47.0,PRIN,5:49.9,C,5,N,5,,,,,Final,EARC Sprints
+1477,2011-05-15,MLV,0,COLU,5:51.4,GEOR,5:51.5,PENN,5:57.8,MIT,6:06.4,,,,,,,,,Final,EARC Sprints
+1478,2011-05-15,MLJ,0,HARV,6:12.9,YALE,6:15.4,NAVY,6:20.6,GEOR,6:34.8,C,6,,,,,,,Heat3,EARC Sprints
+1479,2011-05-15,MLJ,0,PRIN,6:08.3,CORN,6:10.9,DART,6:19.7,PENN,6:30.3,,,,,,,,,Heat3,EARC Sprints
+1480,2011-05-15,MLJ,0,HARV,6:00.6,PRIN,6:03.4,CORN,6:03.5,YALE,6:06.9,N,6,D,6,,,,,Final,EARC Sprints
+1481,2011-05-15,MLJ,0,PENN,6:22.8,COLU,6:30.0,GEOR,6:33.5,,,,,,,,,,,Final,EARC Sprints
+1482,2011-05-15,MLN,0,YALE,6:12.1,CORN,6:15.0,DART,6:15.7,HARV,6:17.5,G,6,,,,,,,Heat3,EARC Sprints
+1483,2011-05-15,MLN,0,PRIN,6:16.2,COLU,6:17.7,PENN,6:20.0,NAVY,6:22.8,M,6,,,,,,,Heat3,EARC Sprints
+1484,2011-05-15,MLN,0,YALE,6:06.9,COLU,6:12.6,CORN,6:13.9,PRIN,6:14.4,P,6,D,6,,,,,Final,EARC Sprints
+1485,2011-05-15,MLN,0,HARV,6:13.5,NAVY,6:20.3,GEOR,6:27.0,MIT,6:32.0,,,,,,,,,Final,EARC Sprints
+1486,2011-05-22,MHV,2000,SYRA,5:37.7,DART,5:40.5,,,,,,,,,,,,,Final,Packard Cup
+1487,2011-05-22,MHJ,2000,SYRA,5:47.1,DART,5:54.0,,,,,,,,,,,,,Final,Packard Cup
+1488,2011-05-22,MHN,2000,SYRA,5:58.0,DART,6:02.2,,,,,,,,,,,,,Final,Packard Cup
+1489,2011-05-27,MHV,2000,CORN,5:58.7,PENN,6:09.6,,,,,,,,,,,,,Final,Madeira Cup
+1490,2011-05-27,MHJ,2000,CORN,6:13.1,PENN,6:20.8,,,,,,,,,,,,,Final,Madeira Cup
+1491,2011-05-27,MHN,2000,CORN,6:12.7,PENN,6:25.6,,,,,,,,,,,,,Final,Madeira Cup
+1492,2011-05-27,WHV,0,PRIN,6:23.8,MIST,6:26.9,UVA,6:27.9,WASH,6:33.9,M,6,,,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1493,2011-05-27,WHV,0,BRWN,6:22.5,CAL,6:26.6,YALE,6:30.9,DART,6:35.0,C,6,,,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1494,2011-05-27,WHV,0,STAN,6:23.7,USC,6:28.9,WAST,6:33.7,WISC,6:34.8,O,6,R,6,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1495,2011-05-27,WHV,0,WISC,6:53.7,WASH,6:53.8,MICH,6:56.1,RADC,6:57.4,O,6,D,7,C,7,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1496,2011-05-27,WHJ,0,BRWN,6:36.7,OHST,6:39.3,PRIN,6:41.2,MICH,6:49.8,C,7,,,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1497,2011-05-27,WHJ,0,STAN,6:32.1,USC,6:40.6,WASH,6:40.6,YALE,6:40.9,D,6,,,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1498,2011-05-27,WHJ,0,CAL,6:37.0,UVA,6:40.9,WISC,6:42.2,MIST,6:45.7,W,6,R,7,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1499,2011-05-27,WHJ,0,MICH,6:59.3,CAL,6:59.5,WAST,6:59.7,YALE,7:00.6,D,7,R,7,C,7,,,Heat4,NCAA Rowing Championships - Heats/Reps
+1500,2011-05-27,WHV,0,WWAS,6:50.7,HUMS,7:00.5,NOVS,7:09.9,,,,,,,,,,,Heat1,NCAA Rowing Championships - Heats/Reps
+1501,2011-05-27,WHV,0,MERC,7:02.9,SPAC,7:08.7,BARR,7:10.3,,,,,,,,,,,Heat1,NCAA Rowing Championships - Heats/Reps
+1502,2011-05-27,WHV,0,WILL,6:35.3,ITHA,6:50.6,WLSM,6:51.6,PUGS,6:51.7,,,,,,,,,Heat1,NCAA Rowing Championships - Heats/Reps
+1503,2011-05-27,WHV,0,BATE,6:42.0,WELL,6:42.1,TRIN,6:53.4,MARI,7:07.1,,,,,,,,,Heat1,NCAA Rowing Championships - Heats/Reps
+1504,2011-05-27,WHV,0,WELL,7:04.1,ITHA,7:05.3,WLSM,7:08.1,TRIN,7:13.1,P,7,,,,,,,Heat3,NCAA Rowing Championships - Heats/Reps
+1505,2011-05-27,WHJ,0,BATE,7:17.8,WELL,7:23.3,ITHA,7:24.1,TRIN,7:24.3,W,7,,,,,,,Heat5,NCAA Rowing Championships - Heats/Reps
+1506,2011-05-28,MHV,6437,HARV,19:05.,YALE,19:19.,,,,,,,,,,,,,Final,Harvard/Yale race
+1507,2011-05-28,MHJ,6437,HARV,13:38.,YALE,14:08.,,,,,,,,,,,,,Final,Harvard/Yale race
+1508,2011-05-28,MHN,6437,HARV,9:03.2,YALE,9:24.2,,,,,,,,,,,,,Final,Harvard/Yale race
+1509,2011-05-28,MHV,2000,WISC,5:50.1,PENN,5:56.2,,,,,,,,,,,,,Final,Pennsylvania vs. Wisconsin
+1510,2011-05-28,MHJ,2000,WISC,6:00.5,PENN,6:08.8,,,,,,,,,,,,,Final,Pennsylvania vs. Wisconsin
+1511,2011-05-28,MHN,2000,WISC,6:04.4,PENN,6:12.5,,,,,,,,,,,,,Final,Pennsylvania vs. Wisconsin
+1512,2011-05-28,WHV,0,USC,6:26.6,PRIN,6:28.3,CAL,6:31.0,WASH,6:37.4,U,6,W,6,,,,,Heat3,NCAA Rowing Championships - Semis
+1513,2011-05-28,WHV,0,STAN,6:21.7,BRWN,6:22.7,MIST,6:27.7,YALE,6:32.3,W,6,M,6,,,,,Heat3,NCAA Rowing Championships - Semis
+1514,2011-05-28,WHJ,0,BRWN,6:36.9,UVA,6:40.3,USC,6:42.0,PRIN,6:42.1,M,6,M,6,,,,,Heat3,NCAA Rowing Championships - Semis
+1515,2011-05-28,WHJ,0,STAN,6:36.0,CAL,6:40.3,OHST,6:43.9,WASH,6:47.3,W,6,W,6,Y,6,,,Heat3,NCAA Rowing Championships - Semis
+1516,2011-05-28,WHV,0,HUMS,7:11.9,NOVS,7:16.7,SPAC,7:17.2,BARR,7:28.5,,,,,,,,,Heat2,NCAA Rowing Championships - Semis
+1517,2011-05-28,WHV,0,WILL,6:54.4,BATE,7:01.3,WELL,7:02.2,ITHA,7:10.0,W,7,,,,,,,Final,NCAA Rowing Championships - Semis
+1518,2011-05-28,WHV,0,TRIN,7:06.3,PUGS,7:12.4,,,,,,,,,,,,,Final,NCAA Rowing Championships - Semis
+1519,2011-05-28,WHJ,0,BATE,7:08.2,WELL,7:16.4,ITHA,7:19.7,TRIN,7:25.4,,,,,,,,,Final,NCAA Rowing Championships - Semis
+1520,2011-05-28,MHN,0,PURD,6:09.3,UCSB,6:14.4,MIST,6:16.5,GV,6:17.7,T,6,,,,,,,Heat4,ACRA National Championship - Heats
+1521,2011-05-28,MHN,0,BUCK,6:10.1,FLA,6:11.7,GATC,6:16.3,WAST,6:17.6,V,6,C,6,,,,,Heat4,ACRA National Championship - Heats
+1522,2011-05-28,MHN,0,UVA,6:05.8,MICH,6:09.3,ND,6:17.3,KAST,6:18.8,M,6,C,6,,,,,Heat4,ACRA National Championship - Heats
+1523,2011-05-28,MHV,0,MICH,5:56.7,ND,6:00.8,MIST,6:01.7,URI,6:07.2,U,6,C,6,N,6,,,Heat4,ACRA National Championship - Heats
+1524,2011-05-28,MHV,0,BUCK,6:05.3,GV,6:07.3,UCIR,6:12.1,MINN,6:15.6,R,6,,,,,,,Heat4,ACRA National Championship - Heats
+1525,2011-05-28,MHV,0,UVA,6:00.4,PURD,6:07.0,UCDV,6:09.9,WAST,6:10.1,O,6,T,6,W,6,,,Heat4,ACRA National Championship - Heats
+1526,2011-05-28,MHJ,0,UVA,6:17.7,BUCK,6:23.2,UCDV,6:25.4,,,,,,,,,,,Heat3,ACRA National Championship - Heats
+1527,2011-05-28,MHJ,0,MICH,6:13.8,ND,6:24.8,UCSB,6:31.1,OHST,6:40.1,,,,,,,,,Heat3,ACRA National Championship - Heats
+1528,2011-05-28,WHV,0,PURD,6:59.4,OC,7:13.2,EMOR,7:18.1,FLA,7:22.4,M,7,B,7,,,,,Heat3,ACRA National Championship - Heats
+1529,2011-05-28,WHV,0,GV,7:00.4,UNH,7:06.0,UCSB,7:10.1,WICH,7:11.4,O,7,V,7,,,,,Heat3,ACRA National Championship - Heats
+1530,2011-05-28,MHN,0,MICH,6:14.8,PURD,6:19.7,FLA,6:26.9,GATC,6:31.8,M,6,K,6,,,,,Heat3,ACRA National Championship - Heats
+1531,2011-05-28,MHN,0,UVA,6:17.6,BUCK,6:19.4,UCSB,6:19.8,GV,6:20.5,N,6,W,6,,,,,Heat3,ACRA National Championship - Heats
+1532,2011-05-28,MHV,0,UVA,5:56.4,MICH,5:58.6,UCIR,6:04.6,GV,6:06.2,U,6,U,6,,,,,Heat3,ACRA National Championship - Heats
+1533,2011-05-28,MHV,0,WAST,6:04.2,ND,6:04.4,BUCK,6:04.7,PURD,6:05.8,M,6,M,6,R,6,,,Heat3,ACRA National Championship - Heats
+1534,2011-05-29,WHV,0,SPAC,7:14.8,BARR,7:20.2,,,,,,,,,,,,,Final,NCAA Rowing Championships - Finals
+1535,2011-05-29,WHV,0,WWAS,6:50.5,MERC,6:58.3,HUMS,7:01.9,NOVS,7:13.6,,,,,,,,,Final,NCAA Rowing Championships - Finals
+1536,2011-05-29,WHJ,0,DART,6:34.5,CLEM,6:34.9,RADC,6:41.9,,,,,,,,,,,Final,NCAA Rowing Championships - Finals
+1537,2011-05-29,WHJ,0,WASH,6:35.9,MIST,6:37.3,PRIN,6:37.4,WAST,6:40.6,M,6,Y,6,W,6,,,Final,NCAA Rowing Championships - Finals
+1538,2011-05-29,WHJ,0,STAN,6:26.8,BRWN,6:29.4,CAL,6:31.7,OHST,6:33.4,U,6,U,6,,,,,Final,NCAA Rowing Championships - Finals
+1539,2011-05-29,WHV,0,RADC,6:34.5,OHST,6:36.6,CLEM,6:38.5,DART,6:40.6,,,,,,,,,Final,NCAA Rowing Championships - Finals
+1540,2011-05-29,WHV,0,UVA,6:33.2,YALE,6:33.8,WISC,6:37.6,WASH,6:38.1,W,6,M,6,,,,,Final,NCAA Rowing Championships - Finals
+1541,2011-05-29,WHV,0,PRIN,6:27.1,BRWN,6:28.6,STAN,6:28.7,CAL,6:30.1,U,6,M,6,,,,,Final,NCAA Rowing Championships - Finals
+1542,2011-05-29,MHN,0,GV,6:14.3,WAST,6:16.4,ND,6:19.8,KAST,6:22.6,M,6,G,6,,,,,Final,ACRA National Championship - Finals
+1543,2011-05-29,MHN,0,PURD,6:00.1,UVA,6:02.1,MICH,6:04.0,UCSB,6:05.5,B,6,F,6,,,,,Final,ACRA National Championship - Finals
+1544,2011-05-29,MHJ,0,MICH,5:56.3,UVA,6:00.5,ND,6:05.1,UCDV,6:08.3,U,6,B,6,,,,,Final,ACRA National Championship - Finals
+1545,2011-05-29,WHV,0,WICH,6:57.0,OHSC,7:00.4,FLA,7:04.2,MISC,7:06.2,B,7,V,7,,,,,Final,ACRA National Championship - Finals
+1546,2011-05-29,WHV,0,PURD,6:43.2,GV,6:46.2,UNH,6:49.7,UCSB,6:56.3,O,7,E,7,,,,,Final,ACRA National Championship - Finals
+1547,2011-05-29,MHV,0,UNH,6:05.9,UCSB,6:09.8,OHST,6:11.7,WICH,6:16.9,T,6,C,6,N,6,,,Final,ACRA National Championship - Finals
+1548,2011-05-29,MHV,0,MIST,6:03.8,PURD,6:03.9,GV,6:05.5,URI,6:08.2,M,6,U,6,R,6,,,Final,ACRA National Championship - Finals
+1549,2011-05-29,MHV,0,UVA,5:48.7,MICH,5:49.5,ND,5:59.7,UCIR,6:01.6,B,6,W,6,,,,,Final,ACRA National Championship - Finals
+1550,2011-06-02,MHN,0,PRIN,5:36.5,WASH,5:41.1,WISC,5:58.2,GONZ,6:00.4,P,6,Y,6,,,,,Heat2,IRA Regatta - Heats & Reps
+1551,2011-06-02,MHN,0,HARV,5:38.8,NAVY,5:41.4,BRWN,5:41.4,SYRA,5:59.2,U,6,D,6,,,,,Heat2,IRA Regatta - Heats & Reps
+1552,2011-06-02,MHN,0,CAL,5:37.5,CORN,5:41.4,BU,5:42.4,STAN,5:51.7,C,5,,,,,,,Heat2,IRA Regatta - Heats & Reps
+1553,2011-06-02,MHN,0,BRWN,5:41.5,STAN,5:49.7,UCSD,5:49.9,YALE,5:52.0,G,6,,,,,,,Heat3,IRA Regatta - Heats & Reps
+1554,2011-06-02,MHN,0,BU,5:44.5,COLU,5:46.7,DART,5:47.6,WISC,5:50.9,S,5,P,6,,,,,Heat3,IRA Regatta - Heats & Reps
+1555,2011-06-02,MHJ,0,WASH,5:44.2,BRWN,5:46.3,BU,5:46.5,PRIN,5:47.1,P,6,,,,,,,Heat3,IRA Regatta - Heats & Reps
+1556,2011-06-02,MHJ,0,HARV,5:44.7,SYRA,5:49.6,DART,5:55.9,UCSD,6:18.0,Y,7,,,,,,,Heat3,IRA Regatta - Heats & Reps
+1557,2011-06-02,MHJ,0,CAL,5:39.2,WISC,5:42.8,CORN,5:52.1,NAVY,6:03.6,G,6,,,,,,,Heat3,IRA Regatta - Heats & Reps
+1558,2011-06-02,MHJ,0,PENN,5:44.8,NAVY,5:46.4,PRIN,5:47.4,UCSD,6:04.8,G,6,,,,,,,Heat3,IRA Regatta - Heats & Reps
+1559,2011-06-02,MHV,0,WASH,5:32.3,BRWN,5:33.7,CORN,5:40.7,STAN,5:42.9,S,5,G,6,,,,,Heat2,IRA Regatta - Heats & Reps
+1560,2011-06-02,MHV,0,CAL,5:28.8,WISC,5:30.7,NAVY,5:36.8,BU,5:38.9,G,5,U,6,,,,,Heat2,IRA Regatta - Heats & Reps
+1561,2011-06-02,MHV,0,HARV,5:33.4,PRIN,5:34.7,YALE,5:35.6,PENN,5:42.5,D,5,C,5,,,,,Heat2,IRA Regatta - Heats & Reps
+1562,2011-06-02,MHV,0,STAN,5:38.0,NAVY,5:38.5,GEOR,5:38.8,PENN,5:39.4,C,5,G,5,,,,,Heat3,IRA Regatta - Heats & Reps
+1563,2011-06-02,MHV,0,CORN,5:36.5,YALE,5:37.5,SYRA,5:37.9,BU,5:38.9,D,5,U,6,,,,,Heat3,IRA Regatta - Heats & Reps
+1564,2011-06-03,MHN,0,HARV,5:39.3,WASH,5:39.6,BU,5:47.6,CORN,5:52.7,S,5,D,6,,,,,Heat3,IRA Regatta - Semis
+1565,2011-06-03,MHN,0,CAL,5:39.9,PRIN,5:44.8,BRWN,5:47.5,NAVY,5:52.6,C,5,U,6,,,,,Heat3,IRA Regatta - Semis
+1566,2011-06-03,MHJ,0,WASH,5:38.6,CAL,5:39.9,CORN,5:41.4,SYRA,5:42.0,B,5,N,5,,,,,Heat3,IRA Regatta - Semis
+1567,2011-06-03,MHV,0,CAL,5:29.1,BRWN,5:31.9,PRIN,5:34.1,CORN,5:36.4,S,5,N,5,,,,,Heat3,IRA Regatta - Semis
+1568,2011-06-03,MHV,0,HARV,5:25.9,WASH,5:27.6,WISC,5:30.7,STAN,5:31.3,Y,5,G,5,,,,,Heat3,IRA Regatta - Semis
+1569,2011-06-03,WLV,0,PRIN,6:40.6,RADC,6:46.0,GEOR,6:55.1,,,,,,,,,,,Heat2,IRA Regatta - Semis
+1570,2011-06-03,WLV,0,STAN,6:37.9,WISC,6:41.8,BUCK,6:52.1,MIT,6:58.3,,,,,,,,,Heat2,IRA Regatta - Semis
+1571,2011-06-03,WLV,0,GEOR,6:50.2,BUCK,6:53.8,MIT,7:03.4,,,,,,,,,,,Heat2,IRA Regatta - Semis
+1572,2011-06-04,MHN,0,CAL,5:36.1,WASH,5:38.4,HARV,5:39.8,PRIN,5:41.7,B,5,B,5,,,,,Final,IRA Regatta - Finals
+1573,2011-06-04,MHN,0,NAVY,5:46.9,CORN,5:51.4,STAN,5:52.3,COLU,5:55.7,D,5,U,6,,,,,Final,IRA Regatta - Finals
+1574,2011-06-04,MHN,0,YALE,5:53.6,WISC,5:54.3,SYRA,5:54.6,PENN,6:02.4,G,6,,,,,,,Final,IRA Regatta - Finals
+1575,2011-06-04,MHJ,0,WASH,5:37.0,HARV,5:38.5,WISC,5:46.5,PRIN,5:50.1,C,5,C,5,,,,,Final,IRA Regatta - Finals
+1576,2011-06-04,MHJ,0,YALE,5:47.0,BRWN,5:49.2,SYRA,5:51.3,BU,5:52.9,P,5,N,5,D,6,,,Final,IRA Regatta - Finals
+1577,2011-06-04,MHJ,0,GONZ,6:01.5,UCSD,6:02.0,,,,,,,,,,,,,Final,IRA Regatta - Finals
+1578,2011-06-04,MHV,0,WASH,5:30.6,HARV,5:33.3,CAL,5:33.4,WISC,5:34.0,B,5,P,5,,,,,Final,IRA Regatta - Finals
+1579,2011-06-04,MHV,0,CORN,5:41.5,STAN,5:42.9,SYRA,5:43.1,YALE,5:43.3,N,5,G,5,,,,,Final,IRA Regatta - Finals
+1580,2011-06-04,MHV,0,BU,5:43.4,DART,5:46.0,COLU,5:46.7,PENN,5:52.9,G,6,U,6,,,,,Final,IRA Regatta - Finals
+1581,2011-06-04,MLV,0,HARV,5:48.3,PRIN,5:49.5,CORN,5:50.6,MARI,6:09.6,,,,,,,,,Heat3,IRA Regatta - Finals
+1582,2011-06-04,MLV,0,YALE,5:52.0,DART,5:53.0,COLU,5:56.0,NAVY,6:01.1,,,,,,,,,Heat3,IRA Regatta - Finals
+1583,2011-06-04,MLV,0,YALE,5:39.9,HARV,5:39.9,DART,5:41.9,CORN,5:46.3,P,5,C,5,,,,,Final,IRA Regatta - Finals
+1584,2011-06-04,MLV,0,NAVY,5:57.5,MARI,6:07.2,,,,,,,,,,,,,Final,IRA Regatta - Finals
+1585,2011-06-04,WLV,0,STAN,6:32.4,PRIN,6:33.1,WISC,6:40.3,RADC,6:42.5,B,6,G,6,,,,,Final,IRA Regatta - Finals

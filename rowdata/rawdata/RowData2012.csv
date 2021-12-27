@@ -1,0 +1,1648 @@
+RaceId,Date,CrewType,Distance,Team1,Time1,Team2,Time2,Team3,Time3,Team4,Time4,Team5,Time5,Team6,Time6,Team7,Time7,Team8,Time8,RaceType,RaceName
+1, 3/03/12,WHV,2000,CLEM, 6:39.7,EMIC, 7:28.1,,,,,,,,,,,,,,Clemson vs. Eastern Michigan
+2, 3/03/12,WHJ,2000,CLEM, 6:52.1,EMIC, 8:29.5,,,,,,,,,,,,,,Clemson vs. Eastern Michigan
+3, 3/03/12,WHV,2000,UCLA, 6:06.1,LOMY, 6:25.8,,,,,,,,,,,,,,UCLA vs. LMU
+4, 3/03/12,WHJ,2000,UCLA, 6:08.7,LOMY, 6:51.5,,,,,,,,,,,,,,UCLA vs. LMU
+5, 3/03/12,MHV,1950,ROLL, 6:20.8,CFLA, 7:16.9,,,,,,,,,,,,,,Metro Cup Regatta
+6, 3/03/12,MHN,1950,ROLL, 6:54.2,CFLA, 7:57.4,,,,,,,,,,,,,,Metro Cup Regatta
+7, 3/03/12,WHV,1950,DUQN, 7:17.9,CFLA, 7:40.0,ROLL, 8:17.3,,,,,,,,,,,,Metro Cup Regatta
+8, 3/03/12,MHV,2000,UCSD, 6:00.0,UCSB, 6:00.5,UCIR, 6:03.5,USD, 6:13.0,SDSU, 6:52.2,,,,,,,,Season Opener
+9, 3/03/12,MHJ,2000,UCSB, 5:56.5,UCSD, 6:00.9,USD, 6:03.1,UCIR, 6:15.4,,,,,,,,,,Season Opener
+10, 3/03/12,MHN,2000,UCIR, 6:03.6,UCSD, 6:05.6,CSLB, 6:32.0,UCSB, 6:35.0,SDSU, 6:51.0,,,,,,,,Season Opener
+11, 3/03/12,WHV,2000,UCSB, 7:07.0,UCSD, 7:14.0,CSLB, 7:21.0,UCIR, 7:43.0,,,,,,,,,,Season Opener
+12, 3/03/12,WHJ,2000,UCSB, 7:44.1,UCSD, 8:06.6,,,,,,,,,,,,,,Season Opener
+13, 3/03/12,MHN,2000,LOMY, 6:04.0,USC, 6:20.0,,,,,,,,,,,,,,Loyola Marymount vs.Southern California
+14, 3/04/12,MHV,0,UCDV, 6:19.5,SCLA, 6:21.6,,,,,,,,,,,,,,Davis Invitational
+15, 3/04/12,MHN,0,STAN, 6:22.7,UCDV, 6:44.0,SONO, 6:49.2,SCLA, 6:54.0,STMY, 7:18.0,,,,,,,,Davis Invitational
+16, 3/04/12,MHJ,0,UCDV, 6:27.9,SCLA, 6:36.9,,,,,,,,,,,,,,Davis Invitational
+17, 3/09/12,WHJ,0,KANS, 7:38.4,OKLA, 7:39.3,,,,,,,,,,,,,,OU Invitational
+18, 3/09/12,WHV,0,OKLA, 7:21.2,KANS, 7:51.6,,,,,,,,,,,,,,OU Invitational
+19, 3/09/12,WHJ,0,TULS, 7:47.2,KAST, 7:58.5,,,,,,,,,,,,,,OU Invitational
+20, 3/09/12,WHV,0,TULS, 7:24.2,KAST, 7:26.7,,,,,,,,,,,,,,OU Invitational
+21, 3/09/12,WHJ,0,SMU, 8:07.1,CREI, 8:12.7,,,,,,,,,,,,,,OU Invitational
+22, 3/09/12,WHV,0,SMU, 7:48.1,CREI, 8:10.5,,,,,,,,,,,,,,OU Invitational
+23, 3/09/12,WHV,0,COK, 7:43.4,OKC, 7:54.8,,,,,,,,,,,,,,OU Invitational
+24, 3/10/12,WHV,0,AZST, 6:03.1,CHAP, 6:03.2,,,,,,,,,,,,,,Desert Sprints
+25, 3/10/12,MHV,0,AZST, 4:42.1,CHAP, 4:48.6,SDSU, 4:52.9,USD, 5:06.6,,,,,,,,,,Desert Sprints
+26, 3/10/12,WHV,2000,SACS, 6:55.4,STMY, 6:57.6,HUMS, 7:03.9,UCSD, 7:17.6,MILL, 7:28.0,,,,,,,,Sacramento State Invitational
+27, 3/10/12,WHJ,2000,SACS, 6:59.9,HUMS, 7:21.9,UCSD, 7:50.5,,,,,,,,,,,,Sacramento State Invitational
+28, 3/10/12,WHV,0,PUGS, 8:05.0,WLMT, 8:22.0,,,,,,,,,,,,,,Governor's Cup Regatta
+29, 3/10/12,WHJ,0,WLMT, 9:13.0,PUGS, 9:29.0,,,,,,,,,,,,,,Governor's Cup Regatta
+30, 3/10/12,WHV,2000,UVIC, 6:41.3,ORST*, 6:42.4,,,,,,,,,,,,,,Oregon State vs. U of Victoria
+31, 3/10/12,WHJ,2000,ORST, 6:48.7,UVIC, 6:59.3,,,,,,,,,,,,,,Oregon State vs. U of Victoria
+32, 3/10/12,WHV,2000,UCLA, 6:50.3,USD, 7:05.7,,,,,,,,,,,,,,UCLA vs. University of San Diego
+33, 3/10/12,WHJ,2000,UCLA, 6:40.1,USD, 7:07.9,,,,,,,,,,,,,,UCLA vs. University of San Diego
+34, 3/10/12,WHJ,0,OKLA, 7:21.8,KAST, 7:33.7,,,,,,,,,,,,,,OU Invitational
+35, 3/10/12,WHV,0,OKLA, 6:58.1,KAST, 7:19.2,,,,,,,,,,,,,,OU Invitational
+36, 3/10/12,WHJ,0,TULS, 7:21.9,KANS, 7:24.1,,,,,,,,,,,,,,OU Invitational
+37, 3/10/12,WHV,0,TULS, 7:15.6,KANS, 7:18.6,,,,,,,,,,,,,,OU Invitational
+38, 3/10/12,WHV,0,SMU, 7:53.7,OKC, 7:56.4,,,,,,,,,,,,,,OU Invitational
+39, 3/10/12,WHJ,0,CREI, 8:13.1,COK, 8:23.3,,,,,,,,,,,,,,OU Invitational
+40, 3/10/12,WHV,0,COK, 7:50.5,CREI, 8:04.7,,,,,,,,,,,,,,OU Invitational
+41, 3/10/12,WHJ,0,OKLA, 7:38.3,TULS, 7:46.5,,,,,,,,,,,,,,OU Invitational
+42, 3/10/12,WHV,0,OKLA, 7:15.9,TULS, 7:29.5,,,,,,,,,,,,,,OU Invitational
+43, 3/10/12,WHV,0,OKC, 7:43.7,CREI, 7:55.8,,,,,,,,,,,,,,OU Invitational
+44, 3/10/12,WHJ,0,KANS, 7:42.0,KAST, 7:46.4,,,,,,,,,,,,,,OU Invitational
+45, 3/10/12,WHV,0,KAST, 7:29.9,KANS, 7:32.8,,,,,,,,,,,,,,OU Invitational
+46, 3/10/12,WHJ,0,SMU, 8:20.1,COK, 8:52.0,,,,,,,,,,,,,,OU Invitational
+47, 3/10/12,WHV,0,SMU, 7:45.6,COK, 7:52.2,,,,,,,,,,,,,,OU Invitational
+48, 3/10/12,WHV,2000,LOMY, 6:56.3,SDSU, 7:08.3,,,,,,,,,,,,,,Loyola Marymount vs. San Diego State
+49, 3/10/12,WHJ,2000,SDSU, 7:00.0,LOMY, 7:02.8,,,,,,,,,,,,,,Loyola Marymount vs. San Diego State
+50, 3/10/12,WHV,2000,STJO, 6:56.0,DREX, 7:00.3,DELA, 7:01.6,LASL, 7:08.3,,,,,,,,,,Saint Josephs/Delaware/Drexel/LaSalle
+51, 3/10/12,WHJ,2000,DREX, 6:45.2,STJO, 6:50.9,DELA, 6:56.6,LASL, 7:08.5,,,,,,,,,,Saint Josephs/Delaware/Drexel/LaSalle
+52, 3/10/12,WHV,2000,CLEM, 6:46.6,NORT, 6:50.7,,,,,,,,,,,,,,Clemson vs. Northeastern
+53, 3/10/12,WHJ,2000,CLEM, 6:58.6,NORT, 7:11.5,,,,,,,,,,,,,,Clemson vs. Northeastern
+54, 3/10/12,MHV,1950,ROLL, 5:54.6,VILN, 6:11.6,,,,,,,,,,,,,,Rollins College vs. Villanova
+55, 3/10/12,MHN,1950,ROLL, 6:21.1,VILN, 6:33.2,EMBR, 6:59.4,,,,,,,,,,,,Rollins College vs. Villanova
+56, 3/10/12,WHV,1950,VILN, 7:03.1,FLST, 7:15.1,ROLL, 7:32.1,,,,,,,,,,,,Rollins College vs. Villanova
+57, 3/10/12,WHV,0,UCDV, 7:02.3,UCSB, 7:12.3,,,,,,,,,,,,,,UCSB at Davis
+58, 3/10/12,MHV,0,UCSB, 6:08.8,UCDV, 6:12.8,,,,,,,,,,,,,,UCSB at Davis
+59, 3/10/12,MHJ,0,UCSB, 0:00.0,UCDV, 0:11.9,,,,,,,,,,,,,,UCSB at Davis
+60, 3/10/12,MHV,0,PUGS, 8:06.0,WLMT, 8:32.0,,,,,,,,,,,,,,Governor's Cup Regatta
+61, 3/10/12,MHN,2000,HUMS, 0:00.0,SCLA, 0:05.7,SONO, 0:08.6,STMY, 0:29.9,CALM, 1:02.8,,,,,,,,Sacramento State Invitational
+62, 3/10/12,MHV,2000,ORST, 5:58.7,UVIC, 6:06.6,,,,,,,,,,,,,,Oregon State vs. U of Victoria
+63, 3/10/12,MHN,2000,UVIC, 6:09.8,ORST, 6:12.4,,,,,,,,,,,,,,Oregon State vs. U of Victoria
+64, 3/10/12,MHV,2000,UCLA, 6:08.9,LOMY, 6:11.1,,,,,,,,,,,,,,UCLA vs. LMU
+65, 3/10/12,MHN,2000,UCLA, 6:56.3,LOMY, 7:10.5,,,,,,,,,,,,,,UCLA vs. LMU
+66, 3/10/12,MHV,2000,UVA, 5:59.0,UNC, 6:08.0,,,,,,,,,,,,,,Virginia vs. UNC
+67, 3/10/12,MHJ,2000,UVA, 6:09.0,UNC, 6:25.0,,,,,,,,,,,,,,Virginia vs. UNC
+68, 3/10/12,MHN,2000,UVA, 6:15.0,UNC, 6:36.0,,,,,,,,,,,,,,Virginia vs. UNC
+69, 3/10/12,MHV,2000,DREX, 5:56.8,LASL, 5:58.6,,,,,,,,,,,,,,Saint Joseph vs. Drexel and LaSalle
+70, 3/10/12,MHJ,2000,DREX, 6:12.2,LASL, 6:33.4,,,,,,,,,,,,,,Saint Joseph vs. Drexel and LaSalle
+71, 3/10/12,MHN,2000,DREX, 6:10.1,LASL, 6:53.2,,,,,,,,,,,,,,Saint Joseph vs. Drexel and LaSalle
+72, 3/11/12,WHV,0,KAST, 7:01.3,OKC, 7:18.3,,,,,,,,,,,,,,OU Invitational
+73, 3/11/12,WHJ,0,KANS, 7:22.0,CREI, 7:32.6,,,,,,,,,,,,,,OU Invitational
+74, 3/11/12,WHV,0,KANS, 7:14.5,CREI, 7:23.7,,,,,,,,,,,,,,OU Invitational
+75, 3/11/12,WHJ,0,TULS, 7:22.3,COK, 7:55.7,,,,,,,,,,,,,,OU Invitational
+76, 3/11/12,WHV,0,TULS, 7:00.3,COK, 7:23.7,,,,,,,,,,,,,,OU Invitational
+77, 3/11/12,WHJ,0,OKLA, 7:12.4,SMU, 7:45.3,,,,,,,,,,,,,,OU Invitational
+78, 3/11/12,WHV,0,OKLA, 6:54.0,SMU, 7:32.5,,,,,,,,,,,,,,OU Invitational
+79, 3/16/12,WHJ,0,TEX, 7:36.4,KAST, 8:08.1,,,,,,,,,,,,,,Longhorn Invitational
+80, 3/16/12,WHV,0,TEX, 7:20.7,KAST, 7:40.9,,,,,,,,,,,,,,Longhorn Invitational
+81, 3/16/12,WHJ,0,OKLA, 7:39.7,USD, 8:06.9,,,,,,,,,,,,,,Longhorn Invitational
+82, 3/16/12,WHV,0,OKLA, 7:21.0,USD, 7:30.9,,,,,,,,,,,,,,Longhorn Invitational
+83, 3/16/12,WHJ,0,CFLA, 7:54.3,SMU, 8:10.9,,,,,,,,,,,,,,Longhorn Invitational
+84, 3/16/12,WHV,0,CFLA, 7:22.5,SMU, 7:43.2,,,,,,,,,,,,,,Longhorn Invitational
+85, 3/16/12,MHV,2000,UCSD, 6:01.9,GONZ, 6:03.1,USD, 6:05.8,,,,,,,,,,,,Gonzaga vs. UCSD and USD
+86, 3/16/12,MHJ,2000,UCSD, 6:17.3,USD, 6:24.1,GONZ, 6:30.5,,,,,,,,,,,,Gonzaga vs. UCSD and USD
+87, 3/16/12,MHN,2000,UCSD, 6:42.1,GONZ, 6:52.2,,,,,,,,,,,,,,Gonzaga vs. UCSD and USD
+88, 3/16/12,MHV,2000,MINN, 6:36.1,TEXC, 7:15.4,,,,,,,,,,,,,,Texas Club vs Minnesota
+89, 3/16/12,MHN,2000,MINN, 7:02.0,TEX, 7:12.0,,,,,,,,,,,,,,Texas Club vs Minnesota
+90, 3/17/12,MHN,1500,STLA, 4:59.9,COLG, 5:02.6,FLST, 5:11.1,UTCH, 5:17.8,SFLA, 5:20.0,HAML, 5:32.3,TAMP, 5:52.1,,,,Tampa Mayor's Cup Regatta
+91, 3/17/12,WHJ,1500,HAML, 5:27.0,STLA, 5:38.3,,,,,,,,,,,,,,Tampa Mayor's Cup Regatta
+92, 3/17/12,WHV,1500,HAML, 5:14.8,STLA, 5:16.1,FLST, 5:25.6,TAMP, 5:49.0,,,,,,,,,,Tampa Mayor's Cup Regatta
+93, 3/17/12,MHV,1500,COLG, 4:46.6,HAML, 4:49.7,STLA, 4:59.2,UTCH, 5:15.7,,,,,,,,,,Tampa Mayor's Cup Regatta
+94, 3/17/12,MHN,0,WASC, 7:08.5,ALAB, 7:17.9,NCST, 7:19.6,CCHR, 7:21.5,DAVS, 8:15.5,,,,,,,,Augusta Invitational Regatta
+95, 3/17/12,WHV,0,UCHR, 7:27.2,WASC, 7:32.4,DAVS, 7:56.8,LBTY, 8:00.5,CCHR, 8:04.7,,,,,,,,Augusta Invitational Regatta
+96, 3/17/12,MHV,0,WASC, 6:25.5,CCHR, 6:53.9,ALAB, 7:00.6,NCST, 7:02.0,LBTY, 7:58.5,,,,,,,,Augusta Invitational Regatta
+97, 3/17/12,WHV,2000,OLDD, 7:13.3,UNC, 7:26.1,,,,,,,,,,,,,,Old Dominion/Delaware/North Carolina
+98, 3/17/12,WHV,2000,OLDD, 7:37.2,DELA, 7:56.6,,,,,,,,,,,,,,Old Dominion/Delaware/North Carolina
+99, 3/17/12,WHJ,2000,OLDD, 7:41.4,UNC, 7:45.5,,,,,,,,,,,,,,Old Dominion/Delaware/North Carolina
+100, 3/17/12,WHJ,2000,DELA, 7:47.8,OLDD, 7:48.6,,,,,,,,,,,,,,Old Dominion/Delaware/North Carolina
+101, 3/17/12,WHV,2000,UNC, 7:53.5,DELA, 8:00.6,,,,,,,,,,,,,,Old Dominion/Delaware/North Carolina
+102, 3/17/12,WHJ,2000,UNC, 7:56.1,DELA, 8:10.9,,,,,,,,,,,,,,Old Dominion/Delaware/North Carolina
+103, 3/17/12,WHV,2000,ORST, 6:48.8,GONZ, 6:59.8,,,,,,,,,,,,,,Oregon State vs. Gonzaga
+104, 3/17/12,WHJ,2000,ORST, 6:52.1,GONZ, 6:58.8,,,,,,,,,,,,,,Oregon State vs. Gonzaga
+105, 3/17/12,WHJ,0,MINN, 6:42.0,KANS, 6:54.6,BUFF, 7:07.5,,,,,,,,,,,,Oak Ridge Cardinal Invite
+106, 3/17/12,WHV,0,MINN, 6:30.2,BUFF, 6:41.2,KANS, 6:45.5,,,,,,,,,,,,Oak Ridge Cardinal Invite
+107, 3/17/12,WHJ,0,UVA, 6:32.0,TENN, 6:38.0,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+108, 3/17/12,WHV,0,UVA, 6:22.6,TENN, 6:40.9,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+109, 3/17/12,WHJ,0,LOUV, 6:43.9,DUKE, 6:51.0,DAYT, 7:01.1,,,,,,,,,,,,Oak Ridge Cardinal Invite
+110, 3/17/12,WHV,0,LOUV, 6:30.8,DUKE, 6:35.3,DAYT, 6:49.0,,,,,,,,,,,,Oak Ridge Cardinal Invite
+111, 3/17/12,WHJ,0,ND, 6:43.6,ALAB, 7:02.0,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+112, 3/17/12,WHV,0,ND, 6:34.4,ALAB, 6:49.7,JAX, 7:14.8,,,,,,,,,,,,Oak Ridge Cardinal Invite
+113, 3/17/12,WHJ,0,DUKE, 6:53.2,BUFF, 7:01.2,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+114, 3/17/12,WHV,0,DUKE, 6:28.1,BUFF, 6:42.0,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+115, 3/17/12,WHJ,0,UVA, 6:31.4,LOUV, 6:43.3,BUFF, 6:59.6,,,,,,,,,,,,Oak Ridge Cardinal Invite
+116, 3/17/12,WHV,0,UVA, 6:18.1,LOUV, 6:30.9,JAX, 7:06.7,,,,,,,,,,,,Oak Ridge Cardinal Invite
+117, 3/17/12,WHJ,0,ND, 6:33.0,MINN, 6:41.0,KANS, 6:56.5,,,,,,,,,,,,Oak Ridge Cardinal Invite
+118, 3/17/12,WHV,0,ND, 6:25.9,MINN, 6:28.3,KANS, 6:47.7,,,,,,,,,,,,Oak Ridge Cardinal Invite
+119, 3/17/12,WHJ,0,TENN, 6:37.6,ALAB, 6:50.0,DAYT, 6:55.2,,,,,,,,,,,,Oak Ridge Cardinal Invite
+120, 3/17/12,WHV,0,TENN, 6:28.8,DAYT, 6:37.1,ALAB, 6:39.4,,,,,,,,,,,,Oak Ridge Cardinal Invite
+121, 3/17/12,WHJ,0,TEX, 7:19.1,CFLA, 7:38.4,,,,,,,,,,,,,,Longhorn Invitational
+122, 3/17/12,WHV,0,TEX, 7:07.5,CFLA, 7:15.4,,,,,,,,,,,,,,Longhorn Invitational
+123, 3/17/12,WHJ,0,OKLA, 7:22.0,SMU, 7:54.4,,,,,,,,,,,,,,Longhorn Invitational
+124, 3/17/12,WHV,0,OKLA, 7:13.6,SMU, 7:39.4,,,,,,,,,,,,,,Longhorn Invitational
+125, 3/17/12,WHJ,0,USD, 7:41.0,KAST, 7:48.8,,,,,,,,,,,,,,Longhorn Invitational
+126, 3/17/12,WHV,0,USD, 7:23.6,KAST, 7:29.2,,,,,,,,,,,,,,Longhorn Invitational
+127, 3/17/12,WHJ,0,TEX, 7:44.8,USD, 8:08.5,,,,,,,,,,,,,,Longhorn Invitational
+128, 3/17/12,WHV,0,TEX, 7:32.1,USD, 7:42.0,,,,,,,,,,,,,,Longhorn Invitational
+129, 3/17/12,WHJ,0,KAST, 7:56.7,SMU, 8:11.8,,,,,,,,,,,,,,Longhorn Invitational
+130, 3/17/12,WHV,0,KAST, 7:35.4,SMU, 7:45.4,,,,,,,,,,,,,,Longhorn Invitational
+131, 3/17/12,WHJ,0,OKLA, 7:31.9,CFLA, 7:54.9,,,,,,,,,,,,,,Longhorn Invitational
+132, 3/17/12,WHV,0,OKLA, 7:22.6,CFLA, 7:32.4,,,,,,,,,,,,,,Longhorn Invitational
+133, 3/17/12,WHV,2000,SACS, 6:48.5,UCDV, 6:48.5,SDSU, 6:58.7,,,,,,,,,,,,Sacramento State/San Diego State/UC Davis
+134, 3/17/12,WHJ,2000,SACS, 6:54.9,SDSU, 7:11.1,,,,,,,,,,,,,,Sacramento State/San Diego State/UC Davis
+135, 3/17/12,WHV,1950,WESL, 6:34.2,FLA, 6:45.8,ARMY, 6:55.0,ROLL, 7:06.9,,,,,,,,,,Rollins Invitational
+136, 3/17/12,WHJ,1950,WESL, 6:41.2,FLA, 7:00.3,,,,,,,,,,,,,,Rollins Invitational
+137, 3/17/12,WHV,2000,CLEM, 6:46.2,INDI, 6:46.2,SYRA, 6:51.6,IOWA, 6:52.8,BU, 7:01.3,PURD, 7:12.1,MRST, 7:29.5,,,,Clemson/Indiana/S'cuse/Iowa/BU/Purdue/Marist
+138, 3/17/12,WHJ,2000,IOWA, 6:52.8,CLEM, 6:53.3,SYRA, 6:55.6,BU, 7:05.6,INDI, 7:07.9,PURD, 7:31.4,,,,,,Clemson/Indiana/S'cuse/Iowa/BU/Purdue/Marist
+139, 3/17/12,WHV,2000,BC, 7:26.9,STJO, 7:31.9,FAIR, 8:28.7,,,,,,,,,,,,14th Annual Jesuit Invitational Regatta
+140, 3/17/12,WHJ,2000,BC, 7:24.4,STJO, 7:31.4,,,,,,,,,,,,,,14th Annual Jesuit Invitational Regatta
+141, 3/17/12,MHV,0,COLU, 5:45.2,FLTC, 5:58.6,,,,,,,,,,,,,,Governor's Cup
+142, 3/17/12,WHV,0,COLU, 6:39.5,FLTC, 7:14.9,,,,,,,,,,,,,,Governor's Cup
+143, 3/17/12,MHN,0,COLU, 6:24.6,JAX, 6:45.1,,,,,,,,,,,,,,Governor's Cup
+144, 3/17/12,MHV,0,COLU, 5:59.3,JAX, 6:17.3,,,,,,,,,,,,,,Governor's Cup
+145, 3/17/12,WHV,0,NOVS, 6:58.9,EMOR, 7:20.2,,,,,,,,,,,,,,Governor's Cup
+146, 3/17/12,WHV,0,BARR, 7:28.8,EMOR, 7:41.0,,,,,,,,,,,,,,Governor's Cup
+147, 3/17/12,WHV,0,NOVS, 7:31.2,FLTC, 7:34.3,,,,,,,,,,,,,,Governor's Cup
+148, 3/17/12,MHV,2000,DREX, 6:04.2,VILN, 6:19.5,FRMA, 7:01.0,,,,,,,,,,,,Drexel/Villanova/Franklin & Marshall
+149, 3/17/12,MHN,2000,DREX, 6:12.5,VILN, 6:50.2,,,,,,,,,,,,,,Drexel/Villanova/Franklin & Marshall
+150, 3/17/12,WHV,2000,DREX, 6:51.4,VILN, 6:56.8,,,,,,,,,,,,,,Drexel/Villanova/Franklin & Marshall
+151, 3/17/12,WHV,1250,DRAK, 4:06.5,WICH, 4:10.8,,,,,,,,,,,,,,Charlie Thomas Memorial Row
+152, 3/17/12,MHV,1950,ROLL, 5:50.7,FLA, 5:57.0,WESL, 5:58.0,ARMY, 6:12.1,,,,,,,,,,Rollins Invitational
+153, 3/17/12,MHJ,1950,WESL, 6:08.5,FLA*, 6:13.8,ROLL, 6:16.7,ARMY, 6:24.7,,,,,,,,,,Rollins Invitational
+154, 3/17/12,MHN,1950,ROLL, 6:21.8,FLA, 6:30.4,EMBR, 6:36.5,,,,,,,,,,,,Rollins Invitational
+155, 3/17/12,MHV,2000,UCSB, 6:15.8,UCLA, 6:22.9,,,,,,,,,,,,,,UCLA vs. UCSB
+156, 3/17/12,MHJ,2000,UCSB, 6:54.9,UCLA, 7:06.5,,,,,,,,,,,,,,UCLA vs. UCSB
+157, 3/17/12,MHN,2000,UCLA, 6:38.7,UCSB, 7:03.1,,,,,,,,,,,,,,UCLA vs. UCSB
+158, 3/17/12,MHV,2000,GEOR, 6:18.6,BC, 6:26.5,STJO, 6:45.3,FAIR, 7:28.4,,,,,,,,,,14th Annual Jesuit Invitational Regatta
+159, 3/17/12,MHJ,2000,STJO, 6:32.5,GEOR, 6:36.4,BC, 6:49.8,,,,,,,,,,,,14th Annual Jesuit Invitational Regatta
+160, 3/17/12,MHN,2000,GEOR, 7:02.5,FAIR, 7:24.0,LOYO, 7:41.4,,,,,,,,,,,,14th Annual Jesuit Invitational Regatta
+161, 3/17/12,MHN,2000,UCIR, 5:53.5,USC, 6:18.8,,,,,,,,,,,,,,UC Irvine vs. USC
+162, 3/18/12,WHJ,2000,DAYT, 6:56.8,BUFF, 6:56.9,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+163, 3/18/12,WHV,2000,BUFF, 6:42.3,DAYT, 6:46.9,JAX, 7:10.8,,,,,,,,,,,,Oak Ridge Cardinal Invite
+164, 3/18/12,WHJ,2000,UVA, 6:32.4,MINN, 6:33.8,DUKE, 6:50.0,,,,,,,,,,,,Oak Ridge Cardinal Invite
+165, 3/18/12,WHV,2000,UVA, 6:14.5,DUKE, 6:22.8,MINN, 6:24.4,,,,,,,,,,,,Oak Ridge Cardinal Invite
+166, 3/18/12,WHJ,2000,ND, 6:29.6,TENN, 6:39.5,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+167, 3/18/12,WHV,2000,ND, 6:23.0,TENN, 6:26.1,,,,,,,,,,,,,,Oak Ridge Cardinal Invite
+168, 3/18/12,WHJ,2000,LOUV, 6:39.9,ALAB, 6:44.6,KANS, 6:44.7,,,,,,,,,,,,Oak Ridge Cardinal Invite
+169, 3/18/12,WHV,2000,LOUV, 6:26.2,ALAB, 6:44.6,KANS, 6:45.6,,,,,,,,,,,,Oak Ridge Cardinal Invite
+170, 3/18/12,WHJ,0,TEX, 7:08.8,OKLA, 7:14.3,,,,,,,,,,,,,,Longhorn Invitational
+171, 3/18/12,WHV,0,OKLA, 6:59.5,TEX, 7:06.7,,,,,,,,,,,,,,Longhorn Invitational
+172, 3/18/12,WHJ,0,CFLA, 7:27.4,KAST, 7:31.2,,,,,,,,,,,,,,Longhorn Invitational
+173, 3/18/12,WHV,0,CFLA, 7:15.1,KAST, 7:16.7,,,,,,,,,,,,,,Longhorn Invitational
+174, 3/18/12,WHJ,0,USD, 7:33.2,SMU, 7:58.7,,,,,,,,,,,,,,Longhorn Invitational
+175, 3/18/12,WHV,0,USD, 7:23.0,SMU, 7:38.0,,,,,,,,,,,,,,Longhorn Invitational
+176, 3/18/12,WHV,2000,FRMA, 6:50.0,BRYN, 7:00.0,,,,,,,,,,,,,,Bryn Mawr College vs. Franklin & Marshall
+177, 3/18/12,WHJ,2000,FRMA, 6:43.0,BRYN, 7:10.0,,,,,,,,,,,,,,Bryn Mawr College vs. Franklin & Marshall
+178, 3/18/12,MHV,2000,VAND, 6:20.9,TULN, 6:29.7,,,,,,,,,,,,,,ACRA South Challenge
+179, 3/18/12,MHV,2000,VAND, 6:21.6,TEX, 6:35.6,,,,,,,,,,,,,,ACRA South Challenge
+180, 3/18/12,MHV,2000,TULN, 6:18.5,TEX, 6:30.7,,,,,,,,,,,,,,ACRA South Challenge
+181, 3/18/12,MHN,2000,TEX, 6:47.0,TULN, 6:47.5,,,,,,,,,,,,,,ACRA South Challenge
+182, 3/18/12,MHN,2000,TEX, 6:46.4,VAND, 6:47.6,,,,,,,,,,,,,,ACRA South Challenge
+183, 3/18/12,MHN,2000,VAND, 6:58.1,TULN, 7:01.0,,,,,,,,,,,,,,ACRA South Challenge
+184, 3/18/12,WHV,2000,TULN, 7:32.6,VAND, 7:38.0,,,,,,,,,,,,,,ACRA South Challenge
+185, 3/23/12,MHV,2000,NORT, 6:14.7,GW, 6:31.0,,,,,,,,,,,,,,Northeastern vs. George Washington
+186, 3/23/12,MHJ,2000,NORT, 6:29.8,GW, 6:52.2,,,,,,,,,,,,,,Northeastern vs. George Washington
+187, 3/23/12,MHN,2000,NORT, 6:15.2,GW, 6:47.6,,,,,,,,,,,,,,Northeastern vs. George Washington
+188, 3/23/12,MHV,2000,GEOR, 6:18.5,PENN, 6:22.1,,,,,,,,,,,,,,Penn vs. Georgetown
+189, 3/23/12,MHJ,2000,PENN, 6:33.6,GEOR, 6:58.6,,,,,,,,,,,,,,Penn vs. Georgetown
+190, 3/23/12,MHN,2000,PENN, 6:36.1,GEOR, 6:48.7,,,,,,,,,,,,,,Penn vs. Georgetown
+191, 3/24/12,MLV,2000,HARV, 5:49.9,DELA, 6:13.1,,,,,,,,,,,,,,Harvard vs. Delaware
+192, 3/24/12,MLJ,2000,HARV, 6:06.9,DELA, 6:11.6,,,,,,,,,,,,,,Harvard vs. Delaware
+193, 3/24/12,MLN,2000,HARV, 6:03.6,DELA, 6:16.2,,,,,,,,,,,,,,Harvard vs. Delaware
+194, 3/24/12,MLV,2000,PRIN, 5:57.2,NAVY, 6:02.5,,,,,,,,,,,,,,Murtaugh Cup
+195, 3/24/12,MLJ,2000,NAVY, 6:19.6,PRIN, 6:20.6,,,,,,,,,,,,,,Murtaugh Cup
+196, 3/24/12,MLN,2000,PRIN, 6:04.1,NAVY, 6:10.2,,,,,,,,,,,,,,Murtaugh Cup
+197, 3/24/12,MHV,2000,YALE, 6:43.7,BRWN, 6:45.6,,,,,,,,,,,,,,Yale vs. Brown University
+198, 3/24/12,MHJ,2000,YALE, 6:26.7,BRWN, 6:27.9,,,,,,,,,,,,,,Yale vs. Brown University
+199, 3/24/12,MHN,2000,YALE, 6:21.6,BRWN, 6:24.6,,,,,,,,,,,,,,Yale vs. Brown University
+200, 3/24/12,MHV,2000,GEOR, 6:34.2,GW, 6:36.3,,,,,,,,,,,,,,Georgetown vs. George Washington
+201, 3/24/12,MHJ,2000,GW, 7:10.7,GEOR, 7:21.4,,,,,,,,,,,,,,Georgetown vs. George Washington
+202, 3/24/12,MHN,2000,GEOR, 7:06.4,GW, 7:10.2,,,,,,,,,,,,,,Georgetown vs. George Washington
+203, 3/24/12,MHV,2000,NORT, 6:32.6,GEOR, 6:42.8,,,,,,,,,,,,,,Georgetown vs. Northeastern
+204, 3/24/12,MHJ,2000,NORT, 7:05.9,GEOR, 7:40.2,,,,,,,,,,,,,,Georgetown vs. Northeastern
+205, 3/24/12,MHN,2000,NORT, 6:52.2,GEOR, 7:22.2,,,,,,,,,,,,,,Georgetown vs. Northeastern
+206, 3/24/12,MHV,2000,PENN, 6:45.1,GW, 6:50.1,,,,,,,,,,,,,,Penn vs. George Washington
+207, 3/24/12,MHJ,2000,PENN, 7:08.7,GW, 7:28.2,,,,,,,,,,,,,,Penn vs. George Washington
+208, 3/24/12,MHN,2000,PENN, 7:04.1,GW, 7:36.1,,,,,,,,,,,,,,Penn vs. George Washington
+209, 3/24/12,MHV,2000,COLU, 6:15.6,RUTG, 6:38.6,,,,,,,,,,,,,,Collins Cup
+210, 3/24/12,MHN,2000,COLU, 6:45.4,RUTG, 7:01.6,,,,,,,,,,,,,,Collins Cup
+211, 3/24/12,MHV,2000,NORT, 6:38.5,PENN, 6:47.1,,,,,,,,,,,,,,Burk Cup
+212, 3/24/12,MHJ,2000,NORT, 6:47.4,PENN, 6:52.6,,,,,,,,,,,,,,Burk Cup
+213, 3/24/12,MHN,2000,NORT, 6:33.0,PENN, 6:55.9,,,,,,,,,,,,,,Burk Cup
+214, 3/24/12,WHV,2000,GEOR, 6:57.5,WV, 7:03.7,UNC, 7:10.4,,,,,,,,,,,,University of North Carolina vs. Georgetown
+215, 3/24/12,WHJ,2000,UNC, 7:07.9,GEOR, 7:11.2,WV, 7:32.8,,,,,,,,,,,,University of North Carolina vs. Georgetown
+216, 3/24/12,WHV,2000,OHST, 6:28.1,ND, 6:35.4,,,,,,,,,,,,,,Ohio State vs. Notre Dame
+217, 3/24/12,WHJ,2000,OHST, 6:37.7,ND, 6:44.3,,,,,,,,,,,,,,Ohio State vs. Notre Dame
+218, 3/24/12,WHV,2000,HUMS, 7:17.1,MILL, 7:34.1,,,,,,,,,,,,,,Humboldt State vs. Mills College
+219, 3/24/12,WHV,2000,YALE, 6:31.0,COLU, 6:33.1,PENN, 6:34.8,,,,,,,,,,,,Connell Cup
+220, 3/24/12,WHJ,2000,YALE, 6:40.9,COLU, 6:46.7,PENN, 7:01.4,,,,,,,,,,,,Connell Cup
+221, 3/24/12,WHV,2000,MICH, 6:34.1,PRIN, 6:39.5,BRWN, 6:45.5,,,,,,,,,,,,Class of 1987 Trophy
+222, 3/24/12,WHJ,2000,MICH, 6:43.9,PRIN, 6:46.4,BRWN, 6:51.0,,,,,,,,,,,,Class of 1987 Trophy
+223, 3/24/12,WHV,2000,CLEM, 6:26.1,KANS, 6:52.1,,,,,,,,,,,,,,Clemson University vs. Kansas
+224, 3/24/12,WHJ,2000,CLEM, 6:39.6,KANS, 6:57.9,,,,,,,,,,,,,,Clemson University vs. Kansas
+225, 3/24/12,WHV,2000,RADC, 6:25.9,BU, 6:32.1,NORT, 6:38.3,MIT, 6:38.9,BC, 6:54.1,,,,,,,,Beanpot
+226, 3/24/12,WHJ,2000,RADC, 6:34.2,NORT, 6:54.0,BU, 6:57.5,BC, 6:58.0,MIT, 7:08.2,,,,,,,,Beanpot
+227, 3/24/12,MHN,0,DREX, 7:07.2,BUCK, 7:13.8,UNC, 7:30.8,DELA, 7:32.2,,,,,,,,,,Murphy Cup Regatta
+228, 3/24/12,MHN,0,COLG, 7:21.1,VILN, 7:28.7,FORD, 7:31.5,LAFA, 8:37.9,FRMA, 8:44.8,,,,,,,,Murphy Cup Regatta
+229, 3/24/12,MHN,0,UVA, 6:45.7,MRST, 6:58.6,LASL, 7:24.5,LEHI, 7:29.8,PITT, 7:33.3,,,,,,,,Murphy Cup Regatta
+230, 3/24/12,MHJ,0,DREX, 7:05.4,TEMP, 7:09.6,STJO, 7:13.9,UNC, 8:20.6,LEHI, 8:44.5,,,,,,,,Murphy Cup Regatta
+231, 3/24/12,MHJ,0,UVA, 7:00.3,BUCK, 7:39.2,LOYO, 8:18.8,LAFA, 8:36.5,VASS, 8:59.2,,,,,,,,Murphy Cup Regatta
+232, 3/24/12,WHJ,0,CONN, 8:28.0,BUCK, 8:36.2,DELA, 8:38.3,UMAS, 8:41.6,TEMP, 9:08.6,MRST, 9:28.8,,,,,,Murphy Cup Regatta
+233, 3/24/12,WHJ,0,GW, 7:55.4,NAVY, 7:56.2,RUTG, 8:24.3,LASL, 8:43.9,COLG, 8:54.0,SACH, 9:26.0,,,,,,Murphy Cup Regatta
+234, 3/24/12,WHJ,0,BUFF, 7:53.1,STJO, 8:04.2,DREX, 8:06.4,FORD, 8:21.7,GMAS, 8:31.0,,,,,,,,Murphy Cup Regatta
+235, 3/24/12,WHV,0,PHIL, 8:15.3,FRMA, 8:20.1,VASS, 8:35.6,BRYN, 8:39.8,SUSQ,10:17.4,,,,,,,,Murphy Cup Regatta
+236, 3/24/12,MHV,0,DREX, 6:53.3,MRST, 7:17.6,WASC, 7:32.3,RICH, 8:40.0,,,,,,,,,,Murphy Cup Regatta
+237, 3/24/12,MHV,0,TEMP, 7:08.2,STJO, 7:16.6,LASL, 7:21.7,LEHI, 7:37.6,,,,,,,,,,Murphy Cup Regatta
+238, 3/24/12,MHV,0,UVA, 6:55.6,BUCK, 6:59.0,DELA, 7:23.7,UNC, 7:28.4,FRMA, 8:26.4,,,,,,,,Murphy Cup Regatta
+239, 3/24/12,MHV,0,VILN, 7:37.0,LAFA, 8:17.3,DOWL, 8:27.1,RUCM, 9:03.6,,,,,,,,,,Murphy Cup Regatta
+240, 3/24/12,WHV,0,UMAS, 8:25.2,GMAS, 8:27.4,COLG, 8:33.4,DREX, 8:41.5,VILN, 8:47.1,PITT, 9:01.9,,,,,,Murphy Cup Regatta
+241, 3/24/12,WHV,0,BUCK, 7:57.0,RUTG, 8:03.2,LASL, 8:22.3,FORD, 8:29.3,LOYO, 8:40.6,SACH, 9:01.0,,,,,,Murphy Cup Regatta
+242, 3/24/12,WHV,0,GW, 7:46.5,NAVY, 7:56.8,TEMP, 8:07.5,CONN, 8:17.5,DELA, 8:23.4,,,,,,,,Murphy Cup Regatta
+243, 3/24/12,WHV,0,BUFF, 7:45.4,STJO, 7:51.5,BUCK, 7:57.4,LEHI, 8:20.2,MRST, 8:28.5,,,,,,,,Murphy Cup Regatta
+244, 3/24/12,MHN,0,DREX, 6:36.7,UVA, 6:47.7,BUCK, 6:47.7,MRST, 6:56.4,COLG, 7:44.2,,,,,,,,Murphy Cup Regatta
+245, 3/24/12,MLV,0,LAFA, 7:50.6,SUSQ, 7:52.4,,,,,,,,,,,,,,Murphy Cup Regatta
+246, 3/24/12,WLV,0,BUFF, 8:06.2,TEMP, 8:28.5,UMAS, 8:53.1,LAFA, 9:03.2,BUCK*, 9:09.7,,,,,,,,Murphy Cup Regatta
+247, 3/24/12,MHJ,0,UVA, 6:28.2,STJO, 6:33.5,TEMP, 6:43.7,,,,,,,,,,,,Murphy Cup Regatta
+248, 3/24/12,WHJ,0,NAVY, 7:45.9,STJO, 7:55.9,CONN, 8:01.3,GW, 8:09.6,,,,,,,,,,Murphy Cup Regatta
+249, 3/24/12,WHV,0,FRMA, 8:24.2,PHIL, 8:31.4,VASS, 8:40.8,,,,,,,,,,,,Murphy Cup Regatta
+250, 3/24/12,MHV,0,STJO, 6:45.5,LASL, 6:47.5,MRST, 6:55.9,WASC, 7:06.0,DELA, 7:10.6,UNC, 7:12.3,,,,,,Murphy Cup Regatta
+251, 3/24/12,WHV,0,TEMP, 7:42.3,RUTG, 7:46.6,CONN, 8:01.3,LASL, 8:14.9,LEHI, 8:28.6,,,,,,,,Murphy Cup Regatta
+252, 3/24/12,MHV,0,UVA, 6:26.8,TEMP, 6:32.9,DREX, 6:37.6,BUCK, 6:43.9,VILN, 7:07.6,,,,,,,,Murphy Cup Regatta
+253, 3/24/12,WHV,0,NAVY, 7:27.4,GW, 7:30.8,BUFF, 7:47.1,STJO, 7:52.0,UMAS, 7:59.2,BUCK, 8:02.6,,,,,,Murphy Cup Regatta
+254, 3/24/12,MHV,0,WWAS, 5:57.3,PACL, 6:13.6,WAST, 6:19.0,PUGS, 6:27.8,WLMT, 6:48.0,,,,,,,,Cascade Sprints
+255, 3/24/12,WHV,0,WWAS, 6:42.4,PUGS, 6:57.7,WLMT, 6:59.4,PACL, 7:03.1,SPAC, 7:04.0,,,,,,,,Cascade Sprints
+256, 3/24/12,WHJ,0,WWAS, 6:55.3,PUGS, 7:13.9,,,,,,,,,,,,,,Cascade Sprints
+257, 3/24/12,MHN,0,WAST, 6:14.9,WWAS, 6:18.0,PUGS, 6:35.6,ORGN, 6:53.0,,,,,,,,,,Cascade Sprints
+258, 3/24/12,MHJ,0,WAST, 6:29.3,PUGS, 6:48.5,,,,,,,,,,,,,,Cascade Sprints
+259, 3/24/12,MHN,2000,TEX, 6:42.9,WICH, 7:07.8,,,,,,,,,,,,,,Texas vs. Wichita State
+260, 3/24/12,MHV,2000,WICH, 6:28.3,TEX, 6:33.1,,,,,,,,,,,,,,Texas vs. Wichita State
+261, 3/24/12,MHN,0,MARI, 5:21.6,PURD, 5:22.0,,,,,,,,,,,,,,Marietta Regatta
+262, 3/24/12,WHV,0,MARI, 5:58.8,NPRK, 6:17.4,,,,,,,,,,,,,,Marietta Regatta
+263, 3/24/12,WHV,0,DAYT, 5:54.1,DUQN, 6:07.4,,,,,,,,,,,,,,Marietta Regatta
+264, 3/24/12,WHJ,0,MARI, 6:21.3,NPRK, 7:00.0,,,,,,,,,,,,,,Marietta Regatta
+265, 3/24/12,WHJ,0,DAYT, 6:01.7,DUQN, 6:05.4,,,,,,,,,,,,,,Marietta Regatta
+266, 3/24/12,MHJ,0,PURD, 5:25.4,MARI, 5:41.8,,,,,,,,,,,,,,Marietta Regatta
+267, 3/24/12,MHV,0,PURD, 5:18.2,MARI, 5:23.8,,,,,,,,,,,,,,Marietta Regatta
+268, 3/24/12,WHJ,0,DUQN, 6:15.4,NPRK, 7:06.4,,,,,,,,,,,,,,Marietta Regatta
+269, 3/24/12,WHJ,0,DAYT, 6:12.1,MARI, 6:22.9,,,,,,,,,,,,,,Marietta Regatta
+270, 3/24/12,WHV,0,DUQN, 6:10.7,NPRK, 6:30.3,,,,,,,,,,,,,,Marietta Regatta
+271, 3/24/12,WHV,0,DAYT, 5:56.1,MARI, 6:03.9,,,,,,,,,,,,,,Marietta Regatta
+272, 3/24/12,MHV,2000,OC, 6:16.9,UCLA, 6:26.7,,,,,,,,,,,,,,UCLA vs. OCC
+273, 3/24/12,MHJ,2000,OC, 6:53.5,UCLA, 7:06.3,,,,,,,,,,,,,,UCLA vs. OCC
+274, 3/24/12,MHN,2000,OC, 6:31.0,UCLA, 6:44.3,,,,,,,,,,,,,,UCLA vs. OCC
+275, 3/24/12,WHV,0,TENN, 7:12.9,CFLA, 7:22.2,,,,,,,,,,,,,,UCF vs. University of Tennessee
+276, 3/24/12,WHJ,0,TENN, 7:16.4,CFLA, 7:40.2,,,,,,,,,,,,,,UCF vs. University of Tennessee
+277, 3/24/12,WHV,2000,LOMY, 6:25.0,CSLB, 6:44.0,OC, 6:45.3,UCSD, 6:52.5,CHAP, 7:15.7,UCIR, 7:27.7,,,,,,Berg Cup
+278, 3/24/12,WHJ,2000,LOMY, 6:53.7,UCSD, 7:25.2,,,,,,,,,,,,,,Berg Cup
+279, 3/24/12,WHV,2000,WELL, 6:33.0,WASC, 6:36.0,,,,,,,,,,,,,,Wellesley College vs. Washington College
+280, 3/24/12,WHJ,2000,WELL, 7:05.0,WASC, 7:32.0,,,,,,,,,,,,,,Wellesley College vs. Washington College
+281, 3/24/12,WHV,0,TRIN, 7:22.9,FLA, 7:42.9,VT, 8:03.5,UGA, 8:12.9,NORW, 8:18.1,,,,,,,,John Hunter Regatta
+282, 3/24/12,WHV,0,FLST, 7:40.6,EMOR, 7:42.2,TULN, 7:46.4,SMIT, 7:47.2,CLEC, 8:08.5,,,,,,,,John Hunter Regatta
+283, 3/24/12,WHV,0,COLB, 7:46.0,GATC, 7:58.1,LSU, 8:09.5,CCHR, 8:11.6,AUBN, 8:22.5,,,,,,,,John Hunter Regatta
+284, 3/24/12,WHV,0,TRIN, 7:38.0,FLA, 7:50.3,EMOR, 7:55.6,FLST, 7:59.1,GATC, 7:59.9,LSU, 8:29.0,,,,,,John Hunter Regatta
+285, 3/24/12,MHV,0,COLB, 6:36.0,TULN, 6:47.1,EMOR, 6:59.3,TENN, 7:03.6,VT, 7:13.4,LSU, 7:15.7,UGA, 7:31.0,,,,John Hunter Regatta
+286, 3/24/12,MHV,0,GATC, 6:38.2,FLA, 6:49.0,CLEM, 7:04.6,CCHR, 7:07.6,ALAB, 7:09.5,NORW, 7:19.9,,,,,,John Hunter Regatta
+287, 3/24/12,MHV,0,GATC, 6:38.2,FLA, 6:42.6,TULN, 6:57.3,CLEM, 7:08.1,EMOR, 7:08.4,TENN, 7:15.5,,,,,,John Hunter Regatta
+288, 3/24/12,WHJ,0,TRIN, 7:38.4,SMIT, 7:48.6,FLA, 8:15.3,,,,,,,,,,,,John Hunter Regatta
+289, 3/24/12,MHJ,0,GATC, 7:08.1,FLA, 7:16.8,CLEM, 7:29.6,UGA, 7:35.0,EMOR, 7:50.0,,,,,,,,John Hunter Regatta
+290, 3/24/12,MHN,0,FLA, 7:19.8,VT, 7:27.6,TULN, 7:29.1,GATC, 7:29.8,FLST, 7:41.7,EMOR, 8:12.0,,,,,,John Hunter Regatta
+291, 3/24/12,MHN,0,ALAB, 7:54.3,CLEM, 7:55.6,LSU, 8:03.6,TENN, 8:23.8,NCST, 8:30.6,UGA, 8:42.2,AUBN, 9:04.9,,,,John Hunter Regatta
+292, 3/24/12,MHN,0,UTCH, 8:01.6,DUKE, 8:19.0,,,,,,,,,,,,,,John Hunter Regatta
+293, 3/24/12,WHV,2000,BARR, 7:02.6,FLTC, 7:10.5,COK, 7:18.7,,,,,,,,,,,,Florida Tech vs. Barry
+294, 3/24/12,MHV,2000,BC, 5:56.3,URI, 6:01.0,,,,,,,,,,,,,,University of Rhode Island vs. Boston College
+295, 3/24/12,MHJ,2000,BC, 6:23.5,URI, 6:27.3,,,,,,,,,,,,,,University of Rhode Island vs. Boston College
+296, 3/24/12,MHN,2000,BC, 6:22.2,URI, 6:40.3,,,,,,,,,,,,,,University of Rhode Island vs. Boston College
+297, 3/25/12,WHV,1000,FRMA, 3:38.9,MAWA*, 4:14.6,,,,,,,,,,,,,,Franklin & Marshall vs. Mary Washington
+298, 3/25/12,WHV,1000,FRMA, 3:35.4,MAWA, 3:52.2,,,,,,,,,,,,,,Franklin & Marshall vs. Mary Washington
+299, 3/25/12,WHV,1000,FRMA, 3:39.1,MAWA, 3:58.5,,,,,,,,,,,,,,Franklin & Marshall vs. Mary Washington
+300, 3/25/12,WHV,1000,FRMA, 3:42.0,MAWA, 4:03.1,,,,,,,,,,,,,,Franklin & Marshall vs. Mary Washington
+301, 3/25/12,WHV,2000,INDI, 6:25.6,ND, 6:27.7,LOUV, 6:29.3,PURD, 6:52.2,,,,,,,,,,Indiana University vs. Notre Dame
+302, 3/25/12,WHJ,2000,ND, 6:34.7,INDI, 6:42.0,LOUV, 6:46.1,PURD, 7:13.1,,,,,,,,,,Indiana University vs. Notre Dame
+303, 3/25/12,MHV,2000,ND, 5:50.7,PURD, 5:52.1,,,,,,,,,,,,,,Notre Dame vs. Purdue
+304, 3/25/12,MHJ,2000,PURD, 6:04.0,ND, 6:11.1,,,,,,,,,,,,,,Notre Dame vs. Purdue
+305, 3/25/12,MHN,2000,ND, 6:07.4,PURD, 6:13.5,,,,,,,,,,,,,,Notre Dame vs. Purdue
+306, 3/28/12,WHV,2000,WLSM, 6:56.1,ROCH, 7:23.7,,,,,,,,,,,,,,William Smith vs. Univ Rochester
+307, 3/28/12,WHJ,2000,WLSM, 7:08.5,ROCH, 7:22.0,,,,,,,,,,,,,,William Smith vs. Univ Rochester
+308, 3/31/12,MHV,2000,WASH, 5:57.4,BRWN, 6:03.1,,,,,,,,,,,,,,Husky Open
+309, 3/31/12,MHJ,2000,WASH, 6:05.5,BRWN, 6:19.7,,,,,,,,,,,,,,Husky Open
+310, 3/31/12,MHN,2000,WASH, 6:03.0,BRWN, 6:22.4,,,,,,,,,,,,,,Husky Open
+311, 3/31/12,MLV,2000,COLU, 6:13.8,DELA, 6:21.5,,,,,,,,,,,,,,Columbia vs. Delaware
+312, 3/31/12,MLJ,2000,COLU, 6:27.0,DELA, 6:37.1,,,,,,,,,,,,,,Columbia vs. Delaware
+313, 3/31/12,MLN,2000,DELA, 6:31.1,COLU, 6:33.8,,,,,,,,,,,,,,Columbia vs. Delaware
+314, 3/31/12,MLV,2000,GEOR, 6:17.9,PRIN, 6:20.9,COLU, 6:24.7,,,,,,,,,,,,Fosburgh Cup
+315, 3/31/12,MLJ,2000,PRIN, 6:29.0,COLU, 6:35.4,GEOR, 6:44.3,,,,,,,,,,,,Fosburgh Cup
+316, 3/31/12,MLN,2000,PRIN, 6:32.0,GEOR, 6:43.7,COLU, 6:45.7,,,,,,,,,,,,Fosburgh Cup
+317, 3/31/12,MLV,2000,YALE, 6:09.3,NAVY, 6:18.3,,,,,,,,,,,,,,Johnson Cup
+318, 3/31/12,MLJ,2000,YALE, 6:16.5,NAVY, 6:20.7,,,,,,,,,,,,,,Johnson Cup
+319, 3/31/12,MLN,2000,YALE, 6:25.1,NAVY, 6:50.7,,,,,,,,,,,,,,Johnson Cup
+320, 3/31/12,MHN,2000,HARV, 6:03.7,CORN, 6:06.6,,,,,,,,,,,,,,Cornell University vs. Harvard University
+321, 3/31/12,MLV,2000,PENN, 5:50.9,DELA, 5:55.2,,,,,,,,,,,,,,Penn-Delaware Lights
+322, 3/31/12,MLJ,2000,PENN, 5:59.3,DELA, 6:01.5,,,,,,,,,,,,,,Penn-Delaware Lights
+323, 3/31/12,MLN,2000,PENN, 5:58.8,DELA, 6:11.2,,,,,,,,,,,,,,Penn-Delaware Lights
+324, 3/31/12,MHV,2000,PRIN, 6:11.8,SYRA, 6:18.5,GEOR, 6:25.4,,,,,,,,,,,,Annual Scrim
+325, 3/31/12,MHJ,2000,PRIN, 6:19.6,SYRA, 6:20.9,GEOR, 7:00.3,,,,,,,,,,,,Annual Scrim
+326, 3/31/12,MHN,2000,PRIN, 6:24.8,SYRA, 6:29.2,GEOR, 6:55.3,,,,,,,,,,,,Annual Scrim
+327, 3/31/12,MHV,2000,COLU, 5:48.7,DART, 5:53.9,HC, 6:04.5,MIT, 6:24.6,,,,,,,,,,Alumni Cup
+328, 3/31/12,MHJ,2000,DART, 5:58.5,HC, 6:04.0,,,,,,,,,,,,,,Alumni Cup
+329, 3/31/12,MHN,2000,DART, 6:05.7,COLU, 6:11.9,MIT, 6:14.4,HC, 6:20.5,,,,,,,,,,Alumni Cup
+330, 3/31/12,MHV,2000,BUCK, 6:19.3,RUTG, 6:25.5,DELA, 6:33.0,,,,,,,,,,,,Rutgers University vs. Delaware/Bucknell
+331, 3/31/12,MHJ,2000,RUTG*, 6:41.4,BUCK, 6:55.8,,,,,,,,,,,,,,Rutgers University vs. Delaware/Bucknell
+332, 3/31/12,MHN,2000,BUCK, 6:34.1,RUTG, 6:36.6,DELA, 6:46.6,,,,,,,,,,,,Rutgers University vs. Delaware/Bucknell
+333, 3/31/12,WHV,2000,DRAK, 7:35.0,CANI, 7:36.9,ARMY, 7:41.4,FAIR, 7:48.2,,,,,,,,,,SHU Invitation
+334, 3/31/12,WHV,2000,SKID, 7:43.7,SACH, 7:56.0,IONA, 8:28.4,ALBY, 9:22.0,,,,,,,,,,SHU Invitation
+335, 3/31/12,WHV,2000,DRAK, 7:48.0,CANI, 7:52.9,SKID, 8:04.8,SACH, 8:07.0,,,,,,,,,,SHU Invitation
+336, 3/31/12,WHV,2000,ARMY, 7:53.6,FAIR, 7:59.8,IONA, 8:31.9,ALBY, 9:32.7,,,,,,,,,,SHU Invitation
+337, 3/31/12,WHJ,2000,FORD, 7:21.0,SACH, 7:56.2,CANI, 9:23.0,IONA,10:37.0,,,,,,,,,,SHU Invitation
+338, 3/31/12,WHV,2000,BU, 6:45.8,SYRA, 6:47.4,,,,,,,,,,,,,,Kittel Cayuga Combo
+339, 3/31/12,WHV,2000,CORN, 6:55.7,RUTG, 7:10.2,,,,,,,,,,,,,,Kittel Cayuga Combo
+340, 3/31/12,WHV,2000,CORN, 6:46.2,BU, 6:55.5,,,,,,,,,,,,,,Kittel Cayuga Combo
+341, 3/31/12,WHV,2000,SYRA, 6:56.4,RUTG, 7:10.2,,,,,,,,,,,,,,Kittel Cayuga Combo
+342, 3/31/12,WHJ,2000,SYRA, 7:08.2,BU, 7:14.9,,,,,,,,,,,,,,Kittel Cayuga Combo
+343, 3/31/12,WHJ,2000,CORN, 7:00.1,RUTG, 7:31.0,,,,,,,,,,,,,,Kittel Cayuga Combo
+344, 3/31/12,WHJ,2000,CORN, 6:57.1,SYRA, 7:09.8,,,,,,,,,,,,,,Kittel Cayuga Combo
+345, 3/31/12,WHJ,2000,BU, 7:18.3,RUTG, 7:33.2,,,,,,,,,,,,,,Kittel Cayuga Combo
+346, 3/31/12,WHV,2000,MERC, 6:50.3,LEHI, 6:55.1,PSU, 7:02.1,,,,,,,,,,,,Neuweiler Plate
+347, 3/31/12,WHV,2000,PHIL, 7:02.3,FRMA, 7:12.4,LAFA, 7:15.3,ROMO, 7:33.3,,,,,,,,,,Neuweiler Plate
+348, 3/31/12,WHV,2000,MERC, 6:44.0,LEHI, 6:54.2,PHIL, 6:56.0,FRMA, 6:58.3,PSU, 7:00.8,LAFA, 7:20.3,,,,,,Neuweiler Plate
+349, 3/31/12,WHJ,2000,WILL, 6:48.1,DREX, 6:59.4,TEMP, 7:02.9,,,,,,,,,,,,Drexel/Williams/Temple
+350, 3/31/12,WHV,2000,MIDD, 7:01.7,VAND, 7:27.0,UCHR, 7:27.5,CCHR, 7:28.2,UGA, 7:34.6,CLEC, 7:42.0,,,,,,Clemson Sprints Regatta
+351, 3/31/12,WHJ,2000,STMY, 7:25.4,SCLA, 7:50.4,,,,,,,,,,,,,,Santa Clara vs. St. Mary's College
+352, 3/31/12,WHV,2000,MICH, 6:16.7,YALE, 6:28.9,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+353, 3/31/12,WHJ,2000,MICH, 6:25.6,YALE, 6:33.3,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+354, 3/31/12,WHV,2000,OHST, 6:23.7,YALE, 6:32.4,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+355, 3/31/12,WHJ,2000,OHST, 6:25.3,YALE, 6:34.7,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+356, 3/31/12,WHV,2000,OHST, 6:24.7,MIST, 6:32.9,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+357, 3/31/12,WHJ,2000,OHST, 6:29.1,MIST, 6:47.5,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+358, 3/31/12,WHV,2000,MICH, 6:18.1,MIST, 6:30.7,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+359, 3/31/12,WHJ,2000,MICH, 6:32.2,MIST, 6:50.1,,,,,,,,,,,,,,Scioto River at Griggs Reservoir
+360, 3/31/12,WHV,2000,URI, 7:09.8,BC, 7:19.1,UNH, 7:19.8,UMAS, 7:21.2,,,,,,,,,,Rhode Island/BC/UMass/New Hampshire
+361, 3/31/12,WHJ,2000,URI, 7:11.6,UMAS, 7:25.6,BC, 7:31.9,UNH, 7:42.3,,,,,,,,,,Rhode Island/BC/UMass/New Hampshire
+362, 3/31/12,WHV,2000,BRWN, 6:16.0,RADC, 6:19.4,,,,,,,,,,,,,,Brown vs. Radcliffe
+363, 3/31/12,WHJ,2000,RADC, 6:27.5,BRWN, 6:33.1,,,,,,,,,,,,,,Brown vs. Radcliffe
+364, 3/31/12,WHV,2000,WLSM, 6:52.6,MARI, 7:04.9,ITHA, 7:23.6,,,,,,,,,,,,Ithaca College vs. Marietta
+365, 3/31/12,WHJ,2000,MARI, 7:21.4,WLSM, 7:29.5,ITHA, 7:33.5,,,,,,,,,,,,Ithaca College vs. Marietta
+366, 3/31/12,WHV,1700,STLA, 6:19.5,RIT, 6:23.3,,,,,,,,,,,,,,RIT vs. St. Lawrence
+367, 3/31/12,WHJ,1700,STLA, 6:42.2,RIT, 6:58.7,,,,,,,,,,,,,,RIT vs. St. Lawrence
+368, 3/31/12,WHV,2000,GW, 6:44.5,GEOR, 6:49.5,GMAS, 7:03.7,,,,,,,,,,,,1998 Cup/ Georges Cup
+369, 3/31/12,WHJ,2000,GW, 7:06.4,GEOR, 7:08.3,GMAS, 7:36.4,,,,,,,,,,,,1998 Cup/ Georges Cup
+370, 3/31/12,WHV,2000,NOVS, 8:14.7,BARR, 8:14.7,,,,,,,,,,,,,,NSU / Barry Dual
+371, 3/31/12,WHV,2000,HC, 6:54.0,SIMM, 7:01.0,SMIT, 7:26.0,,,,,,,,,,,,Holy Cross vs. Smith
+372, 3/31/12,WHJ,2000,HC, 7:05.0,SIMM, 7:14.0,SMIT, 7:25.0,,,,,,,,,,,,Holy Cross vs. Smith
+373, 3/31/12,WHV,2000,CONN, 7:06.5,MRST, 7:09.9,TRIN, 7:13.5,,,,,,,,,,,,University of Connecticut vs. Trinity
+374, 3/31/12,WHJ,2000,CONN, 7:15.3,TRIN, 7:25.5,MRST, 7:34.7,,,,,,,,,,,,University of Connecticut vs. Trinity
+375, 3/31/12,WHV,2000,DART, 6:29.3,NORT, 6:29.7,COLU, 6:34.8,,,,,,,,,,,,Northeastern University vs. Dartmouth
+376, 3/31/12,WHJ,2000,DART, 6:40.4,COLU, 6:42.6,NORT, 6:55.5,,,,,,,,,,,,Northeastern University vs. Dartmouth
+377, 3/31/12,MHV,2000,WASC, 6:35.0,STMD, 7:18.0,,,,,,,,,,,,,,Washington College vs. St. Mary's College
+378, 3/31/12,WHV,2000,WASC, 6:51.0,STMD, 7:47.0,,,,,,,,,,,,,,Washington College vs. St. Mary's College
+379, 3/31/12,MHV,2000,TULN, 6:41.4,TUFT, 6:55.2,,,,,,,,,,,,,,Tufts University vs. Tulane University
+380, 3/31/12,MHN,2000,TUFT, 6:39.9,TULN, 7:03.4,,,,,,,,,,,,,,Tufts University vs. Tulane University
+381, 3/31/12,WHV,2000,TUFT, 7:29.3,TULN, 7:41.1,,,,,,,,,,,,,,Tufts University vs. Tulane University
+382, 3/31/12,MHV,2000,WESL, 6:00.5,CSTG, 6:08.8,,,,,,,,,,,,,,Wesleyan v Coast Guard
+383, 3/31/12,MHJ,2000,WESL, 6:12.2,CSTG, 6:36.9,,,,,,,,,,,,,,Wesleyan v Coast Guard
+384, 3/31/12,WHV,2000,CSTG, 6:36.1,WESL, 6:39.4,,,,,,,,,,,,,,Wesleyan v Coast Guard
+385, 3/31/12,WHJ,2000,WESL, 6:50.1,CSTG, 7:07.2,,,,,,,,,,,,,,Wesleyan v Coast Guard
+386, 3/31/12,WHV,2000,BOWD, 7:18.2,MALW, 7:32.4,CLRK, 7:44.1,,,,,,,,,,,,Clark/Bowdoin/UMassLowell/Bryant/Holy Cross
+387, 3/31/12,WHJ,0,GV, 7:25.8,EMIC, 8:07.0,,,,,,,,,,,,,,Michigan Invitational
+388, 3/31/12,WHJ,0,GV, 7:30.8,EMIC, 8:13.3,,,,,,,,,,,,,,Michigan Invitational
+389, 3/31/12,WHJ,0,GV, 7:29.8,EMIC, 8:30.4,,,,,,,,,,,,,,Michigan Invitational
+390, 3/31/12,MHJ,0,MICH, 6:11.1,GV, 6:20.1,ND, 6:28.8,,,,,,,,,,,,Michigan Invitational
+391, 3/31/12,MHJ,0,MICH, 6:09.7,GV, 6:15.3,ND, 6:31.5,,,,,,,,,,,,Michigan Invitational
+392, 3/31/12,MHJ,0,MICH, 6:16.3,GV, 6:20.3,ND, 6:32.1,,,,,,,,,,,,Michigan Invitational
+393, 3/31/12,MHN,0,MICH, 6:23.7,GV, 6:32.1,,,,,,,,,,,,,,Michigan Invitational
+394, 3/31/12,MHN,0,MICH, 6:24.9,GV, 6:28.3,,,,,,,,,,,,,,Michigan Invitational
+395, 3/31/12,MHN,0,MICH*, 6:24.5,GV*, 6:26.1,,,,,,,,,,,,,,Michigan Invitational
+396, 3/31/12,MHV,2000,FORD, 6:26.0,IONA, 6:31.1,ALBY, 6:44.9,SKID, 6:59.2,ARMY, 7:16.5,,,,,,,,SHU Invitational
+397, 3/31/12,MHV,2000,FAIR, 6:50.2,CANI, 7:24.3,,,,,,,,,,,,,,SHU Invitational
+398, 3/31/12,MHJ,2000,FORD, 7:03.5,ALBY, 7:51.7,,,,,,,,,,,,,,SHU Invitational
+399, 3/31/12,MHN,2000,FORD, 7:04.6,ARMY, 7:06.3,FAIR, 7:15.0,SKID, 7:47.0,,,,,,,,,,SHU Invitational
+400, 3/31/12,MHV,2000,UNH, 6:25.8,URI, 6:29.8,,,,,,,,,,,,,,URI v UNH
+401, 3/31/12,MHJ,2000,UNH, 6:38.4,URI, 6:47.9,,,,,,,,,,,,,,URI v UNH
+402, 3/31/12,MHJ,2000,DREX, 6:02.1,TEMP*, 6:09.0,WILL, 6:11.0,,,,,,,,,,,,Drexel/Williams/Temple
+403, 3/31/12,MHN,2000,WILL, 5:57.7,DREX, 5:58.5,,,,,,,,,,,,,,Drexel/Williams/Temple
+404, 3/31/12,MHN,2000,UNIO, 6:39.5,RPI, 7:18.0,,,,,,,,,,,,,,Union v RPI
+405, 3/31/12,MHV,0,VILN, 6:07.1,MERC, 6:08.2,PSU, 6:09.7,FRMA, 6:27.8,,,,,,,,,,Neuweiler Plate
+406, 3/31/12,MHV,0,LEHI, 6:08.4,LAFA, 6:27.0,RUCM, 6:52.0,,,,,,,,,,,,Neuweiler Plate
+407, 3/31/12,MHN,0,VILN, 6:36.4,LAFA, 6:55.8,,,,,,,,,,,,,,Neuweiler Plate
+408, 3/31/12,MHN,0,PSU, 6:26.4,LEHI, 6:39.1,FRMA, 7:19.5,,,,,,,,,,,,Neuweiler Plate
+409, 3/31/12,MHJ,0,PSU, 6:25.0,LEHI, 6:27.7,LAFA, 6:37.1,,,,,,,,,,,,Neuweiler Plate
+410, 3/31/12,MHN,0,LEHI, 6:18.7,PSU, 6:20.0,VILN, 6:26.7,LAFA, 6:57.9,FRMA, 7:04.7,,,,,,,,Neuweiler Plate
+411, 3/31/12,MHV,0,LEHI, 5:54.7,MERC, 5:57.4,VILN, 5:58.0,PSU, 6:03.7,LAFA, 6:21.0,,,,,,,,Neuweiler Plate
+412, 3/31/12,MHV,2000,ITHA, 6:15.3,HOBR, 6:18.3,,,,,,,,,,,,,,Ithaca College vs. Hobart
+413, 3/31/12,MHJ,2000,HOBR, 6:35.0,ITHA, 6:37.3,,,,,,,,,,,,,,Ithaca College vs. Hobart
+414, 3/31/12,MHV,1700,RIT, 5:44.1,STLA, 6:02.3,,,,,,,,,,,,,,RIT vs. St. Lawrence
+415, 3/31/12,MHJ,1700,STLA, 5:56.6,RIT, 5:57.2,,,,,,,,,,,,,,RIT vs. St. Lawrence
+416, 3/31/12,MHV,2000,TRIN, 6:04.1,MRST, 6:09.7,CONN, 7:05.3,,,,,,,,,,,,Trinity College vs. Marist College
+417, 3/31/12,MHJ,2000,TRIN, 6:29.9,MRST, 6:47.5,,,,,,,,,,,,,,Trinity College vs. Marist College
+418, 3/31/12,MHN,2000,TRIN, 6:23.5,MRST, 6:27.6,UVM, 6:55.5,CONN, 7:10.1,,,,,,,,,,Trinity College vs. Marist College
+419, 3/31/12,MHV,2000,WILL, 5:54.3,STJO, 6:01.1,MARI, 6:03.8,,,,,,,,,,,,Saint Joseph's/Marietta/Williams
+420, 3/31/12,MHJ,2000,STJO, 6:04.7,WILL, 6:07.3,MARI, 6:24.7,,,,,,,,,,,,Saint Joseph's/Marietta/Williams
+421, 3/31/12,MHV,0,GV, 6:03.2,OKC, 6:06.0,OC, 6:08.0,WAST, 6:15.0,CHAP, 6:43.0,CSLB, 6:55.2,,,,,,San Diego Crew Classic - Heats
+422, 3/31/12,MHV,0,ND, 6:11.0,DREX, 6:13.6,USD, 6:14.6,UCLA, 6:16.9,ROLL, 6:24.1,AZST, 6:42.8,SDSU, 6:54.3,,,,San Diego Crew Classic - Heats
+423, 3/31/12,MHV,0,PURD, 6:12.8,GATC, 6:14.6,UCSB, 6:16.0,UCDV, 6:22.6,SCLA, 6:31.4,CALM, 7:06.6,,,,,,San Diego Crew Classic - Heats
+424, 3/31/12,WHV,0,OKLA, 6:50.7,TULS, 6:57.1,SACS, 7:00.7,WWAS, 7:01.6,UCDV, 7:02.1,SMU, 7:09.0,VILN, 7:20.2,,,,San Diego Crew Classic - Heats
+425, 3/31/12,WHV,0,DUKE, 6:48.9,USD, 6:54.9,GONZ, 6:57.5,KAST, 6:57.8,DREX, 7:05.7,SDSU, 7:06.0,FORD, 7:11.1,,,,San Diego Crew Classic - Heats
+426, 3/31/12,WHV,0,ORST, 6:47.3,IOWA, 6:53.2,GV, 6:55.9,UMIA, 6:57.6,STMY, 6:57.7,STJO, 6:58.0,SCLA, 7:40.4,,,,San Diego Crew Classic - Heats
+427, 3/31/12,MHV,0,HARV, 5:55.0,NAVY, 5:57.4,CORN, 6:01.2,UBC, 6:07.0,UCSD, 6:14.6,,,,,,,,San Diego Crew Classic - Heats
+428, 3/31/12,MHV,0,CAL, 5:57.7,STAN, 6:02.2,MICH, 6:08.0,TEMP, 6:08.4,GONZ, 6:11.6,,,,,,,,San Diego Crew Classic - Heats
+429, 3/31/12,WHV,0,WASH, 6:43.4,CAL, 6:44.1,STAN, 6:44.2,CLEM, 6:51.1,TENN, 6:57.8,PURD, 7:04.2,,,,,,San Diego Crew Classic - Heats
+430, 3/31/12,WHV,0,USC, 6:37.3,UVA, 6:38.7,UCLA, 6:49.6,WAST, 6:51.8,TEX, 6:57.6,ALAB, 7:12.8,,,,,,San Diego Crew Classic - Heats
+431, 3/31/12,WHV,0,COK, 7:14.7,UCSD, 7:25.4,MILL, 7:27.4,CHAP, 8:13.2,,,,,,,,,,San Diego Crew Classic - Heats
+432, 3/31/12,WHV,0,HUMS, 7:09.7,UCSB, 7:11.8,OC, 7:22.1,CSLB, 7:24.0,UCIR, 7:37.9,AZST, 7:55.7,,,,,,San Diego Crew Classic - Heats
+433, 3/31/12,MHN,0,CAL, 6:05.0,UCSD, 6:24.2,SCLA, 6:48.1,SONO, 6:53.3,CSLB, 6:54.2,USC, 7:11.4,,,,,,San Diego Crew Classic - Heats
+434, 3/31/12,MHN,0,OC, 6:21.5,UCLA, 6:25.2,STAN, 6:27.6,ND, 6:28.3,WAST, 6:39.7,STMY, 7:18.1,AZST, 7:30.4,,,,San Diego Crew Classic - Heats
+435, 3/31/12,MHN,0,GONZ, 6:26.6,UBC, 6:36.4,UCSB, 6:48.8,SDSU, 6:49.9,UCDV, 6:50.4,ROLL, 6:54.7,CHAP, 7:32.7,,,,San Diego Crew Classic - Heats
+436, 3/31/12,WHJ,0,UCLA, 6:46.1,CAL, 6:53.6,WAST, 6:56.4,OKLA, 6:58.4,IOWA, 7:02.6,ALAB, 7:10.4,SACS, 7:12.9,,,,San Diego Crew Classic - Heats
+437, 3/31/12,WHJ,0,UVA, 6:52.4,WASH, 6:54.2,TEX, 7:01.2,TENN, 7:01.2,KAST, 7:12.6,DUKE, 7:13.3,TULS, 7:14.1,,,,San Diego Crew Classic - Heats
+438, 3/31/12,WHJ,0,STAN, 6:52.0,USC, 6:54.7,CLEM, 6:57.4,ORST, 7:05.4,GONZ, 7:06.8,USD, 7:14.2,SMU, 7:36.6,,,,San Diego Crew Classic - Heats
+439, 3/31/12,MHJ,0,CAL, 6:00.3,STAN, 6:11.0,UCSB, 6:24.7,GONZ, 6:28.0,WAST, 6:39.9,SCLA, 6:41.6,,,,,,San Diego Crew Classic - Heats
+440, 3/31/12,MHJ,0,HARV, 5:58.7,CORN, 6:04.4,UCDV, 6:27.5,UCSD, 6:27.8,USD, 6:35.0,UCLA, 6:37.2,OC, 6:46.1,,,,San Diego Crew Classic - Heats
+441, 3/31/12,MHV,0,ROLL, 6:17.6,WAST, 6:19.8,SCLA, 6:24.7,AZST, 6:34.5,CHAP, 6:41.2,,,,,,,,San Diego Crew Classic - Heats
+442, 3/31/12,WHV,0,UMIA, 6:49.7,STJO, 6:54.5,UCDV, 6:57.8,DREX, 6:59.7,SDSU, 7:03.0,SMU, 7:08.8,,,,,,San Diego Crew Classic - Heats
+443, 3/31/12,WHJ,0,IOWA, 6:55.4,GONZ, 6:56.5,ALAB, 7:03.4,KAST, 7:05.5,DUKE, 7:06.4,USD, 7:06.6,,,,,,San Diego Crew Classic - Heats
+444, 3/31/12,MHN,0,STAN, 6:24.5,ND, 6:29.2,SCLA, 6:43.8,SDSU, 6:47.8,UCSB, 6:50.3,,,,,,,,San Diego Crew Classic - Heats
+445, 3/31/12,WHV,1350,WLMY, 4:45.5,LBTY, 4:48.6,,,,,,,,,,,,,,Liberty University v. William & Mary
+446, 3/31/12,MHV,1350,WLMY, 4:14.1,LBTY, 4:33.5,,,,,,,,,,,,,,Liberty University v. William & Mary
+447, 3/31/12,MHN,1350,LBTY, 4:52.7,WLMY, 5:13.9,,,,,,,,,,,,,,Liberty University v. William & Mary
+448, 3/31/12,MHV,2000,COLO, 6:36.2,TEX, 6:53.2,,,,,,,,,,,,,,Colorado vs Texas Crew (Club)
+449, 3/31/12,MHN,2000,TEX, 0:00.0,COLO, 0:08.5,,,,,,,,,,,,,,Colorado vs Texas Crew (Club)
+450, 4/01/12,WHJ,0,WAST, 7:21.0,TEX, 7:22.5,OKLA, 7:25.1,CLEM, 7:25.1,TENN, 7:31.6,ORST, 7:38.2,,,,,,San Diego Crew Classic - Finals
+451, 4/01/12,MHJ,0,UCSD, 6:50.5,GONZ, 6:51.8,UCSB, 6:54.0,WAST, 7:07.4,USD, 7:08.8,UCLA, 7:09.8,,,,,,San Diego Crew Classic - Finals
+452, 4/01/12,WHV,0,MILL, 8:18.1,CSLB, 8:19.3,UCIR, 8:34.3,,,,,,,,,,,,San Diego Crew Classic - Finals
+453, 4/01/12,WHV,0,GV, 7:41.7,STMY, 7:46.1,GONZ, 7:47.5,SACS, 7:48.2,KAST, 7:51.3,WWAS, 7:56.7,,,,,,San Diego Crew Classic - Finals
+454, 4/01/12,MHV,0,OC, 6:46.6,USD, 6:49.8,UCSB, 6:50.6,UCDV, 6:51.0,UCLA, 6:57.8,,,,,,,,San Diego Crew Classic - Finals
+455, 4/01/12,WHV,0,CLEM, 7:23.0,WAST, 7:27.9,TEX, 7:29.2,TENN, 7:39.4,ALAB, 7:46.2,PURD, 7:51.9,,,,,,San Diego Crew Classic - Finals
+456, 4/01/12,MHV,0,UBC, 6:38.5,TEMP, 6:39.1,UCSD, 6:46.5,GONZ, 6:47.8,,,,,,,,,,San Diego Crew Classic - Finals
+457, 4/01/12,WHV,0,USC, 7:03.9,UVA, 7:06.8,WASH, 7:10.9,CAL, 7:15.7,UCLA, 7:18.2,STAN, 7:18.9,,,,,,San Diego Crew Classic - Finals
+458, 4/01/12,MHV,0,HARV, 6:17.9,CAL, 6:20.6,NAVY, 6:24.1,STAN, 6:25.9,CORN, 6:33.5,MICH, 6:46.9,,,,,,San Diego Crew Classic - Finals
+459, 4/01/12,WHJ,0,UCLA, 7:14.2,WASH, 7:19.4,UVA, 7:19.5,STAN, 7:21.6,CAL, 7:23.6,USC, 7:29.5,,,,,,San Diego Crew Classic - Finals
+460, 4/01/12,MHJ,0,CAL, 6:19.3,HARV, 6:22.0,CORN, 6:33.5,STAN, 6:44.3,UCDV, 7:07.4,,,,,,,,San Diego Crew Classic - Finals
+461, 4/01/12,WHV,0,DUKE, 7:08.5,ORST, 7:10.0,OKLA, 7:15.9,USD, 7:21.7,TULS, 7:22.1,IOWA, 7:22.4,,,,,,San Diego Crew Classic - Finals
+462, 4/01/12,MHV,0,GV, 6:32.1,ND, 6:33.5,PURD, 6:35.0,DREX, 6:37.9,OKC, 6:39.2,GATC, 6:50.1,,,,,,San Diego Crew Classic - Finals
+463, 4/01/12,WLV,0,STAN, 7:26.8,PRIN, 7:33.8,UBC, 7:44.0,TULS, 8:05.3,MIT, 8:11.2,CAL, 9:22.2,,,,,,San Diego Crew Classic - Finals
+464, 4/01/12,MHN,0,CAL, 6:21.1,GONZ, 6:45.6,OC, 6:47.0,UCSD, 6:54.1,UCLA, 6:56.3,UBC, 7:01.0,,,,,,San Diego Crew Classic - Finals
+465, 4/01/12,WHV,0,UCSD, 8:20.5,SONO, 8:29.2,UCDV, 8:38.9,MILL, 8:40.8,CSLB, 8:50.8,UCSB, 9:04.7,,,,,,San Diego Crew Classic - Finals
+466, 4/01/12,WHV,0,HUMS, 7:22.2,COK, 7:24.2,UCSB, 7:25.1,UCSD, 7:45.3,OC, 7:47.8,,,,,,,,San Diego Crew Classic - Finals
+467, 4/01/12,WHV,2000,BATE, 7:13.4,TRIN, 7:19.0,WELL, 7:20.0,HC, 7:20.5,ROCH, 7:37.8,WPI, 7:42.0,,,,,,Lake Quinsigamond
+468, 4/01/12,WHJ,2000,HC, 7:31.6,BATE, 7:38.1,TRIN, 7:39.9,WELL, 7:44.8,WPI, 7:46.7,ROCH, 8:11.0,,,,,,Lake Quinsigamond
+469, 4/01/12,WHV,2000,WLSM, 7:18.7,MARI, 7:28.3,RIT, 7:51.6,,,,,,,,,,,,William Smith College vs. RIT and Marietta
+470, 4/01/12,WHJ,2000,MARI, 7:50.0,WLSM, 7:56.9,RIT, 8:09.5,,,,,,,,,,,,William Smith College vs. RIT and Marietta
+471, 4/01/12,WHV,2000,MRST, 7:26.2,DRAK, 7:44.8,CANI, 7:46.5,FAIR, 7:58.4,SACH, 8:01.5,IONA, 8:46.4,,,,,,SHU Invitational
+472, 4/01/12,WHJ,2000,MRST, 7:55.6,CANI, 8:20.4,SACH, 8:30.2,IONA, 8:45.2,,,,,,,,,,SHU Invitational
+473, 4/01/12,MHJ,0,UVA, 6:04.9,UNC, 6:31.2,GMAS, 6:46.6,,,,,,,,,,,,Occoquan Sprints
+474, 4/01/12,MHN,0,NAVY, 6:10.6,LASL, 6:36.1,UNC, 6:48.9,VCOM, 7:00.5,GMAS, 7:09.0,DUKE, 7:19.9,,,,,,Occoquan Sprints
+475, 4/01/12,MHN,0,UVA, 6:39.4,LOYO, 7:02.5,CLNJ, 7:23.3,NCST, 7:29.8,STJN, 7:33.4,,,,,,,,Occoquan Sprints
+476, 4/01/12,MHN,0,NAVY, 6:01.9,UVA, 6:14.5,UNC, 6:38.3,LASL, 6:50.5,LOYO, 7:15.9,,,,,,,,Occoquan Sprints
+477, 4/01/12,MHN,0,GMAS, 6:58.9,VCOM, 6:59.5,CLNJ, 7:27.3,STJN, 7:29.1,NCST, 7:30.3,DUKE, 7:32.1,,,,,,Occoquan Sprints
+478, 4/01/12,MHV,0,UVA, 5:57.2,WASC, 6:39.1,UMD, 6:49.5,,,,,,,,,,,,Occoquan Sprints
+479, 4/01/12,MHV,0,LASL, 6:14.4,GMAS, 6:17.5,UNC, 6:22.4,NCST, 7:10.0,,,,,,,,,,Occoquan Sprints
+480, 4/01/12,MHV,0,UVA, 5:55.2,LASL, 6:08.2,UNC, 6:09.2,GMAS, 6:16.8,WASC, 6:25.3,,,,,,,,Occoquan Sprints
+481, 4/01/12,MHV,0,UMD, 6:55.0,NCST, 7:08.7,,,,,,,,,,,,,,Occoquan Sprints
+482, 4/01/12,WHJ,0,NAVY, 7:08.0,GMAS, 7:17.9,DELA, 7:23.5,LASL, 7:32.7,,,,,,,,,,Occoquan Sprints
+483, 4/01/12,WHJ,0,OLDD, 7:06.1,UNC, 7:06.6,WV, 7:14.7,,,,,,,,,,,,Occoquan Sprints
+484, 4/01/12,WHJ,0,NAVY, 7:03.5,OLDD, 7:11.9,DELA, 7:14.9,UNC, 7:16.6,GMAS, 7:27.5,,,,,,,,Occoquan Sprints
+485, 4/01/12,WHJ,0,LASL, 7:27.7,WV, 7:28.4,,,,,,,,,,,,,,Occoquan Sprints
+486, 4/01/12,WHV,0,NAVY, 6:48.7,DELA, 6:52.6,GMAS, 6:55.9,CLNJ, 7:36.3,,,,,,,,,,Occoquan Sprints
+487, 4/01/12,WHV,0,OLDD, 6:43.2,BUCK, 6:48.3,UNC, 6:56.3,,,,,,,,,,,,Occoquan Sprints
+488, 4/01/12,WHV,0,WV, 6:48.3,WASC, 6:49.5,GEOR, 6:49.8,LASL, 7:04.1,,,,,,,,,,Occoquan Sprints
+489, 4/01/12,WHV,0,NAVY, 6:45.5,OLDD, 6:46.8,BUCK, 6:47.8,DELA, 6:58.4,WV, 7:01.6,,,,,,,,Occoquan Sprints
+490, 4/01/12,WHV,0,GEOR, 6:54.0,WASC, 6:54.2,UNC, 6:54.9,GMAS, 7:00.1,,,,,,,,,,Occoquan Sprints
+491, 4/01/12,WHV,0,LASL, 6:46.3,CLNJ, 7:22.9,,,,,,,,,,,,,,Occoquan Sprints
+492, 4/01/12,WHV,2000,TUFT, 7:00.0,MTHO, 7:03.0,,,,,,,,,,,,,,Malden River
+493, 4/01/12,WHJ,2000,TUFT, 7:25.0,MTHO, 7:27.0,,,,,,,,,,,,,,Malden River
+494, 4/01/12,WHV,2000,HAML, 6:56.0,TUFT, 7:16.0,,,,,,,,,,,,,,Malden River
+495, 4/01/12,WHJ,2000,HAML, 7:02.0,TUFT, 7:47.0,,,,,,,,,,,,,,Malden River
+496, 4/01/12,WHV,2000,TULN, 7:20.0,MTHO, 7:22.0,,,,,,,,,,,,,,Malden River
+497, 4/01/12,WHV,2000,HAML, 7:05.0,TULN, 7:21.0,,,,,,,,,,,,,,Malden River
+498, 4/01/12,MHV,2000,HAML, 6:26.0,TUFT, 6:31.0,,,,,,,,,,,,,,Malden River
+499, 4/01/12,MHN,2000,TUFT, 6:23.0,HAML, 6:40.0,,,,,,,,,,,,,,Malden River
+500, 4/01/12,MHV,2000,WENT, 6:24.0,TUFT, 6:33.0,,,,,,,,,,,,,,Malden River
+501, 4/01/12,MHV,2000,HAML, 6:21.0,TULN, 6:25.0,,,,,,,,,,,,,,Malden River
+502, 4/01/12,MHN,2000,HAML, 6:49.0,TULN, 6:59.0,,,,,,,,,,,,,,Malden River
+503, 4/01/12,MHV,2000,HOBR, 6:26.1,RIT, 6:31.1,,,,,,,,,,,,,,Hobart College vs. RIT
+504, 4/01/12,MHJ,2000,HOBR, 7:10.2,RIT, 7:10.8,,,,,,,,,,,,,,Hobart College vs. RIT
+505, 4/01/12,MHV,2000,MRST, 6:26.4,IONA, 6:46.4,FAIR, 6:58.1,ALBY, 7:00.2,CANI, 7:17.4,,,,,,,,SHU Invitational
+506, 4/01/12,MHN,2000,MRST, 6:46.7,FAIR, 7:07.0,ALBY, 7:25.4,,,,,,,,,,,,SHU Invitational
+507, 4/01/12,MHV,2000,BATE, 6:22.2,WPI, 6:29.8,URI, 6:30.7,ROCH, 6:47.4,,,,,,,,,,Lake Quinsigamond
+508, 4/01/12,MHJ,2000,WPI, 6:44.6,ROCH, 6:51.0,URI, 6:53.1,BATE, 6:59.8,,,,,,,,,,Lake Quinsigamond
+509, 4/01/12,MHN,2000,WPI, 6:56.3,BATE, 7:06.0,,,,,,,,,,,,,,Lake Quinsigamond
+510, 4/01/12,MHN,1850,KANS, 6:04.5,IOWA, 6:20.5,KAST, 6:26.1,STTH, 6:35.3,,,,,,,,,,Upper Midwest Collegiate Sprints
+511, 4/01/12,MHV,1850,WICH, 5:47.3,STTH, 5:51.8,KAST, 5:58.9,KANS, 6:07.6,IOWA, 6:15.3,,,,,,,,Upper Midwest Collegiate Sprints
+512, 4/01/12,WHV,1850,CREI, 6:38.9,WICH, 6:48.1,STTH, 7:10.6,STOL, 8:32.9,,,,,,,,,,Upper Midwest Collegiate Sprints
+513, 4/01/12,MHV,2000,WLMY, 7:01.0,LBTY, 7:12.0,,,,,,,,,,,,,,Waterfield Cup
+514, 4/01/12,MHN,2000,VT, 7:15.0,WLMY, 7:19.0,JMAD, 7:31.0,LBTY, 8:13.0,,,,,,,,,,Waterfield Cup
+515, 4/01/12,WHV,2000,WLMY, 7:14.0,LBTY, 7:25.0,VT, 7:27.0,JMAD, 8:45.0,,,,,,,,,,Waterfield Cup
+516, 4/02/12,WHV,2000,WWAS, 6:40.0,UCSD, 7:04.4,,,,,,,,,,,,,,UC San Diego vs. Western Washington
+517, 4/02/12,WHV,2000,CFLA, 7:31.5,JAX, 8:01.7,,,,,,,,,,,,,,UCF vs. Stetson and Jacksonville
+518, 4/06/12,WHV,2000,UMAS, 6:47.5,CONN, 6:53.9,,,,,,,,,,,,,,UConn vs. Umass
+519, 4/06/12,WHJ,2000,UMAS, 6:56.1,CONN, 7:02.3,,,,,,,,,,,,,,UConn vs. Umass
+520, 4/06/12,WHV,2000,DAYT, 7:00.0,COLG, 7:17.2,,,,,,,,,,,,,,Double Dual in Buffalo
+521, 4/06/12,WHJ,2000,DAYT, 7:12.9,COLG, 7:33.5,,,,,,,,,,,,,,Double Dual in Buffalo
+522, 4/06/12,WHV,2000,BUFF, 6:56.8,EMIC, 7:32.4,,,,,,,,,,,,,,Double Dual in Buffalo
+523, 4/06/12,WHJ,2000,BUFF, 7:16.8,EMIC, 7:58.1,,,,,,,,,,,,,,Double Dual in Buffalo
+524, 4/06/12,WHJ,0,GW, 6:43.9,STJO, 6:44.5,,,,,,,,,,,,,,George Washington University Invitational
+525, 4/06/12,WHV,0,GW, 6:30.7,STJO, 6:34.7,,,,,,,,,,,,,,George Washington University Invitational
+526, 4/06/12,WHJ,0,NAVY, 6:41.7,GEOR, 6:44.9,,,,,,,,,,,,,,George Washington University Invitational
+527, 4/06/12,WHV,0,NAVY, 6:37.3,GEOR, 6:45.0,,,,,,,,,,,,,,George Washington University Invitational
+528, 4/06/12,WHJ,0,MIT, 6:51.0,DUQN, 7:03.0,,,,,,,,,,,,,,George Washington University Invitational
+529, 4/06/12,WHV,0,MIT, 6:32.2,DUQN, 6:54.6,,,,,,,,,,,,,,George Washington University Invitational
+530, 4/06/12,MHN,0,NAVY, 5:46.1,GW, 6:03.8,,,,,,,,,,,,,,George Washington University Invitational
+531, 4/06/12,MHJ,0,NAVY, 5:45.0,GW, 6:02.8,,,,,,,,,,,,,,George Washington University Invitational
+532, 4/06/12,MHV,0,NAVY, 5:39.8,GW, 5:48.3,,,,,,,,,,,,,,George Washington University Invitational
+533, 4/06/12,MHN,0,UCSD, 5:56.4,GEOR, 6:00.8,,,,,,,,,,,,,,George Washington University Invitational
+534, 4/06/12,MHJ,0,UCSD, 5:50.8,GEOR, 5:54.4,,,,,,,,,,,,,,George Washington University Invitational
+535, 4/06/12,MHV,0,GEOR, 5:41.0,UCSD, 5:47.8,,,,,,,,,,,,,,George Washington University Invitational
+536, 4/07/12,MLV,2000,COLU, 6:30.2,NAVY*, 6:44.4,,,,,,,,,,,,,,Columbia University vs. Naval Academy
+537, 4/07/12,MLJ,2000,NAVY, 6:27.1,COLU, 6:29.4,,,,,,,,,,,,,,Columbia University vs. Naval Academy
+538, 4/07/12,MLN,2000,NAVY, 6:32.3,COLU, 6:32.7,,,,,,,,,,,,,,Columbia University vs. Naval Academy
+539, 4/07/12,MLV,2000,HARV, 6:02.8,CORN, 6:09.1,PENN, 6:21.9,,,,,,,,,,,,Matthews and Leonard Cups
+540, 4/07/12,MLJ,2000,CORN, 6:16.6,HARV, 6:32.0,PENN, 6:36.3,,,,,,,,,,,,Matthews and Leonard Cups
+541, 4/07/12,MLN,2000,HARV, 6:08.0,CORN, 6:12.2,PENN, 6:16.7,,,,,,,,,,,,Matthews and Leonard Cups
+542, 4/07/12,MLV,2000,YALE, 6:10.2,GEOR, 6:12.1,MIT, 6:43.0,,,,,,,,,,,,Joy Cup
+543, 4/07/12,MLJ,2000,YALE, 6:20.9,GEOR, 6:38.5,,,,,,,,,,,,,,Joy Cup
+544, 4/07/12,MLN,2000,YALE, 6:24.3,MIT, 6:37.8,GEOR, 6:38.2,,,,,,,,,,,,Joy Cup
+545, 4/07/12,MLV,1900,DART, 5:18.5,DELA, 5:27.6,,,,,,,,,,,,,,Dartmouth College vs. U. of Delaware
+546, 4/07/12,MLJ,1900,DART, 5:23.2,DELA, 5:33.1,,,,,,,,,,,,,,Dartmouth College vs. U. of Delaware
+547, 4/07/12,MLN,1900,DELA, 5:36.9,DART, 5:39.4,,,,,,,,,,,,,,Dartmouth College vs. U. of Delaware
+548, 4/07/12,MHV,2000,PRIN, 6:27.3,PENN, 6:40.6,COLU, 6:42.5,,,,,,,,,,,,Childs Cup
+549, 4/07/12,MHJ,2000,PRIN, 6:40.5,PENN, 6:50.1,,,,,,,,,,,,,,Childs Cup
+550, 4/07/12,MHN,2000,PRIN, 6:23.6,PENN, 6:35.5,COLU, 6:37.8,,,,,,,,,,,,Childs Cup
+551, 4/07/12,MHV,2000,YALE, 5:30.7,DART, 5:36.9,,,,,,,,,,,,,,Yale Olympic Axe
+552, 4/07/12,MHJ,2000,YALE, 5:38.5,DART, 5:48.7,,,,,,,,,,,,,,Yale Olympic Axe
+553, 4/07/12,MHN,2000,YALE, 5:45.2,DART, 5:54.3,,,,,,,,,,,,,,Yale Olympic Axe
+554, 4/07/12,MHV,2000,NORT, 6:01.5,BU, 6:03.2,,,,,,,,,,,,,,Arlett Cup
+555, 4/07/12,MHJ,2000,NORT, 6:14.2,BU, 6:21.9,,,,,,,,,,,,,,Arlett Cup
+556, 4/07/12,MHN,2000,NORT, 6:13.6,BU, 6:14.4,,,,,,,,,,,,,,Arlett Cup
+557, 4/07/12,MHV,2000,HARV, 5:25.4,BRWN, 5:26.0,,,,,,,,,,,,,,Stein Cup
+558, 4/07/12,MHJ,2000,HARV, 5:38.7,BRWN, 5:42.4,,,,,,,,,,,,,,Stein Cup
+559, 4/07/12,MHN,2000,HARV, 5:32.1,BRWN, 5:38.1,,,,,,,,,,,,,,Stein Cup
+560, 4/07/12,WLV,2000,RADC, 7:10.5,GEOR, 7:21.8,,,,,,,,,,,,,,Lightweight Women - Class of 2004 Cup
+561, 4/07/12,WLV,2000,BUCK, 7:16.0,PRIN, 7:19.2,,,,,,,,,,,,,,Bucknell vs. Princeton lightweights
+562, 4/07/12,WHV,2000,BUCK, 7:11.2,DREX, 7:25.1,,,,,,,,,,,,,,Bucknell University vs. Drexel
+563, 4/07/12,WHJ,2000,BUCK, 7:27.5,DREX, 7:43.4,,,,,,,,,,,,,,Bucknell University vs. Drexel
+564, 4/07/12,WHV,2000,PENN, 7:09.8,NORT, 7:14.4,SYRA, 7:17.4,,,,,,,,,,,,Syracuse/UPenn/Northeastern
+565, 4/07/12,WHJ,2000,PENN, 7:27.4,SYRA, 7:33.8,NORT, 7:37.8,,,,,,,,,,,,Syracuse/UPenn/Northeastern
+566, 4/07/12,WHV,2000,DART, 6:22.8,YALE, 6:22.8,BU, 6:28.0,,,,,,,,,,,,Class of 1985 Cup
+567, 4/07/12,WHJ,2000,YALE, 6:25.5,DART, 6:31.4,BU, 6:42.3,,,,,,,,,,,,Class of 1985 Cup
+568, 4/07/12,WHV,2000,BRWN, 7:47.5,URI, 7:57.0,,,,,,,,,,,,,,University of Rhode Island vs. Brown
+569, 4/07/12,WHJ,2000,BRWN, 8:05.2,URI, 8:12.7,,,,,,,,,,,,,,University of Rhode Island vs. Brown
+570, 4/07/12,WHV,2000,WESL, 6:53.2,WPI, 6:57.9,MIDD, 7:03.8,COLB, 7:15.4,SMIT, 7:17.2,,,,,,,,WPI/Colby/Middlebury/Smith/Wesleyan
+571, 4/07/12,WHJ,2000,WESL, 7:15.3,WPI, 7:15.8,SMIT, 7:20.9,MIDD, 7:33.5,,,,,,,,,,WPI/Colby/Middlebury/Smith/Wesleyan
+572, 4/07/12,WHV,2000,WASH, 6:34.8,WAST, 6:39.7,,,,,,,,,,,,,,Washington vs. Washington State Dual
+573, 4/07/12,WHJ,2000,WASH, 6:45.1,WAST, 6:51.4,,,,,,,,,,,,,,Washington vs. Washington State Dual
+574, 4/07/12,WHV,2000,WILL, 6:47.5,WLSM, 6:52.3,UNH, 7:10.8,,,,,,,,,,,,Williams/William Smith/UNH
+575, 4/07/12,WHJ,2000,WILL, 6:53.0,WLSM, 7:12.9,UNH, 7:13.6,,,,,,,,,,,,Williams/William Smith/UNH
+576, 4/07/12,WHV,2000,HAML, 6:57.5,UNIO, 7:13.4,,,,,,,,,,,,,,Hamilton College vs. Union College
+577, 4/07/12,WHJ,2000,HAML, 7:06.8,UNIO, 7:53.9,,,,,,,,,,,,,,Hamilton College vs. Union College
+578, 4/07/12,WHV,2000,BUFF, 6:54.0,DAYT, 7:04.2,,,,,,,,,,,,,,Double Dual in Buffalo
+579, 4/07/12,WHJ,2000,BUFF, 7:08.3,DAYT, 7:10.3,,,,,,,,,,,,,,Double Dual in Buffalo
+580, 4/07/12,WHV,2000,COLG, 7:09.4,EMIC, 7:31.8,,,,,,,,,,,,,,Double Dual in Buffalo
+581, 4/07/12,WHJ,2000,COLG, 7:29.0,EMIC, 7:52.9,,,,,,,,,,,,,,Double Dual in Buffalo
+582, 4/07/12,WHV,2000,HUMS, 6:58.6,SPAC, 7:14.4,ORGN, 7:43.0,,,,,,,,,,,,NCRC Invitational
+583, 4/07/12,WHV,2000,PUGS, 7:09.9,LECL, 7:13.3,MILL, 7:32.1,,,,,,,,,,,,NCRC Invitational
+584, 4/07/12,WHV,2000,PACL, 7:16.9,WLMT, 7:19.7,CHAP, 8:10.0,,,,,,,,,,,,NCRC Invitational
+585, 4/07/12,WHV,2000,HUMS, 7:05.4,PUGS, 7:14.1,LECL, 7:19.2,PACL, 7:24.1,,,,,,,,,,NCRC Invitational
+586, 4/07/12,WHV,2000,SPAC, 7:23.2,WLMT, 7:24.5,MILL, 7:36.0,,,,,,,,,,,,NCRC Invitational
+587, 4/07/12,WHV,2000,ORGN, 7:49.6,CHAP, 7:58.2,,,,,,,,,,,,,,NCRC Invitational
+588, 4/07/12,WHJ,2000,PUGS, 7:12.9,HUMS, 7:23.2,LECL, 7:25.1,MILL, 7:47.5,,,,,,,,,,NCRC Invitational
+589, 4/07/12,WHV,2000,CORN, 6:18.2,YALE, 6:21.4,,,,,,,,,,,,,,The Cayuga Cup
+590, 4/07/12,WHJ,2000,YALE, 6:35.7,CORN, 6:36.0,,,,,,,,,,,,,,The Cayuga Cup
+591, 4/07/12,WHV,2000,PRIN, 7:14.1,COLU, 7:19.1,RADC, 7:20.4,CORN, 7:20.9,,,,,,,,,,Class of 1975 Cup
+592, 4/07/12,WHJ,2000,PRIN, 7:16.9,RADC, 7:20.4,COLU, 7:21.9,CORN, 7:25.6,,,,,,,,,,Class of 1975 Cup
+593, 4/07/12,WHV,2000,MINN, 6:53.2,INDI, 6:59.3,,,,,,,,,,,,,,Big Ten Double Dual
+594, 4/07/12,WHJ,2000,MINN, 7:01.3,INDI, 7:07.0,,,,,,,,,,,,,,Big Ten Double Dual
+595, 4/07/12,WHV,2000,OHST, 6:45.5,WISC, 6:50.1,,,,,,,,,,,,,,Big Ten Double Dual
+596, 4/07/12,WHJ,2000,OHST, 6:57.4,WISC, 7:09.1,,,,,,,,,,,,,,Big Ten Double Dual
+597, 4/07/12,WHV,2000,WISC, 6:45.2,INDI, 6:55.4,,,,,,,,,,,,,,Big Ten Double Dual
+598, 4/07/12,WHJ,2000,WISC, 6:47.1,INDI, 6:52.0,,,,,,,,,,,,,,Big Ten Double Dual
+599, 4/07/12,WHV,2000,OHST, 6:51.0,MINN, 7:04.5,,,,,,,,,,,,,,Big Ten Double Dual
+600, 4/07/12,WHJ,2000,OHST, 6:59.6,MINN, 7:11.1,,,,,,,,,,,,,,Big Ten Double Dual
+601, 4/07/12,WHV,2000,BC, 6:53.0,UMAS, 6:55.4,HC, 6:55.7,,,,,,,,,,,,Irving-Christensen Cup
+602, 4/07/12,WHJ,2000,BC, 6:52.2,HC, 6:58.1,UMAS, 7:01.0,,,,,,,,,,,,Irving-Christensen Cup
+603, 4/07/12,WHV,2000,CSTG, 6:27.7,TRIN, 6:30.6,,,,,,,,,,,,,,Trinity College vs. US Coast Guard Academy
+604, 4/07/12,WHJ,2000,TRIN, 6:33.2,CSTG, 6:39.9,,,,,,,,,,,,,,Trinity College vs. US Coast Guard Academy
+605, 4/07/12,WHV,2000,TRIN, 6:11.9,CSTG, 6:12.4,,,,,,,,,,,,,,Trinity College vs. US Coast Guard Academy
+606, 4/07/12,WHJ,2000,TRIN, 6:26.7,CSTG, 6:34.8,,,,,,,,,,,,,,Trinity College vs. US Coast Guard Academy
+607, 4/07/12,WHV,2000,BATE, 7:05.9,SIMM, 7:23.7,UVM, 7:35.9,,,,,,,,,,,,Simmons/Bates/UVM
+608, 4/07/12,WHJ,2000,BATE, 7:23.3,SIMM, 7:30.0,UVM, 7:48.6,,,,,,,,,,,,Simmons/Bates/UVM
+609, 4/07/12,WHV,2000,MRST, 6:28.4,ARMY, 6:40.4,,,,,,,,,,,,,,President's Cup
+610, 4/07/12,WHV,2000,ROCH, 7:55.9,ITHA, 8:00.0,RIT, 8:20.5,,,,,,,,,,,,Ithaca College vs. University Rochester
+611, 4/07/12,WHJ,2000,ITHA, 8:21.6,ROCH, 8:50.5,RIT, 9:12.7,,,,,,,,,,,,Ithaca College vs. University Rochester
+612, 4/07/12,WLV,2000,STAN, 6:45.2,WISC, 6:47.3,,,,,,,,,,,,,,Stanford/Wisconsin Lightweights
+613, 4/07/12,WHV,2000,MIST, 6:56.7,LOUV, 7:00.0,,,,,,,,,,,,,,Double Dual in Iowa
+614, 4/07/12,WHJ,2000,MIST, 7:18.3,LOUV, 7:31.7,,,,,,,,,,,,,,Double Dual in Iowa
+615, 4/07/12,WHV,2000,MIST, 6:59.5,IOWA, 7:13.2,,,,,,,,,,,,,,Double Dual in Iowa
+616, 4/07/12,WHJ,2000,MIST, 7:11.6,IOWA, 7:20.4,,,,,,,,,,,,,,Double Dual in Iowa
+617, 4/07/12,WHV,2000,MICH, 6:50.1,IOWA, 7:23.9,,,,,,,,,,,,,,Double Dual in Iowa
+618, 4/07/12,WHJ,2000,MICH, 7:02.7,IOWA, 7:25.1,,,,,,,,,,,,,,Double Dual in Iowa
+619, 4/07/12,WHV,2000,MICH, 6:45.7,LOUV, 7:08.3,,,,,,,,,,,,,,Double Dual in Iowa
+620, 4/07/12,WHJ,2000,MICH, 7:02.7,LOUV, 7:33.4,,,,,,,,,,,,,,Double Dual in Iowa
+621, 4/07/12,WHV,2000,OC, 7:18.0,UCIR, 7:27.0,,,,,,,,,,,,,,Collins Cup
+622, 4/07/12,WHV,2000,MARI, 6:46.8,FRMA, 7:08.4,,,,,,,,,,,,,,Franklin & Marshall vs. Marietta
+623, 4/07/12,WHJ,2000,MARI, 7:04.6,FRMA, 7:53.1,,,,,,,,,,,,,,Franklin & Marshall vs. Marietta
+624, 4/07/12,WHV,2000,KAST, 7:13.4,KANS, 7:24.2,,,,,,,,,,,,,,Sunflower Showdown
+625, 4/07/12,WHJ,2000,KAST, 7:12.4,KANS, 7:15.8,,,,,,,,,,,,,,Sunflower Showdown
+626, 4/07/12,WHJ,0,NAVY, 6:41.5,MIT, 6:45.2,,,,,,,,,,,,,,George Washington University Invitational
+627, 4/07/12,WHV,0,MIT, 6:27.4,NAVY, 6:32.7,,,,,,,,,,,,,,George Washington University Invitational
+628, 4/07/12,WHJ,0,STJO, 6:39.9,GEOR, 6:47.9,,,,,,,,,,,,,,George Washington University Invitational
+629, 4/07/12,WHV,0,STJO, 6:31.5,GEOR, 6:34.1,,,,,,,,,,,,,,George Washington University Invitational
+630, 4/07/12,WHJ,0,GW, 6:48.5,DUQN, 6:55.5,,,,,,,,,,,,,,George Washington University Invitational
+631, 4/07/12,WHV,0,GW, 6:37.0,DUQN, 6:57.0,,,,,,,,,,,,,,George Washington University Invitational
+632, 4/07/12,MHN,0,UCSD, 5:51.5,GW, 5:51.9,,,,,,,,,,,,,,George Washington University Invitational
+633, 4/07/12,MHJ,0,UCSD, 5:56.3,GW, 6:05.4,,,,,,,,,,,,,,George Washington University Invitational
+634, 4/07/12,MHV,0,GW, 5:39.8,UCSD, 5:49.4,,,,,,,,,,,,,,George Washington University Invitational
+635, 4/07/12,MHN,0,NAVY, 5:42.4,HC, 6:07.7,,,,,,,,,,,,,,George Washington University Invitational
+636, 4/07/12,MHJ,0,NAVY, 5:48.3,HC, 5:59.8,,,,,,,,,,,,,,George Washington University Invitational
+637, 4/07/12,MHV,0,NAVY, 5:33.4,HC, 5:50.9,,,,,,,,,,,,,,George Washington University Invitational
+638, 4/07/12,MHN,0,CORN, 5:41.4,GEOR, 5:59.2,,,,,,,,,,,,,,George Washington University Invitational
+639, 4/07/12,MHJ,0,CORN, 5:43.1,GEOR, 6:06.8,,,,,,,,,,,,,,George Washington University Invitational
+640, 4/07/12,MHV,0,CORN, 5:35.9,GEOR, 5:37.0,,,,,,,,,,,,,,George Washington University Invitational
+641, 4/07/12,WHJ,0,GEOR, 6:36.5,MIT, 6:43.1,,,,,,,,,,,,,,George Washington University Invitational
+642, 4/07/12,WHV,0,MIT, 6:22.2,GEOR, 6:35.3,,,,,,,,,,,,,,George Washington University Invitational
+643, 4/07/12,WHJ,0,STJO, 6:45.3,DUQN, 6:58.9,,,,,,,,,,,,,,George Washington University Invitational
+644, 4/07/12,WHV,0,STJO, 6:32.0,DUQN, 6:45.6,,,,,,,,,,,,,,George Washington University Invitational
+645, 4/07/12,WHJ,0,GW, 6:37.7,NAVY, 6:38.7,,,,,,,,,,,,,,George Washington University Invitational
+646, 4/07/12,WHV,0,GW, 6:20.2,NAVY, 6:20.9,,,,,,,,,,,,,,George Washington University Invitational
+647, 4/07/12,MHN,0,GW, 6:02.5,HC, 6:06.5,,,,,,,,,,,,,,George Washington University Invitational
+648, 4/07/12,MHJ,0,HC, 5:51.3,GW, 5:53.0,,,,,,,,,,,,,,George Washington University Invitational
+649, 4/07/12,MHV,0,GW, 5:39.8,HC, 5:43.0,,,,,,,,,,,,,,George Washington University Invitational
+650, 4/07/12,MHN,0,CORN, 5:37.9,UCSD, 5:59.6,,,,,,,,,,,,,,George Washington University Invitational
+651, 4/07/12,MHJ,0,CORN, 5:39.1,UCSD, 5:52.1,,,,,,,,,,,,,,George Washington University Invitational
+652, 4/07/12,MHV,0,CORN, 5:32.6,UCSD, 5:58.0,,,,,,,,,,,,,,George Washington University Invitational
+653, 4/07/12,MHN,0,NAVY, 5:36.7,GEOR, 5:54.6,,,,,,,,,,,,,,George Washington University Invitational
+654, 4/07/12,MHJ,0,NAVY, 5:39.6,GEOR, 5:57.1,,,,,,,,,,,,,,George Washington University Invitational
+655, 4/07/12,MHV,0,NAVY, 5:31.6,GEOR, 5:40.6,,,,,,,,,,,,,,George Washington University Invitational
+656, 4/07/12,MHV,2000,VILN, 6:26.3,FRMA, 6:33.5,WASC, 6:56.6,,,,,,,,,,,,Philly/Bryn Mawr/F&M/'Nova/Wash Coll
+657, 4/07/12,WHV,2000,WASC, 7:12.8,PHIL, 7:25.1,BRYN, 7:37.4,,,,,,,,,,,,Philly/Bryn Mawr/F&M/'Nova/Wash Coll
+658, 4/07/12,WHV,2000,BOWD, 6:59.9,CONC, 7:16.4,CLRK, 7:24.7,,,,,,,,,,,,Clark/Bowdoin/Conn Coll/Amherst/FPierce
+659, 4/07/12,MHV,2000,WILL, 6:01.2,HOBR, 6:12.0,,,,,,,,,,,,,,Williams vs Hobart
+660, 4/07/12,MHJ,2000,WILL, 6:17.0,HOBR, 6:36.1,,,,,,,,,,,,,,Williams vs Hobart
+661, 4/07/12,MHV,2000,UNIO, 6:13.4,HAML, 6:26.3,,,,,,,,,,,,,,Hamilton College vs. Union College
+662, 4/07/12,MHJ,2000,UNIO, 6:31.7,HAML, 6:46.5,,,,,,,,,,,,,,Hamilton College vs. Union College
+663, 4/07/12,MHN,2000,UNIO, 6:31.9,HAML, 6:41.3,,,,,,,,,,,,,,Hamilton College vs. Union College
+664, 4/07/12,MHV,2000,OC, 6:01.1,USD, 6:01.3,UCLA, 6:02.2,UCSB, 6:04.5,UCIR, 6:11.8,CSLB, 6:44.8,,,,,,47th Annual Newport Regatta
+665, 4/07/12,MHJ,2000,UCSB, 6:07.6,USD, 6:08.0,OC, 6:11.4,UCIR, 6:18.6,UCLA, 6:30.8,,,,,,,,47th Annual Newport Regatta
+666, 4/07/12,MHN,2000,OC, 6:04.5,UCIR, 6:09.0,UCLA, 6:15.5,CSLB, 6:35.3,UCSB, 6:35.8,USC, 6:46.5,,,,,,47th Annual Newport Regatta
+667, 4/07/12,MHV,2000,CONN, 6:32.8,SPRI, 7:59.9,,,,,,,,,,,,,,UConn vs. Springfield College
+668, 4/07/12,MHV,2000,WWAS, 6:24.7,HUMS, 6:32.7,LECL, 6:33.0,PACL, 6:34.8,PUGS, 6:55.8,,,,,,,,NCRC Invitational
+669, 4/07/12,MHV,2000,ORGN, 6:41.5,SPAC, 6:56.7,,,,,,,,,,,,,,NCRC Invitational
+670, 4/07/12,MHJ,2000,WWAS, 7:03.9,PUGS, 7:04.3,,,,,,,,,,,,,,NCRC Invitational
+671, 4/07/12,MHN,2000,HUMS, 6:36.7,WWAS, 6:41.1,ORGN, 6:51.8,PUGS, 7:01.0,,,,,,,,,,NCRC Invitational
+672, 4/07/12,MHV,2000,MRST, 5:31.0,ARMY, 5:50.1,,,,,,,,,,,,,,President's Cup
+673, 4/07/12,MHJ,2000,MRST, 6:01.0,ARMY, 6:09.7,,,,,,,,,,,,,,President's Cup
+674, 4/07/12,MHN,2000,MRST, 6:20.0,ARMY, 6:29.0,,,,,,,,,,,,,,President's Cup
+675, 4/07/12,MHV,2000,DREX, 6:17.8,BUCK, 6:19.6,,,,,,,,,,,,,,Bucknell University vs. Drexel University
+676, 4/07/12,MHJ,2000,DREX, 6:29.9,BUCK, 6:51.2,,,,,,,,,,,,,,Bucknell University vs. Drexel University
+677, 4/07/12,MHN,2000,DREX, 6:08.6,BUCK, 6:11.0,,,,,,,,,,,,,,Bucknell University vs. Drexel University
+678, 4/07/12,MHV,2000,WASH, 5:40.8,STAN, 5:55.6,,,,,,,,,,,,,,Washington v Stanford
+679, 4/07/12,MHJ,2000,WASH, 5:46.3,STAN, 6:08.3,,,,,,,,,,,,,,Washington v Stanford
+680, 4/07/12,MHN,2000,WASH, 5:48.1,STAN, 6:20.7,,,,,,,,,,,,,,Washington v Stanford
+681, 4/07/12,MHV,2000,TRIN, 6:15.9,BATE, 6:18.2,BC, 6:22.9,MIT, 6:29.5,,,,,,,,,,MIT/Trinity/Bates/Boston College
+682, 4/07/12,MHJ,2000,TRIN, 6:23.7,BC, 6:32.5,BATE, 6:41.8,,,,,,,,,,,,MIT/Trinity/Bates/Boston College
+683, 4/07/12,MHN,2000,TRIN, 6:36.8,MIT, 6:39.3,BC, 6:52.5,,,,,,,,,,,,MIT/Trinity/Bates/Boston College
+684, 4/07/12,MHV,2000,WISC, 6:03.0,MICH, 6:17.3,,,,,,,,,,,,,,Wisconsin vs. Michigan
+685, 4/07/12,MHJ,2000,WISC, 6:08.0,MICH, 6:15.8,,,,,,,,,,,,,,Wisconsin vs. Michigan
+686, 4/07/12,MHN,2000,WISC, 6:12.3,MICH, 6:25.7,,,,,,,,,,,,,,Wisconsin vs. Michigan
+687, 4/07/12,MHV,2000,ITHA, 7:01.6,RIT, 7:14.1,ROCH, 7:25.5,,,,,,,,,,,,Ithaca College/University Rochester/RIT
+688, 4/07/12,MHJ,2000,ITHA, 7:22.9,ROCH, 7:38.6,RIT, 7:42.1,,,,,,,,,,,,Ithaca College/University Rochester/RIT
+689, 4/07/12,MHN,2000,ITHA, 7:44.4,ROCH, 8:28.8,,,,,,,,,,,,,,Ithaca College/University Rochester/RIT
+690, 4/07/12,MHV,2000,ORST, 5:58.7,GONZ, 6:00.4,,,,,,,,,,,,,,Oregon State at Vancouver Lake
+691, 4/07/12,MHJ,2000,ORST, 6:10.4,GONZ, 6:11.2,,,,,,,,,,,,,,Oregon State at Vancouver Lake
+692, 4/07/12,MHN,2000,ORST, 6:03.4,GONZ, 6:09.0,,,,,,,,,,,,,,Oregon State at Vancouver Lake
+693, 4/07/12,MHV,2000,STAN, 5:55.0,ORST, 5:59.7,,,,,,,,,,,,,,Oregon State at Vancouver Lake
+694, 4/07/12,MHJ,2000,STAN, 6:28.5,ORST, 6:38.8,,,,,,,,,,,,,,Oregon State at Vancouver Lake
+695, 4/07/12,MHN,2000,ORST, 6:37.5,STAN*, 6:45.3,,,,,,,,,,,,,,Oregon State at Vancouver Lake
+696, 4/07/12,MHV,2000,MIST, 6:32.0,OHST, 6:50.0,,,,,,,,,,,,,,States Cup
+697, 4/07/12,MHJ,2000,MIST, 7:09.0,OHST, 7:23.0,,,,,,,,,,,,,,States Cup
+698, 4/07/12,MHN,2000,MIST, 7:03.0,OHST, 7:12.0,,,,,,,,,,,,,,States Cup
+699, 4/07/12,MHN,0,CINC, 6:40.8,VAND, 6:43.9,WITT, 7:34.9,,,,,,,,,,,,Cincinnati Regatta
+700, 4/07/12,WHV,0,CINC, 7:30.7,VAND, 7:46.5,,,,,,,,,,,,,,Cincinnati Regatta
+701, 4/07/12,MHV,0,CINC, 6:20.2,VAND, 6:24.7,OHUN, 7:11.7,CLEV, 7:23.8,,,,,,,,,,Cincinnati Regatta
+702, 4/07/12,MHV,2000,WPI, 6:08.2,WESL, 6:13.5,COLB, 6:13.8,UMAS, 6:24.4,MIDD, 6:28.8,,,,,,,,WPI vs. Colby
+703, 4/07/12,MHJ,2000,WPI, 6:13.0,COLB, 6:19.8,WESL, 6:20.8,MIDD, 6:45.1,,,,,,,,,,WPI vs. Colby
+704, 4/07/12,MHN,2000,WPI, 6:37.9,MIDD, 7:24.4,,,,,,,,,,,,,,WPI vs. Colby
+705, 4/14/12,MHN,0,GV, 6:14.6,MICH, 6:15.0,OHST, 6:43.8,KANS, 6:55.5,,,,,,,,,,Lubbers Cup Regatta
+706, 4/14/12,WHJ,0,GV, 7:01.6,DRAK, 7:18.0,EMIC, 7:29.9,,,,,,,,,,,,Lubbers Cup Regatta
+707, 4/14/12,MHJ,0,MICH, 6:00.0,MIST, 6:24.6,OHST, 6:59.2,,,,,,,,,,,,Lubbers Cup Regatta
+708, 4/14/12,WHV,0,GV, 6:43.1,DRAK, 6:53.6,EMIC, 7:15.1,OHSC, 7:31.9,KANC, 7:42.3,,,,,,,,Lubbers Cup Regatta
+709, 4/14/12,MHV,0,GV, 5:52.3,MICH, 5:58.2,MIST, 6:01.7,OHST, 6:21.1,DAYT, 6:46.0,,,,,,,,Lubbers Cup Regatta
+710, 4/14/12,WHJ,0,UPOR, 7:31.2,LECL, 7:39.8,HUMS, 7:43.3,ORGN, 8:25.2,,,,,,,,,,Covered Bridge Regatta
+711, 4/14/12,MHV,0,LECL, 6:30.8,HUMS, 6:34.3,ORGN, 6:52.3,WLMT, 7:02.4,SDSU, 7:18.0,,,,,,,,Covered Bridge Regatta
+712, 4/14/12,WHV,0,UPOR, 7:10.4,HUMS, 7:17.3,SPAC, 7:28.1,WLMT, 7:32.5,LECL, 7:33.1,,,,,,,,Covered Bridge Regatta
+713, 4/14/12,MHN,0,HUMS, 6:50.5,SDSU, 7:05.8,ORGN, 7:10.5,,,,,,,,,,,,Covered Bridge Regatta
+714, 4/14/12,MLV,2000,YALE, 5:57.3,COLU, 5:59.4,PENN, 6:12.2,,,,,,,,,,,,Dodge Cup
+715, 4/14/12,MLJ,2000,YALE, 6:09.6,COLU, 6:16.1,PENN, 6:36.9,,,,,,,,,,,,Dodge Cup
+716, 4/14/12,MLN,2000,YALE, 6:15.9,PENN, 6:22.7,COLU, 6:32.0,,,,,,,,,,,,Dodge Cup
+717, 4/14/12,MLV,2000,CORN, 5:52.6,PRIN, 5:52.9,,,,,,,,,,,,,,Platt Cup
+718, 4/14/12,MLJ,2000,CORN, 6:01.8,PRIN, 6:09.4,,,,,,,,,,,,,,Platt Cup
+719, 4/14/12,MLN,2000,PRIN, 6:05.2,CORN, 6:11.9,,,,,,,,,,,,,,Platt Cup
+720, 4/14/12,MLV,2000,GEOR, 6:15.8,NAVY, 6:20.5,DELA, 6:29.3,,,,,,,,,,,,Navy/Georgetown/Delaware Lwts
+721, 4/14/12,MLJ,2000,NAVY, 6:26.7,DELA, 6:32.3,GEOR, 6:36.0,,,,,,,,,,,,Navy/Georgetown/Delaware Lwts
+722, 4/14/12,MLN,2000,NAVY, 6:25.7,DELA, 6:35.1,GEOR, 6:42.8,,,,,,,,,,,,Navy/Georgetown/Delaware Lwts
+723, 4/14/12,MLV,2000,HARV, 6:12.4,DART, 6:16.6,MIT, 6:48.7,,,,,,,,,,,,Biglin Bowl
+724, 4/14/12,MLJ,2000,DART, 6:34.7,HARV, 6:41.1,,,,,,,,,,,,,,Biglin Bowl
+725, 4/14/12,MLN,2000,HARV, 6:26.7,MIT, 6:38.7,DART, 6:40.3,,,,,,,,,,,,Biglin Bowl
+726, 4/14/12,MLV,2000,YALE, 5:48.1,CORN, 5:53.5,,,,,,,,,,,,,,Yale University vs. Cornell University
+727, 4/14/12,MLJ,2000,YALE, 5:50.2,CORN, 5:53.4,,,,,,,,,,,,,,Yale University vs. Cornell University
+728, 4/14/12,MLN,2000,YALE, 5:57.0,CORN, 5:59.3,,,,,,,,,,,,,,Yale University vs. Cornell University
+729, 4/14/12,MHV,2000,GEOR, 5:46.7,HC, 5:50.3,,,,,,,,,,,,,,Father Patrick Healy Cup
+730, 4/14/12,MHJ,2000,HC, 6:01.2,GEOR, 6:06.4,,,,,,,,,,,,,,Father Patrick Healy Cup
+731, 4/14/12,MHN,2000,GEOR, 6:07.4,HC, 6:23.6,,,,,,,,,,,,,,Father Patrick Healy Cup
+732, 4/14/12,MHV,2000,BU, 5:42.5,DART, 5:48.4,RUTG, 6:08.6,,,,,,,,,,,,Bill Cup
+733, 4/14/12,MHJ,2000,BU, 6:01.6,DART, 6:06.3,RUTG, 6:22.4,,,,,,,,,,,,Bill Cup
+734, 4/14/12,MHN,2000,BU, 6:00.1,DART, 6:01.7,RUTG, 6:26.6,,,,,,,,,,,,Bill Cup
+735, 4/14/12,MHV,2000,NAVY, 5:48.3,CORN, 5:50.2,SYRA, 5:52.0,,,,,,,,,,,,Goes Trophy
+736, 4/14/12,MHJ,2000,CORN, 5:49.7,SYRA, 5:50.4,NAVY, 5:54.8,,,,,,,,,,,,Goes Trophy
+737, 4/14/12,MHN,2000,CORN, 5:49.3,NAVY, 5:57.2,SYRA, 6:09.9,,,,,,,,,,,,Goes Trophy
+738, 4/14/12,MHV,2000,BRWN, 6:00.9,NORT, 6:08.2,,,,,,,,,,,,,,Dreissigacker Cup
+739, 4/14/12,MHJ,2000,BRWN, 6:12.9,NORT, 6:19.4,,,,,,,,,,,,,,Dreissigacker Cup
+740, 4/14/12,MHN,2000,NORT, 6:10.3,BRWN, 6:16.6,,,,,,,,,,,,,,Dreissigacker Cup
+741, 4/14/12,MHV,0,HARV, 5:59.5,PRIN, 6:06.2,MIT*, 6:56.6,,,,,,,,,,,,Compton Cup
+742, 4/14/12,MHJ,0,HARV, 6:09.2,PRIN, 6:17.2,,,,,,,,,,,,,,Compton Cup
+743, 4/14/12,MHN,0,HARV, 6:09.8,PRIN, 6:17.1,MIT, 6:31.3,,,,,,,,,,,,Compton Cup
+744, 4/14/12,MHV,2000,YALE, 5:48.2,COLU, 5:54.6,PENN, 5:57.3,,,,,,,,,,,,Blackwell Cup
+745, 4/14/12,MHJ,2000,YALE, 6:01.3,PENN, 6:04.4,,,,,,,,,,,,,,Blackwell Cup
+746, 4/14/12,MHN,2000,YALE, 6:03.3,COLU, 6:07.6,PENN, 6:13.9,,,,,,,,,,,,Blackwell Cup
+747, 4/14/12,WHV,2000,USC, 6:24.6,PRIN, 6:27.0,YALE, 6:30.2,,,,,,,,,,,,Eisenberg Cup
+748, 4/14/12,WHJ,2000,USC, 6:40.3,PRIN, 6:40.6,YALE, 6:44.7,,,,,,,,,,,,Eisenberg Cup
+749, 4/14/12,WHV,2000,UNIO, 7:07.2,ALBY, 7:22.2,,,,,,,,,,,,,,Union College vs. SUNY Albany
+750, 4/14/12,WHV,2000,OHST, 6:41.8,OKLA, 6:57.4,,,,,,,,,,,,,,Belleville Lake Michigan Races
+751, 4/14/12,WHJ,2000,OHST, 6:48.2,OKLA, 7:06.8,,,,,,,,,,,,,,Belleville Lake Michigan Races
+752, 4/14/12,WHV,2000,MICH, 6:38.5,ORST, 6:55.7,TENN, 7:02.8,,,,,,,,,,,,Belleville Lake Michigan Races
+753, 4/14/12,WHJ,2000,MICH, 6:49.3,TENN, 6:55.3,ORST, 7:10.9,,,,,,,,,,,,Belleville Lake Michigan Races
+754, 4/14/12,WHV,2000,OHST, 6:48.3,ORST, 6:53.7,TENN, 7:04.6,,,,,,,,,,,,Belleville Lake Michigan Races
+755, 4/14/12,WHJ,2000,OHST, 7:00.4,ORST, 7:11.1,TENN, 7:14.5,,,,,,,,,,,,Belleville Lake Michigan Races
+756, 4/14/12,WHV,2000,MICH, 6:45.2,OKLA, 7:11.2,,,,,,,,,,,,,,Belleville Lake Michigan Races
+757, 4/14/12,WHJ,2000,MICH, 7:00.3,OKLA, 7:25.9,,,,,,,,,,,,,,Belleville Lake Michigan Races
+758, 4/14/12,WHV,2000,NAVY, 6:59.3,GEOR, 7:02.0,,,,,,,,,,,,,,Navy vs. Georgetown
+759, 4/14/12,WHJ,2000,NAVY, 7:18.1,GEOR, 7:23.8,,,,,,,,,,,,,,Navy vs. Georgetown
+760, 4/14/12,WHV,2000,RADC, 6:56.8,DART, 6:58.2,SYRA, 7:01.1,,,,,,,,,,,,Radcliffe/Dartmouth/Syracuse
+761, 4/14/12,WHJ,2000,RADC, 7:12.3,DART, 7:28.2,SYRA, 7:37.2,,,,,,,,,,,,Radcliffe/Dartmouth/Syracuse
+762, 4/14/12,WHV,2000,UVA, 6:23.2,ND, 6:35.4,NORT, 6:41.8,,,,,,,,,,,,Virginia Invite
+763, 4/14/12,WHJ,2000,UVA, 6:46.2,ND, 6:48.8,NORT, 7:05.9,,,,,,,,,,,,Virginia Invite
+764, 4/14/12,WHV,2000,CORN, 6:27.2,CLEM, 6:33.7,USD, 6:46.4,,,,,,,,,,,,Virginia Invite
+765, 4/14/12,WHJ,2000,CORN, 6:42.9,CLEM, 6:48.3,USD, 6:57.0,,,,,,,,,,,,Virginia Invite
+766, 4/14/12,WHV,2000,MIST, 6:30.2,PENN, 6:35.5,MINN, 6:38.8,,,,,,,,,,,,Virginia Invite
+767, 4/14/12,WHJ,2000,MIST, 6:46.2,MINN, 6:48.0,PENN, 6:55.1,,,,,,,,,,,,Virginia Invite
+768, 4/14/12,WHV,2000,UVA, 6:22.0,MIST, 6:33.3,,,,,,,,,,,,,,Virginia Invite
+769, 4/14/12,WHJ,2000,UVA, 6:43.5,MIST, 6:44.6,,,,,,,,,,,,,,Virginia Invite
+770, 4/14/12,WHV,2000,CORN, 6:30.6,PENN, 6:34.9,,,,,,,,,,,,,,Virginia Invite
+771, 4/14/12,WHJ,2000,CORN, 6:44.0,PENN, 6:51.6,,,,,,,,,,,,,,Virginia Invite
+772, 4/14/12,WHV,2000,ND, 6:27.6,CLEM, 6:29.8,,,,,,,,,,,,,,Virginia Invite
+773, 4/14/12,WHJ,2000,ND, 6:42.5,CLEM, 6:46.3,,,,,,,,,,,,,,Virginia Invite
+774, 4/14/12,WHV,2000,NORT, 6:34.8,MINN, 6:39.5,USD, 6:53.1,,,,,,,,,,,,Virginia Invite
+775, 4/14/12,WHJ,2000,MINN, 6:51.7,NORT, 6:56.5,USD, 7:00.5,,,,,,,,,,,,Virginia Invite
+776, 4/14/12,WHV,1850,CREI, 6:21.4,NEBR, 7:12.3,,,,,,,,,,,,,,Creighton vs. Nebraska
+777, 4/14/12,WHV,2000,UCLA, 6:16.7,LOUV, 6:23.2,,,,,,,,,,,,,,UCLA vs. Louisville
+778, 4/14/12,WHJ,2000,UCLA, 6:18.8,LOUV, 6:35.6,,,,,,,,,,,,,,UCLA vs. Louisville
+779, 4/14/12,WHV,2000,WLSM, 6:52.0,HAML, 7:07.3,RIT, 7:17.3,,,,,,,,,,,,Hamilton College vs. RIT & William Smith
+780, 4/14/12,WHJ,2000,HAML, 7:09.5,WLSM, 7:14.7,RIT, 7:45.7,,,,,,,,,,,,Hamilton College vs. RIT & William Smith
+781, 4/14/12,WHV,2000,BU, 6:56.2,URI, 6:59.7,CFLA, 7:04.9,ALAB, 7:18.3,,,,,,,,,,URI/Alabama/BU/Central Florida
+782, 4/14/12,WHJ,2000,URI, 7:07.7,ALAB, 7:14.2,BU, 7:16.0,CFLA, 7:20.8,,,,,,,,,,URI/Alabama/BU/Central Florida
+783, 4/14/12,WHV,2000,WISC, 6:41.9,BRWN, 6:42.7,INDI, 6:50.1,,,,,,,,,,,,Lake Natoma Invitational
+784, 4/14/12,WHJ,2000,BRWN, 6:46.7,WISC, 6:51.4,INDI, 6:58.6,,,,,,,,,,,,Lake Natoma Invitational
+785, 4/14/12,WHV,2000,STAN, 6:40.9,TEX, 6:55.8,SACS, 7:03.5,,,,,,,,,,,,Lake Natoma Invitational
+786, 4/14/12,WHJ,2000,STAN, 6:49.5,TEX, 7:01.3,SACS, 7:15.7,,,,,,,,,,,,Lake Natoma Invitational
+787, 4/14/12,WHV,2000,CAL, 6:32.5,WAST, 6:44.9,TULS, 6:50.7,,,,,,,,,,,,Lake Natoma Invitational
+788, 4/14/12,WHJ,2000,CAL, 6:47.3,WAST, 6:52.7,TULS, 7:11.8,,,,,,,,,,,,Lake Natoma Invitational
+789, 4/14/12,WLV,2000,STAN, 7:09.4,TULS, 7:22.9,,,,,,,,,,,,,,Lake Natoma Invitational
+790, 4/14/12,WHV,2000,BRWN, 6:39.1,WAST, 6:45.0,,,,,,,,,,,,,,Lake Natoma Invitational
+791, 4/14/12,WHJ,2000,BRWN, 6:57.3,WAST, 7:04.1,SACS, 7:16.1,,,,,,,,,,,,Lake Natoma Invitational
+792, 4/14/12,WHV,2000,WISC, 6:45.9,STAN, 6:50.7,TULS, 7:09.0,,,,,,,,,,,,Lake Natoma Invitational
+793, 4/14/12,WHJ,2000,STAN, 6:52.3,WISC, 6:59.5,TULS, 7:20.4,,,,,,,,,,,,Lake Natoma Invitational
+794, 4/14/12,WHV,2000,CAL, 6:44.5,INDI, 6:52.5,TEX, 7:01.2,,,,,,,,,,,,Lake Natoma Invitational
+795, 4/14/12,WHJ,2000,CAL, 6:43.9,TEX, 6:51.8,INDI, 6:56.6,,,,,,,,,,,,Lake Natoma Invitational
+796, 4/14/12,WHV,2000,STLA, 7:01.8,ITHA, 7:04.6,SKID, 7:37.3,,,,,,,,,,,,Ithaca College vs. St. Lawrence
+797, 4/14/12,WHJ,2000,ITHA, 7:23.0,STLA, 7:30.6,,,,,,,,,,,,,,Ithaca College vs. St. Lawrence
+798, 4/14/12,WHV,2000,WILL, 6:43.2,SIMM, 7:03.2,WPI, 7:09.3,FRMA, 7:17.3,CONC, 7:38.5,,,,,,,,Worcester Racing
+799, 4/14/12,WHJ,2000,WILL, 6:59.2,SIMM, 7:23.4,WPI, 7:23.9,CONC, 7:51.5,FRMA, 8:05.8,,,,,,,,Worcester Racing
+800, 4/14/12,MHV,0,CAL, 5:49.2,WISC, 5:53.0,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+801, 4/14/12,MHV,0,STAN, 5:55.0,UCSD, 6:16.4,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+802, 4/14/12,MHV,0,ORST, 6:04.4,UCDV, 6:16.7,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+803, 4/14/12,MHV,0,OC, 6:05.1,USD, 6:09.4,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+804, 4/14/12,WHV,0,LOMY, 6:59.6,STMY, 7:01.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+805, 4/14/12,WHV,0,UCDV, 7:01.5,SDSU, 7:03.2,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+806, 4/14/12,MHJ,0,WISC, 5:55.0,CAL, 5:58.3,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+807, 4/14/12,MHJ,0,STAN, 6:17.6,UCSD, 6:22.8,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+808, 4/14/12,MHJ,0,ORST, 6:28.0,UCDV, 6:44.1,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+809, 4/14/12,MHJ,0,OC, 6:38.2,USD, 6:41.1,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+810, 4/14/12,WHJ,0,LOMY, 7:34.3,STMY, 7:42.4,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+811, 4/14/12,WHJ,0,SDSU, 7:41.0,UCDV, 7:46.2,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+812, 4/14/12,MHN,0,CAL, 6:01.0,WISC, 6:18.5,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+813, 4/14/12,MHN,0,UCSD, 6:23.0,STAN, 6:25.7,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+814, 4/14/12,MHN,0,CAL, 6:05.2,ORST, 6:24.9,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+815, 4/14/12,MHV,0,WISC, 5:50.4,ORST, 5:56.2,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+816, 4/14/12,MHV,0,OC, 6:06.9,UCSD, 6:09.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+817, 4/14/12,MHV,0,STAN, 6:01.1,USD, 6:16.7,UCDV, 6:19.1,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+818, 4/14/12,WHV,0,LOMY, 7:08.8,SDSU, 7:14.7,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+819, 4/14/12,WHV,0,STMY, 7:03.8,UCDV, 7:11.1,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+820, 4/14/12,MHJ,0,WISC, 6:06.5,ORST, 6:26.9,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+821, 4/14/12,MHJ,0,UCSD, 6:19.8,OC, 6:39.2,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+822, 4/14/12,MHJ,0,STAN, 6:13.5,UCDV, 6:35.9,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+823, 4/14/12,WHJ,0,LOMY, 7:25.8,SDSU, 7:26.9,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+824, 4/14/12,WHJ,0,STMY, 7:28.5,UCDV, 7:44.5,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+825, 4/14/12,MHN,0,WISC, 6:08.4,ORST, 6:19.1,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+826, 4/14/12,MHN,0,OC, 6:21.3,UCSD, 6:25.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+827, 4/14/12,MHN,0,STAN, 6:40.1,SCLA, 7:02.3,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invitational
+828, 4/14/12,MHV,0,JAX, 6:16.0,ROLL, 6:20.7,GATC, 6:22.8,FLA, 6:29.0,FLST, 6:59.3,,,,,,,,FIRA Championship
+829, 4/14/12,WHV,0,NOVS, 7:15.2,EMOR, 7:23.7,FLA, 7:24.8,FLTC, 7:31.1,GATC, 7:33.1,FLST, 7:50.7,ROLL, 8:04.1,,,,FIRA Championship
+830, 4/14/12,MHJ,0,JAX, 6:33.2,FLA, 7:00.0,GATC, 7:01.6,,,,,,,,,,,,FIRA Championship
+831, 4/14/12,WHJ,0,NOVS, 7:40.5,FLA, 8:01.0,GATC, 8:19.0,,,,,,,,,,,,FIRA Championship
+832, 4/14/12,MHN,0,JAX, 6:27.5,ROLL, 6:30.7,GATC, 6:50.7,FLA, 6:52.4,FLST, 7:04.1,EMBR, 7:21.2,,,,,,FIRA Championship
+833, 4/14/12,MHN,2000,BING, 6:39.0,CLRS, 7:07.0,BUFF, 7:08.0,,,,,,,,,,,,Busfield Regatta
+834, 4/14/12,MHN,2000,SUSQ, 6:54.0,OSWE, 9:06.0,,,,,,,,,,,,,,Busfield Regatta
+835, 4/14/12,MHV,2000,BING, 6:32.0,BUFF, 6:41.0,,,,,,,,,,,,,,Busfield Regatta
+836, 4/14/12,WHV,2000,BING, 7:45.0,SUSQ, 7:54.0,,,,,,,,,,,,,,Busfield Regatta
+837, 4/14/12,MHV,2000,COLB, 6:12.0,CSTG, 6:17.0,,,,,,,,,,,,,,Riverhawk Racing Series #2
+838, 4/14/12,MHJ,2000,COLB, 6:18.0,CSTG, 6:53.0,,,,,,,,,,,,,,Riverhawk Racing Series #2
+839, 4/14/12,WHV,2000,CSTG, 6:49.0,COLB, 7:07.0,MALW, 7:17.0,FRPI, 8:05.0,,,,,,,,,,Riverhawk Racing Series #2
+840, 4/14/12,WHJ,2000,CSTG, 7:03.0,COLB, 7:19.0,,,,,,,,,,,,,,Riverhawk Racing Series #2
+841, 4/14/12,WHV,0,WESL, 6:58.5,TUFT, 7:11.6,,,,,,,,,,,,,,Malden River Racing
+842, 4/14/12,WHJ,0,WESL, 7:16.2,TUFT, 7:56.0,,,,,,,,,,,,,,Malden River Racing
+843, 4/14/12,WHV,0,WELL, 6:58.5,TUFT, 7:08.3,,,,,,,,,,,,,,Malden River Racing
+844, 4/14/12,WHJ,0,WELL, 7:20.1,TUFT, 7:52.6,,,,,,,,,,,,,,Malden River Racing
+845, 4/14/12,WHV,0,BATE, 6:51.5,WELL, 7:03.9,,,,,,,,,,,,,,Malden River Racing
+846, 4/14/12,WHJ,0,BATE, 7:07.2,WELL, 7:21.5,,,,,,,,,,,,,,Malden River Racing
+847, 4/14/12,WHV,0,BATE, 6:46.1,WESL, 7:03.0,,,,,,,,,,,,,,Malden River Racing
+848, 4/14/12,WHJ,0,BATE, 7:04.8,WESL, 7:19.5,,,,,,,,,,,,,,Malden River Racing
+849, 4/14/12,MHV,0,UNH, 6:23.9,TUFT, 6:39.6,,,,,,,,,,,,,,Malden River Racing
+850, 4/14/12,MHN,0,TUFT, 6:26.9,BATE, 6:40.0,,,,,,,,,,,,,,Malden River Racing
+851, 4/14/12,MHV,0,WESL, 6:16.9,TUFT, 6:47.9,,,,,,,,,,,,,,Malden River Racing
+852, 4/14/12,MHV,0,BATE, 5:58.6,WESL, 6:08.4,,,,,,,,,,,,,,Malden River Racing
+853, 4/14/12,MHJ,0,UNH, 6:06.4,WESL, 6:14.7,,,,,,,,,,,,,,Malden River Racing
+854, 4/14/12,MHV,0,BATE, 6:03.9,UNH, 6:04.9,,,,,,,,,,,,,,Malden River Racing
+855, 4/14/12,MHV,2000,UNIO, 6:09.3,ALBY, 6:19.3,,,,,,,,,,,,,,Union College vs. SUNY Albany
+856, 4/14/12,MHJ,2000,UNIO, 6:42.0,ALBY, 6:58.0,,,,,,,,,,,,,,Union College vs. SUNY Albany
+857, 4/14/12,MHN,2000,ALBY, 6:49.5,UNIO, 6:56.5,,,,,,,,,,,,,,Union College vs. SUNY Albany
+858, 4/14/12,MHV,2000,MINN, 6:31.9,MSOE, 6:38.3,,,,,,,,,,,,,,Wisconsin - Minnesota v MSOE
+859, 4/14/12,MHJ,0,WILL, 6:18.5,WPI, 6:20.8,FRMA, 6:59.2,,,,,,,,,,,,Worcester Racing
+860, 4/14/12,MHN,0,WILL, 6:13.9,WPI, 6:45.6,,,,,,,,,,,,,,Worcester Racing
+861, 4/14/12,MHV,0,WILL, 6:01.6,WPI, 6:12.8,,,,,,,,,,,,,,Worcester Racing
+862, 4/14/12,MHV,1900,EMOR, 6:04.8,DUKE, 6:07.5,,,,,,,,,,,,,,Duke University vs. Emory University
+863, 4/14/12,MLV,1900,DUKE, 6:16.7,EMOR, 6:16.8,,,,,,,,,,,,,,Duke University vs. Emory University
+864, 4/14/12,MLN,1900,EMOR, 6:20.5,DUKE, 7:00.5,,,,,,,,,,,,,,Duke University vs. Emory University
+865, 4/14/12,MHV,2000,GONZ, 5:59.2,WAST, 6:02.4,,,,,,,,,,,,,,Fawley Cup - Washington State vs. Gonzaga
+866, 4/14/12,MHJ,2000,GONZ, 6:09.4,WAST, 6:18.6,,,,,,,,,,,,,,Fawley Cup - Washington State vs. Gonzaga
+867, 4/14/12,MHN,2000,GONZ, 6:11.0,WAST, 6:30.2,,,,,,,,,,,,,,Fawley Cup - Washington State vs. Gonzaga
+868, 4/14/12,MHV,2000,RIT, 6:21.4,HAML, 6:25.9,,,,,,,,,,,,,,Hamilton College vs. RIT
+869, 4/14/12,MHJ,2000,RIT, 6:31.5,HAML, 6:40.1,,,,,,,,,,,,,,Hamilton College vs. RIT
+870, 4/14/12,MHV,2000,ITHA, 6:07.6,SKID, 6:37.1,,,,,,,,,,,,,,St. Lawrence v Skidmore
+871, 4/14/12,MHN,2000,STLA, 6:45.8,ITHA, 6:46.1,SKID, 7:12.1,,,,,,,,,,,,St. Lawrence v Skidmore
+872, 4/14/12,WHV,2000,SCLA, 7:54.2,MILL, 7:57.2,SONO, 8:13.0,,,,,,,,,,,,Santa Clara University vs. Mills
+873, 4/14/12,WHJ,2000,SCLA, 8:36.2,MILL, 8:59.0,,,,,,,,,,,,,,Santa Clara University vs. Mills
+874, 4/14/12,WHV,0,DUKE, 6:40.1,HC, 6:52.7,RUTG, 6:56.2,COLG, 7:03.0,FORD, 7:12.9,,,,,,,,Knecht Cup - Heats
+875, 4/14/12,WHV,0,OLDD, 6:47.8,TEMP, 6:51.8,UNH, 6:52.8,MERC, 6:56.2,VILN, 7:30.7,,,,,,,,Knecht Cup - Heats
+876, 4/14/12,WHV,0,BUFF, 6:46.3,DREX, 6:51.9,DAYT, 6:55.7,MRST, 7:05.2,LASL, 7:13.3,,,,,,,,Knecht Cup - Heats
+877, 4/14/12,WHV,0,BUCK, 6:48.1,CONN, 6:53.0,UMAS, 6:56.3,TRIN, 6:58.9,DUQN, 6:59.8,,,,,,,,Knecht Cup - Heats
+878, 4/14/12,WHV,0,UMIA, 6:49.9,GMAS, 6:55.0,UNC, 7:00.6,CANI, 7:26.7,,,,,,,,,,Knecht Cup - Heats
+879, 4/14/12,WHV,0,BC, 6:46.0,WV, 6:48.6,DELA, 6:51.1,KANS, 7:07.8,LEHI, 7:16.1,FAIR, 7:33.2,,,,,,Knecht Cup - Heats
+880, 4/14/12,MHV,0,TEMP, 5:57.0,BC, 5:59.7,MRST, 6:02.4,DELA, 6:07.5,VILN, 6:07.7,,,,,,,,Knecht Cup - Heats
+881, 4/14/12,MHV,0,DREX, 6:02.9,HOBR, 6:07.1,STJO, 6:07.5,MERC, 6:12.5,UMAS, 6:25.6,,,,,,,,Knecht Cup - Heats
+882, 4/14/12,MHV,0,BUCK, 5:57.8,TRIN, 6:01.8,LEHI, 6:06.5,LASL, 6:07.0,MARI, 6:12.1,IONA, 6:43.5,,,,,,Knecht Cup - Heats
+883, 4/14/12,WHJ,0,DUKE, 6:59.7,UMAS, 7:05.6,UMIA, 7:21.3,GMAS, 7:25.8,FORD, 7:25.9,,,,,,,,Knecht Cup - Heats
+884, 4/14/12,WHJ,0,BUCK, 6:56.3,DREX, 6:58.6,WV, 7:06.6,RUTG, 7:16.8,,,,,,,,,,Knecht Cup - Heats
+885, 4/14/12,WHJ,0,CONN, 6:56.5,BUFF, 6:59.6,TRIN, 7:00.5,UNC, 7:03.7,COLG, 7:13.6,CANI, 7:57.9,,,,,,Knecht Cup - Heats
+886, 4/14/12,WHJ,0,BC, 6:52.3,TEMP, 6:59.2,HC, 6:59.7,OLDD, 7:06.3,UNH, 7:12.9,,,,,,,,Knecht Cup - Heats
+887, 4/14/12,WHJ,0,KANS, 7:04.5,DAYT, 7:08.9,DUQN, 7:13.8,DELA, 7:16.2,LASL, 7:29.8,,,,,,,,Knecht Cup - Heats
+888, 4/14/12,MHJ,0,DREX, 6:03.3,STJO, 6:04.3,TEMP, 6:09.2,HOBR, 6:12.6,,,,,,,,,,Knecht Cup - Heats
+889, 4/14/12,MHJ,0,TRIN, 6:04.1,BUCK, 6:08.2,BC, 6:14.4,LEHI, 6:54.4,,,,,,,,,,Knecht Cup - Heats
+890, 4/14/12,MHN,0,ARMY, 6:29.1,VILN, 6:36.2,CONN, 6:42.5,PITT, 7:14.6,NYM, 7:24.2,,,,,,,,Knecht Cup - Heats
+891, 4/14/12,MHN,0,DREX, 6:16.6,DELA, 6:23.9,PSU, 6:27.3,FAIR, 6:37.2,LEHI, 6:47.5,VT, 7:04.9,,,,,,Knecht Cup - Heats
+892, 4/14/12,MHN,0,TRIN, 6:06.7,COLG, 6:26.5,LASL, 6:37.1,CANI, 6:54.9,ROCH, 6:57.6,LAFA, 7:09.5,,,,,,Knecht Cup - Heats
+893, 4/14/12,MHN,0,MARI, 6:15.4,MRST, 6:17.7,BC, 6:18.9,FORD, 6:41.0,UMD, 7:20.6,,,,,,,,Knecht Cup - Heats
+894, 4/14/12,WHJ,0,DUKE, 6:51.6,KANS, 6:56.5,TEMP, 7:05.9,TRIN, 7:07.6,WV, 7:22.6,UNH, 7:26.1,,,,,,Knecht Cup - Heats
+895, 4/14/12,WHJ,0,BUCK, 6:49.3,HC, 6:49.8,BUFF, 6:57.9,OLDD, 7:07.7,UMIA, 7:33.9,,,,,,,,Knecht Cup - Heats
+896, 4/14/12,WHJ,0,DREX, 6:49.7,BC, 6:51.4,DAYT, 6:54.3,UMAS, 6:56.7,CONN, 7:07.6,UNC, 7:15.5,,,,,,Knecht Cup - Heats
+897, 4/14/12,WHV,0,DUKE, 6:32.9,BC, 6:47.2,DREX, 6:51.1,GMAS, 6:52.7,UNH, 6:55.9,CONN, 7:01.9,,,,,,Knecht Cup - Heats
+898, 4/14/12,WHV,0,DAYT, 6:43.3,OLDD, 6:44.2,WV, 6:44.7,HC, 6:50.0,UMAS, 7:01.8,,,,,,,,Knecht Cup - Heats
+899, 4/14/12,WHV,0,BUFF, 6:33.1,BUCK, 6:38.2,TEMP, 6:39.6,UMIA, 6:43.1,DELA, 6:48.5,RUTG, 6:54.0,,,,,,Knecht Cup - Heats
+900, 4/14/12,MHV,0,TRIN, 5:51.1,TEMP, 5:52.0,STJO, 6:02.1,LEHI, 6:04.9,HOBR, 6:08.2,DELA, 6:19.1,,,,,,Knecht Cup - Heats
+901, 4/14/12,MHV,0,DREX, 5:55.3,LASL, 5:57.4,MRST, 5:59.0,BUCK, 5:59.1,BC, 6:01.6,MERC, 6:21.4,,,,,,Knecht Cup - Heats
+902, 4/14/12,MHN,0,BC, 6:11.4,MARI, 6:15.3,MRST, 6:19.9,ARMY, 6:27.8,VILN, 6:37.8,FAIR, 6:39.5,,,,,,Knecht Cup - Heats
+903, 4/14/12,MHN,0,TRIN, 6:07.3,DREX, 6:13.0,COLG, 6:18.7,DELA, 6:25.7,PSU, 6:27.7,LASL, 6:44.0,,,,,,Knecht Cup - Heats
+904, 4/14/12,WLV,0,WISC, 6:49.7,GEOR, 6:52.3,MIT, 7:09.5,UMAS, 7:57.9,,,,,,,,,,Knecht Cup - Heats
+905, 4/14/12,WLV,0,PRIN, 6:57.0,BUCK, 7:00.2,BUFF, 7:04.8,TEMP, 7:36.5,,,,,,,,,,Knecht Cup - Heats
+906, 4/14/12,WHV,0,MARI, 6:57.6,VASS, 7:30.3,NPRK, 7:47.5,RSTC, 8:28.0,,,,,,,,,,Knecht Cup - Heats
+907, 4/14/12,WHV,0,WASC, 6:58.2,ROCH, 7:10.0,CLNJ, 7:40.0,MAWA, 8:00.3,,,,,,,,,,Knecht Cup - Heats
+908, 4/14/12,WHV,0,PSU, 7:07.8,PITT, 7:18.0,PHIL, 7:22.2,UCHR, 7:36.5,LAFA, 7:37.9,VT, 7:42.7,,,,,,Knecht Cup - Heats
+909, 4/14/12,MHV,2000,PACL, 7:05.4,PUGS, 7:51.0,,,,,,,,,,,,,,Pacific Lutheran v Puget Sound
+910, 4/14/12,MHJ,2000,PUGS, 7:07.3,PACL, 7:34.2,,,,,,,,,,,,,,Pacific Lutheran v Puget Sound
+911, 4/14/12,WHV,2000,PUGS, 8:16.2,PACL, 8:19.0,,,,,,,,,,,,,,Pacific Lutheran v Puget Sound
+912, 4/14/12,WHJ,2000,PACL, 8:05.2,PUGS, 8:47.2,,,,,,,,,,,,,,Pacific Lutheran v Puget Sound
+913, 4/15/12,WHV,0,SIMM, 7:15.1,FRMA, 7:24.1,UNIO, 7:34.1,MTHO, 7:37.2,MALW, 7:41.1,CLRK, 7:59.1,,,,,,Clark University vs. UMass Lowell
+914, 4/15/12,WHJ,0,SIMM, 7:45.8,MTHO, 8:02.7,FRMA, 8:31.3,UNIO, 8:44.8,,,,,,,,,,Clark University vs. UMass Lowell
+915, 4/15/12,WHV,2000,ND, 6:40.8,PENN, 6:45.7,USD, 7:00.4,,,,,,,,,,,,Virginia Invite
+916, 4/15/12,WHJ,2000,ND, 6:50.2,PENN, 6:59.0,USD, 7:08.4,,,,,,,,,,,,Virginia Invite
+917, 4/15/12,WHV,2000,MIST, 6:39.5,NORT, 6:45.0,CLEM, 6:49.7,,,,,,,,,,,,Virginia Invite
+918, 4/15/12,WHJ,2000,MIST, 6:50.8,CLEM, 6:57.1,NORT, 7:05.6,,,,,,,,,,,,Virginia Invite
+919, 4/15/12,WHV,2000,UVA, 6:29.5,CORN, 6:42.2,MINN, 6:48.7,,,,,,,,,,,,Virginia Invite
+920, 4/15/12,WHJ,2000,UVA, 6:47.4,MINN, 6:50.3,CORN, 6:51.1,,,,,,,,,,,,Virginia Invite
+921, 4/15/12,WHV,2000,CAL, 6:35.5,WISC, 6:39.0,STAN, 6:40.3,,,,,,,,,,,,Lake Natoma Invitational
+922, 4/15/12,WHJ,2000,CAL, 6:37.5,STAN, 6:42.5,WISC, 6:52.6,,,,,,,,,,,,Lake Natoma Invitational
+923, 4/15/12,WHV,2000,BRWN, 6:36.7,WAST, 6:43.6,TEX, 6:49.1,,,,,,,,,,,,Lake Natoma Invitational
+924, 4/15/12,WHJ,2000,BRWN, 6:50.2,WAST, 6:55.2,TEX, 7:00.5,,,,,,,,,,,,Lake Natoma Invitational
+925, 4/15/12,WHV,2000,INDI, 6:39.3,TULS, 6:50.3,SACS, 6:54.0,,,,,,,,,,,,Lake Natoma Invitational
+926, 4/15/12,WHJ,2000,INDI, 6:57.1,SACS, 7:05.8,TULS, 7:09.4,,,,,,,,,,,,Lake Natoma Invitational
+927, 4/15/12,WHV,1800,MIDD, 6:35.1,UVM, 6:37.3,,,,,,,,,,,,,,UVM vs. Middlebury
+928, 4/15/12,WHJ,1800,UVM, 6:57.9,MIDD, 7:21.3,,,,,,,,,,,,,,UVM vs. Middlebury
+929, 4/15/12,WHV,2000,BU, 6:32.6,URI, 6:35.9,CFLA, 6:40.2,,,,,,,,,,,,URI/BU/Central Florida
+930, 4/15/12,WHJ,2000,URI, 6:43.3,CFLA, 6:52.2,BU, 6:56.2,,,,,,,,,,,,URI/BU/Central Florida
+931, 4/15/12,MLV,0,FORD, 6:08.6,ROCH, 6:17.9,PITT, 6:23.6,LAFA, 6:45.8,,,,,,,,,,Knecht Cup - Finals
+932, 4/15/12,WLV,0,WISC, 6:34.0,BUCK, 6:36.9,PRIN, 6:46.1,GEOR, 6:52.2,BUFF, 7:03.9,,,,,,,,Knecht Cup - Finals
+933, 4/15/12,MHN,0,NYU, 6:58.3,CLNJ, 7:12.6,VASS, 7:23.2,,,,,,,,,,,,Knecht Cup - Finals
+934, 4/15/12,MHN,0,ARMY, 6:13.6,DELA, 6:13.9,PSU, 6:15.3,FAIR, 6:21.9,LASL, 6:24.0,VILN, 6:37.9,,,,,,Knecht Cup - Finals
+935, 4/15/12,MHN,0,TRIN, 6:00.6,DREX, 6:02.0,MARI, 6:05.2,BC, 6:13.6,MRST, 6:14.8,COLG, 6:17.9,,,,,,Knecht Cup - Finals
+936, 4/15/12,WHJ,0,MARI, 7:05.9,ROCH, 7:39.5,,,,,,,,,,,,,,Knecht Cup - Finals
+937, 4/15/12,MHJ,0,DREX, 5:59.8,TRIN, 6:00.7,STJO, 6:03.4,TEMP, 6:04.5,BUCK, 6:09.3,HOBR, 6:14.1,,,,,,Knecht Cup - Finals
+938, 4/15/12,WHJ,0,CONN, 6:57.4,OLDD, 7:01.1,UNC, 7:01.2,UMIA, 7:16.0,WV, 7:16.7,UNH, 7:20.6,,,,,,Knecht Cup - Finals
+939, 4/15/12,WHJ,0,UMAS, 6:53.8,DAYT, 6:55.5,TEMP, 7:00.5,BUFF, 7:01.3,TRIN, 7:13.5,,,,,,,,Knecht Cup - Finals
+940, 4/15/12,WHJ,0,BUCK, 6:45.8,DUKE, 6:46.8,BC, 6:48.0,KANS, 6:50.5,HC, 6:50.8,DREX, 6:51.8,,,,,,Knecht Cup - Finals
+941, 4/15/12,MHV,0,GMAS, 6:04.5,PITT, 6:18.9,LAFA, 6:24.8,CONN, 6:37.7,VT, 7:02.1,,,,,,,,Knecht Cup - Finals
+942, 4/15/12,MHV,0,WASC, 6:18.1,NYM, 6:26.9,USMM, 6:40.8,UMD, 6:49.2,VASS, 6:53.4,,,,,,,,Knecht Cup - Finals
+943, 4/15/12,WHV,0,MARI, 6:44.3,WASC, 6:45.3,ROCH, 7:02.3,VASS, 7:24.1,CLNJ, 7:27.4,,,,,,,,Knecht Cup - Finals
+944, 4/15/12,MHV,0,BUCK, 5:54.5,BC, 5:57.0,LEHI, 6:01.8,DELA, 6:02.1,MERC, 6:02.8,HOBR, 6:06.4,,,,,,Knecht Cup - Finals
+945, 4/15/12,MHV,0,TEMP, 5:48.1,DREX, 5:52.5,TRIN, 5:53.5,MRST, 5:55.5,STJO, 6:01.4,LASL, 6:01.5,,,,,,Knecht Cup - Finals
+946, 4/15/12,WHV,0,HC, 6:40.0,RUTG, 6:42.2,DELA, 6:46.2,UNH, 6:47.6,UMAS, 6:50.0,CONN, 6:55.7,,,,,,Knecht Cup - Finals
+947, 4/15/12,WHV,0,OLDD, 6:37.4,UMIA, 6:37.8,TEMP, 6:39.7,WV, 6:42.7,DREX, 6:47.9,GMAS, 7:02.4,,,,,,Knecht Cup - Finals
+948, 4/15/12,WHV,0,DUKE, 6:25.7,BUCK, 6:27.0,BUFF, 6:34.8,BC, 6:40.0,DAYT, 6:47.1,,,,,,,,Knecht Cup - Finals
+949, 4/15/12,MHV,2000,CSTG, 6:58.0,CONC, 7:13.0,,,,,,,,,,,,,,Coast Guard vs. Conn College
+950, 4/15/12,WHV,2000,CSTG, 7:20.0,CONC, 8:02.0,,,,,,,,,,,,,,Coast Guard vs. Conn College
+951, 4/15/12,MHV,0,WISC, 5:41.8,STAN, 5:42.0,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+952, 4/15/12,MHV,0,ORST, 5:58.8,UCSD, 6:18.0,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+953, 4/15/12,MHV,0,OC, 6:06.2,UCDV, 6:10.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+954, 4/15/12,MHV,0,USD, 6:13.9,SCLA, 6:17.7,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+955, 4/15/12,WHV,0,STMY, 7:07.0,SDSU, 7:16.9,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+956, 4/15/12,WHV,0,LOMY, 7:04.8,UCDV, 7:07.3,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+957, 4/15/12,MHJ,0,WISC, 5:54.8,STAN, 6:02.1,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+958, 4/15/12,MHN,0,WISC, 6:03.3,STAN, 6:17.2,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+959, 4/15/12,MHJ,0,UCDV, 6:18.1,OC, 6:19.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+960, 4/15/12,MHJ,0,UCSD, 6:03.8,ORST, 6:07.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+961, 4/15/12,MHJ,0,USD, 6:19.2,SCLA, 6:23.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+962, 4/15/12,WHJ,0,SDSU, 7:17.4,STMY, 7:18.9,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+963, 4/15/12,WHJ,0,LOMY, 7:20.8,UCDV, 7:42.6,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+964, 4/15/12,MHN,0,ORST, 6:04.2,UCSD, 6:12.4,,,,,,,,,,,,,,PAC 12 Challenge/Stanford Invite
+965, 4/15/12,MHV,2000,UCLA, 7:32.6,UCIR, 7:55.6,,,,,,,,,,,,,,UCLA vs. UCI
+966, 4/15/12,MHJ,2000,UCIR, 8:02.0,UCLA, 8:40.3,,,,,,,,,,,,,,UCLA vs. UCI
+967, 4/15/12,MHN,2000,UCIR, 7:50.9,UCLA, 7:57.6,,,,,,,,,,,,,,UCLA vs. UCI
+968, 4/15/12,MHV,1800,UVM, 5:53.3,MIDD, 5:53.9,,,,,,,,,,,,,,UVM vs. Middlebury & Wentworth
+969, 4/15/12,MHN,1800,MIDD, 6:38.9,WENT, 7:53.9,,,,,,,,,,,,,,UVM vs. Middlebury & Wentworth
+970, 4/15/12,MHV,0,UNIO, 6:38.0,FRMA, 7:21.0,,,,,,,,,,,,,,Clark University vs. Union
+971, 4/15/12,WHV,2000,UCSB, 6:31.6,OC, 6:49.4,CHAP, 7:15.4,,,,,,,,,,,,Chapman University vs. UCSB
+972, 4/15/12,MHV,2000,CHAP, 6:02.2,CSLB, 6:10.8,,,,,,,,,,,,,,Chapman University vs. UCSB
+973, 4/15/12,MHN,2000,OC, 5:51.5,UCSB, 5:53.0,CSLB, 5:58.1,UCLA, 6:05.9,CHAP, 6:18.2,,,,,,,,Chapman University vs. UCSB
+974, 4/21/12,MLV,2000,CORN, 6:11.4,COLU, 6:18.6,MIT, 6:41.4,,,,,,,,,,,,Geiger Cup
+975, 4/21/12,MLJ,2000,CORN, 6:16.9,COLU, 6:24.7,,,,,,,,,,,,,,Geiger Cup
+976, 4/21/12,MLN,2000,CORN, 6:37.8,MIT, 6:42.5,COLU*, 6:54.0,,,,,,,,,,,,Geiger Cup
+977, 4/21/12,MLV,2000,HARV, 6:12.0,NAVY, 6:14.4,,,,,,,,,,,,,,Haines Cup
+978, 4/21/12,MLJ,2000,NAVY, 6:28.1,HARV, 6:38.2,,,,,,,,,,,,,,Haines Cup
+979, 4/21/12,MLN,2000,HARV, 6:22.1,NAVY, 6:32.6,,,,,,,,,,,,,,Haines Cup
+980, 4/21/12,MLV,2000,DART, 6:03.6,YALE, 6:09.1,,,,,,,,,,,,,,Durand Cup
+981, 4/21/12,MLJ,2000,YALE, 6:14.7,DART, 6:24.3,,,,,,,,,,,,,,Durand Cup
+982, 4/21/12,MLN,2000,YALE, 6:19.4,DART, 6:38.4,,,,,,,,,,,,,,Durand Cup
+983, 4/21/12,MLV,2000,HARV, 5:37.0,GEOR, 5:41.5,,,,,,,,,,,,,,Georgetown vs. Harvard
+984, 4/21/12,MLJ,2000,HARV, 5:58.0,GEOR, 6:05.7,,,,,,,,,,,,,,Georgetown vs. Harvard
+985, 4/21/12,MLN,2000,HARV, 5:52.9,GEOR, 6:11.3,,,,,,,,,,,,,,Georgetown vs. Harvard
+986, 4/21/12,MLV,2000,GEOR, 5:38.7,PRIN, 5:41.2,PENN, 5:49.4,,,,,,,,,,,,Wood-Hammond Trophy
+987, 4/21/12,MLJ,2000,PRIN, 5:52.4,GEOR, 5:57.0,PENN, 6:03.1,,,,,,,,,,,,Wood-Hammond Trophy
+988, 4/21/12,MLN,2000,PRIN, 5:55.8,PENN, 6:02.5,GEOR, 6:10.2,,,,,,,,,,,,Wood-Hammond Trophy
+989, 4/21/12,MHV,2000,BRWN, 5:58.1,DART, 6:15.1,,,,,,,,,,,,,,Atalanta Cup
+990, 4/21/12,MHJ,2000,BRWN, 6:13.3,DART, 6:32.7,,,,,,,,,,,,,,Atalanta Cup
+991, 4/21/12,MHN,2000,BRWN, 6:23.4,DART, 6:25.6,,,,,,,,,,,,,,Atalanta Cup
+992, 4/21/12,MHV,2000,CORN, 6:00.7,PRIN, 6:04.6,YALE, 6:11.3,,,,,,,,,,,,Carnegie Cup
+993, 4/21/12,MHJ,2000,CORN, 6:04.3,YALE, 6:08.7,PRIN, 6:16.2,,,,,,,,,,,,Carnegie Cup
+994, 4/21/12,MHN,2000,CORN, 6:01.0,YALE, 6:04.5,PRIN, 6:06.4,,,,,,,,,,,,Carnegie Cup
+995, 4/21/12,MHV,2000,NORT, 6:11.9,ORST, 6:25.7,HC, 6:26.1,,,,,,,,,,,,Northeastern University vs. Holy Cross
+996, 4/21/12,MHJ,2000,NORT, 6:20.5,HC, 6:37.6,,,,,,,,,,,,,,Northeastern University vs. Holy Cross
+997, 4/21/12,MHN,2000,NORT, 6:13.9,HC, 6:40.8,,,,,,,,,,,,,,Northeastern University vs. Holy Cross
+998, 4/21/12,MHV,2000,HARV, 5:59.3,NAVY, 6:01.2,PENN, 6:11.9,,,,,,,,,,,,Adams Cup
+999, 4/21/12,MHJ,2000,HARV, 6:05.8,NAVY, 6:06.8,PENN, 6:29.7,,,,,,,,,,,,Adams Cup
+1000, 4/21/12,MHN,2000,HARV, 6:14.0,NAVY, 6:20.1,PENN, 6:27.1,,,,,,,,,,,,Adams Cup
+1001, 4/21/12,MHV,2000,SYRA, 6:01.7,BU, 6:02.8,COLU, 6:09.8,,,,,,,,,,,,BU/Syracuse/Columbia
+1002, 4/21/12,MHJ,2000,SYRA, 6:08.2,BU, 6:10.3,,,,,,,,,,,,,,BU/Syracuse/Columbia
+1003, 4/21/12,MHN,2000,BU, 6:17.9,SYRA, 6:24.6,COLU, 6:25.1,,,,,,,,,,,,BU/Syracuse/Columbia
+1004, 4/21/12,WHV,2000,BU, 7:04.4,NAVY, 7:08.8,STJO, 7:18.5,,,,,,,,,,,,St. Joe's/BU/Navy
+1005, 4/21/12,WHJ,2000,NAVY, 7:16.8,BU, 7:18.2,STJO, 7:29.2,,,,,,,,,,,,St. Joe's/BU/Navy
+1006, 4/21/12,WLV,2000,STAN, 7:16.2,BUFF, 7:27.9,MIT, 7:39.9,,,,,,,,,,,,Lightweight Women's Invitational Regatta
+1007, 4/21/12,WLV,2000,WISC, 7:16.1,RADC, 7:16.5,UMAS, 8:24.9,,,,,,,,,,,,Lightweight Women's Invitational Regatta
+1008, 4/21/12,WLV,2000,MIT, 8:26.0,UMAS, 9:09.1,,,,,,,,,,,,,,Lightweight Women's Invitational Regatta
+1009, 4/21/12,WLV,2000,WISC, 7:24.9,STAN, 7:25.7,RADC, 7:36.4,BUFF, 8:09.8,,,,,,,,,,Lightweight Women's Invitational Regatta
+1010, 4/21/12,WHV,2000,WILL, 6:41.4,WESL, 7:00.9,,,,,,,,,,,,,,Williams College vs. Wesleyan
+1011, 4/21/12,WHJ,2000,WILL, 6:51.5,WESL, 7:17.7,,,,,,,,,,,,,,Williams College vs. Wesleyan
+1012, 4/21/12,WHV,2000,LOMY, 7:43.6,SCLA, 8:07.8,,,,,,,,,,,,,,Loyola Marymount vs. Santa Clara
+1013, 4/21/12,WHJ,2000,LOMY, 8:06.4,SCLA, 8:39.8,,,,,,,,,,,,,,Loyola Marymount vs. Santa Clara
+1014, 4/21/12,WHV,2000,WLSM, 7:20.6,HC, 7:28.7,ITHA, 7:38.5,COLB, 8:10.0,CONC, 9:11.8,,,,,,,,Worcester Racing
+1015, 4/21/12,WHJ,2000,HC, 7:37.7,WLSM, 7:46.3,ITHA, 7:54.4,,,,,,,,,,,,Worcester Racing
+1016, 4/21/12,WHV,2000,UVA, 6:27.9,CLEM, 6:38.6,DUKE, 6:44.1,UMIA, 6:49.6,BC, 7:02.8,UNC, 7:04.6,,,,,,ACC Rowing Championship
+1017, 4/21/12,WHJ,2000,UVA, 6:43.3,CLEM, 6:51.6,BC, 7:04.4,DUKE, 7:05.1,UNC, 7:16.0,UMIA, 7:25.4,,,,,,ACC Rowing Championship
+1018, 4/21/12,WHV,2000,WAST, 6:32.4,GONZ, 6:37.9,,,,,,,,,,,,,,Fawley Cup
+1019, 4/21/12,WHJ,2000,WAST, 6:38.6,GONZ, 6:42.0,,,,,,,,,,,,,,Fawley Cup
+1020, 4/21/12,WHV,2000,IOWA, 6:38.0,ALAB, 6:49.4,,,,,,,,,,,,,,Alabama vs. Iowa
+1021, 4/21/12,WHJ,2000,IOWA, 6:54.8,ALAB, 7:01.2,,,,,,,,,,,,,,Alabama vs. Iowa
+1022, 4/21/12,WLV,2000,PRIN, 6:44.6,GEOR, 6:46.9,,,,,,,,,,,,,,Class of 2006 Cup
+1023, 4/21/12,WHV,2000,YALE, 6:46.0,RADC, 6:53.7,,,,,,,,,,,,,,The Case Cup
+1024, 4/21/12,WHJ,2000,RADC, 6:53.3,YALE, 6:54.6,,,,,,,,,,,,,,The Case Cup
+1025, 4/21/12,WHV,2000,BRWN, 6:58.6,CORN, 7:00.9,COLU, 7:09.1,,,,,,,,,,,,Dunn Bowl
+1026, 4/21/12,WHJ,2000,BRWN, 7:07.6,COLU, 7:09.8,CORN, 7:11.0,,,,,,,,,,,,Dunn Bowl
+1027, 4/21/12,WHV,2000,NORT, 7:14.9,URI, 7:26.5,,,,,,,,,,,,,,Northeastern v URI
+1028, 4/21/12,WHJ,2000,URI, 7:14.4,NORT, 7:29.9,,,,,,,,,,,,,,Northeastern v URI
+1029, 4/21/12,WHV,2000,PRIN, 6:45.4,DART, 6:52.3,PENN, 7:04.4,,,,,,,,,,,,The Class of 1984 Plaque
+1030, 4/21/12,WHJ,2000,PRIN, 6:53.6,PENN, 7:05.1,DART, 7:08.6,,,,,,,,,,,,The Class of 1984 Plaque
+1031, 4/21/12,WHV,2000,SACS, 6:50.5,UCDV, 6:53.4,,,,,,,,,,,,,,Jean Runyun Cup
+1032, 4/21/12,WHV,2000,WELL, 7:26.4,CSTG, 7:30.3,SMIT, 7:37.3,WPI, 7:38.1,MTHO, 8:02.1,CLRK, 8:17.3,,,,,,NEWMAC CHampionships
+1033, 4/21/12,WHJ,2000,WELL, 7:43.9,WPI, 7:49.6,SMIT, 7:56.4,CSTG, 8:02.2,MTHO, 8:16.0,,,,,,,,NEWMAC CHampionships
+1034, 4/21/12,WHV,2000,USC, 6:23.5,MIST, 6:32.5,,,,,,,,,,,,,,Stanford Women's Invitational
+1035, 4/21/12,WHJ,2000,USC, 6:37.7,MIST, 6:40.6,,,,,,,,,,,,,,Stanford Women's Invitational
+1036, 4/21/12,WHV,2000,STAN, 6:28.2,ND, 6:31.7,,,,,,,,,,,,,,Stanford Women's Invitational
+1037, 4/21/12,WHJ,2000,ND, 6:37.8,STAN, 6:41.3,,,,,,,,,,,,,,Stanford Women's Invitational
+1038, 4/21/12,WHV,2000,MIST, 6:25.6,STAN, 6:27.5,,,,,,,,,,,,,,Stanford Women's Invitational
+1039, 4/21/12,WHJ,2000,STAN, 6:34.2,MIST, 6:46.6,,,,,,,,,,,,,,Stanford Women's Invitational
+1040, 4/21/12,WHV,2000,USC, 6:21.2,ND, 6:32.2,,,,,,,,,,,,,,Stanford Women's Invitational
+1041, 4/21/12,WHJ,2000,USC, 6:32.9,ND, 6:40.1,,,,,,,,,,,,,,Stanford Women's Invitational
+1042, 4/21/12,WHV,2000,BUFF, 7:17.8,MIT, 7:18.2,UMAS, 7:37.2,SIMM, 7:39.6,,,,,,,,,,MIT/Buffalo/UMass/Simmons
+1043, 4/21/12,WHJ,2000,BUFF, 7:24.9,UMAS, 7:29.2,MIT, 7:33.3,SIMM, 7:41.6,,,,,,,,,,MIT/Buffalo/UMass/Simmons
+1044, 4/21/12,WHV,1000,TULS, 5:15.2,SMU, 5:29.5,,,,,,,,,,,,,,Lawless Cup
+1045, 4/21/12,WHJ,1000,TULS, 5:27.8,SMU, 5:35.0,,,,,,,,,,,,,,Lawless Cup
+1046, 4/21/12,WHV,0,LAWU, 7:40.0,NMIC, 7:51.0,,,,,,,,,,,,,,Bent Hammer/Ice Out Regatta
+1047, 4/21/12,MHN,0,DREX, 7:03.4,VILN, 7:22.6,FORD, 7:43.4,CLNJ, 8:09.7,,,,,,,,,,Kerr Cup Invitational
+1048, 4/21/12,MHN,0,PSU, 7:08.8,FORD, 7:12.2,LASL, 7:26.5,LOYO, 7:31.1,,,,,,,,,,Kerr Cup Invitational
+1049, 4/21/12,MHN,0,DREX, 6:39.4,PSU, 6:58.8,VILN, 6:59.9,FORD, 7:06.7,LASL, 7:25.1,,,,,,,,Kerr Cup Invitational
+1050, 4/21/12,WHJ,0,DREX, 7:31.2,FORD, 7:56.1,LASL, 8:06.0,,,,,,,,,,,,Kerr Cup Invitational
+1051, 4/21/12,WHV,0,DREX, 7:28.7,FORD, 7:40.0,LASL*, 7:51.8,PSU, 7:59.0,CLNJ, 8:02.8,PHIL, 8:03.5,,,,,,Kerr Cup Invitational
+1052, 4/21/12,MHV,0,DREX, 6:27.1,LASL, 6:36.4,VILN, 6:50.5,FORD, 6:56.1,PSU, 7:04.4,,,,,,,,Kerr Cup Invitational
+1053, 4/21/12,WHV,0,SACH, 7:48.2,FAIR, 7:52.0,IONA, 8:24.4,,,,,,,,,,,,Spring Metropolitan Championship
+1054, 4/21/12,WHV,0,ARMY, 7:51.1,BING, 8:20.8,ALBY, 8:28.9,,,,,,,,,,,,Spring Metropolitan Championship
+1055, 4/21/12,WHV,0,FAIR, 7:46.0,ARMY, 7:51.6,SACH, 8:10.6,BING, 8:20.9,IONA, 8:32.8,ALBY, 8:56.9,,,,,,Spring Metropolitan Championship
+1056, 4/21/12,MHN,0,ALBY, 7:08.2,BING, 7:13.2,NYM, 7:20.2,RPI, 7:36.1,NYU, 7:39.5,,,,,,,,Spring Metropolitan Championship
+1057, 4/21/12,MHN,0,FAIR, 6:52.8,ARMY, 6:57.3,IONA, 7:27.8,STON, 7:31.4,,,,,,,,,,Spring Metropolitan Championship
+1058, 4/21/12,MHN,0,ARMY, 7:18.4,FAIR, 7:28.7,BING, 7:40.5,NYM, 7:53.7,ALBY, 7:57.3,IONA, 8:20.4,,,,,,Spring Metropolitan Championship
+1059, 4/21/12,MHV,0,FAIR, 6:31.3,ALBY, 6:34.9,BING, 6:46.5,,,,,,,,,,,,Spring Metropolitan Championship
+1060, 4/21/12,MHV,0,ARMY, 6:38.9,IONA, 6:53.7,BUFF, 6:58.6,,,,,,,,,,,,Spring Metropolitan Championship
+1061, 4/21/12,MHV,0,ARMY, 6:48.5,IONA, 7:00.2,ALBY, 7:05.6,FAIR, 7:06.6,BUFF, 7:13.6,,,,,,,,Spring Metropolitan Championship
+1062, 4/21/12,MHV,2000,UNH, 6:35.4,TRIN, 6:36.7,ITHA, 6:43.9,COLB, 6:50.4,WPI, 6:51.4,,,,,,,,Worcester Racing
+1063, 4/21/12,MHJ,2000,TRIN, 6:36.3,UNH, 6:43.3,WPI, 6:47.8,COLB, 6:51.5,ITHA, 7:10.3,,,,,,,,Worcester Racing
+1064, 4/21/12,MHN,2000,TRIN, 6:44.3,WPI, 7:05.5,ITHA, 7:19.8,,,,,,,,,,,,Worcester Racing
+1065, 4/21/12,WHV,2000,TRIN, 7:34.9,UNH, 7:38.3,WASC, 7:46.3,,,,,,,,,,,,Worcester Racing
+1066, 4/21/12,WHJ,2000,TRIN, 7:40.0,UNH, 7:49.7,,,,,,,,,,,,,,Worcester Racing
+1067, 4/21/12,MHN,2000,UVM, 6:32.0,BOWD, 6:44.0,,,,,,,,,,,,,,Riverhawk Racing Series # 3
+1068, 4/21/12,WHV,2000,UVM, 7:03.5,MALW, 7:30.7,FRPI, 8:05.9,,,,,,,,,,,,Riverhawk Racing Series # 3
+1069, 4/21/12,MHN,2000,WASH, 5:38.5,CAL, 5:43.4,,,,,,,,,,,,,,California vs. Washington
+1070, 4/21/12,MHJ,2000,WASH, 5:37.8,CAL, 5:48.1,,,,,,,,,,,,,,California vs. Washington
+1071, 4/21/12,MHV,2000,WASH, 5:30.5,CAL, 5:40.3,,,,,,,,,,,,,,California vs. Washington
+1072, 4/21/12,WHJ,2000,CAL, 6:27.5,WASH, 6:31.4,,,,,,,,,,,,,,California vs. Washington
+1073, 4/21/12,WHV,2000,CAL, 6:22.3,WASH, 6:29.6,,,,,,,,,,,,,,California vs. Washington
+1074, 4/21/12,MHV,0,LEHI, 6:11.1,LAFA, 6:29.3,,,,,,,,,,,,,,The River Cup
+1075, 4/21/12,WHV,0,LEHI, 7:13.5,LAFA, 7:32.9,,,,,,,,,,,,,,The River Cup
+1076, 4/21/12,MHN,0,LEHI, 6:43.1,LAFA, 6:52.2,,,,,,,,,,,,,,The River Cup
+1077, 4/21/12,MHJ,0,LAFA, 6:54.9,LEHI, 7:00.7,,,,,,,,,,,,,,The River Cup
+1078, 4/21/12,WHV,2000,STLA, 6:27.8,HAML, 6:33.6,,,,,,,,,,,,,,St. Lawrence v Hamilton
+1079, 4/21/12,WHJ,2000,HAML, 6:38.8,STLA, 6:40.0,,,,,,,,,,,,,,St. Lawrence v Hamilton
+1080, 4/21/12,MHN,0,GW, 6:19.4,DELA, 6:32.2,ROLL, 6:35.8,UTCH, 7:02.2,ALAB, 7:08.7,DAVS, 7:13.2,,,,,,SIRA Regatta
+1081, 4/21/12,MHN,0,MARI, 6:12.8,UNC, 6:21.1,GATC, 6:36.0,EMOR, 6:36.4,VCOM, 6:56.2,AUBN, 7:43.5,,,,,,SIRA Regatta
+1082, 4/21/12,MHN,0,GV, 6:20.4,OKC, 6:22.8,VT, 6:50.6,CLEM, 6:57.5,TEX, 7:05.2,MIOH, 8:04.9,,,,,,SIRA Regatta
+1083, 4/21/12,MHN,0,UVA, 6:25.6,ND, 6:28.4,JAX, 6:30.0,COLO, 6:56.9,TENN, 6:58.2,LBTY, 7:19.9,,,,,,SIRA Regatta
+1084, 4/21/12,MHN,0,PURD, 6:24.4,FLA, 6:36.7,VAND, 6:37.0,UGA, 7:04.4,WASU, 7:07.2,,,,,,,,SIRA Regatta
+1085, 4/21/12,MHJ,0,GV, 6:16.5,TEMP, 6:21.7,JAX, 6:23.6,ND, 6:26.9,KAST, 7:04.2,,,,,,,,SIRA Regatta
+1086, 4/21/12,MHJ,0,UVA, 6:13.7,PURD, 6:19.1,DELA, 6:20.0,STJO, 6:21.4,UNC, 6:45.6,,,,,,,,SIRA Regatta
+1087, 4/21/12,WHV,0,GW, 6:41.2,OKC, 6:56.8,FLA, 7:03.4,VT, 7:25.2,OHUN, 7:39.4,,,,,,,,SIRA Regatta
+1088, 4/21/12,WHV,0,GV, 6:42.2,FLTC, 6:56.1,EMOR, 6:56.8,WASU, 7:04.5,JAX, 7:12.3,UGA, 7:35.7,,,,,,SIRA Regatta
+1089, 4/21/12,WHV,0,KAST, 6:50.0,MERC, 6:55.7,GATC, 7:13.9,UCHR, 7:20.0,COLO, 7:35.9,DAVS, 7:46.7,,,,,,SIRA Regatta
+1090, 4/21/12,WHV,0,PURD, 6:50.1,COK, 6:55.5,UCSD, 7:15.7,TULN, 7:20.8,LBTY, 7:25.1,,,,,,,,SIRA Regatta
+1091, 4/21/12,WHV,0,NOVS, 6:54.5,BARR, 7:01.3,WLMY, 7:14.9,VAND, 7:31.2,MIOH, 7:57.1,,,,,,,,SIRA Regatta
+1092, 4/21/12,MHV,0,UVA, 5:58.3,OKC, 6:02.1,ROLL, 6:03.1,COLO, 6:18.9,TEX, 6:39.3,CLEM, 6:42.8,,,,,,SIRA Regatta
+1093, 4/21/12,MHV,0,GV, 5:54.0,GATC, 5:56.3,JAX, 5:56.4,WICH, 6:18.8,DAYT, 6:40.4,WLMY, 6:42.6,,,,,,SIRA Regatta
+1094, 4/21/12,MHV,0,FLTC, 5:56.0,MIST, 5:59.6,STJO, 6:02.4,TULN, 6:19.5,OHUN, 6:58.3,,,,,,,,SIRA Regatta
+1095, 4/21/12,MHV,0,TEMP, 5:55.9,UNC, 6:00.4,PURD, 6:04.2,VAND, 6:27.9,MIOH, 7:08.5,,,,,,,,SIRA Regatta
+1096, 4/21/12,MHV,0,GW, 5:55.9,ND, 6:02.6,MERC, 6:05.8,DELA, 6:12.9,KAST, 6:28.8,,,,,,,,SIRA Regatta
+1097, 4/21/12,MHN,0,GW, 6:12.1,UNC, 6:16.8,OKC, 6:20.3,JAX, 6:30.0,FLA, 6:39.1,,,,,,,,SIRA Regatta
+1098, 4/21/12,MHN,0,MARI, 6:08.7,ND, 6:11.4,GV, 6:12.4,ROLL, 6:29.4,VAND, 6:32.0,EMOR, 6:37.2,COLO, 6:58.3,,,,SIRA Regatta
+1099, 4/21/12,MHN,0,UVA, 6:15.2,PURD, 6:21.1,DELA, 6:29.9,GATC, 6:39.5,VCOM, 6:46.5,VT, 7:24.9,,,,,,SIRA Regatta
+1100, 4/21/12,WHV,0,GW, 6:42.1,MERC, 6:50.0,BARR, 6:54.8,FLTC, 6:55.6,JAX, 7:11.5,,,,,,,,SIRA Regatta
+1101, 4/21/12,WHV,0,GV, 6:39.8,KAST, 6:50.3,COK, 6:54.6,FLA, 7:01.0,WASU, 7:09.1,WLMY, 7:11.1,,,,,,SIRA Regatta
+1102, 4/21/12,WHV,0,PURD, 6:44.4,NOVS, 6:47.2,EMOR, 6:55.9,OKC, 6:57.7,UCSD, 7:09.4,GATC, 7:10.5,,,,,,SIRA Regatta
+1103, 4/21/12,MHV,0,UVA, 5:47.9,TEMP, 5:51.0,GATC, 5:55.4,STJO, 6:00.1,MERC, 6:01.6,DELA, 6:03.9,,,,,,SIRA Regatta
+1104, 4/21/12,MHV,0,GW, 5:46.2,GV, 5:50.6,PURD, 5:54.8,MIST, 5:56.4,ROLL, 5:57.4,COLO, 6:17.6,,,,,,SIRA Regatta
+1105, 4/21/12,MHV,0,FLTC, 5:51.1,ND, 5:53.7,OKC, 5:56.5,JAX, 5:58.8,UNC, 6:01.6,WICH, 6:17.3,,,,,,SIRA Regatta
+1106, 4/21/12,MHN,0,TENN, 6:35.3,CLEM, 6:35.5,UGA, 6:40.3,WASU, 6:44.5,UTCH, 6:46.2,TEX, 6:47.0,,,,,,SIRA Regatta
+1107, 4/21/12,MHV,2000,MIDD, 6:05.6,TUFT, 6:23.2,,,,,,,,,,,,,,Tufts v Middlebury
+1108, 4/21/12,WHV,2000,MIDD, 6:44.7,TUFT, 6:55.8,,,,,,,,,,,,,,Tufts v Middlebury
+1109, 4/21/12,WHJ,2000,MIDD, 7:27.6,TUFT, 7:39.1,,,,,,,,,,,,,,Tufts v Middlebury
+1110, 4/21/12,WHV,1200,WICH, 4:04.0,NEBR, 4:24.9,,,,,,,,,,,,,,Tornado Alley Sprints
+1111, 4/21/12,MHV,2000,WILL, 6:02.4,WESL, 6:09.5,,,,,,,,,,,,,,Williams College vs. Wesleyan
+1112, 4/21/12,MHJ,2000,WILL, 6:13.0,WESL, 6:19.8,,,,,,,,,,,,,,Williams College vs. Wesleyan
+1113, 4/21/12,MHV,2000,MIT, 6:57.5,UMAS, 7:10.3,,,,,,,,,,,,,,MIT vs. UMass
+1114, 4/21/12,MHJ,0,WPI, 6:13.0,COLB, 6:19.8,WESL, 6:20.8,MIDD, 6:45.1,,,,,,,,,,Worcester Racing
+1115, 4/21/12,MHN,0,WPI, 6:37.9,MIDD, 7:24.4,,,,,,,,,,,,,,Worcester Racing
+1116, 4/21/12,MHV,0,WPI, 6:08.2,WESL, 6:13.5,COLB, 6:13.8,UMAS, 6:24.4,MIDD, 6:28.8,,,,,,,,Worcester Racing
+1117, 4/21/12,MHV,2000,ILLI, 6:57.0,NORW, 6:59.6,,,,,,,,,,,,,,Illinois Spring Rowing Invitation
+1118, 4/21/12,MHV,2000,BUCK, 6:25.4,HOBR, 6:34.3,,,,,,,,,,,,,,Hobart v Bucknell
+1119, 4/21/12,MHJ,2000,BUCK, 6:37.1,HOBR, 6:43.9,,,,,,,,,,,,,,Hobart v Bucknell
+1120, 4/21/12,MHV,2000,HOBR, 6:33.1,COLG, 6:35.1,,,,,,,,,,,,,,Seneca Cup
+1121, 4/21/12,WHJ,0,WWAS, 7:23.0,HUMS, 7:27.1,PUGS, 7:34.7,LECL, 7:46.4,,,,,,,,,,NCRC Championships
+1122, 4/21/12,MHV,0,WWAS, 6:24.3,HUMS, 6:30.7,LECL, 6:35.7,PACL, 6:41.9,,,,,,,,,,NCRC Championships
+1123, 4/21/12,WHV,0,HUMS, 7:01.1,WWAS, 7:04.3,SPAC, 7:22.0,PUGS, 7:22.4,LECL, 7:25.1,WLMT, 7:25.9,PACL, 7:31.5,,,,NCRC Championships
+1124, 4/21/12,MHN,0,WWAS, 7:15.2,PUGS, 7:25.5,HUMS, 8:21.5,,,,,,,,,,,,NCRC Championships
+1125, 4/22/12,MLV,2000,DART, 5:33.4,COLU, 5:39.6,,,,,,,,,,,,,,Subin Cup
+1126, 4/22/12,MLJ,2000,DART, 5:41.6,COLU, 5:42.8,,,,,,,,,,,,,,Subin Cup
+1127, 4/22/12,MLN,2000,COLU, 5:49.2,DART, 5:49.9,,,,,,,,,,,,,,Subin Cup
+1128, 4/22/12,MHV,2000,HC, 5:50.6,RUTG, 5:58.8,,,,,,,,,,,,,,Holy Cross v Rutgers
+1129, 4/22/12,MHJ,2000,HC, 5:58.9,RUTG, 6:09.0,,,,,,,,,,,,,,Holy Cross v Rutgers
+1130, 4/22/12,MHN,2000,RUTG, 6:06.1,HC, 6:07.5,,,,,,,,,,,,,,Holy Cross v Rutgers
+1131, 4/22/12,WHV,2000,WLSM, 6:37.2,WASC, 6:45.8,WPI, 6:53.4,TUFT, 6:55.2,RIT, 6:57.8,SKID, 7:20.8,,,,,,Worcester Racing
+1132, 4/22/12,WHJ,2000,WLSM, 6:59.0,WPI, 7:03.4,RIT, 7:27.4,TUFT, 7:40.8,,,,,,,,,,Worcester Racing
+1133, 4/22/12,WHV,2000,HAML, 7:01.8,ROCH, 7:06.4,,,,,,,,,,,,,,Hamilton v University of Rochester
+1134, 4/22/12,WHJ,2000,HAML, 7:20.3,ROCH, 7:39.3,,,,,,,,,,,,,,Hamilton v University of Rochester
+1135, 4/22/12,WHV,2000,HC, 6:40.8,CONN, 6:41.1,,,,,,,,,,,,,,Holy Cross vs. University of Connecticut
+1136, 4/22/12,WHJ,2000,HC, 6:49.2,CONN, 6:50.8,,,,,,,,,,,,,,Holy Cross vs. University of Connecticut
+1137, 4/22/12,MHN,0,VAND, 6:32.4,EMOR, 6:33.0,FLA, 6:34.5,VCOM, 6:40.8,VT, 6:41.6,COLO, 6:45.8,,,,,,SIRA Regatta
+1138, 4/22/12,WHV,0,TULN, 7:15.5,UCHR, 7:18.9,LBTY, 7:20.8,VT, 7:23.0,VAND, 7:27.5,,,,,,,,SIRA Regatta
+1139, 4/22/12,WHV,0,UCSD, 7:04.2,GATC, 7:08.5,WLMY, 7:09.2,JAX, 7:12.2,WASU, 7:13.2,,,,,,,,SIRA Regatta
+1140, 4/22/12,MHV,0,KAST, 6:16.0,VAND, 6:18.3,TULN, 6:18.6,TEX, 6:34.2,DAYT, 6:40.9,WLMY, 7:19.3,,,,,,SIRA Regatta
+1141, 4/22/12,MHV,0,ROLL, 6:02.6,MERC, 6:05.4,UNC, 6:08.2,DELA, 6:13.1,WICH, 6:19.7,COLO, 6:27.1,,,,,,SIRA Regatta
+1142, 4/22/12,MHN,0,GV, 6:09.8,OKC, 6:13.4,JAX, 6:19.5,DELA, 6:21.7,ROLL, 6:25.0,GATC, 6:30.6,,,,,,SIRA Regatta
+1143, 4/22/12,MHN,0,GW, 5:57.2,MARI, 5:58.5,UVA, 6:05.6,ND, 6:06.3,PURD, 6:08.6,UNC, 6:16.1,,,,,,SIRA Regatta
+1144, 4/22/12,MHJ,0,STJO, 6:08.4,ND, 6:15.3,UNC, 6:23.6,KAST, 6:58.0,,,,,,,,,,SIRA Regatta
+1145, 4/22/12,MHJ,0,UVA, 5:58.3,GV, 6:02.8,TEMP, 6:04.5,DELA, 6:06.6,PURD, 6:07.9,JAX, 6:10.7,,,,,,SIRA Regatta
+1146, 4/22/12,MLV,0,DELA, 5:59.1,STJO, 6:03.8,MIST, 6:06.8,WLMY, 6:10.8,PURD, 6:15.3,DUKE, 6:35.0,,,,,,SIRA Regatta
+1147, 4/22/12,WHV,0,COK, 6:49.8,BARR, 6:54.4,FLTC, 6:54.9,OKC, 6:56.8,EMOR, 6:57.3,FLA, 7:02.6,,,,,,SIRA Regatta
+1148, 4/22/12,WHV,0,GV, 6:32.2,GW, 6:35.0,PURD, 6:38.9,KAST, 6:40.9,NOVS, 6:43.1,MERC, 6:51.2,,,,,,SIRA Regatta
+1149, 4/22/12,MHV,0,GATC, 5:54.6,JAX, 5:56.0,PURD, 5:56.5,MIST, 5:56.8,OKC, 5:59.0,STJO, 6:03.3,,,,,,SIRA Regatta
+1150, 4/22/12,MHV,0,GW, 5:45.3,UVA, 5:45.6,GV, 5:51.4,FLTC, 5:51.9,TEMP, 5:52.9,ND, 5:53.9,,,,,,SIRA Regatta
+1151, 4/22/12,MHV,2000,WPI, 6:01.9,RIT, 6:11.5,SKID, 6:21.5,TUFT, 6:24.2,,,,,,,,,,Worcester Racing
+1152, 4/22/12,MHJ,2000,WPI, 6:09.6,RIT, 6:26.8,,,,,,,,,,,,,,Worcester Racing
+1153, 4/22/12,MHN,2000,WPI, 6:18.0,TUFT, 6:22.2,SKID, 6:41.6,,,,,,,,,,,,Worcester Racing
+1154, 4/22/12,MHV,2000,URI, 6:06.7,CSTG, 6:08.8,UMAS, 6:12.7,,,,,,,,,,,,URI/UMass/USCGA
+1155, 4/22/12,MHJ,2000,URI, 6:35.5,CSTG, 7:16.7,,,,,,,,,,,,,,URI/UMass/USCGA
+1156, 4/22/12,MHN,2000,URI, 6:26.4,CSTG, 6:29.8,,,,,,,,,,,,,,URI/UMass/USCGA
+1157, 4/22/12,MHV,2000,ROCH, 6:24.6,HAML, 6:29.1,,,,,,,,,,,,,,Hamilton v University of Rochester
+1158, 4/22/12,MHJ,2000,ROCH, 6:35.1,HAML, 6:35.9,,,,,,,,,,,,,,Hamilton v University of Rochester
+1159, 4/22/12,WLV,2000,STAN, 6:35.4,WISC, 6:40.3,,,,,,,,,,,,,,Wisconsin v. Stanford Lightweight Women
+1160, 4/22/12,WLV,2000,RADC, 6:41.8,MIT, 7:15.6,,,,,,,,,,,,,,MIT vs. Harvard-Radcliffe
+1161, 4/27/12,WHV,2000,DUKE, 7:04.9,INDI, 7:07.8,URI, 7:07.8,CFLA, 7:15.3,,,,,,,,,,Dale England Cup - Session I
+1162, 4/27/12,WHJ,2000,URI, 7:16.0,INDI, 7:21.9,CFLA, 7:27.5,DUKE, 7:32.3,,,,,,,,,,Dale England Cup - Session I
+1163, 4/28/12,MLV,2000,HARV, 5:31.2,PRIN, 5:35.4,YALE, 5:37.2,,,,,,,,,,,,Goldthwait Cup & Vogel Cup & Freshman Bowl
+1164, 4/28/12,MLJ,2000,YALE, 5:33.9,PRIN, 5:42.8,HARV, 5:44.0,,,,,,,,,,,,Goldthwait Cup & Vogel Cup & Freshman Bowl
+1165, 4/28/12,MLN,2000,YALE, 5:43.8,HARV, 5:45.2,PRIN, 5:48.3,,,,,,,,,,,,Goldthwait Cup & Vogel Cup & Freshman Bowl
+1166, 4/28/12,MLV,2000,NAVY, 6:01.1,PENN, 6:09.5,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1167, 4/28/12,MLJ,2000,NAVY, 6:09.1,PENN, 6:25.3,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1168, 4/28/12,MLN,2000,NAVY, 6:06.9,PENN, 6:15.5,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1169, 4/28/12,MLV,2000,DELA, 6:09.2,MIT, 6:23.5,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1170, 4/28/12,MLN,2000,MIT, 6:10.9,DELA, 6:17.6,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1171, 4/28/12,MLV,2000,PENN, 6:21.5,MIT, 6:33.7,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1172, 4/28/12,MLN,2000,PENN, 6:21.9,MIT, 6:23.5,,,,,,,,,,,,,,Philadephia Lwt Racing (Callow Cup)
+1173, 4/28/12,MLV,2000,DART, 6:04.9,CORN, 6:10.6,,,,,,,,,,,,,,Baggaley Bowl
+1174, 4/28/12,MLJ,2000,CORN, 5:49.1,DART, 5:54.7,,,,,,,,,,,,,,Baggaley Bowl
+1175, 4/28/12,MLN,2000,CORN, 6:09.2,DART, 6:14.1,,,,,,,,,,,,,,Baggaley Bowl
+1176, 4/28/12,MHV,2000,WISC, 5:42.7,BU, 5:43.3,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1177, 4/28/12,MHJ,2000,WISC, 5:51.1,BU, 5:54.5,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1178, 4/28/12,MHN,2000,WISC, 5:52.3,BU, 5:54.1,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1179, 4/28/12,MHV,2000,BU, 5:58.3,FLTC, 6:04.4,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1180, 4/28/12,MHV,2000,DART, 6:02.3,FLTC, 6:10.1,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1181, 4/28/12,MHV,2000,WISC, 5:49.2,DART, 5:53.2,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1182, 4/28/12,MHJ,2000,WISC, 5:59.9,DART, 6:15.8,,,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1183, 4/28/12,MHN,2000,WISC, 6:03.9,DART, 6:05.0,MIT, 6:25.6,,,,,,,,,,,,Wisconsin Racing (Jablonic & Cochrane Cup)
+1184, 4/28/12,MHV,2000,GEOR, 5:51.2,GW, 5:53.8,RUTG, 6:09.8,,,,,,,,,,,,Rutgers/Georgetown/George Washington
+1185, 4/28/12,MHJ,2000,GW, 6:09.8,GEOR, 6:12.4,RUTG, 6:17.3,,,,,,,,,,,,Rutgers/Georgetown/George Washington
+1186, 4/28/12,MHN,2000,GEOR, 5:58.0,GW, 6:05.2,RUTG, 6:15.4,,,,,,,,,,,,Rutgers/Georgetown/George Washington
+1187, 4/28/12,MHV,2000,BRWN, 5:46.2,PRIN, 5:54.1,,,,,,,,,,,,,,Content Cup
+1188, 4/28/12,MHJ,2000,PRIN, 5:51.4,BRWN, 5:54.2,,,,,,,,,,,,,,Content Cup
+1189, 4/28/12,MHN,2000,PRIN, 6:05.9,BRWN, 6:13.2,,,,,,,,,,,,,,Content Cup
+1190, 4/28/12,MHN,2000,HC, 6:13.9,BC, 6:14.7,,,,,,,,,,,,,,Holy Cross vs. Boston College
+1191, 4/28/12,MHV,2000,HARV, 6:21.2,NORT, 6:24.6,,,,,,,,,,,,,,Smith Cup
+1192, 4/28/12,MHJ,2000,HARV, 6:26.2,NORT, 6:41.3,,,,,,,,,,,,,,Smith Cup
+1193, 4/28/12,MHN,2000,HARV, 6:36.4,NORT, 6:42.4,,,,,,,,,,,,,,Smith Cup
+1194, 4/28/12,WHV,2000,USC, 6:43.7,UCLA, 6:46.3,,,,,,,,,,,,,,USC vs. UCLA
+1195, 4/28/12,WHJ,2000,UCLA, 7:03.6,USC, 7:13.0,,,,,,,,,,,,,,USC vs. UCLA
+1196, 4/28/12,WHV,2000,WELL, 7:32.0,TUFT, 8:01.6,,,,,,,,,,,,,,Malden River Spirit Regatta
+1197, 4/28/12,WHJ,2000,WELL, 7:25.2,SMIT, 7:38.3,,,,,,,,,,,,,,Malden River Spirit Regatta
+1198, 4/28/12,WHJ,2000,SIMM, 7:32.0,TUFT, 8:01.6,,,,,,,,,,,,,,Malden River Spirit Regatta
+1199, 4/28/12,WHV,2000,WELL, 7:00.8,SIMM, 7:03.1,,,,,,,,,,,,,,Malden River Spirit Regatta
+1200, 4/28/12,WHV,2000,TUFT, 7:17.1,SMIT, 7:20.0,,,,,,,,,,,,,,Malden River Spirit Regatta
+1201, 4/28/12,WHJ,2000,SMIT, 7:36.8,TUFT, 8:03.5,,,,,,,,,,,,,,Malden River Spirit Regatta
+1202, 4/28/12,WHJ,2000,WELL, 7:18.9,SIMM, 7:33.2,,,,,,,,,,,,,,Malden River Spirit Regatta
+1203, 4/28/12,WHV,2000,SIMM, 7:13.3,SMIT, 7:27.8,,,,,,,,,,,,,,Malden River Spirit Regatta
+1204, 4/28/12,WHV,2000,DREX, 6:56.1,STJO, 7:00.4,TEMP, 7:01.4,LASL, 7:21.1,VILN, 7:21.9,,,,,,,,Kelly Cup
+1205, 4/28/12,WHJ,2000,DREX, 6:56.9,STJO, 6:57.6,TEMP, 7:12.9,LASL, 7:34.1,,,,,,,,,,Kelly Cup
+1206, 4/28/12,WHV,2000,PRIN, 6:44.1,TENN, 6:53.9,,,,,,,,,,,,,,Princeton v Tennessee
+1207, 4/28/12,WHJ,2000,PRIN, 7:06.1,TENN, 7:09.2,,,,,,,,,,,,,,Princeton v Tennessee
+1208, 4/28/12,WHV,2000,CORN, 6:17.6,DART, 6:18.0,ALAB, 6:46.0,,,,,,,,,,,,Parents' Cup
+1209, 4/28/12,WHJ,2000,CORN, 6:30.9,DART, 6:36.5,ALAB, 6:49.1,,,,,,,,,,,,Parents' Cup
+1210, 4/28/12,WLV,2000,RADC, 7:00.3,PRIN, 7:03.4,,,,,,,,,,,,,,Class of '99 Cup
+1211, 4/28/12,WHV,2000,BRWN, 6:20.5,YALE, 6:22.4,,,,,,,,,,,,,,Nat and Anne Case Cup
+1212, 4/28/12,WHJ,2000,YALE, 6:25.1,BRWN, 6:28.2,,,,,,,,,,,,,,Nat and Anne Case Cup
+1213, 4/28/12,WHV,5000,WAST, 6:50.4,ORST, 6:53.7,,,,,,,,,,,,,,Washington State v Oregon State
+1214, 4/28/12,WHJ,5000,WAST, 6:59.2,ORST, 7:11.3,,,,,,,,,,,,,,Washington State v Oregon State
+1215, 4/28/12,WHV,2000,UVA, 6:19.7,OHST, 6:25.6,,,,,,,,,,,,,,Griggs Reservoir Racing
+1216, 4/28/12,WHJ,2000,OHST, 6:29.9,UVA, 6:39.1,,,,,,,,,,,,,,Griggs Reservoir Racing
+1217, 4/28/12,WHV,2000,UVA, 6:33.9,MICH, 6:41.2,,,,,,,,,,,,,,Griggs Reservoir Racing
+1218, 4/28/12,WHJ,2000,MICH, 6:48.4,UVA, 6:56.6,,,,,,,,,,,,,,Griggs Reservoir Racing
+1219, 4/28/12,WHV,2000,OHST, 6:40.6,RADC, 6:41.9,CLEM, 6:48.9,,,,,,,,,,,,Griggs Reservoir Racing
+1220, 4/28/12,WHJ,2000,OHST, 6:49.2,RADC, 6:58.5,CLEM, 7:10.0,,,,,,,,,,,,Griggs Reservoir Racing
+1221, 4/28/12,WHV,2000,MICH, 6:18.3,RADC, 6:23.9,CLEM, 6:36.9,,,,,,,,,,,,Griggs Reservoir Racing
+1222, 4/28/12,WHJ,2000,MICH, 6:28.8,RADC, 6:36.9,CLEM, 6:47.0,,,,,,,,,,,,Griggs Reservoir Racing
+1223, 4/28/12,WHV,2000,OKLA, 6:53.6,TEX, 6:54.0,KAST, 7:09.4,KANS, 7:13.9,,,,,,,,,,Big 12 Rowing Championship
+1224, 4/28/12,WHJ,2000,TEX, 6:58.6,OKLA, 7:05.3,KAST, 7:11.0,KANS, 7:20.8,,,,,,,,,,Big 12 Rowing Championship
+1225, 4/28/12,WHV,2000,ND, 0:00.0,IOWA, 0:15.7,WV, 0:26.3,,,,,,,,,,,,BIG EAST Invite
+1226, 4/28/12,WHV,2000,SYRA, 0:00.0,LOUV, 0:09.7,RUTG, 0:23.6,,,,,,,,,,,,BIG EAST Invite
+1227, 4/28/12,WHJ,2000,ND, 0:00.0,LOUV, 0:22.7,WV, 0:32.4,,,,,,,,,,,,BIG EAST Invite
+1228, 4/28/12,WHJ,2000,SYRA, 0:00.0,IOWA, 0:03.5,RUTG, 0:34.6,,,,,,,,,,,,BIG EAST Invite
+1229, 4/28/12,WHV,2000,ND, 6:41.0,SYRA, 6:41.6,IOWA, 6:47.6,LOUV, 6:51.2,,,,,,,,,,BIG EAST Invite
+1230, 4/28/12,WHV,2000,WV, 7:11.9,RUTG, 7:15.4,,,,,,,,,,,,,,BIG EAST Invite
+1231, 4/28/12,WHJ,2000,ND, 6:47.4,SYRA, 6:48.5,IOWA, 6:55.0,LOUV, 6:59.9,,,,,,,,,,BIG EAST Invite
+1232, 4/28/12,WHJ,2000,RUTG, 7:28.6,WV, 7:31.7,,,,,,,,,,,,,,BIG EAST Invite
+1233, 4/28/12,WHV,2000,WILL, 6:58.7,ITHA, 7:22.4,,,,,,,,,,,,,,Williams College vs. Ithaca
+1234, 4/28/12,WHJ,2000,WILL, 7:11.2,ITHA, 7:42.6,,,,,,,,,,,,,,Williams College vs. Ithaca
+1235, 4/28/12,WHV,2000,CAL, 6:20.3,STAN, 6:23.3,,,,,,,,,,,,,,The Big Row - Stanford vs. California
+1236, 4/28/12,WHJ,2000,CAL, 6:29.5,STAN, 6:33.0,,,,,,,,,,,,,,The Big Row - Stanford vs. California
+1237, 4/28/12,WLV,2000,BUCK, 6:43.3,GEOR, 6:47.8,,,,,,,,,,,,,,Class of 2012 Cup
+1238, 4/28/12,MHJ,2000,UNH, 4:51.8,COLB, 4:55.1,,,,,,,,,,,,,,Colby vs. UNH
+1239, 4/28/12,MHV,2000,UNH, 6:20.6,COLB, 6:26.8,,,,,,,,,,,,,,Colby vs. UNH
+1240, 4/28/12,WHV,2000,UNH, 7:15.8,COLB, 7:36.9,,,,,,,,,,,,,,Colby vs. UNH
+1241, 4/28/12,MHN,2000,STLA, 6:50.7,UNIO, 6:55.2,SKID, 7:21.2,,,,,,,,,,,,Liberty League Championships
+1242, 4/28/12,MHJ,2000,HOBR, 6:46.0,UNIO, 7:14.3,,,,,,,,,,,,,,Liberty League Championships
+1243, 4/28/12,MHV,2000,HOBR, 6:27.0,UNIO, 6:38.3,RIT, 6:40.7,SKID, 6:53.5,,,,,,,,,,Liberty League Championships
+1244, 4/28/12,WHJ,2000,WLSM, 7:32.5,STLA, 7:55.2,RIT, 8:08.8,UNIO, 8:25.0,,,,,,,,,,Liberty League Championships
+1245, 4/28/12,WHV,2000,WLSM, 7:22.0,STLA, 7:34.7,RIT, 7:45.6,UNIO, 7:56.8,,,,,,,,,,Liberty League Championships
+1246, 4/28/12,MHV,0,JAX, 6:08.5,MRST, 6:12.1,IONA, 6:14.8,FAIR, 6:57.7,CANI, 7:07.9,,,,,,,,MAAC Championship
+1247, 4/28/12,WHJ,0,MRST, 7:18.3,DRAK, 7:22.4,ROMO, 7:49.6,CANI, 7:55.3,JAX, 8:16.4,FAIR,10:01.0,,,,,,MAAC Championship
+1248, 4/28/12,WHV,0,DRAK, 6:52.8,MRST, 6:52.8,JAX, 7:04.0,FAIR, 7:04.7,CANI, 7:17.0,ROMO, 8:00.6,,,,,,MAAC Championship
+1249, 4/28/12,MHJ,0,JAX, 6:11.1,MRST, 6:17.5,IONA, 6:46.9,FAIR, 6:55.1,,,,,,,,,,MAAC Championship
+1250, 4/28/12,MHV,2000,OKC, 6:22.1,WICH, 6:43.0,,,,,,,,,,,,,,Oklahoma City v Wichita State
+1251, 4/28/12,MHN,2000,OKC, 6:32.3,WICH, 6:52.3,,,,,,,,,,,,,,Oklahoma City v Wichita State
+1252, 4/28/12,WHV,2000,WICH, 7:21.0,OKC*, 7:21.3,,,,,,,,,,,,,,Oklahoma City v Wichita State
+1253, 4/28/12,MHN,2000,ALBY, 6:24.3,CLRS, 6:39.9,,,,,,,,,,,,,,SUNY-Albany vs. Clarkson
+1254, 4/28/12,MHV,2000,ALBY, 6:33.4,CLRS, 6:56.6,,,,,,,,,,,,,,SUNY-Albany vs. Clarkson
+1255, 4/28/12,WHV,2000,ALBY, 7:26.2,CLRS, 7:41.6,,,,,,,,,,,,,,SUNY-Albany vs. Clarkson
+1256, 4/28/12,MHV,2000,TRIN, 5:42.7,WESL, 5:48.0,,,,,,,,,,,,,,Wesleyan vs. Trinity
+1257, 4/28/12,MHJ,2000,TRIN, 5:51.4,WESL, 5:56.1,,,,,,,,,,,,,,Wesleyan vs. Trinity
+1258, 4/28/12,WHV,2000,WESL, 6:25.1,TRIN, 6:30.1,,,,,,,,,,,,,,Wesleyan vs. Trinity
+1259, 4/28/12,WHJ,2000,TRIN, 6:36.4,WESL, 6:39.1,,,,,,,,,,,,,,Wesleyan vs. Trinity
+1260, 4/28/12,WHV,0,MARI, 6:43.4,BRYN, 7:05.1,NPRK, 7:23.4,,,,,,,,,,,,Mid-Atlantic Rowing Conference
+1261, 4/28/12,WHV,0,WASC, 6:56.6,FRMA, 7:04.2,MAWA, 7:33.7,RSTC, 7:35.2,,,,,,,,,,Mid-Atlantic Rowing Conference
+1262, 4/28/12,MHN,0,MARI, 0:00.0,SUSQ, 0:30.4,STMD, 0:40.1,FRMA, 0:57.5,SCRA, 1:04.3,,,,,,,,Mid-Atlantic Rowing Conference
+1263, 4/28/12,WHV,0,STMD, 7:21.6,SUSQ, 8:04.4,,,,,,,,,,,,,,Mid-Atlantic Rowing Conference
+1264, 4/28/12,WHJ,0,MARI, 7:05.1,WASC, 7:11.5,FRMA, 7:51.6,NPRK, 8:12.7,,,,,,,,,,Mid-Atlantic Rowing Conference
+1265, 4/28/12,MHV,0,MARI, 6:10.1,WASC, 6:21.2,FRMA, 6:37.2,STMD, 6:39.2,RUCM, 6:42.1,,,,,,,,Mid-Atlantic Rowing Conference
+1266, 4/28/12,WHV,0,MARI, 6:43.1,WASC, 6:49.9,FRMA, 7:05.4,BRYN, 7:06.3,NPRK, 7:42.6,MAWA, 7:57.6,,,,,,Mid-Atlantic Rowing Conference
+1267, 4/28/12,MHV,2000,BC, 6:05.6,WPI, 6:08.0,URI, 6:16.0,FORD, 6:19.5,UMAS, 6:21.5,,,,,,,,Worcester Racing
+1268, 4/28/12,MHJ,2000,WPI, 6:19.6,BC, 6:21.2,URI, 6:31.3,FORD, 7:09.4,,,,,,,,,,Worcester Racing
+1269, 4/28/12,MHN,2000,BC, 6:25.7,WPI, 6:33.2,FORD, 6:52.6,,,,,,,,,,,,Worcester Racing
+1270, 4/28/12,MHV,2000,DREX, 6:04.9,TEMP, 6:09.2,LASL, 6:17.5,STJO, 6:21.9,VILN, 6:40.9,,,,,,,,Bergen Cup
+1271, 4/28/12,MHJ,2000,DREX, 6:11.5,TEMP, 6:13.8,STJO, 6:15.9,,,,,,,,,,,,Bergen Cup
+1272, 4/28/12,MHN,2000,DREX, 6:15.0,LASL, 6:46.1,,,,,,,,,,,,,,Bergen Cup
+1273, 4/28/12,MHV,0,WILL, 6:09.4,ITHA, 6:13.9,CSTG, 6:37.8,,,,,,,,,,,,Williams/Ithaca/USCGA/Bucknell
+1274, 4/28/12,MHJ,0,WILL, 6:28.0,ITHA, 6:43.4,CSTG, 7:04.5,,,,,,,,,,,,Williams/Ithaca/USCGA/Bucknell
+1275, 4/28/12,MHN,0,WILL, 6:36.6,CSTG, 7:08.2,,,,,,,,,,,,,,Williams/Ithaca/USCGA/Bucknell
+1276, 4/28/12,MHV,0,WILL, 4:38.5,BUCK, 4:40.8,,,,,,,,,,,,,,Williams/Ithaca/USCGA/Bucknell
+1277, 4/28/12,MHJ,0,WILL, 4:51.7,BUCK, 4:53.2,,,,,,,,,,,,,,Williams/Ithaca/USCGA/Bucknell
+1278, 4/28/12,MHV,2000,CAL, 5:37.7,STAN, 5:41.7,,,,,,,,,,,,,,The Big Row - Men's Results
+1279, 4/28/12,MHJ,2000,CAL, 5:52.5,STAN, 6:04.1,,,,,,,,,,,,,,The Big Row - Men's Results
+1280, 4/28/12,MHN,2000,CAL, 5:45.2,STAN, 6:11.7,,,,,,,,,,,,,,The Big Row - Men's Results
+1281, 4/28/12,MHN,0,MICH, 5:51.8,ND, 6:04.8,OHST, 6:39.1,UCHI, 7:03.8,,,,,,,,,,MACRA Championship
+1282, 4/28/12,MHN,0,PURD, 6:01.6,GV, 6:02.3,CINC, 6:25.3,ILLI, 6:29.5,MSOE, 6:42.8,,,,,,,,MACRA Championship
+1283, 4/28/12,WHV,0,GV, 6:39.6,UCHI, 7:03.3,OHSC, 7:13.1,NORW, 7:29.1,,,,,,,,,,MACRA Championship
+1284, 4/28/12,WHV,0,PURD, 6:32.3,MERC, 7:01.0,MARQ, 7:26.0,LAWU, 7:35.9,,,,,,,,,,MACRA Championship
+1285, 4/28/12,MHV,0,GV, 5:43.6,PURD, 5:47.8,MIST, 5:55.2,MSOE, 6:06.4,CINC, 6:07.8,,,,,,,,MACRA Championship
+1286, 4/28/12,MHV,0,MICH, 5:49.8,ND, 5:56.3,MERC, 5:58.6,OHST, 6:18.9,,,,,,,,,,MACRA Championship
+1287, 4/28/12,MHN,0,ILLI, 6:32.1,MSOE, 7:08.0,UCHI, 7:29.3,,,,,,,,,,,,MACRA Championship
+1288, 4/28/12,MHN,0,MICH, 5:57.4,ND, 5:58.0,GV, 6:04.0,PURD, 6:05.8,OHST, 6:30.9,CINC, 6:31.3,,,,,,MACRA Championship
+1289, 4/28/12,WLV,0,GV, 6:47.0,PURD, 7:14.8,,,,,,,,,,,,,,MACRA Championship
+1290, 4/28/12,MLV,0,PURD, 5:55.9,MICH, 5:56.3,MIST, 5:56.8,UCHI, 6:19.8,,,,,,,,,,MACRA Championship
+1291, 4/28/12,MHJ,0,MICH, 5:41.5,GV, 5:49.8,PURD, 5:51.6,ND, 5:53.2,OHST, 5:54.7,,,,,,,,MACRA Championship
+1292, 4/28/12,WHV,0,NORW, 7:32.1,LAWU, 7:41.3,,,,,,,,,,,,,,MACRA Championship
+1293, 4/28/12,WHV,0,PURD, 6:22.9,GV, 6:26.8,MERC, 6:36.1,UCHI, 7:01.1,MARQ, 7:26.6,OHSC, 7:35.1,,,,,,MACRA Championship
+1294, 4/28/12,MHV,0,CINC, 5:59.3,NORW, 6:00.6,OHST, 6:12.5,MSOE, 6:15.5,,,,,,,,,,MACRA Championship
+1295, 4/28/12,MHV,0,MICH, 5:39.1,GV, 5:39.7,ND, 5:41.6,PURD, 5:45.1,MIST, 5:45.4,MERC, 5:51.0,,,,,,MACRA Championship
+1296, 4/28/12,MHJ,0,UCSD, 6:08.5,UCSB, 6:17.3,UCIR, 6:19.1,WAST, 6:24.9,OC, 6:28.6,,,,,,,,WIRA Championship - Heats
+1297, 4/28/12,MHJ,0,GONZ, 6:13.1,UCDV, 6:17.1,USD, 6:18.1,SCLA, 6:18.9,,,,,,,,,,WIRA Championship - Heats
+1298, 4/28/12,WHV,0,HUMS, 6:52.5,SPAC, 7:09.2,PUGS, 7:13.3,OC, 7:17.3,PACL, 7:20.6,,,,,,,,WIRA Championship - Heats
+1299, 4/28/12,WHV,0,WWAS, 6:54.0,UCSB, 7:00.0,UCSD, 7:10.5,LECL, 7:15.6,MILL, 7:16.1,CSLB, 7:26.7,,,,,,WIRA Championship - Heats
+1300, 4/28/12,WHV,0,SACS, 6:48.6,LOMY, 7:12.0,SCLA, 7:30.3,,,,,,,,,,,,WIRA Championship - Heats
+1301, 4/28/12,WHV,0,GONZ, 6:48.6,STMY, 6:52.0,UCDV, 6:52.4,SDSU, 7:06.1,,,,,,,,,,WIRA Championship - Heats
+1302, 4/28/12,MHN,0,GONZ, 6:22.2,WAST, 6:30.4,SCLA, 6:39.8,PUGS, 6:56.4,CHAP, 7:22.4,,,,,,,,WIRA Championship - Heats
+1303, 4/28/12,MHN,0,OC, 6:10.8,UCLA, 6:24.8,UCSB, 6:32.0,SONO, 6:45.2,ORGN, 6:55.3,,,,,,,,WIRA Championship - Heats
+1304, 4/28/12,MHN,0,UCIR, 6:14.7,UCSD, 6:17.2,CSLB, 6:35.0,HUMS, 6:37.5,SDSU, 6:38.4,,,,,,,,WIRA Championship - Heats
+1305, 4/28/12,MHN,0,SDSU, 6:34.7,ORGN, 6:43.4,CHAP, 6:55.4,,,,,,,,,,,,WIRA Championship - Heats
+1306, 4/28/12,MHN,0,UCSB, 6:15.5,SCLA, 6:23.5,CSLB, 6:26.7,HUMS, 6:26.9,PUGS, 6:33.3,SONO, 6:37.7,,,,,,WIRA Championship - Heats
+1307, 4/28/12,WHV,2000,NOVS, 7:22.6,BARR, 7:33.0,FLTC, 7:48.8,ROLL, 8:08.7,TAMP, 8:25.0,,,,,,,,Sunshine State Conference Championships
+1308, 4/29/12,MHV,2000,HC, 5:58.5,BUCK, 6:02.1,,,,,,,,,,,,,,Holy Cross vs. Bucknell
+1309, 4/29/12,MHJ,2000,HC, 6:10.4,BUCK, 6:15.4,,,,,,,,,,,,,,Holy Cross vs. Bucknell
+1310, 4/29/12,MHV,2000,NAVY, 6:06.9,COLU, 6:10.1,,,,,,,,,,,,,,Maxwell Stevenson Cup
+1311, 4/29/12,MHN,2000,NAVY, 6:09.3,COLU, 6:14.4,,,,,,,,,,,,,,Maxwell Stevenson Cup
+1312, 4/29/12,WHV,2000,NORT, 6:41.8,BU, 6:48.8,BUFF, 6:51.3,OLDD, 6:55.1,DREX, 6:57.3,DELA, 7:05.8,GMAS, 7:06.6,,,,CAA Championship
+1313, 4/29/12,WHJ,2000,NORT, 7:01.4,DREX, 7:06.8,BU, 7:08.6,BUFF, 7:14.0,DELA, 7:22.3,OLDD, 7:26.9,GMAS, 7:31.2,,,,CAA Championship
+1314, 4/29/12,WHV,0,WISC, 6:49.8,MINN, 6:57.0,,,,,,,,,,,,,,Minnesota vs. Wisconsin
+1315, 4/29/12,WHJ,0,WISC, 6:55.3,MINN, 6:56.6,,,,,,,,,,,,,,Minnesota vs. Wisconsin
+1316, 4/29/12,WHV,2000,BATE, 6:46.1,UNH, 7:00.6,MIDD, 7:00.6,,,,,,,,,,,,Bates vs. Middlebury & UNH
+1317, 4/29/12,WHJ,2000,BATE, 6:49.5,UNH, 7:01.2,MIDD, 7:26.5,,,,,,,,,,,,Bates vs. Middlebury & UNH
+1318, 4/29/12,MHV,2000,BATE, 5:53.8,MIDD, 6:03.8,,,,,,,,,,,,,,Bates vs. Middlebury
+1319, 4/29/12,MHJ,2000,BATE, 6:12.3,MIDD, 6:25.6,,,,,,,,,,,,,,Bates vs. Middlebury
+1320, 4/29/12,MHN,2000,BATE, 6:44.0,MIDD, 7:07.0,,,,,,,,,,,,,,Bates vs. Middlebury
+1321, 4/29/12,WHV,2000,BUCK, 6:48.5,MIT, 6:51.0,NAVY, 6:59.3,HC, 7:07.7,COLG, 7:22.4,LEHI, 7:22.9,,,,,,Patriot League Championship
+1322, 4/29/12,WHJ,2000,NAVY, 7:04.5,BUCK, 7:08.8,HC, 7:16.4,MIT, 7:18.8,LEHI, 7:29.9,COLG, 7:41.4,,,,,,Patriot League Championship
+1323, 4/29/12,MHN,0,OC, 6:04.1,GONZ, 6:07.1,UCLA, 6:11.0,UCSD, 6:14.0,UCIR, 6:15.4,WAST, 6:30.7,,,,,,WIRA Championship - Finals
+1324, 4/29/12,MHJ,0,SCLA, 6:21.1,WAST, 6:23.4,OC, 6:31.5,,,,,,,,,,,,WIRA Championship - Finals
+1325, 4/29/12,WHJ,0,WWAS, 7:11.6,UCSB, 7:17.0,HUMS, 7:25.3,PUGS, 7:28.8,LECL, 7:35.8,UCSD, 7:52.6,MILL, 7:55.1,,,,WIRA Championship - Finals
+1326, 4/29/12,WHJ,0,GONZ, 6:47.8,SACS, 6:59.4,LOMY, 7:09.1,SDSU, 7:11.7,STMY, 7:14.7,,,,,,,,WIRA Championship - Finals
+1327, 4/29/12,MHJ,0,UCSD, 6:04.6,GONZ, 6:10.4,UCSB, 6:16.0,UCDV, 6:18.6,UCIR, 6:22.2,USD, 6:25.7,,,,,,WIRA Championship - Finals
+1328, 4/29/12,WHV,0,LECL, 7:15.5,CSLB, 7:17.5,OC, 7:18.8,PACL, 7:21.7,MILL, 7:22.2,,,,,,,,WIRA Championship - Finals
+1329, 4/29/12,WHV,0,SDSU, 7:00.4,SCLA, 7:26.7,,,,,,,,,,,,,,WIRA Championship - Finals
+1330, 4/29/12,MHV,0,OC, 6:02.6,UCSB, 6:04.1,UCIR, 6:05.0,UCLA, 6:08.7,WAST, 6:13.1,UCDV, 6:30.2,ORGN, 6:39.0,,,,WIRA Championship - Finals
+1331, 4/29/12,WHV,0,WWAS, 6:45.9,HUMS, 6:48.6,UCSB, 6:58.9,SPAC, 7:06.8,PUGS, 7:10.6,UCSD, 7:12.6,,,,,,WIRA Championship - Finals
+1332, 4/29/12,MHV,0,GONZ, 5:57.6,USD, 6:05.5,UCSD, 6:08.0,SCLA, 6:11.1,PACL, 6:31.5,,,,,,,,WIRA Championship - Finals
+1333, 4/29/12,WHV,0,GONZ, 6:43.5,STMY, 6:45.5,SACS, 6:46.0,UCDV, 6:52.3,LOMY, 6:56.8,,,,,,,,WIRA Championship - Finals
+1334, 4/29/12,MHV,1000,MINN, 6:54.0,STTH, 7:31.7,,,,,,,,,,,,,,Minnesota vs. St Thomas
+1335, 4/29/12,MHN,1000,MINN, 7:11.5,STTH, 7:52.5,,,,,,,,,,,,,,Minnesota vs. St Thomas
+1336, 4/29/12,WHV,2000,LOUV, 6:49.3,GEOR, 6:55.0,,,,,,,,,,,,,,University of Louisville vs. Georgetown
+1337, 4/29/12,WHJ,2000,LOUV, 7:05.4,GEOR, 7:20.1,,,,,,,,,,,,,,University of Louisville vs. Georgetown
+1338, 5/05/12,WHV,2000,MIT, 7:02.6,BC, 7:09.8,,,,,,,,,,,,,,MIT Openweight vs. Boston College
+1339, 5/05/12,WHJ,2000,BC, 7:16.4,MIT, 7:20.2,,,,,,,,,,,,,,MIT Openweight vs. Boston College
+1340, 5/05/12,WHV,0,URI, 7:05.1,TEMP, 7:09.8,DAYT, 7:14.9,FORD, 7:26.0,LASL, 7:32.3,,,,,,,,Atlantic 10 Rowing Championships
+1341, 5/05/12,WHV,0,GW, 7:11.4,STJO, 7:14.6,UMAS, 7:25.2,DUQN, 7:38.8,,,,,,,,,,Atlantic 10 Rowing Championships
+1342, 5/05/12,WHJ,0,URI, 7:16.8,DAYT, 7:21.3,UMAS, 7:29.8,FORD, 7:51.1,LASL, 7:54.0,,,,,,,,Atlantic 10 Rowing Championships
+1343, 5/05/12,WHJ,0,TEMP, 7:21.0,GW, 7:27.6,STJO, 7:30.4,DUQN, 7:45.0,,,,,,,,,,Atlantic 10 Rowing Championships
+1344, 5/05/12,WHV,0,LASL, 7:35.4,FORD, 7:39.2,DUQN, 7:48.1,,,,,,,,,,,,Atlantic 10 Rowing Championships
+1345, 5/05/12,WHV,0,URI, 6:59.8,GW, 7:07.8,DAYT, 7:08.0,TEMP, 7:12.7,STJO, 7:15.3,UMAS, 7:27.8,,,,,,Atlantic 10 Rowing Championships
+1346, 5/05/12,WHJ,0,DUQN, 7:34.3,FORD, 7:52.2,LASL, 8:02.8,,,,,,,,,,,,Atlantic 10 Rowing Championships
+1347, 5/05/12,WHJ,0,URI, 7:10.2,UMAS, 7:12.6,TEMP, 7:15.4,GW, 7:17.5,DAYT, 7:25.0,STJO, 7:29.7,,,,,,Atlantic 10 Rowing Championships
+1348, 5/05/12,MHN,0,WILL, 6:13.2,WPI, 6:28.5,TUFT, 6:40.9,CONN, 6:49.6,MIDD, 7:03.7,,,,,,,,New England Rowing Championship
+1349, 5/05/12,MHN,0,TRIN, 6:17.7,BC, 6:34.3,UVM, 6:39.3,CSTG, 6:44.0,,,,,,,,,,New England Rowing Championship
+1350, 5/05/12,MHN,0,WILL, 6:13.7,TRIN, 6:16.7,BC, 6:26.9,WPI, 6:32.8,UVM, 6:34.5,TUFT, 6:35.0,,,,,,New England Rowing Championship
+1351, 5/05/12,MHN,0,CSTG, 6:45.6,MIDD, 7:05.0,CONN, 7:18.3,,,,,,,,,,,,New England Rowing Championship
+1352, 5/05/12,WHV,0,WILL, 6:29.7,TRIN, 6:45.3,WESL, 6:51.3,TUFT, 6:54.1,SMIT, 6:54.7,,,,,,,,New England Rowing Championship
+1353, 5/05/12,WHV,0,BATE, 6:39.3,HC, 6:44.0,MIDD, 6:49.3,SIMM, 6:51.1,UVM, 6:51.7,,,,,,,,New England Rowing Championship
+1354, 5/05/12,WHV,0,WELL, 6:45.9,CSTG, 6:47.7,UNH, 6:48.8,WPI, 6:57.0,MTHO, 7:07.6,COLB, 7:13.8,,,,,,New England Rowing Championship
+1355, 5/05/12,WHV,0,WILL, 6:45.3,BATE, 6:55.3,HC, 7:02.0,WELL, 7:03.2,CSTG, 7:04.3,TRIN, 7:10.1,,,,,,New England Rowing Championship
+1356, 5/05/12,WHV,0,WPI, 7:07.0,UNH, 7:08.2,MIDD, 7:12.6,SIMM, 7:14.1,WESL, 7:14.8,TUFT, 7:24.0,,,,,,New England Rowing Championship
+1357, 5/05/12,WHV,0,SMIT, 7:21.5,UVM, 7:21.8,MTHO, 7:38.6,COLB, 7:45.6,,,,,,,,,,New England Rowing Championship
+1358, 5/05/12,WHJ,0,WILL, 6:55.1,WESL, 7:15.7,SIMM, 7:19.7,CSTG, 7:25.5,MIDD, 7:26.9,,,,,,,,New England Rowing Championship
+1359, 5/05/12,WHJ,0,HC, 7:07.0,UNH, 7:10.6,WELL, 7:10.8,UVM, 7:29.7,TUFT, 8:02.4,,,,,,,,New England Rowing Championship
+1360, 5/05/12,WHJ,0,BATE, 7:04.2,TRIN, 7:09.3,WPI, 7:19.7,SMIT, 7:29.3,MTHO, 7:43.3,,,,,,,,New England Rowing Championship
+1361, 5/05/12,WHJ,0,WILL, 7:02.5,HC, 7:10.7,BATE, 7:13.4,TRIN, 7:16.1,WESL, 7:26.2,UNH, 7:32.3,,,,,,New England Rowing Championship
+1362, 5/05/12,WHJ,0,WELL, 7:19.4,SIMM, 7:25.1,CSTG, 7:26.2,WPI, 7:26.3,UVM, 7:32.4,SMIT, 7:35.8,,,,,,New England Rowing Championship
+1363, 5/05/12,WHJ,0,MIDD, 7:39.6,MTHO, 8:01.0,TUFT, 8:12.4,,,,,,,,,,,,New England Rowing Championship
+1364, 5/05/12,MHV,0,WILL, 5:55.1,TRIN, 5:58.1,BC, 6:00.7,COLB, 6:03.5,URI, 6:05.8,MIDD, 6:10.4,TUFT, 6:34.9,,,,New England Rowing Championship
+1365, 5/05/12,MHV,0,BATE, 5:55.9,UNH, 5:58.0,WPI, 5:58.9,WESL, 5:59.4,UMAS, 6:07.4,CSTG, 6:16.5,,,,,,New England Rowing Championship
+1366, 5/05/12,MHV,0,WILL, 6:06.5,TRIN, 6:08.4,BATE, 6:10.3,UNH, 6:11.5,BC, 6:17.6,WPI, 6:20.8,,,,,,New England Rowing Championship
+1367, 5/05/12,MHV,0,WESL, 6:18.8,URI, 6:22.5,MIDD, 6:25.0,COLB, 6:26.8,UMAS, 6:27.6,CSTG, 6:29.8,TUFT, 6:48.4,,,,New England Rowing Championship
+1368, 5/05/12,MHJ,0,TRIN, 6:09.5,WPI, 6:11.2,BATE, 6:11.8,COLB, 6:13.8,URI, 6:27.7,,,,,,,,New England Rowing Championship
+1369, 5/05/12,MHJ,0,UNH, 6:06.5,WILL, 6:07.2,WESL, 6:12.5,BC, 6:15.5,MIDD, 6:30.7,,,,,,,,New England Rowing Championship
+1370, 5/05/12,MHJ,0,TRIN, 6:18.6,WPI, 6:23.9,WILL, 6:24.7,UNH, 6:25.5,BATE, 6:32.4,WESL, 6:35.7,,,,,,New England Rowing Championship
+1371, 5/05/12,MHJ,0,COLB, 6:30.8,BC, 6:35.0,URI, 6:38.4,MIDD, 6:44.1,,,,,,,,,,New England Rowing Championship
+1372, 5/05/12,MHJ,2000,WASH, 5:48.5,ORST, 6:15.6,,,,,,,,,,,,,,Windermere Cup
+1373, 5/05/12,MHN,2000,WASH, 5:45.7,ORST, 6:11.8,,,,,,,,,,,,,,Windermere Cup
+1374, 5/05/12,MHV,2000,WASH, 5:45.0,UVA, 5:59.9,ORST*, 6:03.6,,,,,,,,,,,,Windermere Cup
+1375, 5/05/12,WHJ,2000,WASH, 6:44.3,GONZ, 6:53.9,,,,,,,,,,,,,,Windermere Cup
+1376, 5/05/12,WHV,2000,WASH, 6:35.9,GONZ, 6:53.6,,,,,,,,,,,,,,Windermere Cup
+1377, 5/05/12,WHV,0,WLSM, 6:46.7,HAML, 6:51.2,ROCH, 7:00.4,ARMY, 7:04.4,VASS, 7:17.0,ALBY, 7:27.5,,,,,,New York State Collegiate Championships
+1378, 5/05/12,WHV,0,ITHA, 6:50.7,MRST, 6:52.8,STLA, 6:55.5,RIT, 6:57.4,UNIO, 6:57.6,BING, 7:12.2,,,,,,New York State Collegiate Championships
+1379, 5/05/12,MHV,0,MRST, 6:06.8,UNIO, 6:09.7,HAML, 6:15.2,RIT, 6:20.3,,,,,,,,,,New York State Collegiate Championships
+1380, 5/05/12,MHV,0,HOBR, 5:59.6,ITHA, 6:02.4,ARMY, 6:14.2,ROCH, 6:16.1,SKID, 6:26.9,,,,,,,,New York State Collegiate Championships
+1381, 5/05/12,WHJ,0,WLSM, 6:59.1,HAML, 7:02.3,ITHA, 7:04.7,STLA, 7:17.8,ROCH, 7:20.8,UNIO, 7:53.9,,,,,,New York State Collegiate Championships
+1382, 5/05/12,MHJ,0,HOBR, 6:21.2,HAML, 6:34.7,ITHA, 6:38.4,,,,,,,,,,,,New York State Collegiate Championships
+1383, 5/05/12,MHN,0,MRST, 6:23.9,ITHA, 6:39.4,SKID, 6:41.7,ALBY, 6:47.2,NYU, 6:53.1,STON, 7:46.5,,,,,,New York State Collegiate Championships
+1384, 5/05/12,MHN,0,UNIO, 6:28.9,STLA, 6:32.8,ARMY, 6:36.2,BING, 6:39.4,RPI, 7:09.5,CLRS, 7:10.1,,,,,,New York State Collegiate Championships
+1385, 5/05/12,MHV,2000,UCLA, 6:10.7,USC, 6:19.8,,,,,,,,,,,,,,UCLA vs. USC
+1386, 5/05/12,MHN,2000,UCLA, 6:00.1,USC, 6:49.9,,,,,,,,,,,,,,UCLA vs. USC
+1387, 5/06/12,WHV,0,RIT, 7:07.2,ARMY, 7:12.9,UNIO, 7:17.0,VASS, 7:23.3,ALBY, 7:30.1,BING, 7:35.5,,,,,,New York State Collegiate Championships
+1388, 5/06/12,WHV,0,WLSM, 6:44.4,MRST, 6:50.2,ITHA, 6:54.2,HAML, 6:58.6,STLA, 6:59.4,ROCH, 7:05.9,,,,,,New York State Collegiate Championships
+1389, 5/06/12,MHV,0,RIT, 6:19.3,ROCH, 6:20.9,SKID, 6:32.2,,,,,,,,,,,,New York State Collegiate Championships
+1390, 5/06/12,MHV,0,ITHA, 5:59.4,MRST, 6:01.7,HOBR, 6:03.6,ARMY, 6:10.9,UNIO, 6:14.7,HAML, 6:22.0,ALBY, 6:24.4,,,,New York State Collegiate Championships
+1391, 5/06/12,MHN,0,BING, 6:41.7,ALBY, 6:44.0,NYU, 6:49.6,RPI, 7:02.6,CLRS, 7:04.5,STON, 7:34.3,,,,,,New York State Collegiate Championships
+1392, 5/06/12,MHN,0,MRST, 6:22.7,STLA, 6:27.5,ARMY, 6:30.6,ITHA, 6:30.8,UNIO, 6:31.5,SKID, 6:45.0,,,,,,New York State Collegiate Championships
+1393, 5/11/12,MHN,0,WILL, 6:17.2,BC, 6:24.6,WPI, 6:33.8,CSTG, 6:42.3,SKID, 6:53.8,,,,,,,,ECAC National Invitational Regatta
+1394, 5/11/12,MHN,0,TRIN, 6:15.2,MRST, 6:24.0,TUFT, 6:31.8,STLA, 6:40.3,,,,,,,,,,ECAC National Invitational Regatta
+1395, 5/11/12,MHN,0,TRIN, 6:05.8,WILL, 6:06.6,BC, 6:15.3,MRST, 6:19.2,WPI, 6:21.2,TUFT, 6:28.9,,,,,,ECAC National Invitational Regatta
+1396, 5/11/12,MHN,0,STLA, 6:30.0,SKID, 6:34.7,CSTG, 6:36.0,,,,,,,,,,,,ECAC National Invitational Regatta
+1397, 5/11/12,MHJ,0,TRIN, 6:10.0,BUCK, 6:12.7,UNH, 6:13.0,COLB, 6:17.0,WESL, 6:22.2,URI, 6:25.9,BC, 6:27.2,,,,ECAC National Invitational Regatta
+1398, 5/11/12,MHJ,0,WILL, 6:18.3,WPI, 6:19.9,BATE, 6:20.8,HOBR, 6:22.6,ITHA, 6:31.5,HAML, 6:52.2,,,,,,ECAC National Invitational Regatta
+1399, 5/11/12,MHJ,0,TRIN, 6:04.4,BUCK, 6:06.5,UNH, 6:07.3,WILL, 6:07.5,WPI, 6:14.8,BATE, 6:22.8,,,,,,ECAC National Invitational Regatta
+1400, 5/11/12,MHJ,0,COLB, 6:20.9,WESL, 6:25.0,HOBR, 6:28.1,ITHA, 6:29.7,BC, 6:29.7,URI, 6:29.7,HAML, 6:53.3,,,,ECAC National Invitational Regatta
+1401, 5/11/12,MHV,0,WILL, 5:59.4,UNH, 6:00.8,MRST, 6:04.2,URI, 6:09.8,COLB, 6:10.9,SKID, 6:33.5,TUFT, 6:36.2,,,,ECAC National Invitational Regatta
+1402, 5/11/12,MHV,0,TRIN, 5:57.5,ITHA, 5:58.3,BC, 5:59.0,WESL, 6:07.4,UMAS, 6:09.5,CSTG, 6:15.7,,,,,,ECAC National Invitational Regatta
+1403, 5/11/12,MHV,0,BUCK, 5:57.5,BATE, 5:58.2,WPI, 6:02.0,HOBR, 6:05.6,RIT, 6:12.5,HAML, 6:18.1,,,,,,ECAC National Invitational Regatta
+1404, 5/11/12,MHV,0,WILL, 5:56.2,BATE, 5:58.4,TRIN, 6:01.0,UNH, 6:01.9,ITHA, 6:02.6,BUCK, 6:03.6,,,,,,ECAC National Invitational Regatta
+1405, 5/11/12,MHV,0,BC, 6:06.0,WPI, 6:06.0,MRST, 6:09.8,HOBR, 6:10.3,URI, 6:10.5,WESL, 6:12.1,,,,,,ECAC National Invitational Regatta
+1406, 5/11/12,MHV,0,COLB, 6:17.1,UMAS, 6:20.0,RIT, 6:20.4,CSTG, 6:24.0,HAML, 6:29.8,SKID, 6:33.2,TUFT, 6:33.4,,,,ECAC National Invitational Regatta
+1407, 5/11/12,WHJ,0,WILL, 6:53.0,ITHA, 7:09.1,WLSM, 7:09.5,UNH, 7:10.4,WESL, 7:16.9,STLA, 7:23.8,SMIT, 7:28.7,,,,ECAC National Invitational Regatta
+1408, 5/11/12,WHJ,0,BATE, 6:51.3,WELL, 6:55.4,TRIN, 6:59.0,WPI, 7:00.4,SIMM, 7:09.0,HAML, 7:10.6,TUFT, 7:52.3,,,,ECAC National Invitational Regatta
+1409, 5/11/12,WHJ,0,WILL, 6:44.6,BATE, 6:53.3,TRIN, 6:57.8,WELL, 7:01.6,WLSM, 7:03.6,ITHA, 7:08.3,,,,,,ECAC National Invitational Regatta
+1410, 5/11/12,WHJ,0,UNH, 7:06.4,WPI, 7:09.4,WESL, 7:10.8,HAML, 7:11.2,SIMM, 7:15.2,STLA, 7:16.5,,,,,,ECAC National Invitational Regatta
+1411, 5/11/12,WHJ,0,SMIT, 7:20.8,TUFT, 7:45.3,,,,,,,,,,,,,,ECAC National Invitational Regatta
+1412, 5/11/12,WHV,0,WILL, 6:43.4,ITHA, 6:58.9,WPI, 7:01.3,WESL, 7:02.0,TUFT, 7:19.9,SKID, 7:31.2,CONC, 8:02.6,,,,ECAC National Invitational Regatta
+1413, 5/11/12,WHV,0,BATE, 6:45.6,TRIN, 6:52.3,UNH, 6:56.5,STLA, 7:01.4,RIT, 7:16.4,COLB, 7:26.6,,,,,,ECAC National Invitational Regatta
+1414, 5/11/12,WHV,0,WLSM, 6:41.6,WELL, 6:44.2,HAML, 6:46.4,SMIT, 6:51.8,SIMM, 6:52.0,MTHO, 7:05.5,,,,,,ECAC National Invitational Regatta
+1415, 5/11/12,WHV,0,WILL, 6:39.0,BATE, 6:43.9,WLSM, 6:46.6,WELL, 6:52.6,TRIN, 6:56.4,ITHA, 7:00.8,,,,,,ECAC National Invitational Regatta
+1416, 5/11/12,WHV,0,WPI, 7:01.1,HAML, 7:03.3,WESL, 7:03.3,STLA, 7:03.5,UNH, 7:04.4,SMIT, 7:08.6,,,,,,ECAC National Invitational Regatta
+1417, 5/11/12,WHV,0,SIMM, 7:06.5,TUFT, 7:10.8,MTHO, 7:15.6,RIT, 7:18.1,COLB, 7:28.0,SKID, 7:32.7,CONC, 7:55.8,,,,ECAC National Invitational Regatta
+1418, 5/11/12,MHV,0,UVA, 6:05.8,MIST, 6:08.4,GMAS, 6:20.3,CONN, 6:46.0,BING, 6:59.9,,,,,,,,Dad Vail Regatta
+1419, 5/11/12,MHV,0,MICH, 6:06.2,PURD, 6:11.6,LASL, 6:14.2,DELA, 6:19.0,OHST, 6:50.4,,,,,,,,Dad Vail Regatta
+1420, 5/11/12,MHV,0,GV, 6:11.4,JAX, 6:15.1,STJO, 6:18.0,ARMY, 6:20.7,MIDD, 6:26.0,,,,,,,,Dad Vail Regatta
+1421, 5/11/12,MHV,0,DREX, 6:06.1,GATC, 6:09.5,LEHI, 6:15.0,ALBY, 6:41.5,OHUN, 7:00.1,,,,,,,,Dad Vail Regatta
+1422, 5/11/12,MHV,0,FLTC, 6:01.6,TEMP, 6:04.0,PITT, 6:12.3,OKC, 6:15.6,VILN, 6:26.7,,,,,,,,Dad Vail Regatta
+1423, 5/11/12,WHV,0,NOVS, 7:04.0,BARR, 7:14.0,MALW, 7:34.1,UCHR, 7:49.6,FRPI, 8:04.4,,,,,,,,Dad Vail Regatta
+1424, 5/11/12,WHV,0,MERC, 6:57.6,COK, 7:02.5,GV, 7:05.5,SPAC, 7:12.3,FLTC, 7:23.0,,,,,,,,Dad Vail Regatta
+1425, 5/11/12,WHV,0,MARI, 7:03.7,VASS, 7:29.1,NPRK, 7:41.1,MAWA, 7:59.6,,,,,,,,,,Dad Vail Regatta
+1426, 5/11/12,WHV,0,ROCH, 7:03.0,EMOR, 7:10.1,CLNJ, 7:45.1,,,,,,,,,,,,Dad Vail Regatta
+1427, 5/11/12,WHV,0,DUKE, 6:40.5,TEMP, 6:52.8,CONN, 7:04.9,LASL, 7:18.9,LAWU, 7:53.7,,,,,,,,Dad Vail Regatta
+1428, 5/11/12,WHV,0,BUCK, 6:43.6,DAYT, 6:51.0,DELA, 6:58.4,MRST, 7:06.1,LBTY, 7:38.4,,,,,,,,Dad Vail Regatta
+1429, 5/11/12,WHV,0,STJO, 6:49.0,PURD, 6:51.3,UNC, 7:05.3,DUQN, 7:06.0,FORD, 7:37.0,,,,,,,,Dad Vail Regatta
+1430, 5/11/12,WHV,0,GV, 6:38.3,DREX, 6:40.3,GATC, 7:03.6,FLA, 7:04.6,VILN, 7:04.6,EMIC, 7:14.7,,,,,,Dad Vail Regatta
+1431, 5/11/12,WHV,0,UMIA, 6:33.2,BUFF, 6:40.2,WESO, 6:50.6,MIDD, 6:51.3,LEHI, 6:55.6,ARMY, 6:59.2,,,,,,Dad Vail Regatta
+1432, 5/11/12,WHV,0,OLDD, 6:48.4,SACS, 6:51.7,GMAS, 6:53.4,SDSU, 6:54.8,JAX, 7:09.4,WLMY, 7:19.1,,,,,,Dad Vail Regatta
+1433, 5/11/12,WHV,0,CONN, 7:01.4,MIDD, 7:03.4,VILN, 7:07.7,GMAS, 7:09.5,MRST, 7:13.6,,,,,,,,Dad Vail Regatta
+1434, 5/11/12,WHV,0,DELA, 6:53.8,WESO, 7:00.5,DUQN, 7:05.1,FLA, 7:12.8,JAX, 7:15.7,,,,,,,,Dad Vail Regatta
+1435, 5/11/12,WHV,0,SDSU, 7:03.1,LEHI, 7:08.5,LASL, 7:13.4,UNC, 7:16.7,GATC, 7:34.8,,,,,,,,Dad Vail Regatta
+1436, 5/11/12,MHN,0,DREX, 6:06.9,BROC, 6:08.4,MINN, 6:34.6,CONN, 6:44.2,LBTY, 7:23.4,,,,,,,,Dad Vail Regatta
+1437, 5/11/12,MHN,0,MARI, 6:10.2,DELA, 6:19.7,FORD, 6:26.4,GATC, 6:29.4,LASL, 6:37.9,,,,,,,,Dad Vail Regatta
+1438, 5/11/12,MHN,0,UVA, 6:25.9,EMOR, 6:30.6,ARMY, 6:34.3,WASU, 6:52.6,SCRA, 7:19.9,,,,,,,,Dad Vail Regatta
+1439, 5/11/12,MHN,0,MICH, 6:13.7,FAIR, 6:33.7,ALBY, 6:37.8,,,,,,,,,,,,Dad Vail Regatta
+1440, 5/11/12,MHN,0,GV, 6:25.0,JAX, 6:35.3,OHST, 6:38.1,PSU, 6:39.3,NYU, 7:11.6,CLNJ, 7:31.2,,,,,,Dad Vail Regatta
+1441, 5/11/12,MHN,0,PURD, 6:18.7,OKC, 6:24.1,UVM, 6:30.3,ROLL, 6:33.0,LEHI, 6:35.5,CLRS, 7:04.7,,,,,,Dad Vail Regatta
+1442, 5/11/12,WHJ,0,BUCK, 7:02.3,BUFF, 7:08.3,PURD, 7:13.9,SDSU, 7:27.3,,,,,,,,,,Dad Vail Regatta
+1443, 5/11/12,WHJ,0,DUKE, 6:59.9,DAYT, 7:01.4,CONN, 7:08.2,DELA, 7:13.4,GMAS, 7:24.1,UMIA, 7:27.9,,,,,,Dad Vail Regatta
+1444, 5/11/12,WHJ,0,STJO, 6:56.6,DREX, 6:58.9,TEMP, 7:05.5,OLDD, 7:13.8,FLTC, 7:28.7,MRST, 8:03.3,,,,,,Dad Vail Regatta
+1445, 5/11/12,MHV,0,OKC, 6:14.2,DELA, 6:20.0,ARMY, 6:28.9,ALBY, 6:41.6,CONN, 6:56.5,,,,,,,,Dad Vail Regatta
+1446, 5/12/12,WHV,2000,OKLA, 6:49.1,TULS, 6:50.3,CFLA, 6:52.9,KANS, 7:06.5,SMU, 7:07.6,,,,,,,,Conference USA Championship
+1447, 5/12/12,WHV,2000,TENN, 6:46.3,TEX, 6:48.4,KAST, 6:58.3,ALAB, 7:05.0,,,,,,,,,,Conference USA Championship
+1448, 5/12/12,WHJ,2000,CFLA, 6:57.7,TEX, 6:58.0,ALAB, 7:02.0,KANS, 7:08.7,SMU, 7:26.7,,,,,,,,Conference USA Championship
+1449, 5/12/12,WHJ,2000,TENN, 6:55.0,OKLA, 7:03.2,TULS, 7:04.8,KAST, 7:06.5,,,,,,,,,,Conference USA Championship
+1450, 5/12/12,WHV,2000,TENN, 6:45.8,OKLA, 6:49.4,TEX, 6:50.1,CFLA, 6:53.8,TULS, 6:54.2,KAST, 7:07.6,,,,,,Conference USA Championship
+1451, 5/12/12,WHV,2000,SMU, 7:07.1,ALAB, 7:08.2,KANS, 7:18.0,,,,,,,,,,,,Conference USA Championship
+1452, 5/12/12,WHJ,2000,TENN, 6:52.4,TEX, 6:59.5,OKLA, 7:02.8,ALAB, 7:06.8,CFLA, 7:11.2,TULS, 7:17.3,,,,,,Conference USA Championship
+1453, 5/12/12,WHJ,2000,KAST, 7:08.5,KANS, 7:10.7,SMU, 7:30.5,,,,,,,,,,,,Conference USA Championship
+1454, 5/12/12,WHV,2000,USD, 6:47.2,GONZ, 6:49.1,STMY, 6:56.6,LOMY, 6:59.7,UPOR, 7:04.8,CREI, 7:17.1,SCLA, 7:31.8,,,,West Coast Conference Championships
+1455, 5/12/12,WHJ,2000,GONZ, 6:52.9,USD, 6:58.5,LOMY, 7:16.6,UPOR, 7:19.9,STMY, 7:23.9,CREI, 7:41.5,SCLA, 7:45.8,,,,West Coast Conference Championships
+1456, 5/12/12,MHN,0,DREX, 6:05.8,PURD, 6:09.4,DELA, 6:18.9,JAX, 6:21.0,ARMY, 6:31.2,ALBY, 6:34.6,,,,,,Dad Vail Regatta
+1457, 5/12/12,MHN,0,MARI, 6:05.4,GV, 6:07.8,FAIR, 6:23.6,UVM, 6:26.0,EMOR, 6:31.2,MINN, 6:32.6,,,,,,Dad Vail Regatta
+1458, 5/12/12,MHN,0,UVA, 6:02.7,MICH, 6:05.1,OKC, 6:07.2,BROC, 6:09.4,OHST, 6:27.7,FORD, 6:30.5,,,,,,Dad Vail Regatta
+1459, 5/12/12,MLV,0,DELA, 6:00.8,MERC, 6:02.9,MICH, 6:05.9,MIST, 6:07.3,WLMY, 6:18.0,,,,,,,,Dad Vail Regatta
+1460, 5/12/12,MLV,0,STJO, 6:10.7,PURD, 6:13.6,FORD, 6:14.9,PITT, 6:26.3,,,,,,,,,,Dad Vail Regatta
+1461, 5/12/12,MHJ,0,MICH, 5:58.1,DREX, 6:04.9,TEMP, 6:08.6,PURD, 6:10.1,JAX, 6:10.4,,,,,,,,Dad Vail Regatta
+1462, 5/12/12,MHJ,0,UVA, 6:03.5,GV, 6:05.2,STJO, 6:16.2,MIST, 6:31.2,GMAS, 6:45.1,,,,,,,,Dad Vail Regatta
+1463, 5/12/12,WHV,0,DUKE, 6:40.4,BUFF, 6:45.0,OLDD, 6:51.7,DAYT, 6:53.7,CONN, 7:00.7,LEHI, 7:23.3,,,,,,Dad Vail Regatta
+1464, 5/12/12,WHV,0,UMIA, 6:41.0,BUCK, 6:43.3,DREX, 6:49.6,DELA, 6:51.1,PURD, 6:58.1,WESO, 7:02.1,,,,,,Dad Vail Regatta
+1465, 5/12/12,WHV,0,GV, 6:45.1,SACS, 6:46.6,TEMP, 6:49.9,STJO, 6:58.8,MIDD, 7:02.9,SDSU, 7:10.0,,,,,,Dad Vail Regatta
+1466, 5/12/12,MHV,0,UVA, 5:58.9,PURD, 6:00.6,JAX, 6:00.9,OKC, 6:04.4,ROLL, 6:07.1,LEHI, 6:15.3,,,,,,Dad Vail Regatta
+1467, 5/12/12,MHV,0,MICH, 5:55.7,FLTC, 5:57.7,GATC, 6:01.8,GMAS, 6:07.7,STJO, 6:11.9,DELA, 6:15.1,,,,,,Dad Vail Regatta
+1468, 5/12/12,MHV,0,DREX, 6:00.4,TEMP, 6:02.6,MIST, 6:05.0,GV, 6:07.5,LASL, 6:16.3,ARMY, 6:29.6,,,,,,Dad Vail Regatta
+1469, 5/12/12,MLN,0,DELA, 6:18.7,PURD, 6:24.9,MICH, 6:33.7,UVM, 6:50.0,PITT, 6:51.0,SUSQ, 6:58.2,,,,,,Dad Vail Regatta
+1470, 5/12/12,MHN,0,MARI, 6:05.7,DREX, 6:09.3,UVA, 6:12.1,GV, 6:14.5,PURD, 6:14.9,MICH, 6:17.6,,,,,,Dad Vail Regatta
+1471, 5/12/12,WHJ,0,DREX, 7:11.1,BUCK, 7:11.5,STJO, 7:13.5,DUKE, 7:17.0,DAYT, 7:20.5,BUFF, 7:30.4,,,,,,Dad Vail Regatta
+1472, 5/12/12,MHJ,0,MICH, 6:07.2,GV, 6:12.8,UVA, 6:15.5,DREX, 6:19.8,TEMP, 6:21.8,STJO, 6:25.2,,,,,,Dad Vail Regatta
+1473, 5/12/12,WLV,0,BUCK, 7:05.3,BUFF, 7:20.6,MIT, 7:24.6,TULS, 7:32.5,PURD, 7:34.6,,,,,,,,Dad Vail Regatta
+1474, 5/12/12,MLV,0,MERC, 6:11.5,DELA, 6:17.5,STJO, 6:22.6,MICH, 6:24.8,PURD, 6:35.4,FORD, 6:38.4,,,,,,Dad Vail Regatta
+1475, 5/12/12,WHV,0,MERC, 6:59.6,NOVS, 7:03.9,COK, 7:12.4,GV, 7:13.0,BARR, 7:20.6,MALW, 7:43.9,,,,,,Dad Vail Regatta
+1476, 5/12/12,WHV,0,MARI, 7:05.4,EMOR, 7:13.5,ROCH, 7:16.8,VASS, 7:29.2,NPRK, 8:01.0,,,,,,,,Dad Vail Regatta
+1477, 5/12/12,WHV,0,DUKE, 6:43.8,BUCK, 6:44.0,BUFF, 6:47.8,GV, 6:49.3,UMIA, 6:53.0,SACS, 7:05.9,,,,,,Dad Vail Regatta
+1478, 5/12/12,MHV,0,MICH, 5:58.6,FLTC, 5:58.9,DREX, 6:02.4,UVA, 6:06.2,TEMP, 6:06.3,PURD, 6:20.5,,,,,,Dad Vail Regatta
+1479, 5/12/12,WHV,0,DREX, 6:55.9,DAYT, 6:55.9,OLDD, 6:57.9,TEMP, 6:59.1,STJO, 7:01.8,DELA, 7:13.3,,,,,,Dad Vail Regatta
+1480, 5/12/12,MHV,0,GV, 6:05.3,MIST, 6:05.4,GATC, 6:09.9,JAX, 6:12.0,GMAS, 6:13.7,OKC, 6:24.2,,,,,,Dad Vail Regatta
+1481, 5/12/12,WHV,0,SPAC, 7:17.1,FLTC, 7:28.2,UCHR, 7:52.2,FRPI, 8:03.3,,,,,,,,,,Dad Vail Regatta
+1482, 5/13/12,WHV,2000,UVA, 6:18.8,NAVY, 6:37.8,BUCK, 6:38.5,URI, 6:40.5,GW, 6:43.3,UMAS, 7:08.6,,,,,,Women's Sprints
+1483, 5/13/12,WHV,2000,NORT, 6:32.7,BU, 6:36.4,MIT, 6:38.1,BUFF, 6:43.5,BC, 6:47.6,HC, 6:52.7,,,,,,Women's Sprints
+1484, 5/13/12,WHJ,2000,UVA, 6:40.0,UMAS, 6:49.5,NAVY, 6:52.4,BUCK, 6:55.1,BU, 6:56.7,MIT, 7:02.6,,,,,,Women's Sprints
+1485, 5/13/12,WHJ,2000,NORT, 6:45.5,URI, 6:46.3,BC, 6:52.4,HC, 6:53.4,GW, 7:00.7,BUFF, 7:05.4,,,,,,Women's Sprints
+1486, 5/13/12,WHV,2000,UVA, 6:14.8,NORT, 6:24.8,BU, 6:28.6,BUCK, 6:32.8,MIT, 6:39.5,NAVY, 6:44.4,,,,,,Women's Sprints
+1487, 5/13/12,WHV,2000,URI, 6:34.6,GW, 6:38.1,BC, 6:38.7,BUFF, 6:41.6,HC, 6:50.5,UMAS, 6:54.4,,,,,,Women's Sprints
+1488, 5/13/12,WHJ,2000,UVA, 6:36.9,URI, 6:40.4,NORT, 6:42.9,NAVY, 6:45.9,UMAS, 6:54.5,BC, 6:59.2,,,,,,Women's Sprints
+1489, 5/13/12,WHJ,2000,MIT, 6:51.6,BUCK, 6:55.5,BU, 6:57.2,GW, 7:00.2,HC, 7:03.6,BUFF, 7:10.0,,,,,,Women's Sprints
+1490, 5/13/12,WLV,2000,WISC, 6:32.3,BUCK, 6:36.3,RADC, 6:37.7,GEOR, 6:43.3,PRIN, 6:52.0,MIT, 7:15.2,UMAS, 7:47.1,,,,Women's Sprints
+1491, 5/13/12,WHV,2000,RADC, 6:19.3,PRIN, 6:23.7,CORN, 6:27.8,PENN, 6:31.5,,,,,,,,,,Ivy Women's Championship
+1492, 5/13/12,WHV,2000,BRWN, 6:17.6,YALE, 6:18.7,DART, 6:20.2,COLU, 6:25.3,,,,,,,,,,Ivy Women's Championship
+1493, 5/13/12,WHJ,2000,PRIN, 6:28.2,DART, 6:32.2,BRWN, 6:33.3,COLU, 6:39.6,,,,,,,,,,Ivy Women's Championship
+1494, 5/13/12,WHJ,2000,YALE, 6:30.3,RADC, 6:34.8,CORN, 6:39.2,PENN, 6:47.8,,,,,,,,,,Ivy Women's Championship
+1495, 5/13/12,WHV,2000,RADC, 6:17.7,CORN, 6:20.5,PRIN, 6:22.1,YALE, 6:22.2,BRWN, 6:23.9,DART, 6:26.7,,,,,,Ivy Women's Championship
+1496, 5/13/12,WHV,2000,COLU, 6:31.5,PENN, 6:34.9,,,,,,,,,,,,,,Ivy Women's Championship
+1497, 5/13/12,WHJ,2000,PRIN, 6:28.0,BRWN, 6:31.2,YALE, 6:33.1,RADC, 6:33.9,DART, 6:40.6,CORN, 6:44.5,,,,,,Ivy Women's Championship
+1498, 5/13/12,WHJ,2000,COLU, 6:52.0,PENN, 7:03.5,,,,,,,,,,,,,,Ivy Women's Championship
+1499, 5/13/12,WHV,2000,ND, 6:31.7,SYRA, 6:34.1,LOUV, 6:35.8,GEOR, 6:37.3,,,,,,,,,,Big East Championship
+1500, 5/13/12,WHV,2000,RUTG, 6:54.5,WV, 6:59.4,CONN, 7:01.0,VILN, 7:06.8,,,,,,,,,,Big East Championship
+1501, 5/13/12,WHJ,2000,ND, 6:40.7,SYRA, 6:44.1,LOUV, 6:54.6,CONN, 6:58.1,,,,,,,,,,Big East Championship
+1502, 5/13/12,WHJ,2000,GEOR, 7:07.0,WV, 7:08.9,RUTG, 7:14.4,VILN, 7:23.7,,,,,,,,,,Big East Championship
+1503, 5/13/12,WHV,2000,CAL, 6:30.9,USC, 6:32.7,WASH, 6:32.8,UCLA, 6:36.3,STAN, 6:38.1,WAST, 6:48.0,ORST, 6:49.5,,,,2012 Pac-12 Championships
+1504, 5/13/12,WHJ,2000,CAL, 6:39.3,STAN, 6:42.7,UCLA, 6:43.0,WASH, 6:46.9,WAST, 6:48.6,USC, 6:49.6,ORST, 7:05.1,,,,2012 Pac-12 Championships
+1505, 5/13/12,WHV,2000,MICH, 6:24.4,OHST, 6:29.8,WISC, 6:33.9,MIST, 6:34.2,MINN, 6:39.9,INDI, 6:40.5,IOWA, 6:47.6,,,,2012 Big ten Rowing Championships
+1506, 5/13/12,WHJ,2000,MICH, 6:26.8,OHST, 6:32.0,WISC, 6:37.3,MINN, 6:38.6,MIST, 6:47.9,IOWA, 6:49.2,INDI, 6:52.2,,,,2012 Big ten Rowing Championships
+1507, 5/13/12,MHV,0,HARV, 5:54.7,PRIN, 5:57.1,NORT, 6:00.2,DART, 6:03.7,GEOR, 6:04.9,MIT, 6:41.4,,,,,,EARC Sprints
+1508, 5/13/12,MHV,0,BRWN, 5:54.6,SYRA, 5:57.4,CORN, 5:59.8,PENN, 6:05.1,COLU, 6:09.8,RUTG, 6:23.5,,,,,,EARC Sprints
+1509, 5/13/12,MHV,0,WISC, 5:59.6,NAVY, 6:00.3,BU, 6:00.5,YALE, 6:04.7,GW, 6:17.3,HC, 6:28.7,,,,,,EARC Sprints
+1510, 5/13/12,MHV,0,BRWN, 5:49.6,HARV, 5:49.9,WISC, 5:59.7,PRIN, 6:02.1,NAVY, 6:03.7,SYRA, 6:03.9,,,,,,EARC Sprints
+1511, 5/13/12,MHV,0,BU, 5:57.1,YALE, 5:58.9,NORT, 5:59.7,CORN, 6:00.2,PENN, 6:00.4,DART, 6:01.1,,,,,,EARC Sprints
+1512, 5/13/12,MHV,0,COLU, 6:04.4,GEOR, 6:05.0,GW, 6:05.9,HC, 6:18.0,RUTG, 6:23.7,MIT, 6:38.1,,,,,,EARC Sprints
+1513, 5/13/12,MHJ,0,HARV, 5:53.9,BRWN, 5:56.2,SYRA, 5:59.7,DART, 6:18.9,HC, 6:21.3,,,,,,,,EARC Sprints
+1514, 5/13/12,MHJ,0,WISC, 5:58.2,NAVY, 6:04.3,YALE, 6:07.8,PENN, 6:11.2,GW, 6:26.0,,,,,,,,EARC Sprints
+1515, 5/13/12,MHJ,0,PRIN, 6:00.6,CORN, 6:02.3,BU, 6:06.1,NORT, 6:12.8,GEOR, 6:28.8,RUTG, 6:35.2,,,,,,EARC Sprints
+1516, 5/13/12,MHJ,0,WISC, 5:57.2,HARV, 5:57.9,PRIN, 6:00.2,BRWN, 6:00.8,NAVY, 6:06.2,CORN, 6:08.4,,,,,,EARC Sprints
+1517, 5/13/12,MHJ,0,SYRA, 6:03.0,BU, 6:07.4,PENN, 6:10.6,YALE, 6:11.6,DART, 6:17.0,,,,,,,,EARC Sprints
+1518, 5/13/12,MHJ,0,HC, 6:18.4,GW, 6:19.9,GEOR, 6:24.2,RUTG, 6:34.5,,,,,,,,,,EARC Sprints
+1519, 5/13/12,MHN,0,HARV, 5:55.1,PRIN, 5:57.7,BU, 6:00.1,COLU, 6:03.3,PENN, 6:03.9,HC, 6:27.5,,,,,,EARC Sprints
+1520, 5/13/12,MHN,0,CORN, 5:53.8,NAVY, 5:56.9,WISC, 5:57.4,SYRA, 6:02.0,GEOR, 6:10.7,RUTG, 6:28.0,,,,,,EARC Sprints
+1521, 5/13/12,MHN,0,NORT, 5:55.1,BRWN, 5:58.4,DART, 6:01.9,YALE, 6:01.9,MIT, 6:17.8,GW, 6:26.1,,,,,,EARC Sprints
+1522, 5/13/12,MHN,0,HARV, 6:02.6,NORT, 6:04.8,CORN, 6:07.2,BRWN, 6:10.1,PRIN, 6:16.6,NAVY, 6:17.8,,,,,,EARC Sprints
+1523, 5/13/12,MHN,0,BU, 6:12.9,WISC, 6:13.2,DART, 6:17.3,YALE, 6:18.5,SYRA, 6:21.9,COLU, 6:26.5,,,,,,EARC Sprints
+1524, 5/13/12,MHN,0,PENN, 6:24.4,GEOR, 6:27.4,MIT, 6:32.2,HC, 6:34.3,GW, 6:42.1,RUTG, 6:49.4,,,,,,EARC Sprints
+1525, 5/13/12,MLV,0,HARV, 6:04.5,PRIN, 6:07.5,YALE, 6:08.5,NAVY, 6:10.7,PENN, 6:21.4,,,,,,,,EARC Sprints
+1526, 5/13/12,MLV,0,DART, 6:12.5,CORN, 6:16.0,GEOR, 6:18.3,COLU, 6:20.8,,,,,,,,,,EARC Sprints
+1527, 5/13/12,MLV,0,HARV, 6:22.5,DART, 6:24.7,PRIN, 6:25.5,YALE, 6:30.2,GEOR, 6:33.3,CORN, 6:36.8,,,,,,EARC Sprints
+1528, 5/13/12,MLV,0,COLU, 6:20.9,NAVY, 6:28.5,PENN, 6:38.2,,,,,,,,,,,,EARC Sprints
+1529, 5/13/12,MLJ,0,YALE, 6:06.6,PRIN, 6:09.4,DART, 6:10.5,GEOR, 6:16.4,PENN, 6:19.2,,,,,,,,EARC Sprints
+1530, 5/13/12,MLJ,0,CORN, 6:03.2,NAVY, 6:04.3,COLU, 6:06.8,HARV, 6:11.6,,,,,,,,,,EARC Sprints
+1531, 5/13/12,MLJ,0,YALE, 6:09.6,CORN, 6:11.6,COLU, 6:13.8,NAVY, 6:16.1,PRIN, 6:20.8,DART, 6:24.3,,,,,,EARC Sprints
+1532, 5/13/12,MLJ,0,HARV, 6:25.1,GEOR, 6:26.0,PENN, 6:35.2,,,,,,,,,,,,EARC Sprints
+1533, 5/13/12,MLN,0,YALE, 6:04.6,NAVY, 6:08.7,CORN, 6:10.9,COLU, 6:12.1,GEOR, 6:29.6,,,,,,,,EARC Sprints
+1534, 5/13/12,MLN,0,PRIN, 6:02.5,HARV, 6:04.5,DART, 6:09.6,MIT, 6:10.8,PENN, 6:11.3,,,,,,,,EARC Sprints
+1535, 5/13/12,MLN,0,YALE, 6:20.3,PRIN, 6:24.9,HARV, 6:26.2,CORN, 6:32.9,NAVY, 6:33.8,DART, 6:39.8,,,,,,EARC Sprints
+1536, 5/13/12,MLN,0,PENN, 6:31.3,MIT, 6:33.2,COLU, 6:35.7,GEOR, 6:47.1,,,,,,,,,,EARC Sprints
+1537, 5/13/12,MHV,2000,WASH, 5:43.5,CAL, 5:51.5,STAN, 5:57.7,ORST, 6:04.7,UCLA, 6:21.6,WAST, 6:21.8,COLO, 6:42.4,,,,2012 Pac-12 Championships
+1538, 5/13/12,MHJ,2000,WASH, 5:48.6,CAL, 5:54.1,STAN, 6:04.1,ORST, 6:24.0,,,,,,,,,,2012 Pac-12 Championships
+1539, 5/13/12,MHN,2000,WASH, 5:44.3,CAL, 5:47.8,ORST, 6:11.7,STAN, 6:16.6,WAST, 6:32.7,USC, 7:06.1,COLO, 7:12.1,,,,2012 Pac-12 Championships
+1540, 5/19/12,MHV,1250,WICH, 3:58.9,KAST, 4:01.7,,,,,,,,,,,,,,Sunflower State Championships
+1541, 5/20/12,MHV,2000,SYRA, 5:28.3,DART, 5:30.9,,,,,,,,,,,,,,Packard Cup
+1542, 5/20/12,MHJ,2000,SYRA, 5:36.3,DART, 5:49.6,,,,,,,,,,,,,,Packard Cup
+1543, 5/20/12,MHN,2000,SYRA, 5:41.1,DART, 5:41.4,,,,,,,,,,,,,,Packard Cup
+1544, 5/25/12,MHV,2000,CORN, 5:37.3,PENN, 5:39.9,,,,,,,,,,,,,,Maderia and Wray Cup
+1545, 5/25/12,MHJ,2000,CORN, 5:43.5,PENN, 5:54.8,,,,,,,,,,,,,,Maderia and Wray Cup
+1546, 5/25/12,MHN,2000,CORN, 5:44.0,PENN, 6:02.3,,,,,,,,,,,,,,Maderia and Wray Cup
+1547, 5/25/12,WHJ,0,WILL, 7:07.6,WELL, 7:35.3,WLSM, 7:43.9,,,,,,,,,,,,NCAA Championships - Heats
+1548, 5/25/12,WHJ,0,BATE, 7:16.4,TRIN, 7:22.6,MARI, 7:45.6,,,,,,,,,,,,NCAA Championships - Heats
+1549, 5/25/12,WHV,0,WILL, 6:55.9,WELL, 7:03.9,CSTG, 7:13.5,PUGS, 7:22.7,,,,,,,,,,NCAA Championships - Heats
+1550, 5/25/12,WHV,0,BATE, 7:02.5,WLSM, 7:07.3,MARI, 7:13.2,TRIN, 7:21.5,,,,,,,,,,NCAA Championships - Heats
+1551, 5/25/12,WHV,0,UVA, 6:37.0,WASH, 6:43.5,RADC, 6:44.2,BRWN, 6:50.8,YALE, 6:52.6,,,,,,,,NCAA Championships - Heats
+1552, 5/25/12,WHV,0,MICH, 6:38.5,USC, 6:40.5,UCLA, 6:41.9,MIST, 6:46.8,CORN, 6:54.4,,,,,,,,NCAA Championships - Heats
+1553, 5/25/12,WHV,0,OHST, 6:49.9,CAL, 6:52.2,PRIN, 6:53.5,WISC, 7:00.5,ND, 7:04.4,STAN, 7:11.6,,,,,,NCAA Championships - Heats
+1554, 5/25/12,WHJ,0,CAL, 6:52.5,UCLA, 6:54.5,BRWN, 6:55.2,WISC, 6:56.5,USC, 7:01.6,,,,,,,,NCAA Championships - Heats
+1555, 5/25/12,WHJ,0,MICH, 6:50.8,UVA, 6:55.0,YALE, 6:57.8,STAN, 7:00.6,ND, 7:00.6,,,,,,,,NCAA Championships - Heats
+1556, 5/25/12,WHJ,0,OHST, 6:44.0,PRIN, 6:46.0,WASH, 6:47.6,CORN, 6:53.5,RADC, 6:59.1,MIST, 7:03.3,,,,,,NCAA Championships - Heats
+1557, 5/25/12,WHV,0,NOVS, 6:53.9,WWAS, 6:56.4,COK, 7:19.3,,,,,,,,,,,,NCAA Championships - Heats
+1558, 5/25/12,WHV,0,HUMS, 6:53.5,MERC, 6:56.6,BARR, 7:24.4,,,,,,,,,,,,NCAA Championships - Heats
+1559, 5/25/12,WHJ,0,TRIN, 7:12.5,WELL, 7:17.4,MARI, 7:21.5,WLSM, 7:22.3,,,,,,,,,,NCAA Championships - Heats
+1560, 5/25/12,WHV,0,TRIN, 7:02.0,MARI, 7:02.1,CSTG, 7:02.2,PUGS, 7:24.6,,,,,,,,,,NCAA Championships - Heats
+1561, 5/25/12,WHV,0,STAN, 6:47.3,CORN, 6:50.3,YALE, 6:51.2,MIST, 6:51.5,BRWN, 6:52.5,WISC, 6:54.3,ND, 7:08.0,,,,NCAA Championships - Heats
+1562, 5/25/12,WHJ,0,USC, 7:00.1,WISC, 7:00.9,STAN, 7:01.1,ND, 7:01.1,CORN, 7:04.4,RADC, 7:05.5,MIST, 7:16.2,,,,NCAA Championships - Heats
+1563, 5/26/12,MHV,6437,HARV,19:41.3,YALE,19:51.2,,,,,,,,,,,,,,Harvard-Yale Regatta
+1564, 5/26/12,MHJ,6437,HARV,14:55.5,YALE,15:27.2,,,,,,,,,,,,,,Harvard-Yale Regatta
+1565, 5/26/12,MHN,6437,HARV,10:25.6,YALE,10:34.1,,,,,,,,,,,,,,Harvard-Yale Regatta
+1566, 5/26/12,MHV,2000,WISC, 5:48.1,PENN, 5:51.5,DREX, 6:11.8,,,,,,,,,,,,Pennsylvania vs. Wisconsin & Drexel
+1567, 5/26/12,MHJ,2000,WISC, 5:58.8,PENN, 6:12.8,DREX, 6:26.7,,,,,,,,,,,,Pennsylvania vs. Wisconsin & Drexel
+1568, 5/26/12,MHN,2000,WISC, 5:54.9,PENN, 6:01.4,DREX, 6:09.7,,,,,,,,,,,,Pennsylvania vs. Wisconsin & Drexel
+1569, 5/26/12,WHV,0,UVA, 6:13.4,USC, 6:17.5,CAL, 6:19.0,RADC, 6:20.9,STAN, 6:22.7,CORN, 6:29.6,,,,,,NCAA Rowing Championships - Semis
+1570, 5/26/12,WHV,0,MICH, 6:15.2,PRIN, 6:17.4,WASH, 6:18.3,UCLA, 6:20.8,OHST, 6:22.3,YALE, 6:26.8,,,,,,NCAA Rowing Championships - Semis
+1571, 5/26/12,WHJ,0,CAL, 6:30.6,PRIN, 6:32.9,UVA, 6:33.5,BRWN, 6:34.4,WISC, 6:42.4,USC, 6:44.3,,,,,,NCAA Rowing Championships - Semis
+1572, 5/26/12,WHJ,0,MICH, 6:29.7,OHST, 6:33.3,UCLA, 6:35.1,YALE, 6:36.2,STAN, 6:38.0,WASH, 6:41.5,,,,,,NCAA Rowing Championships - Semis
+1573, 5/26/12,WHV,0,MERC, 6:49.4,WWAS, 6:49.6,COK, 6:50.9,BARR, 7:07.6,,,,,,,,,,NCAA Rowing Championships - Semis
+1574, 5/26/12,WHJ,0,WLSM, 7:01.0,MARI, 7:03.0,,,,,,,,,,,,,,NCAA Rowing Championships - Semis
+1575, 5/26/12,WHJ,0,WILL, 6:49.7,BATE, 6:58.3,WELL, 7:01.9,TRIN, 7:04.2,,,,,,,,,,NCAA Rowing Championships - Semis
+1576, 5/26/12,WHV,0,CSTG, 6:50.9,PUGS, 7:03.3,,,,,,,,,,,,,,NCAA Rowing Championships - Semis
+1577, 5/26/12,WHV,0,WILL, 6:32.0,BATE, 6:35.1,WLSM, 6:35.9,WELL, 6:41.0,MARI, 6:44.4,TRIN, 6:53.3,,,,,,NCAA Rowing Championships - Semis
+1578, 5/26/12,MHN,0,UCIR, 6:12.9,UVA, 6:13.3,MICH, 6:14.0,EMOR, 6:42.0,KANS, 6:47.6,MINN, 6:51.8,VCOM, 7:20.5,,,,ACRA Championships
+1579, 5/26/12,MHN,0,OC, 6:14.2,BC, 6:18.1,UNC, 6:22.8,WAST, 6:36.7,PSU, 6:42.5,TEX, 7:21.9,,,,,,ACRA Championships
+1580, 5/26/12,MHN,0,ND, 6:19.7,GV, 6:25.7,UCSB, 6:34.2,OHST, 6:41.8,GATC, 6:51.1,USC, 7:21.8,,,,,,ACRA Championships
+1581, 5/26/12,MHJ,0,MICH, 6:14.0,PURD, 6:25.6,BUCK, 6:29.0,UCDV, 6:39.8,MIST, 7:34.1,,,,,,,,ACRA Championships
+1582, 5/26/12,MHJ,0,UVA, 6:16.0,GV, 6:21.0,ND, 6:22.7,UCSB, 6:38.8,COLO, 6:59.0,,,,,,,,ACRA Championships
+1583, 5/26/12,MHV,0,MICH, 6:03.4,UNH, 6:05.3,UNC, 6:05.8,MIST, 6:11.5,UCLA, 6:16.7,KAST, 6:32.8,COLO, 6:37.8,,,,ACRA Championships
+1584, 5/26/12,MHV,0,UVA, 5:59.3,BUCK, 6:04.8,UCIR, 6:09.9,PURD, 6:11.1,VAND, 6:21.1,WAST, 6:29.4,OHST, 6:39.1,,,,ACRA Championships
+1585, 5/26/12,MHV,0,GV, 5:57.1,ND, 5:57.7,UCSB, 6:04.0,BC, 6:06.1,UCDV, 6:08.1,WICH, 6:32.4,TEX, 6:43.5,ORGN, 6:55.0, 6:55.0,ACRA Championships
+1586, 5/26/12,MLV,0,MICH, 6:20.3,MIST, 6:34.5,WICH, 6:39.7,,,,,,,,,,,,ACRA Championships
+1587, 5/26/12,WHJ,0,UNH, 7:14.0,GV, 7:19.0,UCSB, 7:25.8,,,,,,,,,,,,ACRA Championships
+1588, 5/26/12,WHV,0,GV, 6:54.7,UNH, 6:56.4,UCSB, 7:13.1,,,,,,,,,,,,ACRA Championships
+1589, 5/26/12,WHV,0,UCDV, 6:48.7,PURD, 6:54.5,PSU, 7:07.2,WICH, 7:28.1,,,,,,,,,,ACRA Championships
+1590, 5/26/12,MHN,0,MICH, 6:11.2,OHST, 6:17.9,PSU, 6:21.8,GATC, 6:25.4,MINN, 6:29.4,WAST, 6:29.8,,,,,,ACRA Championships
+1591, 5/26/12,MHN,0,UNC, 6:04.8,UCSB, 6:07.6,EMOR, 6:24.5,KANS, 6:27.5,TEX, 6:45.8,USC, 6:51.5,VCOM, 6:54.2,,,,ACRA Championships
+1592, 5/26/12,MHJ,0,UCDV, 6:11.6,UCSB, 6:16.3,MIST, 6:19.1,COLO, 6:40.2,,,,,,,,,,ACRA Championships
+1593, 5/26/12,MHV,0,MIST, 6:00.8,BC, 6:01.2,UCDV, 6:01.4,UCIR, 6:06.9,VAND, 6:13.7,KAST, 6:18.7,OHST, 6:26.1,TEX, 6:35.3, 6:35.3,ACRA Championships
+1594, 5/26/12,MHV,0,UCSB, 5:55.4,PURD, 5:58.2,UNC, 6:04.7,WAST, 6:05.9,UCLA, 6:07.9,WICH, 6:21.5,COLO, 6:30.2,ORGN, 6:49.1, 6:49.1,ACRA Championships
+1595, 5/27/12,WHV,0,UVA, 6:18.7,MICH, 6:22.1,USC, 6:25.1,PRIN, 6:25.9,CAL, 6:27.2,WASH, 6:29.1,,,,,,NCAA Championships - Finals
+1596, 5/27/12,WHV,0,UCLA, 6:28.5,STAN, 6:29.9,RADC, 6:29.9,OHST, 6:32.7,CORN, 6:33.9,YALE, 6:39.8,,,,,,NCAA Championships - Finals
+1597, 5/27/12,WHV,0,WISC, 6:34.7,MIST, 6:36.1,BRWN, 6:38.3,ND, 6:40.3,,,,,,,,,,NCAA Championships - Finals
+1598, 5/27/12,WHJ,0,MICH, 6:37.0,OHST, 6:38.9,CAL, 6:40.9,PRIN, 6:42.6,UVA, 6:45.0,UCLA, 7:10.4,,,,,,NCAA Championships - Finals
+1599, 5/27/12,WHJ,0,USC, 6:43.0,WASH, 6:43.3,BRWN, 6:45.4,WISC, 6:45.8,STAN, 6:46.6,YALE, 6:47.6,,,,,,NCAA Championships - Finals
+1600, 5/27/12,WHJ,0,ND, 6:47.0,CORN, 6:48.9,MIST, 6:49.0,RADC, 6:49.2,,,,,,,,,,NCAA Championships - Finals
+1601, 5/27/12,WHV,0,HUMS, 6:48.8,WWAS, 6:50.5,NOVS, 6:51.9,MERC, 6:57.3,,,,,,,,,,NCAA Championships - Finals
+1602, 5/27/12,WHV,0,COK, 7:03.8,BARR, 7:06.9,,,,,,,,,,,,,,NCAA Championships - Finals
+1603, 5/27/12,MHN,0,UCSB, 6:04.5,PSU, 6:15.4,GATC, 6:17.7,OHST, 6:18.5,EMOR, 6:20.1,MINN, 6:20.4,KANS, 6:21.1,TEX, 6:46.1, 6:46.1,ACRA Championships
+1604, 5/27/12,MHN,0,OC, 5:52.3,UVA, 5:53.2,ND, 5:57.7,MICH, 5:59.4,UNC, 5:59.7,UCIR, 6:00.1,GV, 6:01.7,BC, 6:03.7, 6:03.7,ACRA Championships
+1605, 5/27/12,WHJ,0,UCSB, 6:50.7,UNH, 6:53.3,GV, 7:03.9,,,,,,,,,,,,ACRA Championships
+1606, 5/27/12,MLV,0,MIST, 5:54.3,MICH, 5:56.3,WICH, 6:24.3,,,,,,,,,,,,ACRA Championships
+1607, 5/27/12,WHV,0,GV, 6:23.4,PURD, 6:30.9,UNH, 6:32.7,UCSB, 6:36.3,PSU, 6:37.7,UCDV, 6:48.0,WICH, 7:04.4,,,,ACRA Championships
+1608, 5/27/12,MHV,0,KAST, 5:58.3,WICH, 6:04.7,OHST, 6:06.9,COLO, 6:11.2,TEX, 6:22.1,ORGN, 6:30.6,,,,,,ACRA Championships
+1609, 5/27/12,MHJ,0,MICH, 5:48.8,UVA, 5:50.8,GV, 5:53.7,ND, 6:00.4,PURD, 6:00.7,UCSB, 6:02.0,UCDV, 6:08.9,BUCK, 6:10.4, 6:10.4,ACRA Championships
+1610, 5/27/12,MHV,0,PURD, 5:47.6,UNC, 5:48.0,WAST, 5:53.4,UCLA, 5:53.9,UCIR, 5:56.7,UCDV, 5:57.2,VAND, 6:00.2,,,,ACRA Championships
+1611, 5/27/12,MHV,0,UVA, 5:40.9,BUCK, 5:42.9,MICH, 5:44.8,GV, 5:45.1,ND, 5:45.5,UCSB, 5:48.5,MIST, 5:49.4,UNH, 5:50.7, 5:50.7,ACRA Championships
+1612, 6/02/12,MHN,2000,CAL, 5:51.4,NORT, 5:58.0,BU, 6:04.2,WISC, 6:09.2,STAN, 6:12.5,GONZ, 6:29.2,,,,,,IRA National Championship
+1613, 6/02/12,MHN,2000,WASH, 5:54.5,BRWN, 5:59.4,PRIN, 6:02.6,YALE, 6:02.9,SYRA, 6:10.5,GW, 6:34.6,,,,,,IRA National Championship
+1614, 6/02/12,MHN,2000,CORN, 5:56.4,HARV, 5:56.4,DART, 6:11.1,NAVY, 6:15.2,PENN, 6:18.6,DREX, 6:26.6,,,,,,IRA National Championship
+1615, 6/02/12,MHN,2000,PRIN, 5:46.1,NAVY, 5:46.2,WISC, 5:52.1,SYRA, 5:56.2,GONZ, 6:02.9,DREX, 6:03.3,,,,,,IRA National Championship
+1616, 6/02/12,MHN,2000,BU, 5:51.2,YALE, 5:52.3,DART, 5:53.9,STAN, 5:54.2,PENN, 6:00.1,GW, 6:21.4,,,,,,IRA National Championship
+1617, 6/02/12,MHN,2000,WASH, 6:03.2,NORT, 6:07.6,HARV, 6:12.1,WISC, 6:14.5,BU, 6:20.4,NAVY, 6:30.3,,,,,,IRA National Championship
+1618, 6/02/12,MHN,2000,CAL, 6:10.8,BRWN, 6:20.8,CORN, 6:23.1,PRIN, 6:25.9,YALE, 6:28.4,DART, 6:31.1,,,,,,IRA National Championship
+1619, 6/02/12,MHN,2000,PRIN, 5:45.3,BU, 5:45.7,NAVY, 5:45.8,YALE, 5:50.2,WISC, 5:51.3,DART, 5:55.3,,,,,,IRA National Championship
+1620, 6/02/12,MHN,2000,WASH, 5:31.9,CAL, 5:35.7,NORT, 5:43.6,CORN, 5:45.8,HARV, 5:46.4,BRWN, 5:52.3,,,,,,IRA National Championship
+1621, 6/02/12,MHN,2000,SYRA, 5:51.2,STAN, 5:53.6,PENN, 5:59.4,DREX, 6:02.2,GONZ, 6:02.5,GW, 6:07.5,,,,,,IRA National Championship
+1622, 6/02/12,MHJ,2000,HARV, 5:54.9,CAL, 5:57.1,SYRA, 6:11.2,BU, 6:16.8,GONZ, 6:26.9,DREX, 6:32.5,,,,,,IRA National Championship
+1623, 6/02/12,MHJ,2000,WISC, 5:53.8,PRIN, 5:55.4,CORN, 5:56.7,PENN, 6:19.1,DART, 6:34.7,,,,,,,,IRA National Championship
+1624, 6/02/12,MHJ,2000,WASH, 5:50.4,BRWN, 5:55.5,NAVY, 6:07.3,STAN, 6:11.9,YALE, 6:14.2,,,,,,,,IRA National Championship
+1625, 6/02/12,MHJ,2000,NAVY, 5:41.7,SYRA, 5:42.7,PENN, 5:49.6,YALE, 5:54.1,GONZ, 6:13.1,,,,,,,,IRA National Championship
+1626, 6/02/12,MHJ,2000,CORN, 5:45.4,BU, 5:49.1,STAN, 5:52.1,DART, 5:53.9,DREX, 6:07.3,,,,,,,,IRA National Championship
+1627, 6/02/12,MHJ,2000,WASH, 6:12.5,HARV, 6:17.2,STAN, 6:23.5,NAVY, 6:25.0,PRIN, 6:37.1,SYRA, 6:39.6,,,,,,IRA National Championship
+1628, 6/02/12,MHJ,2000,CAL, 6:19.5,WISC, 6:21.0,BRWN, 6:23.3,CORN, 6:26.4,PENN, 6:26.9,BU, 6:40.2,,,,,,IRA National Championship
+1629, 6/02/12,MHJ,2000,YALE, 5:54.4,DREX, 5:57.9,DART, 5:57.9,GONZ, 6:03.1,,,,,,,,,,IRA National Championship
+1630, 6/02/12,MHJ,2000,NAVY, 5:36.1,CORN, 5:36.6,PRIN, 5:38.2,SYRA, 5:38.9,BU, 5:47.1,PENN, 5:55.5,,,,,,IRA National Championship
+1631, 6/02/12,MHJ,2000,WASH, 5:31.6,BRWN, 5:33.9,HARV, 5:35.3,CAL, 5:35.5,WISC, 5:35.9,STAN, 5:54.1,,,,,,IRA National Championship
+1632, 6/02/12,MHV,2000,BRWN, 5:48.1,WISC, 5:50.8,SYRA, 5:54.6,PENN, 5:56.8,YALE, 5:56.9,GONZ, 6:18.0,,,,,,IRA National Championship
+1633, 6/02/12,MHV,2000,WASH, 5:45.8,PRIN, 5:47.4,CORN, 5:48.8,NORT, 5:49.8,NAVY, 6:01.0,DREX, 6:25.2,,,,,,IRA National Championship
+1634, 6/02/12,MHV,2000,HARV, 5:50.1,BU, 5:51.0,CAL, 5:52.9,DART, 6:03.8,STAN, 6:07.9,GW, 6:13.4,,,,,,IRA National Championship
+1635, 6/02/12,MHV,2000,CAL, 5:38.9,SYRA, 5:40.5,YALE, 5:40.7,STAN, 5:41.3,NORT, 5:41.6,DREX, 5:59.7,,,,,,IRA National Championship
+1636, 6/02/12,MHV,2000,CORN, 5:33.8,NAVY, 5:34.2,PENN, 5:36.1,GW, 5:39.3,DART, 5:41.8,GONZ, 5:53.0,,,,,,IRA National Championship
+1637, 6/02/12,MHV,2000,BRWN, 6:17.2,HARV, 6:22.5,SYRA, 6:24.9,PRIN, 6:25.5,CORN, 6:32.4,PENN, 6:40.1,,,,,,IRA National Championship
+1638, 6/02/12,MHV,2000,WASH, 6:15.0,BU, 6:19.0,CAL, 6:25.4,WISC, 6:30.1,NAVY, 6:33.6,YALE, 6:38.9,,,,,,IRA National Championship
+1639, 6/02/12,MHV,2000,PRIN, 5:36.7,WISC, 5:37.9,CORN, 5:38.7,NAVY, 5:38.7,PENN, 5:40.4,YALE, 5:41.2,,,,,,IRA National Championship
+1640, 6/02/12,MHV,2000,WASH, 5:21.5,BRWN, 5:23.5,HARV, 5:24.7,CAL, 5:29.5,SYRA, 5:32.9,BU, 5:34.9,,,,,,IRA National Championship
+1641, 6/02/12,MHV,2000,NORT, 5:33.0,STAN, 5:35.1,DART, 5:38.2,GW, 5:38.3,DREX, 5:48.9,GONZ, 5:52.9,,,,,,IRA National Championship
+1642, 6/02/12,MLV,2000,HARV, 5:46.7,DART, 5:46.7,PRIN, 5:47.1,YALE, 5:47.6,COLU, 5:49.6,GEOR, 5:49.8,CORN, 5:51.0,,,,IRA National Championship
+1643, 6/02/12,MLV,2000,HARV, 5:33.1,DART, 5:34.0,YALE, 5:36.7,GEOR, 5:38.0,CORN, 5:42.4,PRIN, 5:43.3,COLU, 5:47.8,,,,IRA National Championship
+1644, 6/02/12,WLV,2000,WISC, 7:34.0,RADC, 7:39.8,GEOR, 7:46.5,,,,,,,,,,,,IRA National Championship
+1645, 6/02/12,WLV,2000,STAN, 7:42.6,BUCK, 7:56.0,PRIN, 8:21.3,MIT, 8:36.8,,,,,,,,,,IRA National Championship
+1646, 6/02/12,WLV,2000,GEOR, 8:11.8,PRIN, 8:15.5,MIT, 8:37.8,,,,,,,,,,,,IRA National Championship
+1647, 6/02/12,WLV,2000,STAN, 6:31.1,BUCK, 6:33.7,RADC, 6:35.5,WISC, 6:36.6,PRIN, 6:47.1,GEOR, 6:50.8,,,,,,IRA National Championship

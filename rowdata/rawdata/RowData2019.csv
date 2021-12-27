@@ -1,0 +1,737 @@
+RaceID,Date,CrewType,Distance,Team1,Time1,Team2,Time2,Team3,Time3,Team4,Time4,Team5,Time5,Team6,Time6,Team7,Time7,Team8,Time8,RaceType,RaceName
+1,2019-02-23,MHV,2000,UGA,06:25.8,CFLA,06:28.1,FLA,06:29.1,FLST,06:59.2,,,,,,,,,Final,Dual In The Swamp
+2,2019-02-23,WHV,2000,FLA,07:03.9,UGA,07:18.6,FLST,07:47.0,,,,,,,,,,,Final,Duel In The Swamp
+3,2019-03-02,MHV,,CLEM,06:44.7,HIPT,07:20.3,,,,,,,,,,,,,Final,Clemson Crew Scrimmage
+4,2019-03-02,MHV,1000,TEX,03:09.7,LSU,03:36.0,TXAG,03:48.6,,,,,,,,,,,Final,Heart of Texas
+5,2019-03-02,MHV,1000,TEX,03:17.9,LSU,03:26.4,BAYL,03:27.5,TXAG,03:33.2,RICE,03:37.2,,,,,,,Heat,Heart of Texas
+6,2019-03-02,MHV,2000,CAL#,07:13.0,UCSD,07:17.5,UCIR,07:18.4,UCLA,07:27.0,UCSB,07:29.0,UCDV,07:44.0,,,,,Final,SoCal Opening Day
+7,2019-03-02,WHV,1000,TEX,03:20.2,BAYL,03:55.1,,,,,,,,,,,,,Final,Heart of Texas
+8,2019-03-02,WHV,1000,BAYL,03:55.8,TXAM,03:59.9,,,,,,,,,,,,,Heat,Heart of Texas
+9,2019-03-02,WHV,1000,LSU,04:07.4,RICE,04:25.2,,,,,,,,,,,,,Heat,Heart of Texas
+10,2019-03-02,WHV,1950,CFLA,06:39.2,ROLL,07:47.2,,,,,,,,,,,,,Final,Rollins Invitational
+11,2019-03-02,WHV,2000,UCSB,08:49.0,UCIR,09:14.0,,,,,,,,,,,,,Final,SoCal Opening Day
+12,2019-03-03,MHV,2000,CAL,05:43.6,CORN,05:59.1,,,,,,,,,,,,,Final,Lake Las Vegas Invitational
+13,2019-03-03,MHV,2000,CAL,05:49.6,ORST,06:02.6,MRST,06:12.7,,,,,,,,,,,Final,Lake Las Vegas Invitational
+14,2019-03-03,MHV,2000,CORN,05:46.3,ORST,05:49.2,MRST,06:02.7,,,,,,,,,,,Final,Lake Las Vegas Invitational
+15,2019-03-03,MHV,2000,UCDV,06:07.4,OC,06:11.2,,,,,,,,,,,,,Final,Orange Coast/UC-Davis
+16,2019-03-03,MHV,2000,WASH,05:36.6,CORN,05:49.9,,,,,,,,,,,,,Final,Lake Las Vegas Invitational
+17,2019-03-03,MHV,2000,WASH,05:42.9,ORST,06:01.5,MRST,06:10.8,,,,,,,,,,,Final,Lake Las Vegas Invitational
+18,2019-03-03,WHV,2000,SCLA,07:11.4,MILL,07:44.5,,,,,,,,,,,,,Final,Santa Clara/Mills
+19,2019-03-03,WHV,2000,WASH,06:25.2,USC,06:31.5,,,,,,,,,,,,,Final,Lake Las Vegas Invitational
+20,2019-03-08,WHV,2000,STET,07:23.7,SACH,07:55.4,,,,,,,,,,,,,Final,* Stetson University Vs. Sacred Heart Univ
+21,2019-03-09,MHV,1500,VAND,05:10.1,TULN,05:12.9,,,,,,,,,,,,,Final,Tulane/Northwestern State
+22,2019-03-09,MHV,2000,JAX,06:04.6,EMBR,06:05.6,GV,06:20.7,,,,,,,,,,,Final,* Jacksonville University vs. Embry Riddle
+23,2019-03-09,MHV,2000,SEAT,07:02.2,PUGS,07:30.0,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+24,2019-03-09,MHV,2000,UCDV,06:35.0,SONO,07:35.2,,,,,,,,,,,,,Final,Davis Invitational
+25,2019-03-09,MHV,2000,WWAS,06:46.1,PUGS,06:53.2,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+26,2019-03-09,MHV,2000,WWAS,06:52.7,PACL,07:12.9,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+27,2019-03-09,MHV,2000,WWAS,06:55.5,SEAT,08:11.5,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+28,2019-03-09,WHV,1500,VAND,06:22.4,TULN,06:34.2,,,,,,,,,,,,,Final,Tulane/Northwestern State
+29,2019-03-09,WHV,1950,CLRK,07:02.8,ROLL,07:02.9,ASSP,07:23.7,,,,,,,,,,,Final,Rollins Invitational
+30,2019-03-09,WHV,1950,STET,06:46.0,VILN,06:46.8,DUQN,06:59.4,,,,,,,,,,,Final,Rollins Invitational
+31,2019-03-09,WHV,2000,DUKE,06:49.0,CLEM,06:56.8,UNC,06:57.3,,,,,,,,,,,Final,Carolinas Cup
+32,2019-03-09,WHV,2000,JAX,07:20.4,GV,07:25.2,EMBR,07:27.6,,,,,,,,,,,Final,* Jacksonville University vs. Embry Riddle
+33,2019-03-09,WHV,2000,SACS,06:17.6,UPOR,06:24.8,HUMS,06:29.9,STMY,06:30.1,UCSD,06:31.7,OC,07:15.5,MILL,07:38.7,,,Final,Sac State Invitational
+34,2019-03-09,WHV,2000,SPAC,07:16.3,PACL,07:21.7,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+35,2019-03-09,WHV,2000,SPAC,07:25.3,PUGS,07:44.1,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+36,2019-03-09,WHV,2000,STAN,06:31.2,ORST,06:41.7,,,,,,,,,,,,,Final,* Stanford vs. Oregon State
+37,2019-03-09,WHV,2000,UCLA,06:38.9,SDSU,06:57.6,,,,,,,,,,,,,Final,UCLA/San Diego State
+38,2019-03-09,WHV,2000,WWAS,07:17.5,PUGS,07:31.3,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+39,2019-03-09,WHV,2000,WWAS,07:36.4,PACL,07:45.0,,,,,,,,,,,,,Final,Pacific Lutheran Invitational
+40,2019-03-10,MHV,2000,OC,06:44.0,UCLA,06:52.3,UCIR,06:53.5,,,,,,,,,,,Final,UCLA Classic
+41,2019-03-10,MHV,2000,OC,06:06.5,UCLA,06:17.2,,,,,,,,,,,,,Heat,UCLA Classic
+42,2019-03-10,MHV,2000,UCIR,06:20.9,AZST,06:34.1,,,,,,,,,,,,,Heat,UCLA Classic
+43,2019-03-10,WHV,2000,HUMS,07:13.1,SCLA,07:32.4,UCDV,07:44.7,OC,07:58.0,,,,,,,,,Final,Davis Invitational||UC-Davis/Orange Coast
+44,2019-03-14,WHV,1950,EMBR,07:07.1,ROLL,07:16.6,,,,,,,,,,,,,Final,TARS Regatta
+45,2019-03-15,MHV,2000,FRMA,06:35.9,STMD,06:59.1,,,,,,,,,,,,,Final,St Marys MD/F&M
+46,2019-03-15,WHV,2000,STMD,07:13.5,FRMA,07:14.4,,,,,,,,,,,,,Final,St Marys MD/F&M
+47,2019-03-16,MHV,1950,WESL,05:48.1,FLA,06:03.1,,,,,,,,,,,,,Final,Rollins Invitational #2
+48,2019-03-16,MHV,2000,DREX,05:48.9,LASL,06:08.9,VILN,06:13.3,,,,,,,,,,,Final,Drexel/LaSalle/Villanova
+49,2019-03-16,MHV,2000,FLTC,05:50.6,STET,05:54.0,,,,,,,,,,,,,Final,"* Florida Tech, Stetson"
+50,2019-03-16,MHV,2000,PUGS,06:47.5,LECL,06:50.0,PACL,07:02.2,,,,,,,,,,,Final,Logger Invitational
+51,2019-03-16,WHV,1950,BARR,06:31.7,FLA,06:39.4,ROLL,07:05.6,RSTC,07:47.1,,,,,,,,,Final,Rollins Invitational #2
+52,2019-03-16,WHV,200,PUGS,07:13.5,LECL,07:58.0,,,,,,,,,,,,,Final,Logger Invitational
+53,2019-03-16,WHV,2000,DREX,06:32.8,LASL,06:55.2,,,,,,,,,,,,,Final,March Schuylkill Racing
+54,2019-03-16,WHV,2000,INDI,05:36.4,LOUV,05:41.8,UMIA,05:49.5,,,,,,,,,,,Final,Cardinal Invitational
+55,2019-03-16,WHV,2000,KAST,06:37.5,STMY,06:51.9,,,,,,,,,,,,,Final,Hornet Invitational
+56,2019-03-16,WHV,2000,KAST,06:42.2,SACS,06:46.7,,,,,,,,,,,,,Final,Hornet Invitational
+57,2019-03-16,WHV,2000,LEHI,06:48.6,LOYO,07:27.6,,,,,,,,,,,,,Final,Lehigh/Loyola
+58,2019-03-16,WHV,2000,LOUV,05:44.5,ALAB,05:44.9,ND,05:48.8,,,,,,,,,,,Final,Cardinal Invitational
+59,2019-03-16,WHV,2000,MINN,05:40.7,TENN,05:43.1,TULS,05:45.6,,,,,,,,,,,Final,Cardinal Invitational
+60,2019-03-16,WHV,2000,PACL,06:59.8,LECL,07:43.8,,,,,,,,,,,,,Final,Logger Invitational
+61,2019-03-16,WHV,2000,PACL,07:04.1,PACI,08:14.8,,,,,,,,,,,,,Final,Logger Invitational
+62,2019-03-16,WHV,2000,PUGS,07:14.5,PACI,08:21.6,,,,,,,,,,,,,Final,Logger Invitational
+63,2019-03-16,WHV,2000,SDSU,06:33.0,SACS,06:35.7,,,,,,,,,,,,,Final,Sacramento State/San Diego State
+64,2019-03-16,WHV,2000,SDSU,06:43.0,STMY,06:57.3,,,,,,,,,,,,,Final,San Diego State/St Marys
+65,2019-03-16,WHV,2000,STJO,06:32.8,DELA,06:38.8,VILN,06:42.3,,,,,,,,,,,Final,March Schuylkill Racing
+66,2019-03-16,WHV,2000,UCLA,06:13.5,LOMY,06:34.4,,,,,,,,,,,,,Final,UCLA/LMU
+67,2019-03-16,WHV,2000,UVA,05:43.1,MINN,05:45.0,UMIA,06:03.5,,,,,,,,,,,Final,Cardinal Invitational
+68,2019-03-16,WHV,2000,WISC,05:30.8,ND,05:37.6,CLEM,05:40.7,,,,,,,,,,,Final,Cardinal Invitational
+69,2019-03-16,WHV,2000,WISC,05:42.8,INDI,05:43.9,TULS,05:56.6,,,,,,,,,,,Final,Cardinal Invitational
+70,2019-03-16,WHV,2000,YALE,05:42.2,UVA,05:46.2,ALAB,05:49.3,,,,,,,,,,,Final,Cardinal Invitational
+71,2019-03-16,WHV,2000,YALE,05:44.3,CLEM,05:52.3,TENN,05:54.8,,,,,,,,,,,Final,Cardinal Invitational
+72,2019-03-17,WHV,2000,ALAB,05:42.5,INDI,05:44.0,CLEM,05:52.7,,,,,,,,,,,Final,Cardinal Invitational
+73,2019-03-17,WHV,2000,ND,05:46.1,TENN,05:53.7,UMIA,06:01.8,,,,,,,,,,,Final,Cardinal Invitational
+74,2019-03-17,WHV,2000,SDSU,06:31.4,KAST,06:35.3,,,,,,,,,,,,,Final,Hornet Invitational
+75,2019-03-17,WHV,2000,UVA,05:47.1,LOUV,05:52.0,TULS,05:55.8,,,,,,,,,,,Final,Cardinal Invitational
+76,2019-03-17,WHV,2000,YALE,05:42.8,WISC,05:43.6,MINN,05:45.7,,,,,,,,,,,Final,Cardinal Invitational
+77,2019-03-19,MHV,2000,CSTG,06:57.1,CONC,07:57.1,,,,,,,,,,,,,Final,Coast Guard/Conn College
+78,2019-03-22,WHV,2000,CFLA,06:39.6,COK,06:48.2,CONN,06:49.9,JAX,06:55.8,,,,,,,,,Final,Central Florida Mid-March
+79,2019-03-23,MHV,,BUCK,06:10.9,LEHI,06:16.5,LASL,06:19.2,DELA,06:23.9,VILN,06:25.6,URI,06:45.7,,,,,Final,Murphy Cup
+80,2019-03-23,MHV,,DREX,05:57.6,MRST,06:01.3,ND,06:06.9,COLG,06:13.5,TEMP,06:23.6,RUTG,06:29.1,,,,,Final,Murphy Cup
+81,2019-03-23,MHV,,GATC,06:05.2,MINN,06:15.6,CONN,06:17.8,UGA,06:20.6,FLA,06:26.5,VAND,06:29.9,,,,,Final,John Hunter
+82,2019-03-23,MHV,,TULN,06:28.2,CLEM,06:29.8,DUKE,06:33.9,ALAB,06:56.5,WAKE,07:15.2,FLST,07:28.7,,,,,Final,John Hunter
+83,2019-03-23,MHV,,COLG,06:09.6,TEMP,06:19.0,LEHI,06:25.4,URI,07:10.0,,,,,,,,,Heat,Murphy Cup
+84,2019-03-23,MHV,,CONN,06:24.2,VAND,06:29.7,DUKE,06:32.0,ALAB,06:55.3,LSU,07:18.8,,,,,,,Heat,John Hunter
+85,2019-03-23,MHV,,DREX,06:06.2,RUTG,06:17.3,DELA,06:18.8,VILN,06:41.3,LOYO,06:47.4,,,,,,,Heat,Murphy Cup
+86,2019-03-23,MHV,,GATC,06:19.4,UGA,06:24.4,TULN,06:26.5,WAKE,07:09.3,,,,,,,,,Heat,John Hunter
+87,2019-03-23,MHV,,MINN,06:24.8,FLA,06:28.9,CLEM,06:29.3,FLST,07:10.4,NCST,07:19.1,,,,,,,Heat,John Hunter
+88,2019-03-23,MHV,,MRST,06:08.7,ND,06:15.1,BUCK,06:22.8,LASL,06:24.6,,,,,,,,,Heat,Murphy Cup
+89,2019-03-23,MHV,2000,CALM,06:42.6,HUMS,06:48.0,CHCO,07:01.7,,,,,,,,,,,Final,Blue Heron Regatta
+90,2019-03-23,MHV,2000,COLU,05:49.4,FLTC,05:52.5,,,,,,,,,,,,,Final,Governor's Cup (FL)
+91,2019-03-23,MHV,2000,JAX,06:17.0,STET,06:23.0,,,,,,,,,,,,,Final,Jacksonville/Stetson
+92,2019-03-23,MLV,2000,GEOR,06:08.9,DELA,06:09.6,,,,,,,,,,,,,Final,Georgetown/Delaware
+93,2019-03-23,MLV,2000,PRIN,06:24.3,GEOR,06:34.3,,,,,,,,,,,,,Final,Fosburgh Cup
+94,2019-03-23,MLV,2000,PRIN,06:30.7,NAVY,06:38.4,,,,,,,,,,,,,Final,Murtaugh Cup
+95,2019-03-23,WHV,,BRYN,07:58.9,CABR,08:56.4,,,,,,,,,,,,,Final,Murphy Cup
+96,2019-03-23,WHV,,FLA,06:58.8,CLEC,07:06.7,UGA,07:09.8,GATC,07:15.7,ROLL,07:21.1,FLST,07:24.0,,,,,Final,John Hunter
+97,2019-03-23,WHV,,PENN,06:42.8,UNC,06:44.8,DREX,06:48.2,TEMP,06:53.4,GEOR,06:55.4,GW,06:57.0,,,,,Final,Murphy Cup
+98,2019-03-23,WHV,,TJEF,07:11.9,COLG,07:16.4,WASC,07:22.3,DUQN,07:32.6,,,,,,,,,Final,Murphy Cup
+99,2019-03-23,WHV,,VAND,07:36.6,ILLI,07:42.1,FRPI,07:47.1,DAVS,08:07.1,LSU,08:13.7,,,,,,,Final,John Hunter
+100,2019-03-23,WHV,,GATC,07:26.3,FLST,07:28.8,CLEC,07:34.7,ILLI,07:45.0,TULN,07:58.0,DAVS,08:21.2,,,,,Heat,John Hunter
+101,2019-03-23,WHV,,PENN,06:54.2,GW,07:05.5,TJEF,07:16.4,DELA,07:28.8,LASL,08:06.3,,,,,,,Heat,Murphy Cup
+102,2019-03-23,WHV,,ROLL,07:20.5,FLA,07:22.8,UGA,07:26.8,VAND,07:35.7,LSU,08:09.8,FRPI,08:12.9,,,,,Heat,John Hunter
+103,2019-03-23,WHV,,TEMP,06:48.6,GEOR,06:51.1,LEHI,07:11.2,WASC,07:25.0,LOYO,07:46.6,,,,,,,Heat,Murphy Cup
+104,2019-03-23,WHV,,UNC,06:55.4,DREX,06:59.1,COLG,07:22.8,DUQN,07:26.4,,,,,,,,,Heat,Murphy Cup
+105,2019-03-23,WHV,2000,BARR,07:19.7,NOVS,07:43.8,,,,,,,,,,,,,Final,DII Duals||Nova Southeastern/Barry
+106,2019-03-23,WHV,2000,FLTC,07:00.6,BARR,07:12.5,,,,,,,,,,,,,Final,DII Duals||Florida Tech/Barry
+107,2019-03-23,WHV,2000,FLTC,07:20.2,EMBR,07:37.7,,,,,,,,,,,,,Final,DII Duals||Embry-Riddle/Florida Tech
+108,2019-03-23,WHV,2000,HUMS,07:25.2,MILL,08:10.1,CHCO,08:19.6,PACI,09:22.8,,,,,,,,,Final,Blue Heron Regatta
+109,2019-03-23,WHV,2000,JAX,07:22.9,DRAK,07:28.8,STET,07:35.6,,,,,,,,,,,Final,Jacksonville/Stetson
+110,2019-03-23,WHV,2000,NOVS,07:18.4,EMBR,07:21.2,,,,,,,,,,,,,Final,DII Duals
+111,2019-03-23,WHV,2000,OLDD,06:40.9,GMAS,07:06.2,,,,,,,,,,,,,Final,Old Dominion/George Mason
+112,2019-03-24,MHV,,OC,05:54.1,UCSB,05:56.3,UCLA,05:57.4,UCIR,06:02.2,SDSU,06:21.7,,,,,,,Final,Newport Regatta
+113,2019-03-24,MHV,2000,ORST,05:55.7,GONZ,06:08.1,,,,,,,,,,,,,Final,Oregon State/Gonzaga
+114,2019-03-24,WHV,1700,ROCH,05:58.5,CABR,06:22.8,,,,,,,,,,,,,Final,"* Stockton-AC Boat Race: Rochester, Cabrin"
+115,2019-03-24,WHV,1700,ROCH,05:59.0,RSTC,06:16.9,,,,,,,,,,,,,Final,"* Stockton-AC Boat Race: Stockton, Rochest"
+116,2019-03-24,WHV,1700,RSTC,05:45.9,CABR,06:18.7,,,,,,,,,,,,,Final,"* Stockton-AC Boat Race: Stockton, Cabrini"
+117,2019-03-24,WHV,2000,ALAB,05:58.1,TENN,06:04.4,,,,,,,,,,,,,Final,Tennessee/Alabama
+118,2019-03-24,WHV,2000,GONZ,06:45.5,LOMY,06:58.7,SPAC,06:59.5,,,,,,,,,,,Final,"* Gonzaga, Loyola Marymount, Seattle Pacif"
+119,2019-03-24,WHV,2000,OKLA,06:40.5,UNC,06:43.9,KANS,06:45.0,DREX,06:49.4,BUCK,06:51.7,UMAS,06:56.4,,,,,Final,Cooper Sprints
+120,2019-03-24,WHV,2000,ORST,06:34.9,WAST,06:42.3,GONZ,06:56.1,LOMY,07:09.3,,,,,,,,,Final,Oregon State/Gonzaga||Washington State/Oregon State||Fawley Cup
+121,2019-03-24,WHV,2000,RUTG,06:26.1,DUKE,06:30.8,NAVY,06:34.0,SMU,06:40.5,URI,06:48.2,CLEM,06:49.0,,,,,Final,Cooper Sprints
+122,2019-03-24,WHV,2000,UCSD,06:42.0,UCSB,06:54.4,UCIR,07:13.2,,,,,,,,,,,Final,Berg Cup
+123,2019-03-24,WHV,2000,VILN,06:55.4,WV,06:58.0,BC,07:01.5,,,,,,,,,,,Final,Cooper Sprints
+124,2019-03-24,WHV,2000,DUKE,06:43.4,SMU,06:49.6,UNC,06:57.8,UMAS,07:01.5,BC,07:16.2,,,,,,,Heat,Cooper Sprints
+125,2019-03-24,WHV,2000,NAVY,06:44.3,URI,06:49.9,OKLA,06:53.3,DREX,07:04.1,VILN,07:22.3,,,,,,,Heat,Cooper Sprints
+126,2019-03-24,WHV,2000,RUTG,06:40.1,CLEM,06:52.2,KANS,06:57.5,BUCK,07:05.3,WV,07:07.4,,,,,,,Heat,Cooper Sprints
+127,2019-03-29,WHV,2000,COK,07:11.5,UCSD,07:14.2,WWAS,07:16.6,HUMS,07:18.1,TJEF,07:25.8,ROLL,07:38.1,NOVS,07:40.8,,,Final,Central Sprints
+128,2019-03-29,WHV,2000,MICH,06:30.3,RADC,06:33.4,,,,,,,,,,,,,Final,Big Ten/Ivy League Dual
+129,2019-03-29,WHV,2000,YALE,06:34.1,MIST,06:37.9,INDI,06:40.6,,,,,,,,,,,Final,Big Ten/Ivy League Dual
+130,2019-03-29,WHV,2000,COK,07:13.8,WWAS,07:19.5,HUMS,07:24.9,ROLL,07:49.1,,,,,,,,,Heat,Central Sprints
+131,2019-03-29,WHV,2000,UCSD,07:18.2,TJEF,07:26.8,NOVS,07:41.3,,,,,,,,,,,Heat,Central Sprints
+132,2019-03-30,MHV,,WASH,05:44.0,WAST,06:07.2,WWAS,06:10.6,,,,,,,,,,,Final,Husky Open
+133,2019-03-30,MHV,1500,UNIO,06:08.0,AMHR,06:27.0,,,,,,,,,,,,,Final,Amherst/Union
+134,2019-03-30,MHV,2000,BUCK,05:56.4,ITHA,06:00.0,,,,,,,,,,,,,Final,Cayuga Racing - Week 1
+135,2019-03-30,MHV,2000,CALM,05:57.0,SONO,06:04.0,CHCO,06:40.0,,,,,,,,,,,Final,* Cal Maritime / Chico State/ Sonoma State
+136,2019-03-30,MHV,2000,CORN#,05:43.7,HOBR,05:50.9,,,,,,,,,,,,,Final,Cayuga Racing - Week 1
+137,2019-03-30,MHV,2000,CORN#,05:46.7,BUCK,06:05.0,,,,,,,,,,,,,Final,Cayuga Racing - Week 1
+138,2019-03-30,MHV,2000,FLTC,06:20.8,JAX,06:27.5,,,,,,,,,,,,,Final,Keuper Cup
+139,2019-03-30,MHV,2000,FRMA,05:44.0,STMD,05:54.4,,,,,,,,,,,,,Final,* Washington College Invitational
+140,2019-03-30,MHV,2000,HARV#,05:50.6,BC,06:02.0,TRIN,06:02.7,BATE,06:13.5,,,,,,,,,Final,Bates/BC
+141,2019-03-30,MHV,2000,HOBR,05:55.6,ITHA,06:07.6,,,,,,,,,,,,,Final,Cayuga Racing - Week 1
+142,2019-03-30,MHV,2000,LEHI,06:24.5,LASL,06:25.4,FAIR,06:43.5,,,,,,,,,,,Final,* La Salle vs Fairfield & Lehigh
+143,2019-03-30,MHV,2000,NORT,05:44.7,PENN,05:47.0,,,,,,,,,,,,,Final,Burk Cup
+144,2019-03-30,MHV,2000,ORST,06:06.7,UCLA,06:36.5,,,,,,,,,,,,,Final,* Oregon State vs UCLA
+145,2019-03-30,MHV,2000,PRIN,05:47.9,GEOR,06:02.5,,,,,,,,,,,,,Final,Annual Scrimage
+146,2019-03-30,MHV,2000,VILN,05:37.6,WASC,05:55.0,,,,,,,,,,,,,Final,* Washington College Invitational
+147,2019-03-30,MHV,2000,VILN,06:11.3,STMD,06:44.0,,,,,,,,,,,,,Final,* Washington College Invitational
+148,2019-03-30,MHV,2000,WASC,06:06.4,FRMA,06:08.0,,,,,,,,,,,,,Final,* Washington College Invitational
+149,2019-03-30,MHV,2000,WESL,06:11.9,CSTG,06:17.7,,,,,,,,,,,,,Final,Wesleyan/Coast Guard
+150,2019-03-30,MHV,2000,YALE,06:21.6,BRWN,06:34.2,,,,,,,,,,,,,Final,Albert Cup
+151,2019-03-30,MHV,3600,UBC,00:00.0,UVIC,00:07.1,,,,,,,,,,,,,Final,* Brown Cup
+152,2019-03-30,MLV,2000,PENN,05:56.0,DELA,05:59.5,TEMP,06:12.2,MIT,06:12.8,,,,,,,,,Final,Penn/Delaware/MIT
+153,2019-03-30,MLV,2000,PRIN,05:39.8,COLU,05:42.5,,,,,,,,,,,,,Final,Campbell Cup
+154,2019-03-30,MLV,2000,YALE,06:04.2,NAVY,06:06.7,,,,,,,,,,,,,Final,Eads Johnson Cup
+155,2019-03-30,WHV,,UPOR,06:42.1,SPAC,06:42.9,,,,,,,,,,,,,Final,Husky Open
+156,2019-03-30,WHV,,WASH,06:14.9,PUGS,06:57.2,,,,,,,,,,,,,Final,Husky Open
+157,2019-03-30,WHV,1500,UNIO,06:34.0,AMHR,06:41.0,,,,,,,,,,,,,Final,Amherst/Union
+158,2019-03-30,WHV,2000,ALAB,06:25.3,JAX,06:41.5,CREI,06:57.5,,,,,,,,,,,Final,Alabama/Jacksonville/Dayton
+159,2019-03-30,WHV,2000,BATE,06:45.1,MIT#,06:53.0,TRIN,07:04.8,SIMM,07:11.1,,,,,,,,,Final,MIT Lwt/Simmons||Bates/Simmons
+160,2019-03-30,WHV,2000,BU#,06:33.3,MIT,06:47.6,BC,06:54.0,,,,,,,,,,,Final,MIT/Boston College
+161,2019-03-30,WHV,2000,CAL,06:17.7,UVA,06:32.8,,,,,,,,,,,,,Final,Pac-12 Challenge
+162,2019-03-30,WHV,2000,CAL,06:20.7,WISC,06:28.3,,,,,,,,,,,,,Final,Pac-12 Challenge
+163,2019-03-30,WHV,2000,CHCO,06:08.0,SONO,06:24.0,,,,,,,,,,,,,Final,* Cal Maritime / Chico State/ Sonoma State
+164,2019-03-30,WHV,2000,DART,06:51.5,COLU,06:54.3,URI,06:55.1,BU,06:56.9,TEMP,07:00.2,UMAS,07:02.6,,,,,Final,Doc Hosea Invitational
+165,2019-03-30,WHV,2000,FRMA,05:40.6,STMD,05:42.4,BRYN,05:50.3,CABR,06:18.6,,,,,,,,,Final,* Washington College Invitational
+166,2019-03-30,WHV,2000,IOWA,06:29.3,USC,06:38.8,,,,,,,,,,,,,Final,Pac-12 Challenge
+167,2019-03-30,WHV,2000,ITHA,06:53.7,CANI,07:14.1,,,,,,,,,,,,,Final,Ithaca/William Smith||Cayuga Racing - Week 1
+168,2019-03-30,WHV,2000,LEHI,07:05.6,FAIR,07:27.8,LASL,07:39.0,,,,,,,,,,,Final,* La Salle vs Fairfield & Lehigh
+169,2019-03-30,WHV,2000,MICH,06:35.3,YALE,06:36.1,,,,,,,,,,,,,Final,Big Ten/Ivy League Dual
+170,2019-03-30,WHV,2000,PACL,07:00.3,MILL,07:40.2,,,,,,,,,,,,,Final,* Pacific Lutheran/Mills
+171,2019-03-30,WHV,2000,PRIN,06:15.8,BRWN,06:19.3,OHST,06:19.5,,,,,,,,,,,Final,Class of 1987 Trophy
+172,2019-03-30,WHV,2000,RADC,06:40.8,INDI,06:42.5,MIST,06:46.2,,,,,,,,,,,Final,Big Ten/Ivy League Dual
+173,2019-03-30,WHV,2000,RUTG,06:32.0,SYRA,06:32.3,MINN,06:34.5,NAVY,06:42.5,PENN,06:47.9,NORT,06:52.3,,,,,Final,Doc Hosea Invitational
+174,2019-03-30,WHV,2000,STAN,06:19.3,WISC,06:33.7,,,,,,,,,,,,,Final,Pac-12 Challenge
+175,2019-03-30,WHV,2000,STAN,06:21.0,IOWA,06:32.0,,,,,,,,,,,,,Final,Pac-12 Challenge
+176,2019-03-30,WHV,2000,STMY,06:56.4,SCLA,07:11.9,,,,,,,,,,,,,Final,St Marys/Santa Clara
+177,2019-03-30,WHV,2000,USC,06:32.2,UVA,06:35.6,,,,,,,,,,,,,Final,Pac-12 Challenge
+178,2019-03-30,WHV,2000,WELL,05:54.5,WASC,05:58.2,STJO*,06:05.0,,,,,,,,,,,Final,* Washington College Invitational
+179,2019-03-30,WHV,2000,WESL,07:02.0,CSTG,07:33.6,,,,,,,,,,,,,Final,Wesleyan/Coast Guard
+180,2019-03-30,WHV,2000,WLSM,07:02.1,JOWA,07:39.2,,,,,,,,,,,,,Final,Ithaca/William Smith||Cayuga Racing - Week 1
+181,2019-03-30,WHV,2000,CANI,07:10.0,JOWA,07:28.1,,,,,,,,,,,,,Heat,Ithaca/William Smith||Cayuga Racing - Week 1
+182,2019-03-30,WHV,2000,ITHA,06:47.8,WLSM,06:52.0,,,,,,,,,,,,,Heat,Ithaca/William Smith||Cayuga Racing - Week 1
+183,2019-03-30,WHV,2000,MINN,06:42.9,NAVY,06:43.7,COLU,06:53.6,DART,06:54.2,URI,06:55.7,TEMP,07:04.0,,,,,Heat,Doc Hosea Invitational
+184,2019-03-30,WHV,2000,RUTG,06:37.3,SYRA,06:38.9,PENN,06:48.1,NORT,06:52.1,BU,06:54.6,UMAS,07:06.5,,,,,Heat,Doc Hosea Invitational
+185,2019-03-30,WHV,2000,STJO,06:55.5,FRMA,07:13.5,CABR,08:12.5,,,,,,,,,,,Heat,* Washington College Invitational
+186,2019-03-30,WHV,2000,WELL,06:43.9,WASC,06:57.0,STMD,07:18.0,BRYN,07:26.6,,,,,,,,,Heat,* Washington College Invitational
+187,2019-03-30,WHV,3600,UVIC,01:41.3,UBC,01:50.4,,,,,,,,,,,,,Final,* Brown Cup
+188,2019-03-30,WLV,2000,RADC,06:17.5,GEOR,06:20.6,,,,,,,,,,,,,Final,Class of 2004 Cup
+189,2019-03-30,WLV,2000,STAN,06:27.1,PRIN,06:30.1,,,,,,,,,,,,,Final,Class of 2015 Cup
+190,2019-03-31,MHV,,DREX,05:47.0,GONZ,05:54.9,USD,06:02.0,,,,,,,,,,,Final,UCSD Invitational
+191,2019-03-31,MHV,,DREX,06:02.5,UCSD,06:08.6,,,,,,,,,,,,,Final,UCSD Invitational
+192,2019-03-31,MHV,,GONZ,06:07.3,UCSD,06:10.6,USD,06:16.4,,,,,,,,,,,Final,UCSD Invitational
+193,2019-03-31,MHV,,STAN,05:41.9,UCSD,05:56.7,,,,,,,,,,,,,Final,UCSD Invitational
+194,2019-03-31,MHV,,STAN,05:55.3,DREX,06:00.0,,,,,,,,,,,,,Final,UCSD Invitational
+195,2019-03-31,MHV,,STAN,06:01.0,GONZ,06:09.1,USD,06:20.9,,,,,,,,,,,Final,UCSD Invitational
+196,2019-03-31,MHV,,UCDV,06:11.1,UCIR,06:21.0,SDSU,06:46.9,,,,,,,,,,,Final,Parker Cup
+197,2019-03-31,MHV,,UCDV,06:16.7,UCIR,06:17.2,SDSU,06:44.9,,,,,,,,,,,Final,Parker Cup
+198,2019-03-31,MHV,,DELA,06:59.5,GMAS,07:00.7,LOYO,07:43.5,UMD,07:59.9,,,,,,,,,Heat,Occoquan Sprints
+199,2019-03-31,MHV,,UVA,06:33.7,GV,06:57.9,MAWA,07:24.1,VCOM,07:49.8,,,,,,,,,Heat,Occoquan Sprints
+200,2019-03-31,MHV,2000,MIT,06:38.4,CSTG,07:01.0,,,,,,,,,,,,,Final,MIT/Coast Guard
+201,2019-03-31,MHV,2000,MIT#,06:36.5,BC,06:36.9,,,,,,,,,,,,,Final,* MIT Lightweight Men vs BC
+202,2019-03-31,MHV,2000,PURD,05:57.4,MICH,06:01.2,MARI,06:16.2,CINC,06:35.8,,,,,,,,,Final,Marietta/Purdue Challenge Cup
+203,2019-03-31,WHV,2000,CAL,06:15.9,IOWA,06:25.5,,,,,,,,,,,,,Final,Pac-12 Challenge
+204,2019-03-31,WHV,2000,PURD,07:08.7,CINC,07:38.9,,,,,,,,,,,,,Final,Marietta/Purdue Challenge Cup
+205,2019-03-31,WHV,2000,STAN,06:17.3,UVA,06:35.2,,,,,,,,,,,,,Final,Pac-12 Challenge
+206,2019-03-31,WHV,2000,WISC,06:30.6,USC,06:37.7,,,,,,,,,,,,,Final,Pac-12 Challenge
+207,2019-04-01,WHV,1700,RIT,00:00.0,NPRK,00:12.0,ADRI,00:15.0,,,,,,,,,,,Final,"* Adrian College, North Park, RIT"
+208,2019-04-03,MHV,2000,GEOR,05:40.1,MARI,05:48.3,,,,,,,,,,,,,Final,* Marietta College vs. Georgetown Universi
+209,2019-04-05,WHV,2000,ALAB,06:31.5,CFLA,06:33.2,KANS,06:35.3,CLEM,06:36.7,OLDD,06:54.2,STET,07:01.7,,,,,Heat,Sunshine State Invitational||FIRA Championship
+210,2019-04-05,WHV,2000,SMU,06:29.2,LOUV,06:31.3,KAST,06:34.7,TULS,06:36.3,UMIA,06:42.7,JAX,06:49.6,,,,,Heat,Sunshine State Invitational||FIRA Championship
+211,2019-04-06,MHV,,NORT,05:53.6,ORST,06:04.9,,,,,,,,,,,,,Final,* Pac-12 Challenge
+212,2019-04-06,MHV,,STAN,05:52.2,ORST,05:56.1,,,,,,,,,,,,,Final,* Pac-12 Challenge||Stanford/Oregon State
+213,2019-04-06,MHV,,STET,05:59.4,JAX,06:00.5,EMBR,06:03.6,FLA,06:18.5,CFLA,06:25.5,EMOR,07:24.4,,,,,Final,FIRA Championship
+214,2019-04-06,MHV,,WASH,05:40.1,NORT,05:47.4,,,,,,,,,,,,,Final,* Pac-12 Challenge
+215,2019-04-06,MHV,,WASH,05:52.7,STAN,06:06.1,,,,,,,,,,,,,Final,* Pac-12 Challenge||Washington/Stanford
+216,2019-04-06,MHV,,WAST,06:14.2,WWAS,06:19.2,LECL,06:50.8,,,,,,,,,,,Final,Covered Bridge Regatta
+217,2019-04-06,MHV,,WAST,06:11.1,WWAS,06:16.6,CALM,06:35.1,LECL,06:42.3,SACS,06:54.3,,,,,,,Heat,Covered Bridge Regatta
+218,2019-04-06,MHV,2000,BRWN,05:46.6,BU,05:48.4,,,,,,,,,,,,,Final,Michalson Cup
+219,2019-04-06,MHV,2000,CSTG,06:07.4,TUFT,06:10.2,,,,,,,,,,,,,Final,Tufts/USCG
+220,2019-04-06,MHV,2000,DART,06:02.1,COLU,06:06.3,MIT,06:10.9,HC,06:15.5,,,,,,,,,Final,Alumni Cup
+221,2019-04-06,MHV,2000,GEOR,05:44.8,TEMP,05:55.1,,,,,,,,,,,,,Final,* Temple University v. Georgetown Universi
+222,2019-04-06,MHV,2000,HARV,05:38.2,CORN,05:47.5,GW,05:56.9,,,,,,,,,,,Final,Harvard/Cornell
+223,2019-04-06,MHV,2000,HOBR,05:47.0,TEMP,05:56.1,,,,,,,,,,,,,Final,* Temple University v. Hobart College
+224,2019-04-06,MHV,2000,IONA,06:44.3,MANH,07:22.2,,,,,,,,,,,,,Final,Iona/Fairfield
+225,2019-04-06,MHV,2000,ITHA,06:07.8,RIT,06:16.4,ROCH,06:55.1,,,,,,,,,,,Final,Ithaca/Rochester/RIT
+226,2019-04-06,MHV,2000,PRIN,05:46.1,NAVY,05:56.5,,,,,,,,,,,,,Final,Navy-Princeton Cup
+227,2019-04-06,MHV,2000,STJO,05:40.2,HOBR,05:42.9,,,,,,,,,,,,,Final,* Saint Joseph's University vs. Hobart Col
+228,2019-04-06,MHV,2000,STJO,05:40.5,GEOR,05:44.8,,,,,,,,,,,,,Final,* Saint Joseph's University v. Georgetown
+229,2019-04-06,MHV,2000,SYRA,05:54.4,WISC,06:04.6,,,,,,,,,,,,,Final,Syracuse/Wisconsin
+230,2019-04-06,MHV,2000,UNIO,06:31.0,VASS,06:38.0,FRMA,06:40.0,,,,,,,,,,,Final,Union/F&M
+231,2019-04-06,MHV,2000,WESL,06:10.0,WPI,06:16.3,UMAS,06:17.1,COLB,06:20.1,HAML,06:23.4,,,,,,,Final,Class of 2003 Cup
+232,2019-04-06,MHV,2000,WILL,05:59.8,TUFT,06:05.2,,,,,,,,,,,,,Final,Tufts/USCG
+233,2019-04-06,MHV,2000,WILL,06:06.3,CSTG,06:17.8,,,,,,,,,,,,,Final,Tufts/USCG
+234,2019-04-06,MLV,2000,COLU,05:49.5,NAVY,05:51.9,,,,,,,,,,,,,Final,WIT Cup
+235,2019-04-06,MLV,2000,CORN,05:38.2,PENN,05:40.2,HARV,05:42.0,,,,,,,,,,,Final,Matthews & Leonard Cups
+236,2019-04-06,MLV,2000,PRIN,05:58.3,DART,06:01.9,DELA,06:02.1,TEMP,06:17.1,,,,,,,,,Final,Dartmouth/Delaware
+237,2019-04-06,MLV,2000,YALE,05:38.3,GEOR,05:45.1,,,,,,,,,,,,,Final,Joy Cup
+238,2019-04-06,WHV,,FLTC,06:46.0,FLA,06:51.3,BARR,06:54.8,EMBR,07:03.4,NOVS,07:05.5,ROLL,07:18.0,FLST,07:25.9,,,Final,FIRA Championship
+239,2019-04-06,WHV,,MICH,06:30.5,UVA,06:37.8,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+240,2019-04-06,WHV,,ORST,06:47.0,UPOR,07:01.2,PACL,07:10.1,PUGS,07:18.3,LECL,07:53.8,,,,,,,Final,Covered Bridge Regatta
+241,2019-04-06,WHV,,SCLA,07:23.8,CHCO,07:55.4,WAST,08:00.0,,,,,,,,,,,Final,Covered Bridge Regatta
+242,2019-04-06,WHV,,ORST,06:37.8,UPOR,06:51.1,PACL,06:59.1,SCLA,07:28.4,,,,,,,,,Heat,Covered Bridge Regatta
+243,2019-04-06,WHV,,PUGS,07:01.4,LECL,07:30.3,WAST,07:38.5,CHCO,08:00.4,ORGN,08:12.0,,,,,,,Heat,Covered Bridge Regatta
+244,2019-04-06,WHV,2000,ALAB,06:30.2,LOUV,06:33.4,CFLA,06:35.4,KAST,06:37.8,KANS,06:38.9,SMU*,06:39.6,,,,,Final,Sunshine State Invitational||FIRA Championship
+245,2019-04-06,WHV,2000,BU,06:51.9,NORT,06:55.2,BC,07:04.0,,,,,,,,,,,Final,URI/BU/BC
+246,2019-04-06,WHV,2000,BU#,06:50.3,BATE,07:01.9,,,,,,,,,,,,,Final,* Charles River Basin #4
+247,2019-04-06,WHV,2000,DRAK,07:18.1,CREI,07:22.1,,,,,,,,,,,,,Final,Creighton/Drake
+248,2019-04-06,WHV,2000,FRMA,07:04.5,VASS,07:05.5,UNIO,07:11.5,,,,,,,,,,,Final,Union/Vassar
+249,2019-04-06,WHV,2000,HC,07:13.9,COLG,07:16.9,,,,,,,,,,,,,Final,Holy Cross/Colgate
+250,2019-04-06,WHV,2000,ITHA,07:02.2,RIT,07:12.8,ROCH,07:45.9,,,,,,,,,,,Final,Ithaca/Rochester/RIT
+251,2019-04-06,WHV,2000,MANH,07:17.6,IONA,07:33.2,,,,,,,,,,,,,Final,Fairfield/Iona||Sacred Heart/Iona/Manhattan
+252,2019-04-06,WHV,2000,MICH,06:26.5,SYRA,06:30.8,DUKE,06:32.2,,,,,,,,,,,Final,Big Ten/ACC Challenge
+253,2019-04-06,WHV,2000,NAVY,06:34.4,GEOR,06:42.4,LEHI,06:52.1,,,,,,,,,,,Final,Georgetown/Navy
+254,2019-04-06,WHV,2000,OHST,06:26.9,UVA,06:31.5,,,,,,,,,,,,,Final,Big Ten/ACC Challenge
+255,2019-04-06,WHV,2000,OHST,06:32.1,SYRA,06:36.5,DUKE,06:40.8,,,,,,,,,,,Final,Big Ten/ACC Challenge
+256,2019-04-06,WHV,2000,TRIN,06:56.5,TUFT,06:57.2,,,,,,,,,,,,,Final,Tufts/Middlebury/Trinity/USCG
+257,2019-04-06,WHV,2000,TRIN,07:18.0,CSTG,07:34.5,,,,,,,,,,,,,Final,Tufts/Middlebury/Trinity/USCG
+258,2019-04-06,WHV,2000,TUFT,07:08.8,CSTG,07:22.4,,,,,,,,,,,,,Final,Tufts/Middlebury/Trinity/USCG
+259,2019-04-06,WHV,2000,TULS,06:36.3,CLEM,06:38.7,UMIA,06:42.4,JAX,06:48.1,OLDD,06:52.5,STET,06:56.0,,,,,Final,Sunshine State Invitational||FIRA Championship
+260,2019-04-06,WHV,2000,WASC,07:34.4,CLRK,07:37.3,CONC,07:45.8,JOWA,07:51.9,ASSP,07:54.0,,,,,,,Final,Assumption/Bryant||Clark/Bowdoin/Conn College
+261,2019-04-06,WHV,2000,WILL,07:02.7,WELL,07:04.0,WLSM,07:05.8,,,,,,,,,,,Final,Williams/William Smith/Wellesley
+262,2019-04-06,WHV,2000,WPI,07:03.7,SMIT,07:09.0,WESL,07:11.8,HAML,07:15.7,COLB,07:28.8,,,,,,,Final,Worcester 1st Week April
+263,2019-04-06,WLV,2000,PRIN,06:50.9,RADC,07:01.0,,,,,,,,,,,,,Final,Class of 1999 Cup
+264,2019-04-07,MHV,,NORT,05:40.6,STAN,05:44.1,,,,,,,,,,,,,Final,* Pac-12 Challenge
+265,2019-04-07,MHV,,PURD,06:04.1,UCSD,06:06.4,SCLA,06:08.2,MIT,06:12.6,OC,06:12.9,UCDV,06:13.9,UCSB,06:14.3,UCLA,06:21.6,Final,San Diego Crew Classic
+266,2019-04-07,MHV,,UMAS,05:54.0,CONN,05:59.8,MALW,06:07.9,URI,06:10.9,UNH,06:17.8,,,,,,,Final,Patriot Cup
+267,2019-04-07,MHV,,USD,06:17.5,BC,06:21.6,ARMY,06:22.9,FORD,06:29.1,LOMY,06:35.1,SDSU,06:44.0,CALG,06:52.4,CSLB,07:28.3,Final,San Diego Crew Classic
+268,2019-04-07,MHV,,WASH,05:36.2,ORST,05:56.6,,,,,,,,,,,,,Final,* Pac-12 Challenge||Washington/Oregon State
+269,2019-04-07,MHV,,YALE,05:52.8,CAL,06:00.0,,,,,,,,,,,,,Final,San Diego Crew Classic
+270,2019-04-07,MHV,,PURD,06:04.1,SCLA,06:07.9,OC,06:14.3,UCLA,06:16.7,ARMY,06:17.8,FORD,06:26.7,SDSU,06:40.6,CSLB,07:19.8,Heat,San Diego Crew Classic
+271,2019-04-07,MHV,,UCSD,06:06.4,UCSB,06:09.7,UCDV,06:11.5,MIT,06:11.8,BC,06:12.9,USD,06:13.3,LOMY,06:25.9,CALG,06:46.0,Heat,San Diego Crew Classic
+272,2019-04-07,MHV,1750,UVM,05:56.7,STLA,06:08.3,SKID,06:18.1,,,,,,,,,,,Final,Ithaca/St Lawrence/Skidmore
+273,2019-04-07,MHV,1800,MIDD,06:39.0,BOWD,06:53.0,AMHR,07:26.0,,,,,,,,,,,Final,Big Three
+274,2019-04-07,MHV,1900,GV,06:33.0,VAND,06:42.4,CWES,06:52.8,,,,,,,,,,,Final,Lubbers Cup
+275,2019-04-07,MHV,1900,MICH,06:14.2,ND,06:17.6,OHST,06:29.3,,,,,,,,,,,Final,Lubbers Cup
+276,2019-04-07,MHV,1900,MICH,06:15.6,GV,06:33.7,CWES,07:00.7,,,,,,,,,,,Final,Lubbers Cup
+277,2019-04-07,MHV,1900,MICH,06:31.0,VAND,06:56.0,CWES,07:02.0,,,,,,,,,,,Final,Lubbers Cup
+278,2019-04-07,MHV,1900,ND,06:22.0,GV,06:25.0,OHST,06:42.0,,,,,,,,,,,Final,Lubbers Cup
+279,2019-04-07,MHV,1900,ND,06:22.9,OHST,06:41.3,VAND,07:06.4,,,,,,,,,,,Final,Lubbers Cup
+280,2019-04-07,MHV,2000,BUCK,05:34.6,LAFA,05:47.7,,,,,,,,,,,,,Final,* River Cup: Lehigh vs Lafayette w/guests
+281,2019-04-07,MHV,2000,LEHI,05:56.3,LAFA,06:03.7,,,,,,,,,,,,,Final,* River Cup: Lehigh vs Lafayette w/guests
+282,2019-04-07,MHV,2000,MERC,05:31.2,LEHI,05:43.9,,,,,,,,,,,,,Final,* River Cup: Lehigh vs Lafayette w/guests
+283,2019-04-07,MHV,2000,MERC,05:44.2,BUCK,05:52.1,,,,,,,,,,,,,Final,* River Cup: Lehigh vs Lafayette w/guests
+284,2019-04-07,MHV,2000,MRST,06:24.2,WPI,06:36.8,BATE,06:37.4,HAML,06:49.6,,,,,,,,,Final,WPI/Bates/Rochester
+285,2019-04-07,MHV,2000,PUGS,06:34.6,PACL,06:38.8,,,,,,,,,,,,,Final,Lamberth Cup
+286,2019-04-07,MLV,,FORD,07:01.2,UCSB,07:06.5,,,,,,,,,,,,,Final,San Diego Crew Classic
+287,2019-04-07,MLV,2000,HARV,05:42.9,COLU,05:44.5,GEOR,05:52.9,,,,,,,,,,,Final,Wales-Kirrane Cup
+288,2019-04-07,WHV,,CAL,06:33.4,WASH,06:35.1,TEX,06:35.9,STAN,06:40.0,UCLA,06:50.3,WAST,06:54.3,,,,,Final,San Diego Crew Classic
+289,2019-04-07,WHV,,DREX,06:48.6,LOMY,06:52.5,USD,06:55.9,SACS,06:56.2,SPAC,06:57.2,GEOR,06:58.8,,,,,Final,San Diego Crew Classic
+290,2019-04-07,WHV,,STAN#,06:52.1,GONZ,06:54.8,OKLA,06:56.6,TENN,06:59.2,SDSU,07:00.6,,,,,,,Final,San Diego Crew Classic
+291,2019-04-07,WHV,,UCSB,06:58.3,PURD,07:06.5,ARMY,07:12.0,CALG,07:16.3,UCDV,07:19.5,UCIR,07:24.9,,,,,Final,San Diego Crew Classic
+292,2019-04-07,WHV,,UNH,06:34.3,URI,06:54.3,MALW,07:03.4,,,,,,,,,,,Final,Patriot Cup
+293,2019-04-07,WHV,,WISC,07:00.0,UCSD,07:05.2,STMY,07:08.2,FORD,07:15.7,,,,,,,,,Final,San Diego Crew Classic
+294,2019-04-07,WHV,,CAL,06:19.3,TEX,06:21.6,WAST,06:35.1,STAN#,06:38.2,OKLA,06:47.1,,,,,,,Heat,San Diego Crew Classic
+295,2019-04-07,WHV,,GEOR,06:47.9,SACS,06:49.4,SPAC,06:50.6,STMY,06:53.1,FORD,07:04.1,,,,,,,Heat,San Diego Crew Classic
+296,2019-04-07,WHV,,UCSB,06:52.8,PURD,06:59.8,CALG,07:06.4,UCDV,07:13.1,ARMY,07:14.6,UCIR,07:21.5,,,,,Heat,San Diego Crew Classic
+297,2019-04-07,WHV,,USD,06:39.6,DREX,06:40.0,LOMY,06:41.6,WISC,06:41.9,UCSD,06:51.1,,,,,,,Heat,San Diego Crew Classic
+298,2019-04-07,WHV,,WASH,06:24.2,STAN,06:25.9,UCLA,06:35.6,TENN,06:45.4,GONZ,06:47.2,SDSU,06:57.0,,,,,Heat,San Diego Crew Classic
+299,2019-04-07,WHV,1750,UVM,06:33.5,STLA,06:39.1,SKID,06:57.1,,,,,,,,,,,Final,* Ithaca/St Lawrence/Skidmore
+300,2019-04-07,WHV,1800,AMHR,08:15.0,MIDD,08:25.0,BOWD,08:47.0,,,,,,,,,,,Final,Big Three
+301,2019-04-07,WHV,1900,CWES,07:55.2,GV,08:05.7,OHSC,08:45.5,,,,,,,,,,,Final,Lubbers Cup
+302,2019-04-07,WHV,1900,GV,07:46.1,CWES,07:54.9,OHSC,08:20.2,,,,,,,,,,,Final,Lubbers Cup
+303,2019-04-07,WHV,1900,GV,08:00.0,CWES,08:15.0,OHSC,08:51.0,,,,,,,,,,,Final,Lubbers Cup
+304,2019-04-07,WHV,1900,WLSM,06:17.6,ROCH,06:46.3,,,,,,,,,,,,,Final,William Smith/Rochester
+305,2019-04-07,WHV,2000,BATE,06:55.3,RADC#,06:56.1,,,,,,,,,,,,,Final,* Radcliffe Lightweights vs. Bates
+306,2019-04-07,WHV,2000,BC,06:59.5,CONN,07:00.3,HC,07:24.5,,,,,,,,,,,Final,Irving-Christensen Cup
+307,2019-04-07,WHV,2000,BRWN,06:14.2,DART,06:37.1,,,,,,,,,,,,,Final,"* Ivy Invite, PM race- Dartmouth and Brown"
+308,2019-04-07,WHV,2000,BRWN,06:22.8,YALE,06:25.7,,,,,,,,,,,,,Final,"* Ivy Invite, AM race- Yale and Brown"
+309,2019-04-07,WHV,2000,COLU,06:40.3,CORN,06:43.2,,,,,,,,,,,,,Final,"* Ivy Invite, AM race-Cornell and Columbia"
+310,2019-04-07,WHV,2000,DAYT,07:06.3,CANI,07:10.8,GMAS,07:16.1,LOYO,07:22.1,FAIR,07:24.9,ROMO,07:27.8,,,,,Final,Cooper Invitational
+311,2019-04-07,WHV,2000,EMIC,06:57.1,BUCK,06:58.8,MRST,07:00.4,VILN,07:08.0,DELA,07:10.4,DUQN,07:22.4,,,,,Final,Cooper Invitational
+312,2019-04-07,WHV,2000,ITHA,07:27.9,GENS,07:45.8,,,,,,,,,,,,,Final,Ithaca/Geneseo/St John Fisher
+313,2019-04-07,WHV,2000,LEHI,06:17.8,TJEF,06:25.9,,,,,,,,,,,,,Final,River Cup
+314,2019-04-07,WHV,2000,LEHI,06:33.3,LAFA,06:48.4,,,,,,,,,,,,,Final,River Cup
+315,2019-04-07,WHV,2000,MERC,06:21.9,LAFA,06:25.3,,,,,,,,,,,,,Final,River Cup
+316,2019-04-07,WHV,2000,PACL,06:51.5,PUGS,06:57.4,,,,,,,,,,,,,Final,Lamberth Cup
+317,2019-04-07,WHV,2000,PRIN,06:13.1,RADC,06:25.5,CORN,06:30.1,,,,,,,,,,,Final,Class of 1975 Cup
+318,2019-04-07,WHV,2000,PRIN,06:25.3,RADC,06:29.0,PENN,06:42.0,DART,06:45.3,,,,,,,,,Final,Class of 1984 Plaque
+319,2019-04-07,WHV,2000,SIMM,07:32.5,CLRK,07:36.4,ASSP,07:43.7,JOWA,07:57.2,,,,,,,,,Final,Assumption/Bryant
+320,2019-04-07,WHV,2000,SMIT,06:43.6,TUFT,07:01.4,,,,,,,,,,,,,Final,Smith/Tufts
+321,2019-04-07,WHV,2000,SMIT,06:55.4,AMHR,07:22.3,,,,,,,,,,,,,Final,Smith/Amherst
+322,2019-04-07,WHV,2000,TJEF,06:38.4,MERC,06:48.3,,,,,,,,,,,,,Final,River Cup
+323,2019-04-07,WHV,2000,TUFT,07:02.8,AMHR,07:08.3,,,,,,,,,,,,,Final,Tufts/Amherst
+324,2019-04-07,WHV,2000,WPI,07:04.6,HAML,07:11.8,MTHO,07:23.6,WASC,07:27.7,,,,,,,,,Final,Assumption/Bryant
+325,2019-04-07,WHV,2000,YALE,06:14.1,PENN,06:23.6,COLU,06:24.7,,,,,,,,,,,Final,Connell Cup
+326,2019-04-07,WHV,2000,BUCK,07:04.8,VILN,07:09.0,DAYT,07:13.2,LOYO,07:32.7,SACH,08:10.7,,,,,,,Heat,Cooper Invitational
+327,2019-04-07,WHV,2000,EMIC,07:02.0,DELA,07:06.9,CANI,07:12.5,ROMO,07:37.6,,,,,,,,,Heat,Cooper Invitational
+328,2019-04-07,WHV,2000,HAML,07:05.8,MTHO,07:14.4,CLRK,07:22.1,JOWA,07:33.1,,,,,,,,,Heat,Assumption/Bryant
+329,2019-04-07,WHV,2000,MRST,07:05.4,DUQN,07:10.9,GMAS,07:18.1,FAIR,07:26.1,,,,,,,,,Heat,Cooper Invitational
+330,2019-04-07,WHV,2000,WPI,07:02.5,WASC,07:14.1,SIMM,07:18.3,ASSP,07:36.0,,,,,,,,,Heat,Assumption/Bryant
+331,2019-04-12,MHV,,DREX,05:45.3,GW*,05:48.5,,,,,,,,,,,,,Final,GW Invitational
+332,2019-04-12,MHV,,FLTC,05:47.9,HC,05:56.2,,,,,,,,,,,,,Final,GW Invitational
+333,2019-04-12,MHV,,NAVY,05:40.1,GEOR,05:55.2,,,,,,,,,,,,,Final,GW Invitational
+334,2019-04-12,WHV,,DREX,06:36.7,DUQN,06:52.4,,,,,,,,,,,,,Final,GW Invitational
+335,2019-04-12,WHV,,GW,06:44.7,MIT,06:46.8,,,,,,,,,,,,,Final,GW Invitational
+336,2019-04-12,WHV,,URI,06:32.6,STJO,06:50.4,,,,,,,,,,,,,Final,GW Invitational
+337,2019-04-13,MHV,,CAL,05:33.2,HOBR,05:48.4,,,,,,,,,,,,,Final,Stanford Invitational
+338,2019-04-13,MHV,,CAL,05:36.0,WISC,05:50.6,,,,,,,,,,,,,Final,Stanford Invitational
+339,2019-04-13,MHV,,COLB,05:45.3,AMHR,06:13.8,,,,,,,,,,,,,Final,Colby/USCG/UMass-Lowell||UMass-Lowell/Amherst
+340,2019-04-13,MHV,,CSTG,05:50.2,COLB,05:51.0,,,,,,,,,,,,,Final,Colby/USCG/UMass-Lowell||UMass-Lowell/Amherst
+341,2019-04-13,MHV,,CSTG,05:52.6,MALW,06:01.4,,,,,,,,,,,,,Final,Colby/USCG/UMass-Lowell||UMass-Lowell/Amherst
+342,2019-04-13,MHV,,DREX,05:40.2,GEOR,05:47.3,,,,,,,,,,,,,Final,GW Invitational
+343,2019-04-13,MHV,,FAIR,07:04.0,IONA,07:20.0,ALBY,08:06.0,,,,,,,,,,,Final,SHU Invitational
+344,2019-04-13,MHV,,FLTC,05:35.4,GW,05:39.1,,,,,,,,,,,,,Final,GW Invitational
+345,2019-04-13,MHV,,FLTC,05:42.3,GEOR,05:48.5,,,,,,,,,,,,,Final,GW Invitational
+346,2019-04-13,MHV,,GV,06:16.3,UCHI,06:46.3,MIOH,06:50.4,MARQ,07:23.0,STLO,07:27.5,,,,,,,Final,Illinois Invitational
+347,2019-04-13,MHV,,GW,05:43.3,HC,05:49.3,,,,,,,,,,,,,Final,GW Invitational
+348,2019-04-13,MHV,,MALW,05:57.9,AMHR,06:18.6,,,,,,,,,,,,,Final,Colby/USCG/UMass-Lowell||UMass-Lowell/Amherst
+349,2019-04-13,MHV,,NAVY,05:33.6,DREX,05:39.5,,,,,,,,,,,,,Final,GW Invitational
+350,2019-04-13,MHV,,NAVY,05:36.3,HC,05:55.2,,,,,,,,,,,,,Final,GW Invitational
+351,2019-04-13,MHV,,ORST,06:04.2,SCLA,06:10.7,,,,,,,,,,,,,Final,Stanford Invitational
+352,2019-04-13,MHV,,STAN,05:39.7,SCLA,05:55.8,,,,,,,,,,,,,Final,Stanford Invitational
+353,2019-04-13,MHV,,STAN,05:48.1,HOBR,05:51.2,,,,,,,,,,,,,Final,Stanford Invitational
+354,2019-04-13,MHV,,WISC,05:41.4,ORST,05:43.8,,,,,,,,,,,,,Final,Stanford Invitational
+355,2019-04-13,MHV,1750,UVM,05:28.4,MIDD,05:35.7,,,,,,,,,,,,,Final,Vermont Cup
+356,2019-04-13,MHV,2000,BATE,05:59.1,UMAS,06:03.8,,,,,,,,,,,,,Final,Bates/Tufts/Wesleyan/UNH
+357,2019-04-13,MHV,2000,CAL,05:36.0,WISC,05:50.6,,,,,,,,,,,,,Final,California/Wisconsin||Stanford Invitational
+358,2019-04-13,MHV,2000,COLU,05:50.2,RUTG,06:05.1,,,,,,,,,,,,,Final,Collins Cup (NY-NJ)
+359,2019-04-13,MHV,2000,GONZ,06:19.4,WAST,06:20.6,,,,,,,,,,,,,Final,Fawley Cup
+360,2019-04-13,MHV,2000,LASL,06:13.6,LOYO,06:32.0,,,,,,,,,,,,,Final,La Salle/Loyola
+361,2019-04-13,MHV,2000,MINN,06:16.0,MSOE,06:57.7,,,,,,,,,,,,,Final,Minnesota/MSOE
+362,2019-04-13,MHV,2000,MIT,06:35.0,WILL,06:37.1,WPI,06:38.9,CONC,07:54.0,,,,,,,,,Final,Donahue Cup
+363,2019-04-13,MHV,2000,OC,06:06.0,UCIR,06:08.4,,,,,,,,,,,,,Final,Collins Cup (CA)
+364,2019-04-13,MHV,2000,OHST,06:22.4,MIST,06:51.6,,,,,,,,,,,,,Final,States Cup
+365,2019-04-13,MHV,2000,PRIN,05:34.5,PENN,05:38.9,COLU,05:41.7,,,,,,,,,,,Final,Childs Cup
+366,2019-04-13,MHV,2000,RIT,06:04.8,HAML,06:07.0,,,,,,,,,,,,,Final,Hamilton/RIT
+367,2019-04-13,MHV,2000,TUFT,05:54.5,BATE,05:58.8,,,,,,,,,,,,,Final,Bates/Tufts/Wesleyan/UNH
+368,2019-04-13,MHV,2000,UCLA,05:55.5,LOMY,05:59.4,,,,,,,,,,,,,Final,UCLA/LMU
+369,2019-04-13,MHV,2000,WESL,05:55.9,TUFT,05:59.9,,,,,,,,,,,,,Final,Bates/Tufts/Wesleyan/UNH
+370,2019-04-13,MHV,2000,WESL,05:59.6,UMAS,06:04.2,,,,,,,,,,,,,Final,Bates/Tufts/Wesleyan/UNH
+371,2019-04-13,MHV,2000,YALE,05:32.1,DART,05:43.3,,,,,,,,,,,,,Final,Olympic Axe
+372,2019-04-13,MHV,2000,CARN,06:33.9,TRIN,06:42.8,STMD,07:03.0,,,,,,,,,,,Heat,Knecht Cup
+373,2019-04-13,MHV,2000,COLG,05:53.2,TEMP#,05:58.2,MERC#,06:00.3,DELA,06:07.5,CONN,06:09.8,,,,,,,Heat,Knecht Cup
+374,2019-04-13,MHV,2000,DELA#,05:52.1,COLG,05:56.1,UVA,06:02.7,ARMY,06:03.7,ITHA,06:07.7,DELA,06:11.5,,,,,Heat,Knecht Cup
+375,2019-04-13,MHV,2000,DELA#,05:52.6,TRIN,05:56.1,UNC,05:58.6,UVA,05:59.0,,,,,,,,,Heat,Knecht Cup
+376,2019-04-13,MHV,2000,MERC#,05:52.9,MICH,05:53.6,TRIN,05:56.9,TEMP#,05:57.6,UNC,06:08.6,CONN,06:16.4,,,,,Heat,Knecht Cup
+377,2019-04-13,MHV,2000,MICH,05:58.5,ITHA,06:03.0,ARMY,06:03.6,MARI,06:10.7,URI,06:23.0,,,,,,,Heat,Knecht Cup
+378,2019-04-13,MHV,2000,MIT#,06:10.6,WASC,06:29.8,FRMA,06:36.9,USMM,06:58.8,,,,,,,,,Heat,Knecht Cup
+379,2019-04-13,MHV,2000,PITT,06:14.4,CONN,07:12.2,,,,,,,,,,,,,Heat,Knecht Cup
+380,2019-04-13,MHV,2000,VILN,06:18.1,GMAS,06:33.3,UNH,06:34.0,,,,,,,,,,,Heat,Knecht Cup
+381,2019-04-13,MLV,2000,COLU,05:44.6,PENN,05:48.1,YALE,05:51.4,,,,,,,,,,,Final,Dodge Cup
+382,2019-04-13,MLV,2000,CORN,05:45.9,PRIN,05:48.5,,,,,,,,,,,,,Final,Platt Cup
+383,2019-04-13,MLV,2000,HARV,05:28.4,DART,05:34.4,,,,,,,,,,,,,Final,Biglin Bowl
+384,2019-04-13,MLV,2000,NAVY,05:43.2,GEOR,05:44.1,,,,,,,,,,,,,Final,Forster Cup
+385,2019-04-13,WHV,,DRAK,07:14.6,GV,07:17.0,ILLI,07:50.5,MARQ,08:09.1,UCHI,08:41.6,,,,,,,Final,Illinois Invitational
+386,2019-04-13,WHV,,DREX,06:16.8,GW,06:26.5,,,,,,,,,,,,,Final,GW Invitational
+387,2019-04-13,WHV,,DREX,06:27.9,MIT,06:38.6,,,,,,,,,,,,,Final,GW Invitational
+388,2019-04-13,WHV,,DUQN,06:40.3,STJO,06:47.4,,,,,,,,,,,,,Final,GW Invitational
+389,2019-04-13,WHV,,MIOH,08:15.6,COST,08:32.9,,,,,,,,,,,,,Final,Illinois Invitational
+390,2019-04-13,WHV,,MIT,06:31.8,STJO,06:39.6,,,,,,,,,,,,,Final,GW Invitational
+391,2019-04-13,WHV,,URI,06:22.1,DUQN,06:48.4,,,,,,,,,,,,,Final,GW Invitational
+392,2019-04-13,WHV,,URI,06:26.0,GW,06:36.4,,,,,,,,,,,,,Final,GW Invitational
+393,2019-04-13,WHV,,DRAK,07:33.9,MARQ,07:58.5,UCHI,08:25.9,COST,08:48.4,,,,,,,,,Heat,Illinois Invitational
+394,2019-04-13,WHV,,GV,00:00.0,ILLI,00:24.1,MIOH,00:43.5,,,,,,,,,,,Heat,Illinois Invitational
+395,2019-04-13,WHV,,NPRK,08:23.5,STLO,08:31.0,MURS,08:58.2,,,,,,,,,,,Heat,Illinois Invitational
+396,2019-04-13,WHV,,WHEA,09:17.8,MSOE,09:29.5,,,,,,,,,,,,,Heat,Illinois Invitational
+397,2019-04-13,WHV,1750,UVM,06:13.7,MIDD,06:31.1,,,,,,,,,,,,,Final,Vermont Cup
+398,2019-04-13,WHV,2000,AMHR,06:34.3,MALW,06:53.2,,,,,,,,,,,,,Final,USCG/Colby/UMass-Lowell
+399,2019-04-13,WHV,2000,BATE,06:43.6,WESL,06:52.9,,,,,,,,,,,,,Final,Malden River Challenge
+400,2019-04-13,WHV,2000,BATE,06:46.5,TUFT,07:02.7,,,,,,,,,,,,,Final,Malden River Challenge
+401,2019-04-13,WHV,2000,BRWN,06:26.0,ND,06:31.0,SACS,06:45.7,,,,,,,,,,,Final,Lake Natoma Invitational
+402,2019-04-13,WHV,2000,CAL,06:19.2,UMIA,06:39.1,GONZ,06:40.6,,,,,,,,,,,Final,Lake Natoma Invitational
+403,2019-04-13,WHV,2000,CAL,06:23.2,ND,06:37.2,TULS,06:40.6,,,,,,,,,,,Final,Lake Natoma Invitational
+404,2019-04-13,WHV,2000,CANI,07:46.0,NAZA,09:08.1,,,,,,,,,,,,,Final,* Jim Schaab Regatta
+405,2019-04-13,WHV,2000,COLB,06:19.6,AMHR,06:31.8,,,,,,,,,,,,,Final,USCG/Colby/UMass-Lowell
+406,2019-04-13,WHV,2000,COLB,06:22.4,CSTG,06:27.7,,,,,,,,,,,,,Final,USCG/Colby/UMass-Lowell
+407,2019-04-13,WHV,2000,COLU,07:29.4,NORT,07:39.8,,,,,,,,,,,,,Final,Woodbury Cup
+408,2019-04-13,WHV,2000,CSTG,06:37.6,MALW,07:06.9,,,,,,,,,,,,,Final,USCG/Colby/UMass-Lowell
+409,2019-04-13,WHV,2000,DART,06:18.2,BU,06:25.8,,,,,,,,,,,,,Final,* Dartmouth vs Boston University
+410,2019-04-13,WHV,2000,FAIR,07:43.8,MANH,07:55.6,SACH,08:02.0,GENS,08:20.0,IONA,08:26.0,,,,,,,Final,SHU Invitational
+411,2019-04-13,WHV,2000,HAML,06:44.5,SMIT,06:44.9,,,,,,,,,,,,,Final,Hamilton/RIT/William Smith
+412,2019-04-13,WHV,2000,HAML,06:44.8,RIT,06:56.6,,,,,,,,,,,,,Final,Hamilton/RIT/William Smith
+413,2019-04-13,WHV,2000,INDI,07:14.3,WISC,07:15.1,,,,,,,,,,,,,Final,Big Ten Double Dual
+414,2019-04-13,WHV,2000,INDI,07:21.4,MINN,07:25.1,,,,,,,,,,,,,Final,Big Ten Double Dual
+415,2019-04-13,WHV,2000,IOWA,07:01.8,MINN,07:06.6,,,,,,,,,,,,,Final,Big Ten Double Dual
+416,2019-04-13,WHV,2000,IOWA,07:11.0,WISC,07:18.5,,,,,,,,,,,,,Final,Big Ten Double Dual
+417,2019-04-13,WHV,2000,LOYO,07:06.3,LASL,07:18.7,,,,,,,,,,,,,Final,La Salle/Loyola
+418,2019-04-13,WHV,2000,MICH,06:35.1,RUTG,06:35.4,,,,,,,,,,,,,Final,Big Ten Double Dual
+419,2019-04-13,WHV,2000,OHST,06:21.1,MICH,06:22.0,,,,,,,,,,,,,Final,Ohio State/Michigan||Big Ten Double Dual
+420,2019-04-13,WHV,2000,OHST,06:43.3,MIST,06:52.4,,,,,,,,,,,,,Final,Big Ten Double Dual
+421,2019-04-13,WHV,2000,RUTG,06:25.8,MIST,06:31.8,,,,,,,,,,,,,Final,Rutgers/Michigan State||Big Ten Double Dual
+422,2019-04-13,WHV,2000,SMIT,06:40.7,WLSM,06:46.6,,,,,,,,,,,,,Final,Hamilton/RIT/William Smith
+423,2019-04-13,WHV,2000,STAN,06:15.9,USC,06:20.3,TULS,06:34.4,,,,,,,,,,,Final,Lake Natoma Invitational
+424,2019-04-13,WHV,2000,STAN,06:20.6,GONZ,06:43.3,SACS,06:45.4,,,,,,,,,,,Final,Lake Natoma Invitational
+425,2019-04-13,WHV,2000,STMY,07:37.6,UPOR,07:39.0,SEAT,08:01.5,,,,,,,,,,,Final,UPortland/Seattle
+426,2019-04-13,WHV,2000,UCIR,07:29.0,OC,07:42.0,,,,,,,,,,,,,Final,Collins Cup (CA)
+427,2019-04-13,WHV,2000,UNIO,07:08.0,RPI,08:04.0,,,,,,,,,,,,,Final,Union/RPI
+428,2019-04-13,WHV,2000,WELL,06:54.8,TUFT,07:15.3,,,,,,,,,,,,,Final,Malden River Challenge
+429,2019-04-13,WHV,2000,WESL,06:41.4,WELL,06:44.1,,,,,,,,,,,,,Final,Malden River Challenge
+430,2019-04-13,WHV,2000,WLSM,06:51.6,RIT,07:01.2,,,,,,,,,,,,,Final,Hamilton/RIT/William Smith
+431,2019-04-13,WHV,2000,WPI,07:17.0,WILL,07:27.6,SIMM,07:47.5,CONC,07:59.0,ROCH,08:19.4,,,,,,,Final,Donahue Cup
+432,2019-04-13,WHV,2000,YALE,06:22.8,CORN,06:37.9,,,,,,,,,,,,,Final,Cayuga Cup
+433,2019-04-13,WHV,2000,CARN,07:24.1,BRYN,07:30.5,WASC,07:43.3,CABR,08:32.4,,,,,,,,,Heat,Knecht Cup
+434,2019-04-13,WHV,2000,FRMA,07:13.6,STMD,07:23.1,CATH,07:32.3,RSTC,08:22.4,,,,,,,,,Heat,Knecht Cup
+435,2019-04-13,WHV,2000,GEOR,06:38.2,UNC,06:40.9,GEOR#,06:46.6,BC,06:47.1,WASC,07:02.5,,,,,,,Heat,Knecht Cup
+436,2019-04-13,WHV,2000,MERC,07:04.3,UNH,07:11.7,ASSP,07:18.4,FRPI,08:08.3,,,,,,,,,Heat,Knecht Cup
+437,2019-04-13,WHV,2000,STAN#,06:27.2,BU#,06:35.6,UNC,06:39.6,GEOR#,06:43.6,CONN,06:44.0,UMAS,06:49.2,,,,,Heat,Knecht Cup
+438,2019-04-13,WHV,2000,STAN#,06:35.1,RADC#,06:46.3,ITHA,06:49.8,UMAS,06:53.5,TJEF,06:55.8,,,,,,,Heat,Knecht Cup
+439,2019-04-13,WHV,2000,TEMP,06:36.3,GEOR,06:39.4,RADC#,06:40.1,WISC#,06:42.9,BC,06:45.4,ITHA,06:51.0,,,,,Heat,Knecht Cup
+440,2019-04-13,WHV,2000,TEMP,06:37.5,BU#,06:41.5,CONN,06:43.8,WISC#,06:44.2,HC,07:07.3,,,,,,,Heat,Knecht Cup
+441,2019-04-13,WHV,2000,TJEF,06:59.8,ARMY,07:12.3,PITT,07:23.5,,,,,,,,,,,Heat,Knecht Cup
+442,2019-04-13,WLV,2000,BU,06:37.4,PRIN,06:37.4,WISC,06:55.8,MIT,07:09.7,,,,,,,,,Heat,Knecht Cup
+443,2019-04-13,WLV,2000,STAN,06:34.8,RADC,06:50.5,GEOR,06:52.2,,,,,,,,,,,Heat,Knecht Cup
+444,2019-04-14,MHV,,ORST,06:05.3,HOBR,06:08.6,,,,,,,,,,,,,Final,Stanford Invitational
+445,2019-04-14,MHV,,SCLA,06:18.7,UCDV,06:21.4,,,,,,,,,,,,,Final,Stanford Invitational
+446,2019-04-14,MHV,,STAN,05:56.6,WISC,05:58.3,,,,,,,,,,,,,Final,Stanford Invitational
+447,2019-04-14,MHV,2000,DELA#,05:53.9,COLG,05:54.8,MICH,06:00.2,MERC#,06:01.5,TRIN,06:08.2,UVA,06:17.7,,,,,Final,Knecht Cup
+448,2019-04-14,MHV,2000,HARV,05:45.3,BRWN,05:46.6,,,,,,,,,,,,,Final,Stein Cup
+449,2019-04-14,MHV,2000,MARI,06:28.5,URI,06:36.4,,,,,,,,,,,,,Final,Knecht Cup
+450,2019-04-14,MHV,2000,MIT#,06:14.7,WASC,06:43.4,CARN,06:45.2,FRMA,06:49.2,,,,,,,,,Final,Knecht Cup
+451,2019-04-14,MHV,2000,MRST,05:52.8,MIT,05:54.5,,,,,,,,,,,,,Final,* MIT vs. Marist
+452,2019-04-14,MHV,2000,NORT,05:49.4,BU,05:49.6,,,,,,,,,,,,,Final,Arlett Cup
+453,2019-04-14,MHV,2000,TEMP#,06:09.3,ITHA,06:10.9,ARMY,06:11.5,UNC,06:12.6,CONN,06:17.3,DELA,06:21.0,,,,,Final,Knecht Cup
+454,2019-04-14,MHV,2000,VILN,06:25.6,PITT,06:28.8,GMAS,06:50.1,,,,,,,,,,,Final,Knecht Cup
+455,2019-04-14,MHV,2000,WPI,05:58.7,BATE,05:58.9,RIT,06:11.4,,,,,,,,,,,Final,WPI/Bates/Rochester
+456,2019-04-14,WHV,2000,CAL,06:14.8,STAN,06:17.8,BRWN,06:30.9,,,,,,,,,,,Final,Lake Natoma Invitational
+457,2019-04-14,WHV,2000,FRMA,07:32.7,STMD,07:47.4,CARN,07:54.9,CATH,07:57.7,BRYN,08:02.5,,,,,,,Final,Knecht Cup
+458,2019-04-14,WHV,2000,ITHA,06:48.7,BC,06:48.9,CONN,06:49.1,GEOR#,06:51.8,WISC#,06:55.1,UMAS,06:58.8,,,,,Final,Knecht Cup
+459,2019-04-14,WHV,2000,KANS,06:33.3,EMIC,06:41.6,STJO,06:56.6,,,,,,,,,,,Final,Mason Invitational
+460,2019-04-14,WHV,2000,MTHO,06:59.7,SIMM,07:01.0,CLRK,07:06.2,ROCH,07:30.5,,,,,,,,,Final,Simmons/Mt Holyoke/Clark
+461,2019-04-14,WHV,2000,OLDD,06:45.3,DELA,06:49.3,GMAS,07:03.1,,,,,,,,,,,Final,Mason Invitational
+462,2019-04-14,WHV,2000,SACS,06:44.7,TULS,06:45.5,UMIA,06:49.1,,,,,,,,,,,Final,Lake Natoma Invitational
+463,2019-04-14,WHV,2000,STAN#,06:39.2,TEMP,06:44.1,BU#,06:47.3,GEOR,06:48.0,UNC,06:49.1,RADC#,06:55.8,,,,,Final,Knecht Cup
+464,2019-04-14,WHV,2000,TJEF,07:11.3,MERC,07:15.9,ARMY,07:19.8,UNH,07:20.8,PITT,07:35.0,ASSP,07:43.0,,,,,Final,Knecht Cup
+465,2019-04-14,WHV,2000,USC,06:27.8,ND,06:41.0,GONZ,06:52.1,,,,,,,,,,,Final,Lake Natoma Invitational
+466,2019-04-14,WHV,2000,VILN,06:43.8,WV,06:46.0,DUQN,07:02.9,,,,,,,,,,,Final,Mason Invitational
+467,2019-04-14,WHV,2000,WASC,07:13.1,TJEF,07:15.4,HC,07:18.9,,,,,,,,,,,Final,Knecht Cup
+468,2019-04-14,WHV,2000,WPI,06:37.4,BATE,06:37.7,WELL,06:43.8,TRIN,06:57.7,RIT,06:58.3,,,,,,,Final,WPI/Bates
+469,2019-04-14,WHV,2000,EMIC,06:36.3,VILN,06:41.1,DELA,06:46.0,,,,,,,,,,,Heat,Mason Invitational
+470,2019-04-14,WHV,2000,KANS,06:32.5,WV,06:39.4,OLDD,06:39.8,,,,,,,,,,,Heat,Mason Invitational
+471,2019-04-14,WHV,2000,STJO,06:48.9,DUQN,06:53.4,GMAS,06:59.4,,,,,,,,,,,Heat,Mason Invitational
+472,2019-04-14,WLV,2000,STAN,06:32.8,PRIN,06:37.2,BU,06:41.2,RADC,06:45.2,WISC,06:51.5,GEOR,06:55.5,,,,,Final,Knecht Cup
+473,2019-04-19,MHV,2000,LASL,06:35.7,IONA,06:52.5,,,,,,,,,,,,,Final,* La Salle vs Iona
+474,2019-04-19,MHV,2000,VT,06:27.5,CLEM,06:29.0,WASU,06:29.9,VAND,06:30.9,VCOM,06:38.8,EMOR,07:51.9,,,,,Final,SIRA Championship
+475,2019-04-19,WHV,2000,LASL,07:33.0,IONA,07:40.3,,,,,,,,,,,,,Final,Iona/La Salle
+476,2019-04-19,WHV,2000,SDSU,06:48.2,UCSD,06:56.5,,,,,,,,,,,,,Final,Wyatt Trophy
+477,2019-04-20,MHV,,MIT#,05:41.2,MIDD,05:49.9,URI,05:57.2,MALW,06:05.9,SKID,06:14.6,,,,,,,Final,Riverhawk Challenge
+478,2019-04-20,MHV,2000,BRWN,06:11.8,NORT,06:13.2,,,,,,,,,,,,,Final,Dreissigacker Cup
+479,2019-04-20,MHV,2000,BU,06:17.5,DART,06:20.6,,,,,,,,,,,,,Final,Bill Cup
+480,2019-04-20,MHV,2000,CWES,06:04.0,BUFF,06:23.0,GENS,06:27.0,,,,,,,,,,,Final,SUNY Racing
+481,2019-04-20,MHV,2000,DREX,05:58.9,STJO,06:01.0,UCSD,06:03.7,COLG,06:07.6,BUCK,06:09.5,,,,,,,Final,Kerr Cup
+482,2019-04-20,MHV,2000,EMBR,06:15.8,UNC,06:16.0,DELA,06:18.1,OHST,06:20.3,UVA,06:20.8,MARI,06:23.4,,,,,Final,SIRA Championship
+483,2019-04-20,MHV,2000,FLTC,05:55.2,PURD,06:00.0,ND,06:01.9,STET,06:04.0,GATC,06:06.4,JAX,06:10.4,,,,,Final,SIRA Championship
+484,2019-04-20,MHV,2000,HAML,06:21.9,STLA,06:28.9,UNIO,06:30.9,,,,,,,,,,,Final,Rochester/Hamilton/St Lawrence
+485,2019-04-20,MHV,2000,HAML,07:02.1,VASS,07:42.6,,,,,,,,,,,,,Final,Rochester/Hamilton/St Lawrence
+486,2019-04-20,MHV,2000,HARV,05:25.3,PRIN,05:32.8,,,,,,,,,,,,,Final,Compton Cup
+487,2019-04-20,MHV,2000,MRST,05:39.8,TEMP,05:42.6,GEOR,05:43.2,HC,05:51.5,,,,,,,,,Final,Healy Cup
+488,2019-04-20,MHV,2000,PUGS,06:31.1,LECL,06:32.3,PACL,06:39.0,,,,,,,,,,,Final,Cascade Cup
+489,2019-04-20,MHV,2000,STLA,07:07.2,ROCH,07:27.2,,,,,,,,,,,,,Final,Rochester/Hamilton/St Lawrence
+490,2019-04-20,MHV,2000,SYRA,05:29.5,NAVY,05:31.6,CORN,05:33.8,,,,,,,,,,,Final,Goes-Stagg Trophy
+491,2019-04-20,MHV,2000,TEMP#,06:16.8,ARMY,06:20.9,RUTG,06:27.2,LASL,06:35.4,LEHI,06:37.7,VILN,06:44.1,,,,,Final,Kerr Cup
+492,2019-04-20,MHV,2000,TRIN,06:32.6,ITHA,06:39.4,WPI,06:41.8,COLB,06:48.5,UNH,07:12.0,,,,,,,Final,Worcester 3rd Week April
+493,2019-04-20,MHV,2000,UGA,06:24.7,FLA,06:26.6,TEX,06:33.3,CFLA,06:33.9,TULN,06:35.1,COLO,06:46.4,,,,,Final,SIRA Championship
+494,2019-04-20,MHV,2000,UMAS,06:21.8,CONN,06:25.4,UVM,06:32.9,,,,,,,,,,,Final,Patriot Cup
+495,2019-04-20,MHV,2000,VASS,06:32.2,ROCH,06:34.0,,,,,,,,,,,,,Final,Rochester/Hamilton/St Lawrence
+496,2019-04-20,MHV,2000,WASC,07:07.4,FRMA,07:19.8,MAWA,07:20.4,STMD,07:22.3,JOWA,07:36.8,,,,,,,Final,Kerr Cup
+497,2019-04-20,MHV,2000,WASH,05:32.6,CAL,05:35.8,,,,,,,,,,,,,Final,Schoch Cup
+498,2019-04-20,MHV,2000,WESL,06:11.8,WILL,06:17.8,AMHR,07:12.1,,,,,,,,,,,Final,Little Three Regatta
+499,2019-04-20,MHV,2000,YALE,05:44.9,PENN,06:01.4,COLU,06:01.8,,,,,,,,,,,Final,Blackwell Cup
+500,2019-04-20,MHV,2000,DREX,05:59.0,BUCK,06:04.1,ARMY,06:10.0,VILN,06:27.1,WASC,06:37.8,MAWA,07:00.3,,,,,Heat,Kerr Cup
+501,2019-04-20,MHV,2000,FLTC,06:09.4,GATC,06:12.7,UVA,06:17.1,MARI,06:22.3,UGA,06:25.3,COLO,06:40.3,,,,,Heat,SIRA Championship
+502,2019-04-20,MHV,2000,PURD,06:06.5,JAX,06:10.2,UNC,06:16.4,OHST,06:21.8,FLA,06:24.5,TEX,06:26.5,,,,,Heat,SIRA Championship
+503,2019-04-20,MHV,2000,STET,06:09.8,ND,06:13.0,EMBR,06:17.4,DELA,06:17.7,TULN,06:35.2,CFLA,06:36.3,,,,,Heat,SIRA Championship
+504,2019-04-20,MHV,2000,STJO,06:03.1,COLG,06:08.7,TEMP#,06:09.9,LEHI,06:39.0,CARN,06:45.4,JOWA,07:09.3,,,,,Heat,Kerr Cup
+505,2019-04-20,MHV,2000,UCSD,06:07.0,RUTG,06:16.2,LASL,06:22.1,FRMA,06:49.6,STMD,07:06.1,,,,,,,Heat,Kerr Cup
+506,2019-04-20,MLV,2000,CORN,05:49.1,COLU,05:53.0,,,,,,,,,,,,,Final,Geiger Cup
+507,2019-04-20,MLV,2000,HARV,06:20.4,NAVY,06:21.6,DELA,06:27.6,,,,,,,,,,,Final,Haines Cup
+508,2019-04-20,MLV,2000,PRIN,06:01.1,GEOR,06:03.4,PENN,06:03.8,,,,,,,,,,,Final,Wood-Hammond Trophy
+509,2019-04-20,MLV,2000,YALE,05:52.8,DART,06:06.3,,,,,,,,,,,,,Final,Durand Cup
+510,2019-04-20,WHV,,SKID,06:39.7,MALW,07:01.8,,,,,,,,,,,,,Final,Riverhawk Challenge
+511,2019-04-20,WHV,2000,BRWN,07:09.4,RADC,07:15.1,,,,,,,,,,,,,Final,Varsity Eight Trophy
+512,2019-04-20,WHV,2000,CANI,07:18.5,LOYO,07:37.1,GMAS,07:49.3,,,,,,,,,,,Final,Kerr Cup
+513,2019-04-20,WHV,2000,CWES,06:59.0,GENS,07:05.0,BUFF,07:37.0,NAZA,08:09.0,,,,,,,,,Final,SUNY Racing
+514,2019-04-20,WHV,2000,DREX,06:37.9,TEMP,06:45.9,TJEF,06:54.2,VILN,06:55.2,COLG,07:10.8,LASL,07:40.3,,,,,Final,Kerr Cup
+515,2019-04-20,WHV,2000,FLA,07:03.7,UGA,07:07.7,CLEC,07:09.5,WLMY,07:11.2,FLST,07:20.8,COLO,07:23.1,,,,,Final,SIRA Championship
+516,2019-04-20,WHV,2000,FRMA,07:32.1,BRYN,07:41.7,STMD,07:55.1,JOWA,07:59.3,CARN,08:18.1,CABR,09:04.7,,,,,Final,Kerr Cup
+517,2019-04-20,WHV,2000,GW,07:03.6,CONN,07:08.9,JAX,07:10.4,LEHI,07:13.8,OLDD,07:19.9,FORD,07:22.8,,,,,Final,Cherry Hill Invitational
+518,2019-04-20,WHV,2000,HAML,07:04.1,UNIO,07:27.5,,,,,,,,,,,,,Final,Hamilton/Union
+519,2019-04-20,WHV,2000,HAML,07:34.2,STLA,07:44.6,VASS,08:01.9,,,,,,,,,,,Final,St Lawrence/Hamilton
+520,2019-04-20,WHV,2000,INDI,07:14.5,ND,07:20.8,MIST,07:21.5,,,,,,,,,,,Final,Dale England Cup
+521,2019-04-20,WHV,2000,KAST,06:56.0,FLTC,06:58.4,DAYT,06:58.9,PURD,07:08.8,BARR,07:13.4,STET,07:18.1,,,,,Final,SIRA Championship
+522,2019-04-20,WHV,2000,MTHO,07:58.5,CSTG,08:00.0,ASSP,08:52.8,,,,,,,,,,,Final,Coast Guard/Mount Holyoke
+523,2019-04-20,WHV,2000,NOVS,07:15.9,EMBR,07:16.5,,,,,,,,,,,,,Final,SIRA Championship
+524,2019-04-20,WHV,2000,PACL,07:01.4,PUGS,07:04.6,LECL,07:32.9,MILL,07:41.8,PACI,08:03.7,,,,,,,Final,NCRC Championship
+525,2019-04-20,WHV,2000,PRIN,06:06.0,YALE,06:08.8,TEX,06:09.0,,,,,,,,,,,Final,Eisenberg Cup
+526,2019-04-20,WHV,2000,STJO,07:18.0,DELA,07:21.1,HC,07:25.7,,,,,,,,,,,Final,Cherry Hill Invitational
+527,2019-04-20,WHV,2000,STLA,07:06.0,VASS,07:10.1,,,,,,,,,,,,,Final,* Canal Series: St. Lawrence vs Vassar
+528,2019-04-20,WHV,2000,UNH,07:46.7,CLRK,07:51.7,TRIN,07:56.4,CONC,08:12.7,,,,,,,,,Final,Worcester 3rd Week April
+529,2019-04-20,WHV,2000,URI,06:51.3,COLU,06:56.0,GEOR,07:01.2,BUCK,07:04.6,MRST,07:07.2,MIT,07:17.2,,,,,Final,Cherry Hill Invitational
+530,2019-04-20,WHV,2000,VT,07:37.7,OHSC,07:47.0,,,,,,,,,,,,,Final,SIRA Championship
+531,2019-04-20,WHV,2000,WASH,06:18.8,OHST,06:22.9,MICH,06:28.7,,,,,,,,,,,Final,Las Vegas Women's Challenge
+532,2019-04-20,WHV,2000,WESL,06:59.2,WILL,07:02.9,AMHR,07:30.2,,,,,,,,,,,Final,Little Three Regatta
+533,2019-04-20,WHV,2000,WPI,07:16.2,ITHA,07:22.2,WLSM,07:30.8,COLB,07:49.7,,,,,,,,,Final,Worcester 3rd Week April
+534,2019-04-20,WHV,2000,CARN,07:40.6,BRYN,07:45.3,CABR,08:14.3,,,,,,,,,,,Heat,Kerr Cup
+535,2019-04-20,WHV,2000,COLU,06:53.4,MRST,07:03.2,CONN,07:14.0,LEHI,07:18.9,DELA,07:38.6,,,,,,,Heat,Cherry Hill Invitational
+536,2019-04-20,WHV,2000,DAYT,07:12.1,PURD,07:15.4,STET,07:19.4,NOVS,07:25.0,,,,,,,,,Heat,SIRA Championship
+537,2019-04-20,WHV,2000,DREX,06:54.2,TJEF,07:02.8,VILN,07:07.7,CANI,07:10.3,LOYO,07:38.3,,,,,,,Heat,Kerr Cup
+538,2019-04-20,WHV,2000,FLA,07:23.7,CLEC,07:34.3,FLST,07:42.4,OHSC,08:02.0,,,,,,,,,Heat,SIRA Championship
+539,2019-04-20,WHV,2000,FLTC,07:07.0,KAST,07:13.4,BARR,07:18.2,EMBR,07:24.8,,,,,,,,,Heat,SIRA Championship
+540,2019-04-20,WHV,2000,FRMA,07:19.1,STMD,07:24.3,JOWA,07:30.1,MAWA,07:46.8,,,,,,,,,Heat,Kerr Cup
+541,2019-04-20,WHV,2000,GEOR,06:57.8,BUCK,07:00.8,JAX,07:15.2,OLDD,07:18.9,HC,07:43.5,,,,,,,Heat,Cherry Hill Invitational
+542,2019-04-20,WHV,2000,ITHA,07:38.6,COLB,07:43.4,UNH,07:45.8,CLRK,08:11.8,,,,,,,,,Heat,Worcester 3rd Week April
+543,2019-04-20,WHV,2000,TEMP,06:56.4,COLG,07:14.0,LASL,07:30.3,GMAS,07:38.6,,,,,,,,,Heat,Kerr Cup
+544,2019-04-20,WHV,2000,URI,06:54.9,MIT,07:06.4,GW,07:09.4,FORD,07:20.1,STJO,07:25.8,,,,,,,Heat,Cherry Hill Invitational
+545,2019-04-20,WHV,2000,WLMY,07:26.0,COLO,07:31.7,UGA,07:36.9,VT,07:48.3,,,,,,,,,Heat,SIRA Championship
+546,2019-04-20,WHV,2000,WPI,07:46.4,WLSM,07:59.5,CONC,08:28.0,TRIN,08:30.7,,,,,,,,,Heat,Worcester 3rd Week April
+547,2019-04-20,WLV,2000,PRIN,07:25.8,GEOR,07:29.0,,,,,,,,,,,,,Final,Class of 2006 Cup
+548,2019-04-21,MHV,2000,CAL,05:47.4,ORST,06:00.9,,,,,,,,,,,,,Final,Oregon State/California
+549,2019-04-21,MHV,2000,TUFT,06:13.0,WPI,06:21.7,SKID,06:55.8,,,,,,,,,,,Final,Baker Cup
+550,2019-04-21,MLV,2000,COLU,05:46.1,DART,05:54.1,,,,,,,,,,,,,Final,Subin Cup
+551,2019-04-21,WHV,2000,WPI,07:00.0,WLSM,07:07.3,TUFT,07:18.5,SKID,07:22.7,CLRK,07:23.8,,,,,,,Final,Tufts/WPI/William Smith
+552,2019-04-26,WHV,2000,FLTC,06:35.0,BARR,06:46.3,EMBR,06:49.4,NOVS,06:57.3,TAMP,07:19.8,ROLL,07:23.7,,,,,Final,Sunshine State Championship
+553,2019-04-26,WHV,2000,GW,06:35.6,WV,06:45.9,,,,,,,,,,,,,Final,* George Washington vs. West Virginia
+554,2019-04-26,WHV,2000,SMU,06:55.7,ALAB,07:02.2,,,,,,,,,,,,,Final,Alabama/SMU
+555,2019-04-26,WHV,2000,IOWA,06:25.6,UVA,06:30.1,ORST,06:33.0,OKLA,06:39.1,,,,,,,,,Heat,Longhorn Invitational
+556,2019-04-26,WHV,2000,TEX,06:22.5,INDI,06:29.5,USC,06:31.1,ND,06:38.9,,,,,,,,,Heat,Longhorn Invitational
+557,2019-04-27,MHV,,BUCK,06:11.3,MARI,06:19.1,GMAS,06:28.5,LAFA,06:41.2,WASC,06:47.6,JOWA,07:09.1,,,,,Final,Mid-Atlantic Rowing Conference
+558,2019-04-27,MHV,,FRMA,06:42.8,ADRI,06:43.9,CATH,07:07.0,STMD,07:15.1,,,,,,,,,Final,Mid-Atlantic Rowing Conference
+559,2019-04-27,MHV,,BUCK,06:42.1,JOWA,07:16.3,FRMA,07:21.0,LOYO,07:24.8,MAWA,07:39.2,,,,,,,Heat,Mid-Atlantic Rowing Conference
+560,2019-04-27,MHV,,GMAS,07:12.2,WASC,07:21.0,UMD,07:43.7,CATH,07:51.1,RSTC,08:07.7,SCRA,08:26.8,,,,,Heat,Mid-Atlantic Rowing Conference
+561,2019-04-27,MHV,,GONZ,06:01.6,UCIR,06:05.5,OC,06:07.6,USD,06:08.8,WAST,06:09.1,,,,,,,Heat,WIRA Championship
+562,2019-04-27,MHV,,MARI,06:52.6,LAFA,06:59.5,ADRI,07:15.4,STMD,07:33.1,TCNJ,08:00.2,PSU,08:33.0,,,,,Heat,Mid-Atlantic Rowing Conference
+563,2019-04-27,MHV,,UCSD,05:59.5,SCLA,06:00.7,UCSB,06:05.7,UCDV,06:08.6,WWAS,06:13.2,SDSU,06:39.3,,,,,Heat,WIRA Championship
+564,2019-04-27,MHV,1800,MIDD,05:23.4,UNIO,05:30.2,,,,,,,,,,,,,Final,"* Middlebury College vs. Union College, SC"
+565,2019-04-27,MHV,2000,BC,06:16.3,WPI,06:18.3,UMAS,06:34.6,CSTG,06:36.5,,,,,,,,,Final,McCarthy-McGee Cup
+566,2019-04-27,MHV,2000,BRWN,06:09.3,DART,06:14.9,,,,,,,,,,,,,Final,Atalanta Cup
+567,2019-04-27,MHV,2000,BU,05:50.0,SYRA,05:51.1,COLU,05:54.3,,,,,,,,,,,Final,Conlan Cup & Lusins Tophy
+568,2019-04-27,MHV,2000,CAL,05:41.4,STAN,05:57.1,,,,,,,,,,,,,Final,The Big Row
+569,2019-04-27,MHV,2000,COLG,05:49.8,HAML,05:59.9,ITHA,06:09.0,,,,,,,,,,,Final,Ithaca/Marist/Colgate/Hamilton
+570,2019-04-27,MHV,2000,HARV,06:11.0,NAVY,06:25.3,PENN,06:26.6,,,,,,,,,,,Final,Adams Cup
+571,2019-04-27,MHV,2000,HC,06:15.7,BATE,06:19.3,TUFT,06:21.8,WILL,06:23.8,,,,,,,,,Final,Bates/Holy Cross/Williams
+572,2019-04-27,MHV,2000,RUTG,05:47.1,DELA,05:52.7,,,,,,,,,,,,,Final,Rutgers/Delaware
+573,2019-04-27,MHV,2000,UVM,06:23.8,COLB,06:31.3,UNH,06:50.8,,,,,,,,,,,Final,UNH/Colby/UVM
+574,2019-04-27,MHV,2000,YALE,05:10.0,PRIN,05:14.7,CORN,05:20.7,,,,,,,,,,,Final,Carnegie Cup
+575,2019-04-27,MLV,2000,CORN,05:53.6,DART,06:06.9,,,,,,,,,,,,,Final,Baggaley Bowl
+576,2019-04-27,MLV,2000,GEOR,06:19.9,TEMP,06:30.2,,,,,,,,,,,,,Final,Georgetown/Temple
+577,2019-04-27,MLV,2000,PENN,05:59.7,NAVY,06:00.0,,,,,,,,,,,,,Final,Callow Cup
+578,2019-04-27,MLV,2000,PRIN,05:58.0,YALE,05:58.2,HARV,06:11.1,,,,,,,,,,,Final,Goldthwait & Vogel Cups
+579,2019-04-27,WHV,,BRYN,07:43.3,CATH,07:52.1,NPRK,08:13.3,OHWS,09:50.5,,,,,,,,,Final,Mid-Atlantic Rowing Conference
+580,2019-04-27,WHV,,PSU,08:18.4,SUSQ,08:35.2,MAWA,08:45.1,,,,,,,,,,,Final,Mid-Atlantic Rowing Conference
+581,2019-04-27,WHV,,WASC,07:46.4,FRMA,07:58.4,JOWA,08:11.8,RSTC,08:17.7,STMD,08:18.3,ADRI,08:43.7,,,,,Final,Mid-Atlantic Rowing Conference
+582,2019-04-27,WHV,,COK,06:49.2,UCSB,06:52.3,PACL,06:55.2,MILL,07:30.3,CHCO,07:39.5,,,,,,,Heat,WIRA Championship
+583,2019-04-27,WHV,,FRMA,08:06.0,RSTC,08:12.4,STMD,08:15.8,BRYN,08:28.8,CABR,09:21.2,,,,,,,Heat,Mid-Atlantic Rowing Conference
+584,2019-04-27,WHV,,SDSU,06:42.4,LOMY,06:44.4,UPOR,06:51.9,STMY,07:01.1,,,,,,,,,Heat,WIRA Championship
+585,2019-04-27,WHV,,SPAC,06:49.8,WWAS,06:50.8,UCDV,07:14.2,LECL,07:26.4,ORGN,07:55.7,CSLB,08:02.6,,,,,Heat,WIRA Championship
+586,2019-04-27,WHV,,STAN#,06:36.2,USD,06:40.1,SACS,06:53.4,SCLA,07:15.7,,,,,,,,,Heat,WIRA Championship
+587,2019-04-27,WHV,,UCSD,06:48.7,HUMS,06:56.8,PUGS,07:03.5,WSUC,07:48.0,PACI,08:09.3,CAL#,08:37.6,,,,,Heat,WIRA Championship
+588,2019-04-27,WHV,,WASC,07:57.8,JOWA,08:10.0,ADRI,08:36.4,NPRK,08:38.1,CATH,08:46.9,,,,,,,Heat,Mid-Atlantic Rowing Conference
+589,2019-04-27,WHV,1800,MIDD,06:10.9,UNIO,06:19.3,,,,,,,,,,,,,Final,"* * Middlebury College vs. Union College, SC"
+590,2019-04-27,WHV,2000,BATE,07:02.9,MIT,07:13.5,HC,07:37.6,,,,,,,,,,,Final,URI/MIT/Holy Cross
+591,2019-04-27,WHV,2000,CAL,06:40.7,WASH,06:42.9,,,,,,,,,,,,,Final,Simpson Cup
+592,2019-04-27,WHV,2000,CLEM,06:34.8,CFLA,06:36.3,GEOR,06:39.3,,,,,,,,,,,Final,* Lake Wheeler Invitational
+593,2019-04-27,WHV,2000,CONC,07:35.7,ASSP,07:40.4,FRPI,08:28.8,,,,,,,,,,,Final,"* Assumption, Conn College, Franklin Pierc"
+594,2019-04-27,WHV,2000,FAIR,06:26.9,IONA,06:40.1,,,,,,,,,,,,,Final,Fairfield/Iona
+595,2019-04-27,WHV,2000,ITHA,06:44.1,HAML,06:53.5,,,,,,,,,,,,,Final,Cayuga: Ithaca/Colgate/Hamilton/Marist
+596,2019-04-27,WHV,2000,MRST,06:42.8,COLG,06:56.7,,,,,,,,,,,,,Final,Cayuga: Ithaca/Colgate/Hamilton/Marist
+597,2019-04-27,WHV,2000,NAVY,06:26.6,MIST,06:29.2,DUKE,06:31.5,,,,,,,,,,,Final,* Lake Wheeler Invitational
+598,2019-04-27,WHV,2000,PRIN,06:20.1,WISC,06:23.3,RUTG,06:26.7,COLU,06:42.4,,,,,,,,,Final,Columbia/Rutgers||Hewitt & Dauphiny Cup||Princeton/Rutgers
+599,2019-04-27,WHV,2000,TEMP,06:35.1,UMIA,06:35.3,UNC,06:40.2,,,,,,,,,,,Final,* Lake Wheeler Invitational
+600,2019-04-27,WHV,2000,TEX,06:24.3,IOWA,06:29.2,UVA,06:34.4,INDI,06:39.4,,,,,,,,,Final,Longhorn Invitational
+601,2019-04-27,WHV,2000,USC,06:28.4,ORST,06:28.6,ND,06:36.7,OKLA,06:44.5,,,,,,,,,Final,Longhorn Invitational
+602,2019-04-27,WHV,2000,UVM,07:13.8,COLB,07:22.2,UNH,07:27.1,,,,,,,,,,,Final,UNH/Colby/UVM
+603,2019-04-27,WHV,2000,WPI,06:52.0,WELL,06:55.6,SMIT,07:01.8,MTHO,07:14.1,CLRK,07:22.4,SIMM,07:25.9,,,,,Final,NEWMAC Championship
+604,2019-04-27,WHV,2000,YALE,07:14.9,RADC,07:21.7,NORT,07:43.0,,,,,,,,,,,Final,Case Cup
+605,2019-04-27,WHV,2000,DUKE,06:42.0,CLEM,06:45.3,UMIA,06:52.1,,,,,,,,,,,Heat,* Lake Wheeler Invitational
+606,2019-04-27,WHV,2000,MIST,06:36.5,GEOR,06:42.6,TEMP,06:45.1,,,,,,,,,,,Heat,* Lake Wheeler Invitational
+607,2019-04-27,WHV,2000,NAVY,06:31.8,CFLA,06:35.1,UNC,06:46.2,,,,,,,,,,,Heat,* Lake Wheeler Invitational
+608,2019-04-28,MHV,,CINC,05:59.8,UCHI,06:09.0,NORW,06:09.8,MIOH,06:30.4,DEPA,06:43.5,MARQ,06:51.6,,,,,Final,MACRA Championship
+609,2019-04-28,MHV,,MICH,05:30.0,MERC,05:33.2,ND,05:35.1,MINN,05:40.2,GV,05:43.8,CWES,06:11.9,,,,,Final,MACRA Championship
+610,2019-04-28,MHV,,SKID,06:10.9,RPI,06:17.5,ALBY,06:34.4,,,,,,,,,,,Final,Albany/RPI
+611,2019-04-28,MHV,,UCDV,06:01.4,WAST,06:02.4,WWAS,06:07.7,USD,06:08.5,SDSU,06:34.7,,,,,,,Final,WIRA Championship
+612,2019-04-28,MHV,,UCSD,05:53.8,SCLA,05:54.8,GONZ,05:55.1,UCSB,05:59.9,UCIR,06:04.7,OC,06:06.5,,,,,Final,WIRA Championship
+613,2019-04-28,MHV,,MERC,05:34.0,GV,05:41.7,UCHI,05:51.7,NORW,06:11.3,,,,,,,,,Heat,MACRA Championship
+614,2019-04-28,MHV,,MICH,05:29.2,CWES,05:36.4,CINC,05:42.4,MIOH,06:23.2,STTH,06:40.1,,,,,,,Heat,MACRA Championship
+615,2019-04-28,MHV,,ND,00:00.0,MINN,00:10.6,DEPA,01:00.0,MARQ,01:25.1,,,,,,,,,Heat,MACRA Championship
+616,2019-04-28,MHV,1950,BATE,06:38.6,COLB,06:51.2,BOWD,07:08.5,,,,,,,,,,,Final,President's Cup (ME)
+617,2019-04-28,MHV,2000,STJO,06:05.0,HC,06:08.5,WESL,06:11.7,TRIN,06:15.6,CONC,07:07.9,,,,,,,Final,Wesleyan/Trinity
+618,2019-04-28,MHV,2000,SYRA,05:51.4,DART,05:52.2,,,,,,,,,,,,,Final,Packard Cup
+619,2019-04-28,MLV,,UCSB,06:35.8,SONO,06:38.3,SACS,06:38.5,,,,,,,,,,,Final,WIRA Championship
+620,2019-04-28,WHV,,CHCO,07:35.9,CSLB,07:48.3,ORGN,07:57.6,PACI,08:04.4,CAL#,09:03.3,,,,,,,Final,WIRA Championship
+621,2019-04-28,WHV,,CINC,06:54.3,MARQ,07:20.8,MIOH,07:41.0,,,,,,,,,,,Final,MACRA Championship
+622,2019-04-28,WHV,,COK,06:46.0,UCSD,06:47.7,UCSB,06:48.5,WWAS,06:49.4,SPAC,06:50.3,HUMS,06:52.9,,,,,Final,WIRA Championship
+623,2019-04-28,WHV,,EMIC,06:17.7,DRAK,06:31.6,CWES,06:32.0,MERC,06:32.2,GV,06:41.1,DEPA,06:50.8,,,,,Final,MACRA Championship
+624,2019-04-28,WHV,,PACL,06:55.7,PUGS,07:01.9,UCDV,07:21.5,LECL,07:26.4,MILL,07:34.9,WSUC,07:41.9,,,,,Final,WIRA Championship
+625,2019-04-28,WHV,,SKID,06:19.4,RPI,06:39.1,,,,,,,,,,,,,Final,Albany/RPI
+626,2019-04-28,WHV,,STAN#,06:32.6,USD,06:38.0,SDSU,06:40.9,SACS,06:43.6,LOMY,06:49.1,UPOR,06:51.8,,,,,Final,WIRA Championship
+627,2019-04-28,WHV,,STMY,06:55.7,SCLA,07:05.6,,,,,,,,,,,,,Final,WIRA Championship
+628,2019-04-28,WHV,,EMIC,06:18.1,GV,06:38.1,DEPA,06:58.0,CINC,06:59.8,MIOH,07:42.4,,,,,,,Heat,MACRA Championship
+629,2019-04-28,WHV,,MERC,00:00.0,CWES,00:02.8,DRAK,00:04.8,,,,,,,,,,,Heat,MACRA Championship
+630,2019-04-28,WHV,1950,BATE,07:32.1,COLB,08:07.5,,,,,,,,,,,,,Final,President's Cup (ME)
+631,2019-04-28,WHV,2000,CANI,06:54.4,ROMO,07:06.8,,,,,,,,,,,,,Final,Black Rock Invitational
+632,2019-04-28,WHV,2000,SYRA,06:40.4,DART,06:57.0,CORN,07:01.8,,,,,,,,,,,Final,Parents' Cup
+633,2019-04-28,WHV,2000,WAST,06:35.8,GONZ,06:38.3,,,,,,,,,,,,,Final,Fawley Cup
+634,2019-05-03,MHV,2000,HOBR,06:22.8,ITHA,06:37.2,RIT,06:37.2,STLA,06:53.7,UNIO,06:56.9,ROCH,07:09.8,SKID,07:10.9,,,Final,Liberty League Championship
+635,2019-05-03,WHV,2000,ITHA,07:15.1,WLSM,07:20.6,STLA,07:26.6,RIT,07:35.8,SKID,07:39.5,UNIO,07:58.7,,,,,Final,Liberty League Championship
+636,2019-05-03,WHV,2000,TEX,05:54.5,OHST,05:59.8,,,,,,,,,,,,,Final,"* Ohio State, Texas, Indiana"
+637,2019-05-04,MHV,,WASH,05:42.1,BU,05:49.4,,,,,,,,,,,,,Final,Windermere Cup
+638,2019-05-04,MHV,2000,ARMY,05:59.9,HAML,06:01.0,ITHA,06:03.1,VASS,06:31.8,SKID,06:36.5,BUFF,06:37.0,,,,,Final,New York State Championship
+639,2019-05-04,MHV,2000,BC,06:15.6,CONN,06:16.8,WPI,06:18.4,UVM,06:20.3,CSTG,06:21.1,COLB,06:23.8,,,,,Final,New England Championship
+640,2019-05-04,MHV,2000,COLU#,05:53.9,DELA#,06:00.8,DREX,06:02.0,,,,,,,,,,,Final,Columbia Lwt/Drexel
+641,2019-05-04,MHV,2000,CORN,05:30.8,GEOR,05:38.3,PENN,05:42.9,,,,,,,,,,,Final,Madeira & Wray Cups
+642,2019-05-04,MHV,2000,HARV,05:33.2,NORT,05:36.4,,,,,,,,,,,,,Final,Smith Cup
+643,2019-05-04,MHV,2000,MIDD,06:28.9,UNH,06:33.8,URI,06:34.7,CONC,07:09.6,,,,,,,,,Final,New England Championship
+644,2019-05-04,MHV,2000,PRIN,05:45.4,BRWN,05:48.8,,,,,,,,,,,,,Final,Content Cup
+645,2019-05-04,MHV,2000,RPI,06:58.8,BING,07:39.0,ALBY,07:44.0,,,,,,,,,,,Final,New York State Championship
+646,2019-05-04,MHV,2000,TEMP,05:46.6,RUTG,05:52.6,LEHI,05:53.8,DELA,05:58.1,,,,,,,,,Final,Temple/Lehigh||Rutgers/Delaware||Lehigh/Delaware/Loyola
+647,2019-05-04,MHV,2000,WESL,06:08.3,BATE,06:08.7,WILL,06:10.8,TRIN,06:12.1,TUFT,06:12.3,UMAS,06:19.7,,,,,Final,New England Championship
+648,2019-05-04,MHV,2000,WISC,05:52.1,HC,05:54.2,,,,,,,,,,,,,Final,* Wisconsin v Holy Cross
+649,2019-05-04,MHV,2000,ARMY,06:08.3,HAML,06:21.7,SKID,06:39.3,RPI,07:05.9,ALBY,08:01.5,,,,,,,Heat,New York State Championship
+650,2019-05-04,MHV,2000,BATE,05:57.7,TRIN,05:59.6,CONN,06:03.4,UVM,06:07.9,UNH,06:22.0,CONC,06:51.4,,,,,Heat,New England Championship
+651,2019-05-04,MHV,2000,ITHA,06:16.7,VASS,06:36.8,BUFF,06:48.2,BING,07:49.6,,,,,,,,,Heat,New York State Championship
+652,2019-05-04,MHV,2000,TUFT,05:57.5,UMAS,05:57.6,BC,05:58.7,CSTG,06:07.4,URI,06:24.8,,,,,,,Heat,New England Championship
+653,2019-05-04,MHV,2000,WESL,05:58.9,WILL,06:01.3,WPI,06:03.6,COLB,06:09.6,MIDD,06:14.7,,,,,,,Heat,New England Championship
+654,2019-05-04,WHV,,SPAC,06:50.2,WWAS,06:53.1,,,,,,,,,,,,,Final,Windermere Cup
+655,2019-05-04,WHV,,WASH,06:14.4,UCLA,06:24.5,,,,,,,,,,,,,Final,Windermere Cup
+656,2019-05-04,WHV,1970,KAST,06:23.6,KANS,06:24.1,,,,,,,,,,,,,Final,Sunflower Showdown
+657,2019-05-04,WHV,2000,BATE,06:47.5,WPI,06:54.9,WELL,06:57.2,WESL,06:59.7,SMIT,07:01.4,WILL,07:09.1,,,,,Final,New England Championship
+658,2019-05-04,WHV,2000,BRWN,06:11.8,CORN,06:27.9,,,,,,,,,,,,,Final,Dunn Bowl
+659,2019-05-04,WHV,2000,CAL,06:09.3,STAN,06:14.3,,,,,,,,,,,,,Final,The Big Row
+660,2019-05-04,WHV,2000,LEHI,07:01.4,DELA,07:09.4,,,,,,,,,,,,,Final,Lehigh/Delaware
+661,2019-05-04,WHV,2000,MRST,06:42.1,ITHA,06:44.0,HAML,06:47.7,COLG,06:59.1,CANI,07:01.1,ARMY,07:23.8,,,,,Final,New York State Championship
+662,2019-05-04,WHV,2000,PRIN,06:30.6,SYRA,06:36.4,,,,,,,,,,,,,Final,Princeton/Syracuse
+663,2019-05-04,WHV,2000,TUFT,07:12.5,CSTG,07:14.2,COLB,07:14.6,TRIN,07:19.4,UVM,07:19.4,MTHO,07:24.0,,,,,Final,New England Championship
+664,2019-05-04,WHV,2000,UNH,07:19.0,SIMM,07:21.3,CLRK,07:23.5,AMHR,07:26.4,ASSP,07:41.5,CONC,08:12.8,,,,,Final,New England Championship
+665,2019-05-04,WHV,2000,VASS,07:06.2,SKID,07:11.4,MANH,07:18.4,UNIO,07:20.7,BING,07:31.1,GENS,07:32.1,,,,,Final,New York State Championship
+666,2019-05-04,WHV,2000,BATE,06:36.4,SMIT,06:44.7,UVM,06:53.5,CSTG,06:56.6,UNH,07:03.0,CONC,07:43.2,,,,,Heat,New England Championship
+667,2019-05-04,WHV,2000,HAML,06:47.4,CANI,06:52.0,VASS,07:02.4,MANH,07:13.3,NAZA,08:21.2,,,,,,,Heat,New York State Championship
+668,2019-05-04,WHV,2000,ITHA,06:51.2,COLG,06:55.6,SKID,07:16.2,GENS,07:34.1,,,,,,,,,Heat,New York State Championship
+669,2019-05-04,WHV,2000,MRST,06:56.6,ARMY,07:14.3,UNIO,07:16.9,BING,07:44.3,,,,,,,,,Heat,New York State Championship
+670,2019-05-04,WHV,2000,WELL,06:43.7,WESL,06:50.4,COLB,06:53.9,MTHO,06:56.4,SIMM,07:02.4,AMHR,07:07.3,,,,,Heat,New England Championship
+671,2019-05-04,WHV,2000,WPI,06:44.9,WILL,06:48.8,TUFT,06:53.4,TRIN,06:58.7,CLRK,07:02.6,ASSP,07:18.5,JOWA,07:24.9,,,Heat,New England Championship
+672,2019-05-05,MHV,2000,NAVY,06:06.4,COLU,06:09.2,GW,06:09.2,HOBR,06:13.5,,,,,,,,,Final,Stevenson Cup
+673,2019-05-05,MHV,2000,NORT,05:39.1,WISC,05:48.6,,,,,,,,,,,,,Final,Congram Cup
+674,2019-05-05,WHV,,DART,06:40.8,BU,06:43.0,TENN,06:45.8,TEMP,06:48.5,CONN,06:50.1,BC,06:53.5,,,,,Final,Women's Eastern Sprints
+675,2019-05-05,WHV,,MIT,07:02.0,HC,07:29.8,,,,,,,,,,,,,Final,Women's Eastern Sprints
+676,2019-05-05,WHV,,RUTG,06:31.4,RADC,06:35.6,COLU,06:44.0,URI,06:45.7,DREX,06:47.0,NORT,06:54.2,,,,,Final,Women's Eastern Sprints
+677,2019-05-05,WHV,,DREX,06:36.4,URI,06:38.8,TEMP,06:40.2,DART,06:43.0,,,,,,,,,Heat,Women's Eastern Sprints
+678,2019-05-05,WHV,,RADC,06:36.9,COLU,06:41.2,TENN,06:43.8,BC,06:49.7,HC,07:18.1,,,,,,,Heat,Women's Eastern Sprints
+679,2019-05-05,WHV,,RUTG,06:33.9,NORT,06:44.1,BU,06:46.2,CONN,06:49.1,MIT,06:54.1,,,,,,,Heat,Women's Eastern Sprints
+680,2019-05-05,WHV,1500,MANH,07:04.0,IONA,07:17.9,SACH,07:23.1,,,,,,,,,,,Final,MAAC Championship
+681,2019-05-05,WHV,2000,GEOR,06:43.4,GW,06:51.7,GMAS,07:11.7,,,,,,,,,,,Final,1998 Cup & Georges Cup
+682,2019-05-05,WHV,2000,MICH,06:22.8,MIST,06:36.5,LOUV,06:44.4,,,,,,,,,,,Final,Michigan/Louisville||Michigan State/Michigan
+683,2019-05-05,WLV,2000,PRIN,06:38.2,BU,06:39.6,RADC,06:46.6,WISC,06:48.9,GEOR,06:52.9,,,,,,,Final,Women's Eastern Sprints
+684,2019-05-06,WHV,2000,TULS,07:05.9,COK,07:12.1,,,,,,,,,,,,,Final,* UCO/Tulsa Duel
+685,2019-05-11,MHV,2000,BUCK,05:41.8,ARMY,05:43.4,MINN,05:46.2,UMAS,05:47.9,CSTG,05:50.7,OHST,05:53.5,,,,,Final,Dad Vail Regatta
+686,2019-05-11,MHV,2000,COLG,05:30.6,DREX,05:30.9,PURD,05:35.5,STJO,05:35.8,TEMP,05:39.0,MIT,05:40.4,,,,,Final,Dad Vail Regatta
+687,2019-05-11,MHV,2000,DELA,05:35.0,MRST,05:36.6,MICH,05:37.5,STET,05:38.0,JAX,05:40.0,GATC,05:40.4,,,,,Final,Dad Vail Regatta
+688,2019-05-11,MHV,2000,UNC,05:40.6,LEHI,05:44.0,GV,05:44.2,LASL,05:47.6,MARI,05:51.9,MIDD,05:57.8,,,,,Final,Dad Vail Regatta
+689,2019-05-11,MHV,2000,VILN,05:56.8,FAIR,05:59.9,CWES,06:02.3,VASS,06:14.5,,,,,,,,,Final,Dad Vail Regatta
+690,2019-05-11,MHV,2000,COLG,06:20.6,STJO,06:21.5,STET,06:22.7,GATC,06:24.2,ARMY,06:36.0,CSTG,06:36.7,,,,,Heat,Dad Vail Regatta
+691,2019-05-11,MHV,2000,DREX,06:18.3,TEMP,06:19.9,MICH,06:20.0,MRST,06:23.7,OHST,06:43.9,MINN,06:49.6,,,,,Heat,Dad Vail Regatta
+692,2019-05-11,MHV,2000,MIT,06:23.0,PURD,06:24.1,DELA,06:25.1,JAX,06:32.4,BUCK,06:33.0,UMAS,07:01.9,,,,,Heat,Dad Vail Regatta
+693,2019-05-11,MLV,2000,MERC,05:36.8,TEMP,05:39.6,DELA,05:41.6,,,,,,,,,,,Final,Dad Vail Regatta
+694,2019-05-11,WHV,1150,COLG,03:58.6,CANI,04:00.5,,,,,,,,,,,,,Final,"* Lake Moraine Dual: Canisius College, Col"
+695,2019-05-11,WHV,1150,COLG,04:01.8,CANI,04:02.8,,,,,,,,,,,,,Final,"* Lake Moraine Dual: Canisius College, Col"
+696,2019-05-11,WHV,1150,COLG,04:09.5,CANI,04:14.7,,,,,,,,,,,,,Final,"* Lake Moraine Dual: Canisius College, Col"
+697,2019-05-11,WHV,1150,COLG,04:10.9,CANI,04:13.9,,,,,,,,,,,,,Final,"* Lake Moraine Dual: Canisius College, Col"
+698,2019-05-11,WHV,2000,BU,06:13.7,DREX,06:17.1,BUCK,06:18.6,GEOR,06:18.6,TEMP,06:24.3,,,,,,,Final,Dad Vail Regatta
+699,2019-05-11,WHV,2000,COK,06:52.6,WWAS,06:55.7,,,,,,,,,,,,,Final,Western Washington/Stanford Lwt
+700,2019-05-11,WHV,2000,CSTG,06:32.8,UVM,06:33.9,STJO,06:35.9,ARMY,06:38.2,WASC,06:38.7,VASS,06:50.5,,,,,Final,Dad Vail Regatta
+701,2019-05-11,WHV,2000,CWES,06:45.0,MANH,06:51.9,GENS,06:58.6,MARQ,07:06.8,,,,,,,,,Final,Dad Vail Regatta
+702,2019-05-11,WHV,2000,FLTC,06:24.5,UCSD,06:26.6,HUMS,06:29.9,TJEF,06:31.0,MERC,06:44.4,NOVS,06:52.2,,,,,Final,Dad Vail Regatta
+703,2019-05-11,WHV,2000,STAN#,06:28.9,COK,06:57.2,,,,,,,,,,,,,Final,Western Washington/Stanford Lwt
+704,2019-05-11,WHV,2000,STAN#,06:32.3,WWAS,07:03.5,,,,,,,,,,,,,Final,Western Washington/Stanford Lwt
+705,2019-05-11,WHV,2000,UMAS,06:29.2,FORD,06:30.1,PURD,06:32.4,MIT,06:36.5,DUQN,06:38.6,UCSB,06:48.8,,,,,Final,Dad Vail Regatta
+706,2019-05-11,WHV,2000,USC,07:00.9,UCLA,07:13.5,,,,,,,,,,,,,Final,USC/UCLA
+707,2019-05-11,WHV,2000,VASS,06:43.8,WASC,06:49.6,RSTC,06:51.5,BRYN,07:00.5,CSTG,07:03.2,NPRK,07:31.6,,,,,Final,Dad Vail Regatta
+708,2019-05-11,WHV,2000,BU,07:15.3,FORD,07:26.8,PURD,07:40.0,CSTG,07:45.8,WASC,07:49.8,,,,,,,Heat,Dad Vail Regatta
+709,2019-05-11,WHV,2000,DREX,07:15.8,BUCK,07:16.5,DUQN,07:30.3,MIT,07:35.3,UVM,07:46.0,STJO,07:54.8,,,,,Heat,Dad Vail Regatta
+710,2019-05-11,WHV,2000,FLTC,07:24.8,TJEF,07:36.6,MERC,07:53.7,ASSP,08:08.2,,,,,,,,,Heat,Dad Vail Regatta
+711,2019-05-11,WHV,2000,GEOR,07:14.7,TEMP,07:15.0,UMAS,07:24.6,UCSB,07:37.3,ARMY,07:54.6,VASS,07:55.0,,,,,Heat,Dad Vail Regatta
+712,2019-05-11,WHV,2000,NOVS,07:27.2,ASSP,07:32.6,,,,,,,,,,,,,Heat,Dad Vail Regatta
+713,2019-05-11,WHV,2000,UCSD,07:25.0,HUMS,07:25.4,NOVS,07:45.7,,,,,,,,,,,Heat,Dad Vail Regatta
+714,2019-05-11,WLV,2000,GEOR,06:28.8,MIT,06:34.4,,,,,,,,,,,,,Final,Dad Vail Regatta
+715,2019-05-12,MHV,2000,HOBR,06:00.0,MICH,06:01.3,MRST,06:02.1,BATE,06:04.3,BC,06:11.8,TRIN,06:17.3,,,,,Final,ECAC Regatta
+716,2019-05-12,MHV,2000,RIT,06:18.8,COLB,06:23.1,UNH,06:34.6,ROCH,06:39.4,SKID,06:43.2,,,,,,,Final,ECAC Regatta
+717,2019-05-12,MHV,2000,WESL,06:06.7,TUFT,06:09.6,WILL,06:12.0,HAML,06:13.6,WPI,06:14.7,ITHA,06:15.3,,,,,Final,ECAC Regatta
+718,2019-05-12,MHV,2000,BATE,06:03.8,MRST,06:04.0,TUFT,06:10.2,ITHA,06:17.7,COLB,06:20.3,SKID,06:48.2,,,,,Heat,ECAC Regatta
+719,2019-05-12,MHV,2000,HOBR,06:01.0,TRIN,06:04.4,WILL,06:05.0,WPI,06:13.1,RIT,06:14.7,,,,,,,Heat,ECAC Regatta
+720,2019-05-12,MHV,2000,MICH,06:06.2,BC,06:07.7,WESL,06:09.2,HAML,06:18.7,UNH,06:34.3,ROCH,06:48.3,,,,,Heat,ECAC Regatta
+721,2019-05-12,WHV,2000,BATE,06:46.5,WELL,06:53.4,WPI,06:54.9,WESL,06:56.8,ITHA,06:58.4,HAML,07:01.1,,,,,Final,ECAC Regatta
+722,2019-05-12,WHV,2000,SKID,07:25.6,CONC,07:38.0,,,,,,,,,,,,,Final,ECAC Regatta
+723,2019-05-12,WHV,2000,SMIT,06:58.4,WILL,07:02.6,WLSM,07:06.1,TUFT,07:06.2,COLB,07:11.7,TRIN,07:14.8,,,,,Final,ECAC Regatta
+724,2019-05-12,WHV,2000,UNH,07:10.9,MTHO,07:13.6,STLA,07:15.3,CLRK,07:18.6,RIT,07:19.1,SIMM,07:19.3,,,,,Final,ECAC Regatta
+725,2019-05-12,WHV,2000,BATE,06:46.2,HAML,06:52.3,SMIT,06:52.8,TRIN,07:05.7,STLA,07:09.8,CLRK,07:15.7,SKID,07:18.9,,,Heat,ECAC Regatta
+726,2019-05-12,WHV,2000,WELL,06:51.4,ITHA,06:54.9,TUFT,06:57.2,WLSM,06:59.1,UNH,07:06.9,MTHO,07:34.4,,,,,Heat,ECAC Regatta
+727,2019-05-12,WHV,2000,WPI,06:50.6,WESL,06:51.3,WILL,06:52.3,COLB,07:04.8,RIT,07:08.3,SIMM,07:13.8,CONC,07:26.6,,,Heat,ECAC Regatta
+728,2019-05-13,MHV,2000,CARN,06:28.3,COLO,06:28.7,,,,,,,,,,,,,Final,ACRA Henley
+729,2019-05-13,MHV,2000,COLO,06:42.3,WASU,06:43.6,CARN,06:47.2,,,,,,,,,,,Final,ACRA Henley
+730,2019-05-13,MHV,2000,UGA,06:22.0,WASU,06:27.8,,,,,,,,,,,,,Final,ACRA Henley
+731,2019-05-13,MHV,2000,UGA,06:27.2,CARN,06:35.3,,,,,,,,,,,,,Final,ACRA Henley
+732,2019-05-13,MHV,2000,UGA,06:32.2,VAND,06:38.2,,,,,,,,,,,,,Final,ACRA Henley
+733,2019-05-13,MHV,2000,VAND,06:26.2,WASU,06:32.3,COLO,06:36.4,,,,,,,,,,,Final,ACRA Henley
+734,2019-05-13,WHV,2000,COLO,07:24.5,CARN,07:33.4,,,,,,,,,,,,,Final,ACRA Henley
+735,2019-05-13,WHV,2000,UGA,07:10.5,COLO,07:28.8,,,,,,,,,,,,,Final,ACRA Henley
+736,2019-05-13,WHV,2000,UGA,07:46.8,CARN,07:56.1,,,,,,,,,,,,,Final,ACRA Henley
